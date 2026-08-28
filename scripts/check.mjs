@@ -5,11 +5,25 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { bundle, LOCALES } from './build.mjs';
+import { bundle, LOCALES, BASE, isComplete } from './build.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const BASE = 'en';
 const problems = [];
+
+// A locale still being translated is allowed to be a subset of the base: the
+// build fills the gaps and the reader sees the base language. What it may never
+// have is a key the base lacks, because that is a typo or a renamed key that
+// nothing reads any more.
+function checkRawKeys(locale) {
+  for (const ns of ['shared', 'app', 'web']) {
+    const own = JSON.parse(fs.readFileSync(path.join(ROOT, `locales/${ns}/${locale}.json`), 'utf8'));
+    const base = JSON.parse(fs.readFileSync(path.join(ROOT, `locales/${ns}/${BASE}.json`), 'utf8'));
+    const baseKeys = new Set(flat(base).map(([k]) => k));
+    for (const [k] of flat(own)) {
+      if (!baseKeys.has(k)) problems.push(`locales/${ns}/${locale}.json: key not in ${BASE}: ${k}`);
+    }
+  }
+}
 
 const flat = (o, p = '') =>
   Object.entries(o).flatMap(([k, v]) =>
@@ -31,6 +45,9 @@ for (const target of ['app', 'web']) {
     for (const k of other.keys()) {
       if (!base.has(k)) problems.push(`${target}/${BASE}: missing key ${k}`);
     }
+    // Placeholders are checked below against the bundle, which for an
+    // in-progress locale is mostly base text; that still catches a bad
+    // translation the moment it is written.
     for (const [k, v] of base) {
       if (!other.has(k)) continue;
       const a = placeholders(v).join(',');
@@ -44,6 +61,24 @@ for (const target of ['app', 'web']) {
     const onDisk = fs.readFileSync(path.join(ROOT, `dist/${target}.${locale}.json`), 'utf8');
     if (built !== onDisk) problems.push(`dist/${target}.${locale}.json is stale — run npm run build`);
   }
+}
+
+for (const locale of LOCALES) {
+  if (locale !== BASE && !isComplete(locale)) checkRawKeys(locale);
+}
+
+// Report how far each in-progress locale has got, so nobody has to guess.
+for (const locale of LOCALES) {
+  if (locale === BASE || isComplete(locale)) continue;
+  let done = 0, total = 0;
+  for (const target of ['app', 'web']) {
+    const b = new Map(flat(bundle(target, BASE)));
+    const t = new Map(flat(bundle(target, locale)));
+    // Compare by value: array-valued entries would never be equal by identity.
+    for (const [k, v] of b) { total++; if (JSON.stringify(t.get(k)) !== JSON.stringify(v)) done++; }
+  }
+  console.log(`${locale}: ${done}/${total} strings translated ` +
+              `(${Math.round((done / total) * 100)}%), the rest falls back to ${BASE}`);
 }
 
 if (problems.length) {

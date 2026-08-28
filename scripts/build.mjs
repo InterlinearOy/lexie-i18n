@@ -9,10 +9,13 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-export const LOCALES = ['en', 'fi'];
 const TARGETS = ['app', 'web'];
 
 const read = (p) => JSON.parse(fs.readFileSync(path.join(ROOT, p), 'utf8'));
+const meta = JSON.parse(fs.readFileSync(path.join(ROOT, 'meta/locales.json'), 'utf8'));
+export const BASE = meta.base;
+export const LOCALES = Object.keys(meta.locales);
+export const isComplete = (locale) => meta.locales[locale].status === 'complete';
 const get = (o, p) => p.split('.').reduce((a, k) => (a == null ? a : a[k]), o);
 const set = (o, p, v) => {
   const ks = p.split('.');
@@ -22,18 +25,35 @@ const set = (o, p, v) => {
   cur[last] = v;
 };
 
-export function bundle(target, locale) {
-  const aliases = read('meta/aliases.json');
-  const shared = read(`locales/shared/${locale}.json`);
-  const out = read(`locales/${target}/${locale}.json`);
-
-  for (const key of Object.keys(aliases)) {
-    if (key === '_comment') continue;
-    const value = get(shared, key);
-    if (value === undefined) throw new Error(`shared key missing: ${key} (${locale})`);
-    for (const p of [aliases[key][target]].flat()) set(out, p, value);
+// Deep-merge `over` on top of `base`, so a locale that has translated only part
+// of the catalog still returns a complete bundle. Anything not yet translated
+// shows the base language rather than a raw key path.
+function mergeOver(base, over) {
+  const out = Array.isArray(base) ? [...base] : { ...base };
+  for (const [k, v] of Object.entries(over ?? {})) {
+    out[k] = v && typeof v === 'object' && !Array.isArray(v) && base?.[k]
+      ? mergeOver(base[k], v)
+      : v;
   }
   return out;
+}
+
+export function bundle(target, locale) {
+  const aliases = read('meta/aliases.json');
+  const build = (loc) => {
+    const shared = read(`locales/shared/${loc}.json`);
+    const out = read(`locales/${target}/${loc}.json`);
+    for (const key of Object.keys(aliases)) {
+      if (key === '_comment') continue;
+      const value = get(shared, key);
+      if (value === undefined) continue;
+      for (const p of [aliases[key][target]].flat()) set(out, p, value);
+    }
+    return out;
+  };
+
+  const own = build(locale);
+  return isComplete(locale) ? own : mergeOver(build(BASE), own);
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {

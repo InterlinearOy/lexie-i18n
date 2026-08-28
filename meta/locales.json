@@ -1,0 +1,17 @@
+{
+  "_comment": [
+    "Which languages exist and how far along each one is.",
+    "",
+    "`complete` locales must carry every key. `inProgress` locales may carry a",
+    "subset: whatever is not translated yet falls back to the base language at",
+    "runtime, so a half-translated language shows English rather than raw key",
+    "paths. An inProgress locale may never carry a key the base lacks, because",
+    "that means a typo or a key that was renamed."
+  ],
+  "base": "en",
+  "locales": {
+    "en": { "name": "English",  "nativeName": "English", "status": "complete" },
+    "fi": { "name": "Finnish",  "nativeName": "Suomi",   "status": "complete" },
+    "de": { "name": "German",   "nativeName": "Deutsch", "status": "inProgress" }
+  }
+}

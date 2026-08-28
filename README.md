@@ -42,12 +42,24 @@ npm run check   # key parity, placeholder parity, and whether dist/ is stale
 `npm run check` must pass before you commit. It is what stops a locale quietly
 losing a key or a translation dropping a `{count}`.
 
-## Adding a language
+## Languages
 
-1. Copy each `locales/*/en.json` to the new locale code and translate it.
-2. `npm run build && npm run check`
-3. Add the locale to `LOCALES` in `scripts/build.mjs`.
+`meta/locales.json` lists them and says how far each has got.
+
+A `complete` locale carries every key. An `inProgress` locale carries only what
+has been translated so far; the build fills the rest from the base language, so
+a half-translated language shows English rather than raw key paths. It may never
+carry a key the base lacks, because that is a typo or a key nothing reads any
+more. `npm run check` enforces both rules and prints the progress of every
+in-progress locale.
+
+To add one:
+
+1. Add it to `meta/locales.json` with `"status": "inProgress"`.
+2. Create empty `locales/*/<code>.json` files and translate into them.
+3. `npm run build && npm run check`
 4. Widen the language union in each product and add the locale to its picker.
+5. Flip it to `complete` once `npm run check` reports 100%.
 
 ## Consuming it
 
