@@ -1,1 +1,21 @@
-{}
+{
+  "quiz": {
+    "correct": "Richtig.",
+    "notQuite": "Guter Versuch",
+    "goodTry": "Guter Versuch",
+    "stillLearning": "Ich übe noch",
+    "mastered": "Sitzt",
+    "submit": "Antworten",
+    "continue": "Weiter",
+    "tryAgain": "Noch einmal",
+    "selectAnswer": "Wähle eine Antwort, bevor du prüfst"
+  },
+  "flashcards": {
+    "iKnowThis": "Kann ich",
+    "stillLearning": "Ich übe",
+    "noCards": "Keine Karteikarten vorhanden"
+  },
+  "common": {
+    "close": "Schließen"
+  }
+}

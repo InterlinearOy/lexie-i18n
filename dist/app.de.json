@@ -1,9 +1,9 @@
 {
   "common": {
     "language": "English",
-    "cancel": "Cancel",
-    "back": "Back",
-    "save": "Save",
+    "cancel": "Abbrechen",
+    "back": "Zurück",
+    "save": "Speichern",
     "ok": "OK",
     "share": "Share",
     "shareWithFriends": "Share",
@@ -24,14 +24,14 @@
     "tapToWatchOnYouTube": "Tap to watch on YouTube",
     "videoUnavailable": "Video unavailable",
     "questionWillBeSkipped": "This question will be skipped.",
-    "close": "Close"
+    "close": "Schließen"
   },
   "welcome": {
-    "title": "Welcome to Lexie",
-    "description": "Lexie helps you study better. Take a picture. Lexie takes care of the rest.",
+    "title": "Willkommen bei Lexie",
+    "description": "Lexie hilft dir, besser zu lernen. Mach ein Foto. Den Rest übernimmt Lexie.",
     "subtitle": "Take a photo of what you want to learn and let Lexie take care of the rest.",
-    "startButton": "Get started",
-    "loginButton": "I already have an account",
+    "startButton": "Los geht's",
+    "loginButton": "Ich habe schon ein Konto",
     "features": {
       "flashcards": "Flip through *flashcards*",
       "quiz": "*Quiz* yourself",
@@ -96,13 +96,13 @@
     "ageNote": "By creating an account you confirm you are at least 13 years old."
   },
   "home": {
-    "greeting": "Hi 👋🏻",
-    "questionPrompt": "What do you want to\nlearn today?",
-    "startLesson": "Start a lesson with Lexie",
-    "toReview": "{count} to review",
-    "lessons": "Lessons",
+    "greeting": "Hallo 👋🏻",
+    "questionPrompt": "Was möchtest du heute\nlernen?",
+    "startLesson": "Loslegen",
+    "toReview": "{count} zu wiederholen",
+    "lessons": "Lernsets",
     "earnMoreSets": "Earn more sets",
-    "inviteFriends": "Invite friends"
+    "inviteFriends": "Freunde einladen"
   },
   "spacedRepAnnouncement": {
     "headerLabel": "New → Spaced repetition",
@@ -504,30 +504,30 @@
     "initializingCamera": "Initializing camera..."
   },
   "quiz": {
-    "title": "Practice",
-    "progressOf": "{current} of {total}",
+    "title": "Üben",
+    "progressOf": "{current}/{total}",
     "loading": "Loading questions...",
     "feedback": {
-      "checking": "Checking...",
-      "incorrect": "That was incorrect. Try again.",
+      "checking": "Wird geprüft...",
+      "incorrect": "Das war falsch. Versuch es noch einmal.",
       "incorrectFinal": "That was incorrect. The correct answer is {answer}.",
-      "goodJob": "Good job.",
+      "goodJob": "Gut gemacht",
       "thatWentWrong": "That went wrong.",
-      "correct": "You nailed it.",
-      "notQuite": "Not quite",
-      "goodTry": "Good thinking, but...",
-      "stillLearning": "Still learning",
-      "mastered": "Mastered"
+      "correct": "Richtig.",
+      "notQuite": "Guter Versuch",
+      "goodTry": "Guter Versuch",
+      "stillLearning": "Ich übe noch",
+      "mastered": "Sitzt"
     },
     "walk": {
       "correctAnswer": "The correct answer is {answer}."
     },
     "buttons": {
       "ok": "OK",
-      "skip": "Skip question",
-      "continue": "Continue",
-      "tryAgain": "Try again",
-      "submit": "Submit"
+      "skip": "Frage überspringen",
+      "continue": "Weiter",
+      "tryAgain": "Noch einmal",
+      "submit": "Antworten"
     },
     "alerts": {
       "noQuestionsTitle": "Error",
@@ -538,7 +538,7 @@
       "studyTextErrorMessage": "Failed to load study text. Please try again."
     },
     "validation": {
-      "selectAnswer": "Please select an answer before checking",
+      "selectAnswer": "Wähle eine Antwort, bevor du prüfst",
       "fillAllBlanks": "Please fill all blanks before checking"
     },
     "studyText": {
@@ -665,9 +665,9 @@
     "title": "Practice",
     "counter": "{current} / {total}",
     "left": "left",
-    "noCards": "No flashcards available",
-    "stillLearning": "Practising",
-    "iKnowThis": "I know this"
+    "noCards": "Keine Karteikarten vorhanden",
+    "stillLearning": "Ich übe",
+    "iKnowThis": "Kann ich"
   },
   "flashcardResults": {
     "congratsTitle": "Good practise session.",
@@ -1086,8 +1086,8 @@
     "topicButton": "The topic"
   },
   "onboardingPaywall": {
-    "title": "Invest in your future",
-    "subtitle": "3 sets on the house to get you started. Need more? Invite a friend or go Pro.",
+    "title": "Investiere in deine Zukunft",
+    "subtitle": "Drei Lernsets gehen aufs Haus, damit du loslegen kannst. Mehr nötig? Lade eine Freundin ein oder hol dir Pro.",
     "features": {
       "flashcards": "Remember more in less time with *flashcards*",
       "quiz": "*Quiz* to know what you don't know yet",

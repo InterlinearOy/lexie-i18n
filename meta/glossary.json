@@ -4,34 +4,99 @@
     "starts, not argued during it: divergent terminology across the app and the",
     "web is the failure mode here, not missing strings.",
     "",
-    "`de` is null where the German reviewer still has to decide. Two of these are",
-    "the open question from the plan: 'Flashcards' is normal German usage, but",
-    "'Think questions' and 'pass' are not, so those need a real German noun.",
+    "Every German value is `deStatus: proposed`. They were drafted so the reviewer",
+    "does not face a blank page; she is the native speaker and decides. Nothing",
+    "should be translated in bulk until these read `confirmed`, because each of",
+    "these nouns appears across many strings and changing one later invalidates",
+    "every approved string that contains it.",
     "",
-    "German address form is du, everywhere, no exceptions. Decided 2026-08-28.",
-    "It is locked before translation because changing it later invalidates every",
-    "string the reviewer has already approved."
+    "German address form is du, everywhere, no exceptions. Decided 2026-08-28."
   ],
-  "_addressForm": { "en": "you", "fi": "sinä (sinuttelu)", "de": "du" },
-
-  "terms": {
-    "studySet":    { "en": "study set",     "fi": "harjoitussetti", "de": null },
-    "flashcard":   { "en": "flashcard",     "fi": "muistikortti",   "de": null },
-    "quiz":        { "en": "quiz",          "fi": "testi",          "de": null },
-    "thinkQuestion": { "en": "think question", "fi": "soveltava kysymys", "de": null },
-    "studyGuide":  { "en": "study guide",   "fi": "opiskeluopas",   "de": null },
-    "studyText":   { "en": "study text",    "fi": "teksti",         "de": null },
-    "keyConcepts": { "en": "key concepts",  "fi": "pääkohdat",      "de": null },
-    "workspace":   { "en": "workspace",     "fi": "työtila",        "de": null },
-    "folder":      { "en": "folder",        "fi": "kansio",         "de": null },
-    "pass":        { "en": "pass",          "fi": "passi",          "de": null },
-    "pro":         { "en": "Lexie Pro",     "fi": "Lexie Pro",      "de": "Lexie Pro" },
-    "lexie":       { "en": "Lexie",         "fi": "Lexie",          "de": "Lexie" }
+  "_addressForm": {
+    "en": "you",
+    "fi": "sinä (sinuttelu)",
+    "de": "du"
   },
-
+  "terms": {
+    "studySet": {
+      "en": "study set",
+      "fi": "harjoitussetti",
+      "de": "Lernset",
+      "deStatus": "proposed"
+    },
+    "flashcard": {
+      "en": "flashcard",
+      "fi": "muistikortti",
+      "de": "Karteikarte",
+      "deStatus": "proposed"
+    },
+    "quiz": {
+      "en": "quiz",
+      "fi": "testi",
+      "de": "Quiz",
+      "deStatus": "proposed"
+    },
+    "thinkQuestion": {
+      "en": "think question",
+      "fi": "soveltava kysymys",
+      "de": "Anwendungsfrage",
+      "deStatus": "proposed"
+    },
+    "studyGuide": {
+      "en": "study guide",
+      "fi": "opiskeluopas",
+      "de": "Lernleitfaden",
+      "deStatus": "proposed"
+    },
+    "studyText": {
+      "en": "study text",
+      "fi": "teksti",
+      "de": "Text",
+      "deStatus": "proposed"
+    },
+    "keyConcepts": {
+      "en": "key concepts",
+      "fi": "pääkohdat",
+      "de": "Kernpunkte",
+      "deStatus": "proposed"
+    },
+    "workspace": {
+      "en": "workspace",
+      "fi": "työtila",
+      "de": "Arbeitsbereich",
+      "deStatus": "proposed"
+    },
+    "folder": {
+      "en": "folder",
+      "fi": "kansio",
+      "de": "Ordner",
+      "deStatus": "proposed"
+    },
+    "pass": {
+      "en": "pass",
+      "fi": "passi",
+      "de": "Ticket",
+      "deStatus": "proposed"
+    },
+    "pro": {
+      "en": "Lexie Pro",
+      "fi": "Lexie Pro",
+      "de": "Lexie Pro"
+    },
+    "lexie": {
+      "en": "Lexie",
+      "fi": "Lexie",
+      "de": "Lexie"
+    }
+  },
   "voice": {
     "en": "Plain and direct. Sentence case. No filler, no em-dashes.",
     "fi": "Kirjakieli, ei puhekieltä. Sentence case. Ei täytesanoja eikä ajatusviivoja.",
-    "de": "du throughout. Sentence case. No filler, no em-dashes. Say it the way a person who knows the subject would say it, not the way a manual would."
+    "de": "du throughout, never Sie. Sentence case, not Title Case and not all caps. Say it the way a person who knows the subject would say it out loud, not the way a manual would. No filler, no exclamation marks stacked on praise, no em-dashes. Prefer a short common word to a long formal one: 'Los geht's' over 'Beginnen Sie den Vorgang'. Avoid Denglisch where a real German word exists, but keep a loanword that German students actually say. Compound nouns are normal German; do not split them to look friendlier. Where English is playful and Finnish is plain, follow the Finnish: it was voiced deliberately, the English is partly just the original."
+  },
+  "openQuestions": {
+    "pass": "Literal 'Pass' means passport in German. Proposed 'Ticket' because German students know Semesterticket, so Semester-Ticket and Jahres-Ticket land naturally. This also touches the App Store product names, so it is Elina's call as much as the reviewer's.",
+    "quiz": "Proposed 'Quiz', which is normal German usage. 'Test' was rejected because it reads like a real exam. Worth a second opinion: the Finnish deliberately chose 'testi'.",
+    "studyText": "Proposed the bare 'Text', mirroring the Finnish, which shortened 'opiskeluteksti' to 'teksti'."
   }
 }

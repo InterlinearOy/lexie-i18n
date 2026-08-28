@@ -1,1 +1,14 @@
-{}
+{
+  "workspace": {
+    "loginTitle": "Bei Lexie anmelden",
+    "loginContinue": "Weiter",
+    "loginEmailPlaceholder": "Deine E-Mail",
+    "splash": "Einen Moment…"
+  },
+  "heroCreate": {
+    "pastePlaceholder": "Text hier einfügen"
+  },
+  "paywall": {
+    "ageNote": "Mit dem Erstellen eines Kontos bestätigst du, dass du mindestens 13 Jahre alt bist."
+  }
+}

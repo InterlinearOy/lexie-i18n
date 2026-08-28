@@ -1,0 +1,552 @@
+{
+  "generated": null,
+  "addressForm": "du",
+  "voice": "du throughout, never Sie. Sentence case, not Title Case and not all caps. Say it the way a person who knows the subject would say it out loud, not the way a manual would. No filler, no exclamation marks stacked on praise, no em-dashes. Prefer a short common word to a long formal one: 'Los geht's' over 'Beginnen Sie den Vorgang'. Avoid Denglisch where a real German word exists, but keep a loanword that German students actually say. Compound nouns are normal German; do not split them to look friendlier. Where English is playful and Finnish is plain, follow the Finnish: it was voiced deliberately, the English is partly just the original.",
+  "terms": [
+    {
+      "id": "studySet",
+      "en": "study set",
+      "fi": "harjoitussetti",
+      "de": "Lernset",
+      "note": null
+    },
+    {
+      "id": "flashcard",
+      "en": "flashcard",
+      "fi": "muistikortti",
+      "de": "Karteikarte",
+      "note": null
+    },
+    {
+      "id": "quiz",
+      "en": "quiz",
+      "fi": "testi",
+      "de": "Quiz",
+      "note": "Proposed 'Quiz', which is normal German usage. 'Test' was rejected because it reads like a real exam. Worth a second opinion: the Finnish deliberately chose 'testi'."
+    },
+    {
+      "id": "thinkQuestion",
+      "en": "think question",
+      "fi": "soveltava kysymys",
+      "de": "Anwendungsfrage",
+      "note": null
+    },
+    {
+      "id": "studyGuide",
+      "en": "study guide",
+      "fi": "opiskeluopas",
+      "de": "Lernleitfaden",
+      "note": null
+    },
+    {
+      "id": "studyText",
+      "en": "study text",
+      "fi": "teksti",
+      "de": "Text",
+      "note": "Proposed the bare 'Text', mirroring the Finnish, which shortened 'opiskeluteksti' to 'teksti'."
+    },
+    {
+      "id": "keyConcepts",
+      "en": "key concepts",
+      "fi": "pääkohdat",
+      "de": "Kernpunkte",
+      "note": null
+    },
+    {
+      "id": "workspace",
+      "en": "workspace",
+      "fi": "työtila",
+      "de": "Arbeitsbereich",
+      "note": null
+    },
+    {
+      "id": "folder",
+      "en": "folder",
+      "fi": "kansio",
+      "de": "Ordner",
+      "note": null
+    },
+    {
+      "id": "pass",
+      "en": "pass",
+      "fi": "passi",
+      "de": "Ticket",
+      "note": "Literal 'Pass' means passport in German. Proposed 'Ticket' because German students know Semesterticket, so Semester-Ticket and Jahres-Ticket land naturally. This also touches the App Store product names, so it is Elina's call as much as the reviewer's."
+    }
+  ],
+  "rows": [
+    {
+      "key": "common.cancel",
+      "target": "app",
+      "screen": "Shared labels",
+      "order": 1,
+      "en": "Cancel",
+      "fi": "Peruuta",
+      "de": "Abbrechen",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "common.back",
+      "target": "app",
+      "screen": "Shared labels",
+      "order": 2,
+      "en": "Back",
+      "fi": "Takaisin",
+      "de": "Zurück",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "common.save",
+      "target": "app",
+      "screen": "Shared labels",
+      "order": 3,
+      "en": "Save",
+      "fi": "Tallenna",
+      "de": "Speichern",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "common.close",
+      "target": "app",
+      "screen": "Shared labels",
+      "order": 22,
+      "en": "Close",
+      "fi": "Sulje",
+      "de": "Schließen",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "welcome.title",
+      "target": "app",
+      "screen": "Onboarding — welcome",
+      "order": 23,
+      "en": "Welcome to Lexie",
+      "fi": "Tervetuloa Lexieen",
+      "de": "Willkommen bei Lexie",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "welcome.description",
+      "target": "app",
+      "screen": "Onboarding — welcome",
+      "order": 24,
+      "en": "Lexie helps you study better. Take a picture. Lexie takes care of the rest.",
+      "fi": "Lexie auttaa sinua oppimaan paremmin. Ota kuva ja Lexie hoitaa loput.",
+      "de": "Lexie hilft dir, besser zu lernen. Mach ein Foto. Den Rest übernimmt Lexie.",
+      "budget": 98,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "welcome.startButton",
+      "target": "app",
+      "screen": "Onboarding — welcome",
+      "order": 26,
+      "en": "Get started",
+      "fi": "Aloita",
+      "de": "Los geht's",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "welcome.loginButton",
+      "target": "app",
+      "screen": "Onboarding — welcome",
+      "order": 27,
+      "en": "I already have an account",
+      "fi": "Minulla on jo tili",
+      "de": "Ich habe schon ein Konto",
+      "budget": 33,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "home.greeting",
+      "target": "app",
+      "screen": "Home",
+      "order": 80,
+      "en": "Hi 👋🏻",
+      "fi": "Hei 👋🏻",
+      "de": "Hallo 👋🏻",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "home.questionPrompt",
+      "target": "app",
+      "screen": "Home",
+      "order": 81,
+      "en": "What do you want to\nlearn today?",
+      "fi": "Mitä haluaisit oppia\n tänään?",
+      "de": "Was möchtest du heute\nlernen?",
+      "budget": 42,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "home.startLesson",
+      "target": "app",
+      "screen": "Home",
+      "order": 82,
+      "en": "Start a lesson with Lexie",
+      "fi": "Aloita",
+      "de": "Loslegen",
+      "budget": 33,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "home.toReview",
+      "target": "app",
+      "screen": "Home",
+      "order": 83,
+      "en": "{count} to review",
+      "fi": "{count} kerrattavaa",
+      "de": "{count} zu wiederholen",
+      "budget": 24,
+      "placeholders": [
+        "count"
+      ],
+      "placeholdersOk": true
+    },
+    {
+      "key": "home.lessons",
+      "target": "app",
+      "screen": "Home",
+      "order": 84,
+      "en": "Lessons",
+      "fi": "Setit",
+      "de": "Lernsets",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "home.inviteFriends",
+      "target": "app",
+      "screen": "Home",
+      "order": 86,
+      "en": "Invite friends",
+      "fi": "Kutsu kavereita",
+      "de": "Freunde einladen",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "quiz.title",
+      "target": "app",
+      "screen": "Quiz",
+      "order": 390,
+      "en": "Practice",
+      "fi": "Harjoittele",
+      "de": "Üben",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "quiz.progressOf",
+      "target": "app",
+      "screen": "Quiz",
+      "order": 391,
+      "en": "{current} of {total}",
+      "fi": "{current}/{total}",
+      "de": "{current}/{total}",
+      "budget": 26,
+      "placeholders": [
+        "current",
+        "total"
+      ],
+      "placeholdersOk": true
+    },
+    {
+      "key": "quiz.feedback.checking",
+      "target": "app",
+      "screen": "Quiz",
+      "order": 393,
+      "en": "Checking...",
+      "fi": "Tarkistetaan...",
+      "de": "Wird geprüft...",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "quiz.feedback.incorrect",
+      "target": "app",
+      "screen": "Quiz",
+      "order": 394,
+      "en": "That was incorrect. Try again.",
+      "fi": "Se meni väärin. Kokeile uudelleen?",
+      "de": "Das war falsch. Versuch es noch einmal.",
+      "budget": 39,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "quiz.feedback.goodJob",
+      "target": "app",
+      "screen": "Quiz",
+      "order": 396,
+      "en": "Good job.",
+      "fi": "Hyvää työtä",
+      "de": "Gut gemacht",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "quiz.feedback.correct",
+      "target": "app",
+      "screen": "Quiz",
+      "order": 398,
+      "en": "You nailed it.",
+      "fi": "Oikein.",
+      "de": "Richtig.",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "quiz.feedback.notQuite",
+      "target": "app",
+      "screen": "Quiz",
+      "order": 399,
+      "en": "Not quite",
+      "fi": "Hyvä yritys",
+      "de": "Guter Versuch",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "quiz.feedback.goodTry",
+      "target": "app",
+      "screen": "Quiz",
+      "order": 400,
+      "en": "Good thinking, but...",
+      "fi": "Hyvä yritys",
+      "de": "Guter Versuch",
+      "budget": 27,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "quiz.feedback.stillLearning",
+      "target": "app",
+      "screen": "Quiz",
+      "order": 401,
+      "en": "Still learning",
+      "fi": "Harjoittelen",
+      "de": "Ich übe noch",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "quiz.feedback.mastered",
+      "target": "app",
+      "screen": "Quiz",
+      "order": 402,
+      "en": "Mastered",
+      "fi": "Osaan",
+      "de": "Sitzt",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "quiz.buttons.skip",
+      "target": "app",
+      "screen": "Quiz",
+      "order": 405,
+      "en": "Skip question",
+      "fi": "Ohita kysymys",
+      "de": "Frage überspringen",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "quiz.buttons.continue",
+      "target": "app",
+      "screen": "Quiz",
+      "order": 406,
+      "en": "Continue",
+      "fi": "Jatka",
+      "de": "Weiter",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "quiz.buttons.tryAgain",
+      "target": "app",
+      "screen": "Quiz",
+      "order": 407,
+      "en": "Try again",
+      "fi": "Yritä uudelleen",
+      "de": "Noch einmal",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "quiz.buttons.submit",
+      "target": "app",
+      "screen": "Quiz",
+      "order": 408,
+      "en": "Submit",
+      "fi": "Vastaa",
+      "de": "Antworten",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "quiz.validation.selectAnswer",
+      "target": "app",
+      "screen": "Quiz",
+      "order": 415,
+      "en": "Please select an answer before checking",
+      "fi": "Valitse vastaus ennen tarkistusta",
+      "de": "Wähle eine Antwort, bevor du prüfst",
+      "budget": 51,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "flashcards.noCards",
+      "target": "app",
+      "screen": "Flashcards",
+      "order": 499,
+      "en": "No flashcards available",
+      "fi": "Ei muistikortteja saatavilla",
+      "de": "Keine Karteikarten vorhanden",
+      "budget": 30,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "flashcards.stillLearning",
+      "target": "app",
+      "screen": "Flashcards",
+      "order": 500,
+      "en": "Practising",
+      "fi": "Treenaan",
+      "de": "Ich übe",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "flashcards.iKnowThis",
+      "target": "app",
+      "screen": "Flashcards",
+      "order": 501,
+      "en": "I know this",
+      "fi": "Osaan",
+      "de": "Kann ich",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "onboardingPaywall.title",
+      "target": "app",
+      "screen": "Onboarding — paywall",
+      "order": 814,
+      "en": "Invest in your future",
+      "fi": "Sijoita tulevaisuuteesi",
+      "de": "Investiere in deine Zukunft",
+      "budget": 27,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "onboardingPaywall.subtitle",
+      "target": "app",
+      "screen": "Onboarding — paywall",
+      "order": 815,
+      "en": "3 sets on the house to get you started. Need more? Invite a friend or go Pro.",
+      "fi": "Tarjoamme kolme settiä niin pääset alkuun. Tarvitsetko lisää? Kutsu kaveri tai tilaa Pro.",
+      "de": "Drei Lernsets gehen aufs Haus, damit du loslegen kannst. Mehr nötig? Lade eine Freundin ein oder hol dir Pro.",
+      "budget": 100,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "heroCreate.pastePlaceholder",
+      "target": "web",
+      "screen": "Landing — hero",
+      "order": 893,
+      "en": "Paste text here",
+      "fi": "Liitä teksti tähän",
+      "de": "Text hier einfügen",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "workspace.loginTitle",
+      "target": "web",
+      "screen": "Workspace",
+      "order": 909,
+      "en": "Log in to Lexie",
+      "fi": "Kirjaudu Lexieen",
+      "de": "Bei Lexie anmelden",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "workspace.loginEmailPlaceholder",
+      "target": "web",
+      "screen": "Workspace",
+      "order": 911,
+      "en": "Your email",
+      "fi": "Sähköpostisi",
+      "de": "Deine E-Mail",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "workspace.splash",
+      "target": "web",
+      "screen": "Workspace",
+      "order": 929,
+      "en": "One moment…",
+      "fi": "Hetki…",
+      "de": "Einen Moment…",
+      "budget": 24,
+      "placeholders": [],
+      "placeholdersOk": true
+    },
+    {
+      "key": "paywall.ageNote",
+      "target": "web",
+      "screen": "Paywall",
+      "order": 1036,
+      "en": "By creating an account you confirm that you are at least 13 years old.",
+      "fi": "Luomalla tilin vahvistat, että olet vähintään 13-vuotias.",
+      "de": "Mit dem Erstellen eines Kontos bestätigst du, dass du mindestens 13 Jahre alt bist.",
+      "budget": 91,
+      "placeholders": [],
+      "placeholdersOk": true
+    }
+  ]
+}
