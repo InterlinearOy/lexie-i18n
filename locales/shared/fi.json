@@ -1,0 +1,70 @@
+{
+  "quiz": {
+    "correct": "Oikein.",
+    "notQuite": "Hyvä yritys",
+    "goodTry": "Hyvä yritys",
+    "stillLearning": "Harjoittelen",
+    "mastered": "Osaan",
+    "continue": "Jatka",
+    "tryAgain": "Yritä uudelleen",
+    "submit": "Vastaa",
+    "selectAnswer": "Valitse vastaus ennen tarkistusta",
+    "fillAllBlanks": "Täytä kaikki aukot ennen tarkistusta",
+    "studyTextTitle": "Teksti"
+  },
+  "flashcards": {
+    "noCards": "Ei muistikortteja saatavilla",
+    "stillLearning": "Treenaan",
+    "iKnowThis": "Osaan",
+    "mastered": "Osaat jo",
+    "yourProgress": "Edistyminen",
+    "practiceCta": "Testaa taitosi"
+  },
+  "think": {
+    "point": "piste",
+    "points": "pistettä",
+    "yourPoints": "Pisteesi",
+    "submit": "Lähetä",
+    "revise": "Muokkaa",
+    "submitAsIs": "Lähetä näin",
+    "viewFeedback": "Katso palaute",
+    "viewAnswerKey": "Katso mallivastaus",
+    "answerKey": "MALLIVASTAUS",
+    "keyConcepts": "AVAINKÄSITTEET",
+    "nextQuestion": "Seuraava kysymys",
+    "backToLesson": "Takaisin harjoitussettiin",
+    "close": "Sulje",
+    "writeSomething": "Kirjoita jotain ennen lähettämistä.",
+    "readingYourAnswer": "Luen vastaustasi...",
+    "gradingYourAnswer": "Arvioin vastaustasi...",
+    "placeholderRevise": "Muokkaa vastausta",
+    "failedToGetFeedback": "Palautteen lataaminen epäonnistui.",
+    "failedToGrade": "Vastauksen arviointi epäonnistui.",
+    "answered": "Vastattu",
+    "questionLabel": "KYSYMYS {number}"
+  },
+  "math": {
+    "calculate": "Laske",
+    "answerPlaceholder": "Kirjoita vastaus..."
+  },
+  "typedRecall": {
+    "writeIn": "Kirjoita {language}",
+    "whatDoYouHear": "Mitä kuulet?"
+  },
+  "studySet": {
+    "loadingAudio": "Luon ääniversion",
+    "read": "Lue",
+    "listen": "Kuuntele"
+  },
+  "guide": {
+    "title": "Opiskeluopas",
+    "goal": "Tavoite",
+    "bigIdea": "Ydinajatus",
+    "usuallyTested": "Mitä yleensä kysytään",
+    "howAsked": "Miten asiaa yleensä kysytään",
+    "loseMarks": "Missä pisteitä yleensä menetetään"
+  },
+  "common": {
+    "close": "Sulje"
+  }
+}

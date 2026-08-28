@@ -1,0 +1,70 @@
+{
+  "quiz": {
+    "correct": "You nailed it.",
+    "notQuite": "Not quite",
+    "goodTry": "Good thinking, but...",
+    "stillLearning": "Still learning",
+    "mastered": "Mastered",
+    "continue": "Continue",
+    "tryAgain": "Try again",
+    "submit": "Submit",
+    "selectAnswer": "Please select an answer before checking",
+    "fillAllBlanks": "Please fill all blanks before checking",
+    "studyTextTitle": "Study text"
+  },
+  "flashcards": {
+    "noCards": "No flashcards available",
+    "stillLearning": "Practising",
+    "iKnowThis": "I know this",
+    "mastered": "Mastered",
+    "yourProgress": "Your progress",
+    "practiceCta": "Test what you know"
+  },
+  "think": {
+    "point": "point",
+    "points": "points",
+    "yourPoints": "Your points",
+    "submit": "Submit",
+    "revise": "Revise",
+    "submitAsIs": "Submit as is",
+    "viewFeedback": "View feedback",
+    "viewAnswerKey": "View answer key",
+    "answerKey": "ANSWER KEY",
+    "keyConcepts": "KEY CONCEPTS",
+    "nextQuestion": "Next question",
+    "backToLesson": "Back to lesson",
+    "close": "Close",
+    "writeSomething": "Write something before submitting.",
+    "readingYourAnswer": "Reading your answer...",
+    "gradingYourAnswer": "Grading your answer...",
+    "placeholderRevise": "Revise your answer",
+    "failedToGetFeedback": "Failed to get feedback",
+    "failedToGrade": "Failed to grade answer",
+    "answered": "Answered",
+    "questionLabel": "QUESTION {number}"
+  },
+  "math": {
+    "calculate": "Calculate",
+    "answerPlaceholder": "Type your answer..."
+  },
+  "typedRecall": {
+    "writeIn": "Write in {language}",
+    "whatDoYouHear": "What do you hear?"
+  },
+  "studySet": {
+    "loadingAudio": "Generating the audio",
+    "read": "Read",
+    "listen": "Listen"
+  },
+  "guide": {
+    "title": "Study guide",
+    "goal": "Goal",
+    "bigIdea": "The big idea to get first",
+    "usuallyTested": "What usually gets tested",
+    "howAsked": "How they usually ask it",
+    "loseMarks": "Where students usually lose marks"
+  },
+  "common": {
+    "close": "Close"
+  }
+}

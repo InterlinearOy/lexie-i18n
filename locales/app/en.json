@@ -1,0 +1,1087 @@
+{
+  "common": {
+    "language": "English",
+    "cancel": "Cancel",
+    "back": "Back",
+    "save": "Save",
+    "ok": "OK",
+    "share": "Share",
+    "shareWithFriends": "Share",
+    "months": {
+      "january": "January",
+      "february": "February",
+      "march": "March",
+      "april": "April",
+      "may": "May",
+      "june": "June",
+      "july": "July",
+      "august": "August",
+      "september": "September",
+      "october": "October",
+      "november": "November",
+      "december": "December"
+    },
+    "tapToWatchOnYouTube": "Tap to watch on YouTube",
+    "videoUnavailable": "Video unavailable",
+    "questionWillBeSkipped": "This question will be skipped."
+  },
+  "welcome": {
+    "title": "Welcome to Lexie",
+    "description": "Lexie helps you study better. Take a picture. Lexie takes care of the rest.",
+    "subtitle": "Take a photo of what you want to learn and let Lexie take care of the rest.",
+    "startButton": "Get started",
+    "loginButton": "I already have an account",
+    "features": {
+      "flashcards": "Flip through *flashcards*",
+      "quiz": "*Quiz* yourself",
+      "exams": "Answer *practise exams*",
+      "languages": "Drill *languages*",
+      "math": "*Math mode* for problems",
+      "listen": "*Listen* to texts",
+      "occlusion": "*Image occlusion*"
+    },
+    "proBadge": "PRO",
+    "carousel": {
+      "slide1": "Turn any page into a\nstudy session",
+      "slide2": "Snap a photo of\nany topic",
+      "slide3": "Remember more in less\ntime with flashcards",
+      "slide4": "Quiz to know what\nyou don't know yet",
+      "slide5": "Practise the exam\nbefore the exam",
+      "slide6": "Listen to your study\ntexts anywhere",
+      "slide7": "Block distractions\nand get more done",
+      "slide8": "Hide parts of any image\nand test your memory",
+      "subjects": {
+        "math": "Math",
+        "history": "History",
+        "biology": "Biology",
+        "physics": "Physics",
+        "chemistry": "Chemistry",
+        "french": "French",
+        "japanese": "Japanese",
+        "economics": "Economics",
+        "geography": "Geography",
+        "spanish": "Spanish"
+      }
+    }
+  },
+  "prep": {
+    "yoTitle": "Yo-kertaus",
+    "yoBadge": "NEW",
+    "yoIntro": "Lexie's ready-made revision series for the Finnish matriculation exams.",
+    "coursesTitle": "Courses",
+    "coursesIntro": "Ready-made courses and study materials built by Lexie.",
+    "empty": "No content in this study language yet.",
+    "topicCount": "{count} chapters",
+    "setCountOne": "{count} lesson",
+    "setCountMany": "{count} lessons",
+    "cardCountOne": "{count} card",
+    "cardCountMany": "{count} cards",
+    "questionCountOne": "{count} question",
+    "questionCountMany": "{count} questions"
+  },
+  "login": {
+    "title": "Sign in",
+    "subtitle": "We will email you a 6-digit code. No password needed.",
+    "emailPlaceholder": "Your email",
+    "emailMissing": "Enter your email address.",
+    "sendFailed": "Could not send the code. Try again in a moment.",
+    "sendCode": "Send sign-in code",
+    "codeSent": "We sent a sign-in code to {email}. The code is valid for a short while.",
+    "codeMissing": "Enter the 6-digit code from your email.",
+    "codeInvalid": "That code did not work. Check the code and try again.",
+    "verify": "Sign in",
+    "resend": "Send the code again",
+    "changeEmail": "Change email address",
+    "ageNote": "By creating an account you confirm you are at least 13 years old."
+  },
+  "home": {
+    "greeting": "Hi 👋🏻",
+    "questionPrompt": "What do you want to\nlearn today?",
+    "startLesson": "Start a lesson with Lexie",
+    "toReview": "{count} to review",
+    "lessons": "Lessons",
+    "earnMoreSets": "Earn more sets",
+    "inviteFriends": "Invite friends"
+  },
+  "spacedRepAnnouncement": {
+    "headerLabel": "New → Spaced repetition",
+    "title": "Lexie now knows what you're about to forget",
+    "subtitle": "Lexie tracks your learning and suggests what and when to review, so things stick.",
+    "okButton": "OK",
+    "practise": "Practise",
+    "flipcards": "12 flipcards",
+    "questions": "15 questions"
+  },
+  "studySet": {
+    "guide": {
+      "readFirst": "Read this first",
+      "minutesShort": "min",
+      "studyTimePrefix": "About",
+      "studyTimeSuffix": "to study well"
+    },
+    "title": "Study Set",
+    "folder": "Folder",
+    "summary": "Key concepts",
+    "quiz": "Quiz",
+    "flashcards": "Flashcards",
+    "original": "Source",
+    "actions": {
+      "rename": "Rename",
+      "delete": "Delete study set"
+    },
+    "rename": {
+      "title": "Rename study set",
+      "subtitle": "Enter a new name"
+    },
+    "loadingAudioSubtext": "This might take a while. You can use flashcards or quiz and you'll get notified when audio is ready",
+    "audioReady": "Psst..your audio is now ready for you to listen",
+    "audioTimeoutError": "Loading took too long. Please check your connection and try again.",
+    "audioServerError": "Server is temporarily unavailable. Please try again later.",
+    "audioNetworkError": "No internet connection. Please check your connection and try again.",
+    "audioGenericError": "Something went wrong. Please try again.",
+    "audioRetry": "Try again",
+    "loadingCaptions": "Just a sec...",
+    "loadingNextSection": "Loading next section...",
+    "loadingAudioProgress": "Part",
+    "loading": "Loading content...",
+    "noContent": "No content available",
+    "loadError": "Failed to load study set.",
+    "showMore": "Show More",
+    "showLess": "Show Less",
+    "cards": {
+      "learn": "Practise",
+      "practice": "Test",
+      "review": "Review",
+      "reviewSubtitle": "Now is a good time to review these",
+      "dueForReview": "{count} items due",
+      "xCards": "{count} cards",
+      "xQuestions": "{count} questions",
+      "noCards": "No cards",
+      "noQuestions": "No questions",
+      "goToFlashcards": "Go to Flashcards",
+      "dueCount": "Due {count}"
+    },
+    "tableDisplay": "Tables may not display correctly in this view. Try using flashcards for vocabulary practice.",
+    "vocabularyTable": {
+      "term": "Term",
+      "definition": "Definition"
+    },
+    "noContentToPlay": "No content available to play",
+    "noLanguageForAudio": "Language not detected. Audio is not available for this study set.",
+    "share": "Share via WhatsApp",
+    "share_error_title": "Sharing Error",
+    "share_error_message": "Failed to share study set. Please try again.",
+    "whatsapp_not_installed": "WhatsApp is not installed on your device.",
+    "shareTitle": "Share Study Set",
+    "shareDialogTitle": "Share this study set with",
+    "previewText": "Made this for you with Lexie",
+    "shareModalTitle": "Sharing is caring",
+    "shareModalMessage": "Got a friend cramming for the same exam? You can send them this study set. Because good friends don't let friends study alone.",
+    "shareStudySet": "Share study set",
+    "linkCopied": "Link copied!",
+    "generateReadingPractice": "Generate reading practice",
+    "readingPracticeSubtitle": "Create a new study set from these words",
+    "readingPracticeGenerating": "Hold on, this takes a short while..",
+    "openReadingPractice": "Open reading practice",
+    "generatingReadingPractice": "Generating reading practice...",
+    "noVocabularyData": "No vocabulary data available"
+  },
+  "progressive": {
+    "toasts": {
+      "checkingContent": "Checking out what you send..",
+      "creatingFlashcards": "I'll spin you some nice recall triggers",
+      "creatingMathProblems": "Creating practice problems",
+      "nextStepQuiz": "Next up: quiz.",
+      "almostDone": "Almost done"
+    },
+    "features": {
+      "flashcards": "Flip through flashcards for quick review",
+      "quiz": "Quiz yourself to find the gaps",
+      "thinking": "Answer questions using your own thinking",
+      "feedback": "Stuck? Lexie explains it and lets you try again",
+      "concepts": "Read bite-sized concept cards that break it down",
+      "audio": "Listen to your notes read out loud with captions",
+      "privacy": "Everything stays on your device"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "interfaceLanguage": "Interface language",
+    "error": "Error",
+    "languages": {
+      "English": {
+        "name": "English",
+        "inLanguage": "English"
+      },
+      "Finnish": {
+        "name": "Finnish",
+        "inLanguage": "Finnish"
+      },
+      "Swedish": {
+        "name": "Swedish",
+        "inLanguage": "Swedish"
+      },
+      "French": {
+        "name": "French",
+        "inLanguage": "French"
+      },
+      "Spanish": {
+        "name": "Spanish",
+        "inLanguage": "Spanish"
+      },
+      "German": {
+        "name": "German",
+        "inLanguage": "German"
+      }
+    },
+    "sections": {
+      "account": "Account",
+      "preferences": "Preferences",
+      "languages": "Languages",
+      "sharing": "Sharing",
+      "about": "About"
+    },
+    "studyLanguage": "Study language",
+    "learningLanguages": "Languages I'm learning",
+    "notSet": "Not set",
+    "none": "None",
+    "accountRow": "Account",
+    "accountScreen": {
+      "title": "Account",
+      "emptyBody": "Sign in to use a Pro Pass bought on lexielearn.com.",
+      "createAccount": "Sign in or create an account",
+      "loggedIn": "Logged in",
+      "logOut": "Log out",
+      "deleteAccount": "Delete account",
+      "deleteCaption": "Deletes your account and everything saved to it.",
+      "deleteConfirmTitle": "Delete account",
+      "deleteConfirmMessage": "This permanently deletes your account and everything saved to it. This cannot be undone.",
+      "deleteConfirm": "Delete",
+      "deleteError": "Could not delete the account. Try again in a moment."
+    },
+    "profileSettings": "Profile",
+    "manageSubscription": "Manage subscription",
+    "appearance": "Appearance",
+    "useSystemTheme": "System",
+    "lightMode": "Light",
+    "darkMode": "Dark",
+    "notifications": "Notifications",
+    "spacedRepetition": "Spaced repetition",
+    "spacedRepetitionDescription": "Shows which cards are due for review based on how well you know them",
+    "dailyReminder": "Daily reminder",
+    "reminderTime": "Reminder time",
+    "termsConditions": "Terms & conditions",
+    "getHelp": "Get help",
+    "rateApp": "Rate the app",
+    "earnFreeSets": "Earn free sets",
+    "upgradeToPro": "Upgrade to Lexie Pro",
+    "redeemCode": "Redeem code",
+    "giftLexie": "Gift Lexie",
+    "tellAFriend": "Tell a friend",
+    "proPass": {
+      "title": "Lexie Pro Pass",
+      "subtitle": "Unlimited lessons, quizzes, flashcards and more.",
+      "upgradeButton": "Upgrade"
+    },
+    "lexieGift": {
+      "title": "Request Lexie as a gift",
+      "subtitle": "A gift that helps with better exam preparation?"
+    },
+    "betaFeatures": "Beta Features",
+    "betaFeaturesSubtitle": "Try new features before everyone else",
+    "features": {
+      "imageOcclusion": "Image Cards",
+      "imageOcclusionDesc": "Create flashcards from text in images",
+      "mathMode": "Math Mode",
+      "mathModeDesc": "Generate practice problems from math content",
+      "mathModeBetaTitle": "Math Mode (Beta)",
+      "mathModeBetaMessage": "This feature is still in development. If something doesn't work right, we'd love your feedback."
+    },
+    "footer": {
+      "thankYou": "Thank you for choosing Lexie.",
+      "loveLine": "We 🫶🏻 you."
+    },
+    "deleteProfile": {
+      "title": "Delete Profile",
+      "message": "Are you sure you want to delete this profile? This action cannot be undone.",
+      "cancel": "Cancel",
+      "confirm": "Delete",
+      "error": "Failed to delete profile. Please try again."
+    },
+    "helpCentre": {
+      "title": "Help centre",
+      "intro": "Hi. I'm Elina, the creator of Lexie. To get fastest answer check these resources below",
+      "sections": {
+        "subscriptionPayments": "Subscription & payments",
+        "usingLexie": "Using Lexie"
+      },
+      "stillStuck": {
+        "label": "Still stuck?",
+        "body": "It's just me building Lexie, so feature requests actually get read by the person who can build them. Same with bugs. I reply within 24 hours, screenshots appreciated.",
+        "messageMe": "Send feedback",
+        "whatsapp": "Chat on WhatsApp",
+        "whatsappMessage": "Hi Elina! I'm using LexieLearn and wanted to share some feedback."
+      },
+      "faqs": {
+        "howToCancel": {
+          "question": "How do I cancel",
+          "answer": "Cancel anytime through your phone settings, not inside Lexie. Apple handles the subscription so I can't cancel it for you.\n\nOn iPhone: Settings → tap your name → Subscriptions → Lexie → Cancel.\nOn Android: Play Store → profile → Payments and subscriptions → Subscriptions → Lexie → Cancel.\n\nBought on lexielearn.com instead? Then the stores don't know about your subscription. Go to Settings → Manage subscription in the app and it takes you to the right place.\n\nYou keep access until the end of the period you already paid for."
+        },
+        "webPurchaseLogin": {
+          "question": "I bought Pro on the website, how do I get it in the app?",
+          "answer": "Log in with the same email you used when you bought it. In the app: Settings → Account, or tap the log in link on the paywall. You'll get a 6-digit code by email, no password needed. Once you're in, your Pro Pass unlocks automatically.\n\nNote that Restore purchases only finds App Store and Google Play purchases. For a web purchase, logging in is the way.\n\nOne honest caveat: logging in brings your Pro Pass, not your study sets. Sets you made on the web stay on the web for now."
+        },
+        "shareWithKid": {
+          "question": "How do I share with my kid?",
+          "answer": "Get the family annual plan. It covers up to 6 devices through Apple's Family Sharing, so your kid (or anyone in your family group) gets full access on their own phone.\n\nSet up Family Sharing in iPhone settings first if you haven't, then buy the family plan from inside Lexie. Everyone in the family group gets it automatically.\n\nHeads up: family plans are iPhone only, Google Play doesn't support family sharing for subscriptions. On Android, or a mixed iPhone/Android family? Message me and we'll figure it out."
+        },
+        "freeTierRunsOut": {
+          "question": "What happens when free tier runs out?",
+          "answer": "The 3 study sets you made stay. You can keep reviewing them, listening, doing flashcards, all of it. You just can't make new ones until you either upgrade or earn more sets through referrals.\n\nInvite a friend, you both get 2 free sets when they join."
+        },
+        "openWhatsappSet": {
+          "question": "How do I open a study set created in WhatsApp/website in the app?",
+          "answer": "Right now you can't. Study sets don't move between the web and the app yet, even if you log in with the same email. Logging in unlocks your Pro Pass in the app, but your content stays where you made it.\n\nIf you want a set in the app, easiest thing is to take a photo of the same material and let Lexie generate it there. If syncing is something you'd actually use, message me and let me know. It helps me decide what to build next."
+        },
+        "multiDevice": {
+          "question": "Can I use Lexie on more than one device?",
+          "answer": "Study sets live on the phone they were made on, so they don't sync between phones automatically. Each phone is its own little island.\n\nIf you want a set on another phone, share it from the original (tap Share → Send link) and open it on the other one.\n\nYou can also open shared links in a browser on your laptop, no app needed, just tap the link. Handy if you want to study on a bigger screen.\n\nYour Pro Pass does travel, though. A web purchase unlocks on any phone once you log in, and store purchases follow your App Store or Google Play account."
+        }
+      },
+      "message": {
+        "title": "Send a message",
+        "placeholder": "Tell how to make Lexie better",
+        "emailPlaceholder": "Email (optional, if you want a reply)",
+        "attach": "Attach a screenshot",
+        "send": "Send",
+        "sent": "Message sent. Thank you!"
+      }
+    },
+    "manageSubscriptionScreen": {
+      "title": "Manage subscription",
+      "statusLabel": "Subscription status",
+      "planAnnual": "Annual",
+      "planMonthly": "Monthly",
+      "proPassName": "Lexie Pro Pass",
+      "renewsLabel": "Renews {date}",
+      "openStoreSettings": "Open store settings",
+      "manageWebBilling": "Manage your subscription on the web",
+      "cancelSubscription": "Cancel subscription",
+      "survey": {
+        "title": "One thing before you go",
+        "subtitle": "Tell us why you are leaving",
+        "reasons": {
+          "notUsing": "Not using it enough",
+          "tooExpensive": "Too expensive",
+          "missing": "Missing something I need",
+          "foundBetter": "Found something better",
+          "examEnded": "Exam season ended",
+          "technical": "Technical issues or bugs"
+        },
+        "followupPlaceholder": "What would have kept you?",
+        "continueButton": "Continue to cancel"
+      }
+    }
+  },
+  "preview": {
+    "title": "Preview",
+    "imageCounter": "{current}/{total}",
+    "readyButton": "Ready",
+    "takeMore": "Take more photos",
+    "chooseMore": "Choose more",
+    "loading": "Loading...",
+    "maxImagesReached": "Maximum photos reached",
+    "maxImagesMessage": "You've reached max amount of photos for one set",
+    "maxImagesHint": "Tip: Smaller sets work better"
+  },
+  "chat": {
+    "askLexie": "Ask Lexie...",
+    "addPhoto": "Add a photo",
+    "takePhoto": "Snap a photo",
+    "chooseFromLibrary": "Choose from library",
+    "cancel": "Cancel"
+  },
+  "feedback": {
+    "title": "What went wrong?",
+    "selectCategory": "What type of feedback do you have?",
+    "categories": {
+      "technical": "Technical problems",
+      "content": "Content quality issues",
+      "ux": "User experience concerns",
+      "feature": "Feature requests",
+      "incorrect": "Incorrect question/card",
+      "offTopic": "Not about this topic",
+      "multipleAnswers": "Multiple right answers",
+      "formatting": "Spelling/formatting errors",
+      "other": "Other issue"
+    },
+    "submit": "Submit",
+    "disclaimer": "Submitting this report will send the entire current study set to Interlinear for future improvements to Lexie.",
+    "thankYou": "Thank you for your feedback.",
+    "permissions": {
+      "gallery": "Permission to access gallery is required"
+    },
+    "errors": {
+      "category": "Please select a feedback category",
+      "description": "Please provide feedback details"
+    },
+    "selectCategoryPlaceholder": "Select a category"
+  },
+  "alerts": {
+    "error": "Error",
+    "ok": "OK",
+    "permissionNeeded": "Permission needed",
+    "photoLibraryPermission": "Lexie needs permission to use your photo library.",
+    "imageLoadFailed": "Image loading failed. Try again.",
+    "processingError": "something went wrong on our end. try again in a sec?",
+    "imageSendingFailed": "Image sending failed. Ensure your images are clear and try again.",
+    "imagesTooLarge": "that's a lot of content. try scanning fewer pages at once",
+    "imageUnreadable": "this image isn't working. could be the quality, could be there's no text to find",
+    "noTextInImage": "No text found in this image. Try scanning something with text to study",
+    "imageRefused": "Image Problem",
+    "sizeError": "Too Much Content",
+    "tooManyAttempts": "Too many attempts. Wait a moment and try again.",
+    "serverUnavailable": "Server is temporarily unavailable. Try again later.",
+    "checkConnection": "Check your internet connection and try again.",
+    "networkError": "no internet connection. find some wifi and try again",
+    "connectionError": "can't reach lexie's brain right now. check your connection?",
+    "pdfExtractionError": "this pdf is being stubborn. maybe try a different one?",
+    "pdfImportFailed": "hmm that pdf didn't work. is it maybe password protected?",
+    "invalidTextContent": "that text looks a bit weird. try copy pasting it again?",
+    "processingTimeout": "this is taking too long. try with less content or simpler material?",
+    "generationTimeout": "lexie got stuck thinking. try again with a shorter text?",
+    "noTextContent": "nothing to scan yet. snap a photo or paste some text",
+    "analyzeTextFailed": "couldn't read that properly. try a clearer photo?",
+    "folderCreateFailed": "Failed to create folder",
+    "assignToFolderFailed": "Failed to assign study set to folder",
+    "noImages": "No images selected",
+    "profileError": "Profile Error",
+    "noProfile": "No profile selected",
+    "languageComingSoon": "Language settings coming soon!",
+    "deleteStudySet": "Delete study set",
+    "deleteConfirmation": "Are you sure you want to delete this study set? This action cannot be undone.",
+    "delete": "Delete",
+    "deleteError": "Failed to delete study set",
+    "renameFailed": "Failed to rename study set",
+    "deleteFailed": "Failed to delete study set",
+    "takePictureError": "Failed to take picture. Please try again.",
+    "permission": "Camera access needed",
+    "cameraAccess": "Lexie needs camera access to capture study materials"
+  },
+  "scanPage": {
+    "title": "Snap a photo",
+    "cameraError": "Camera Error",
+    "checkingPermission": "Checking camera permission...",
+    "permissionRequired": "Camera permission is required to scan photos",
+    "cameraPermissionRequired": "Camera permission is required to scan photos",
+    "cameraPermissionMessage": "Please enable camera access in your device settings to take photos.",
+    "grantPermission": "Grant Permission",
+    "goBack": "Go Back",
+    "tryAgain": "Try Again",
+    "startingCamera": "Starting camera...",
+    "takePhotoInstruction": "Snap a photo of content you want to practice",
+    "requestingCameraPermission": "Requesting camera permission...",
+    "tips": {
+      "title": "Tips",
+      "tip1Title": "Start with 1-4 photos",
+      "tip1Description": "The app works faster with fewer images and creates more focused practice questions. You can always create another set later.",
+      "tip2Title": "One topic at a time",
+      "tip2Description": "Mixing math with history in the same set? The questions get messy. Keep each set focused on what you're studying right now.",
+      "tip3Title": "Clear, readable photos",
+      "tip3Description": "Blurry text = confused AI = weird questions. Make sure your notes or textbook pages are well-lit and in focus."
+    },
+    "initializingCamera": "Initializing camera..."
+  },
+  "quiz": {
+    "title": "Practice",
+    "progressOf": "{current} of {total}",
+    "loading": "Loading questions...",
+    "feedback": {
+      "checking": "Checking...",
+      "incorrect": "That was incorrect. Try again.",
+      "incorrectFinal": "That was incorrect. The correct answer is {answer}.",
+      "goodJob": "Good job.",
+      "thatWentWrong": "That went wrong."
+    },
+    "walk": {
+      "correctAnswer": "The correct answer is {answer}."
+    },
+    "buttons": {
+      "ok": "OK",
+      "skip": "Skip question"
+    },
+    "alerts": {
+      "noQuestionsTitle": "Error",
+      "noQuestionsMessage": "No quiz questions found for this study set.",
+      "loadErrorTitle": "Error",
+      "loadErrorMessage": "Failed to load quiz questions.",
+      "studyTextErrorTitle": "Error",
+      "studyTextErrorMessage": "Failed to load study text. Please try again."
+    }
+  },
+  "quizComplete": {
+    "results": {
+      "perfect": {
+        "title": "Brilliant work.",
+        "subtitle": "You've mastered this topic"
+      },
+      "excellent": {
+        "title": "Solid progress",
+        "subtitle": "You're getting the key concepts"
+      },
+      "good": {
+        "title": "Good foundation",
+        "subtitle": "Keep building on what you know"
+      },
+      "average": {
+        "title": "This was a good start",
+        "subtitle": "Review the concepts, then try again"
+      },
+      "needsImprovement": {
+        "title": "Let's build on this",
+        "subtitle": "Start with the explanations first"
+      }
+    },
+    "yourProgress": "Your progress",
+    "questionsMastered": "Questions\nmastered",
+    "stillLearning": "Still learning",
+    "skipped": "Skipped",
+    "mastered": "Mastered",
+    "keepPracticing": "Keep practicing {count} concepts",
+    "keepPracticingMath": "Practice {count} problems",
+    "startAgain": "Start again",
+    "backToLesson": "Back to lesson",
+    "close": "Close",
+    "studyTips": {
+      "perfect1": "Your brain just made some strong connections. A 10-minute walk now would help lock in what you learned.",
+      "perfect2": "You've got this down solid. Teaching someone else what you learned would make it stick even better.",
+      "perfect3": "Nice work! Quiz yourself again tomorrow to make sure it stays fresh.",
+      "excellent1": "You're getting the hang of this. Try explaining the concepts out loud - it helps spot any gaps.",
+      "excellent2": "Good progress! Come back to the tricky parts tomorrow when your brain has had time to process.",
+      "excellent3": "You're on the right track. Drawing diagrams of these concepts could help clarify the details.",
+      "good1": "Solid foundation here. Try reading the material out loud next time - it engages different parts of your brain.",
+      "good2": "You're building understanding. Break down the harder concepts into smaller pieces and tackle them one by one.",
+      "good3": "Good start! Making your own examples of these concepts will help them click.",
+      "average1": "Learning takes time. Try covering up definitions and explaining them in your own words.",
+      "average2": "You're making progress. Focus on understanding one concept fully before moving to the next.",
+      "average3": "Keep going! Sometimes writing things down by hand helps your brain process better.",
+      "needsImprovement1": "Every expert was once a beginner. Start by reading each concept slowly and pause to think about what it means.",
+      "needsImprovement2": "Learning is a process. Try relating these new ideas to things you already know well.",
+      "needsImprovement3": "Take your time with this. Breaking it into tiny steps makes even hard topics manageable."
+    }
+  },
+  "profileSettings": {
+    "title": "Profile settings",
+    "loading": "Loading profile...",
+    "save": "Save",
+    "nameLabel": "How should we call you",
+    "namePlaceholder": "Enter your name",
+    "deleteProfile": "Delete profile",
+    "alerts": {
+      "loadError": "Could not load profile data",
+      "noProfile": "No profile loaded",
+      "saveError": "Failed to save profile changes"
+    }
+  },
+  "profileImage": {
+    "title": "Select profile picture",
+    "continue": "Continue",
+    "alerts": {
+      "selectImageTitle": "Select a profile picture",
+      "selectImageMessage": "Please select a profile picture to continue"
+    }
+  },
+  "nameInput": {
+    "greeting": "Hi 👋🏻",
+    "question": "How can I call you?",
+    "placeholder": "",
+    "continue": "Continue",
+    "alerts": {
+      "nameRequiredTitle": "Name required",
+      "nameRequiredMessage": "Please write your name to continue"
+    }
+  },
+  "lessonHistory": {
+    "title": "Lessons with Lexie",
+    "loading": "Loading lessons...",
+    "empty": {
+      "noLessons": "No lessons found.",
+      "startFirst": "Start your first lesson."
+    },
+    "dateFormats": {
+      "unknownDate": "Date unavailable",
+      "invalidDate": "Invalid date",
+      "invalidFormat": "Invalid date format",
+      "dateError": "Date error"
+    },
+    "tabs": {
+      "allSets": "All sets",
+      "folders": "Folders",
+      "set": "set",
+      "sets": "sets",
+      "noFolders": "You don't have any folders yet."
+    }
+  },
+  "fontSettings": {
+    "goToSettings": "Go to Font Settings",
+    "title": "Font Settings",
+    "fontSize": "Font Size",
+    "fontFamily": "Font Family",
+    "allCaps": "ALL CAPS",
+    "standard": "Standard",
+    "reading": "Reading",
+    "dyslexiaFriendly": "Dyslexia-friendly",
+    "highVisibility": "High-visibility",
+    "monospaced": "Monospaced",
+    "case": "CASE"
+  },
+  "flashcards": {
+    "title": "Practice",
+    "counter": "{current} / {total}",
+    "left": "left"
+  },
+  "flashcardResults": {
+    "congratsTitle": "Good practise session.",
+    "termsMastered": "Terms\nmastered",
+    "stillLearningLabel": "Still learning",
+    "keepReviewingButton": "Keep reviewing {count} terms",
+    "restartButton": "Restart flashcards",
+    "practiceRemainingButton": "Practice remaining {count} cards"
+  },
+  "review": {
+    "loading": "Loading review items...",
+    "front": "Front",
+    "back": "Back",
+    "tapToFlip": "Tap to flip",
+    "stillLearning": "Still Learning",
+    "iKnowThis": "I Know This",
+    "continue": "Continue",
+    "sessionComplete": "Review Complete!",
+    "correctRate": "Correct rate",
+    "correct": "Correct",
+    "needsReview": "Needs review",
+    "done": "Done",
+    "allCaughtUp": "All caught up!",
+    "noItemsDue": "No items are due for review right now.",
+    "goBack": "Go Back"
+  },
+  "notifications": {
+    "promptTitle": "Want Lexie to ping you at the right time to lock it in?",
+    "promptSubtitle": "You'll forget ~70% of this within 24h.",
+    "yesPlease": "Yes plz",
+    "noThanks": "No thanks",
+    "continue": "Continue",
+    "notNow": "Not now",
+    "settingsTitle": "Review reminders",
+    "settingsEnabled": "Daily reminder",
+    "settingsTime": "Reminder time",
+    "settingsDisabled": "Reminders off",
+    "pushTitle": "Lexie here 👋🏻",
+    "pushBody": "Got some cards waiting for a quick review"
+  },
+  "conceptCards": {
+    "title": "Key Concepts",
+    "noCards": "No concept cards available.",
+    "hint": "Hint",
+    "counter": "{current} / {total}"
+  },
+  "studySetSettings": {
+    "language": "Study set language",
+    "chooseFolder": "Choose folder",
+    "chooseFont": "Choose font",
+    "editText": "Edit study text",
+    "deleteLesson": "Delete lesson"
+  },
+  "folder": {
+    "loading": "Loading...",
+    "empty": "No study sets in this folder yet",
+    "createStudySet": "Create study set",
+    "addNotes": "Add notes",
+    "moveNotes": {
+      "title": "Move notes",
+      "empty": "No study sets to move",
+      "saveError": "Failed to move study sets"
+    },
+    "alerts": {
+      "deleteError": "Failed to delete folder",
+      "saveError": "Failed to save folder changes"
+    }
+  },
+  "folders": {
+    "actions": {
+      "rename": "Rename"
+    },
+    "rename": {
+      "title": "Rename folder",
+      "subtitle": "Enter a new name"
+    },
+    "selection": {
+      "title": "Choose folder",
+      "subtitle": "Choose or create new",
+      "empty": "You don't have any folders yet",
+      "createButton": "Create new folder"
+    },
+    "edit": {
+      "title": "Edit folder",
+      "nameLabel": "Folder name",
+      "namePlaceholder": "Enter folder name",
+      "validation": "Please enter a folder name",
+      "colorLabel": "Pick a color",
+      "deleteButton": "Delete",
+      "deletingButton": "Deleting...",
+      "alerts": {
+        "deleteTitle": "Delete folder",
+        "deleteMessage": "Are you sure you want to delete this folder? This action cannot be undone.",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "error": "Failed to delete folder",
+        "saveError": "Failed to save folder changes"
+      }
+    },
+    "creation": {
+      "title": "Create folder",
+      "nameLabel": "Folder name",
+      "namePlaceholder": "ie. Math, Science, etc.",
+      "validation": "Please enter a folder name",
+      "colorLabel": "Pick a color",
+      "createButton": "Create new folder"
+    }
+  },
+  "audioPremium": {
+    "title": "Wanna listen to your study text?",
+    "description": "Good voices are expensive. We want Lexie's listen mode to sound actually human, which means it's a pro feature.",
+    "feature1": "",
+    "feature2": "",
+    "upgradeButton": "Get Lexie Pro Pass",
+    "maybeLater": "Maybe later"
+  },
+  "termsAndLanguage": {
+    "languageTitle": "Choose your language",
+    "termsText": "By using Lexie you agree to our",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "connector": "and",
+    "suffix": "",
+    "continue": "Continue",
+    "termsRequired": "Terms Required",
+    "termsRequiredMessage": "Please accept the terms and conditions to continue."
+  },
+  "proPass": {
+    "title": "Lexie Pro Pass",
+    "featureTitle": "Make the most of Lexie",
+    "featureDescription": "Free gets you started.\nPro takes you all the way there.",
+    "continue": "Get it now",
+    "subscribeAnnually": "Subscribe annually",
+    "subscribeMonthly": "Subscribe monthly",
+    "loading": "Loading subscription plans...",
+    "restorePurchases": "Restore purchases",
+    "webSignIn": "Already purchased on the web? Log in",
+    "billedMonthly": "billed monthly",
+    "billedYearly": "billed annually",
+    "perMonth": "/mo",
+    "plans": {
+      "annual": {
+        "badge": "MOST POPULAR",
+        "title": "Annual pass",
+        "description": "Save more on Lexie Pro Pass with the annual plan.",
+        "period": "Billed annually",
+        "discount": "40% OFF"
+      },
+      "family": {
+        "badge": "2-6 MEMBERS",
+        "title": "Family Annual",
+        "description": "Unlimited study sets for up to six devices. Uses Apple's Family Sharing.",
+        "period": "Billed annually"
+      },
+      "monthly": {
+        "badge": "MOST FLEXIBLE",
+        "title": "Monthly",
+        "description": "Pay monthly for Lexie Pro Pass. Cancel anytime.",
+        "period": "Billed monthly"
+      }
+    },
+    "purchaseSuccess": {
+      "title": "Welcome to Lexie Pro",
+      "message": "You now have unlimited access to create study sets.",
+      "button": "Get Started"
+    },
+    "purchaseError": {
+      "title": "Purchase Failed",
+      "message": "Something went wrong with your purchase. Please try again or contact support if the problem persists.",
+      "button": "OK"
+    },
+    "restore": {
+      "success": {
+        "title": "Purchases Restored!",
+        "message": "Your previous purchases have been restored successfully.",
+        "button": "Continue"
+      },
+      "error": {
+        "title": "Restore Failed",
+        "message": "Could not restore your purchases. Please try again or contact support.",
+        "button": "OK"
+      }
+    },
+    "subscribed": {
+      "title": "You're all set!",
+      "message": "You have Lexie Pro and can create unlimited study sets. Thanks for supporting Lexie!",
+      "backToApp": "Back to App"
+    },
+    "affiliateCode": {
+      "label": "Have an affiliate code? e.g. MILJA26",
+      "placeholder": "Enter code",
+      "applied": "Affiliate code applied",
+      "invalid": "Invalid affiliate code"
+    }
+  },
+  "referral": {
+    "title": "Earn free study sets",
+    "subtitle": "Bring in a friend and both of you will get 2 free study sets",
+    "freeStudySet": "free study set",
+    "studySets": "study sets",
+    "perFriend": "for every friend",
+    "whoJoins": "who joins",
+    "whoDownloads": "who downloads Lexie",
+    "friendsJoined": "friends joined",
+    "ofFriendsJoined": "of {total} friends joined",
+    "inviteButton": "Invite friends",
+    "shareCode": "Share code",
+    "shareMessage": "Found this app that makes quizzes from photos of your notes. LOVE it.",
+    "shareMessageWithCode": "Love this app. Use my code {code} to earn 2 free study sets for both of us.",
+    "redeemCode": "Redeem code",
+    "unlimited": "unlimited",
+    "copiedCode": "Copied invite code!"
+  },
+  "giftModal": {
+    "title": "Request Lexie as a gift",
+    "subtitle": "A gift that helps with better exam preparation.",
+    "createLink": "Create link",
+    "createLinkDescription": "Get a personal link that you can share",
+    "shareIt": "Share it forward",
+    "shareItDescription": "Send to parents, grandparents or anyone who wants to support your studying",
+    "enterCode": "Enter code",
+    "enterCodeDescription": "The buyer receives a code to send you. Enter it here and you can use Lexie unlimited for one year from activation.",
+    "createGiftLinkButton": "Create gift link",
+    "giftMessage": "I would like Lexie as a gift. It helps me practice better for exams.\n\nGive the gift of a year of better studying 🎁\nlexielearn.com"
+  },
+  "rewardCode": {
+    "title": "Enter code",
+    "subtitle": "Redeem a code to unlock free study sets",
+    "apply": "Apply",
+    "success": "Success!",
+    "error": "Error",
+    "enterAllCharacters": "Please enter all 5 characters",
+    "somethingWentWrong": "Something went wrong. Please try again."
+  },
+  "think": {
+    "question": "Question",
+    "questionSingular": "question",
+    "questionsPlural": "questions",
+    "answer": "Answer",
+    "seeYourAnswer": "See your answer",
+    "title": "Think",
+    "openEndedQuestion": "open ended question",
+    "openEndedQuestions": "open ended questions",
+    "recordOrTypeAnswer": "Hold the mic and speak or type",
+    "holdAndSpeak": "Hold and speak",
+    "releaseToFinish": "Release to finish",
+    "tryAgain": "Try again",
+    "reviseStudyText": "Revise study text",
+    "yourReply": "YOUR REPLY",
+    "dictate": "Dictate",
+    "stopDictation": "Stop",
+    "viewGrade": "View grade",
+    "placeholderTypeOrDictate": "Type or dictate your answer",
+    "noQuestionToDisplay": "No question to display."
+  },
+  "textUpload": {
+    "title": "Text",
+    "submit": "Submit",
+    "placeholder": "Write or paste your text here",
+    "importPDF": "Import pdf",
+    "emptyTextTitle": "Empty Text",
+    "emptyTextMessage": "Please enter some text before submitting."
+  },
+  "occlusion": {
+    "modeToggle": {
+      "studySet": "Study set",
+      "imageCards": "Image cards"
+    },
+    "create": {
+      "title": "Image Occlusion",
+      "heading": "Create Image Occlusion",
+      "subtitle": "Upload an image with labeled parts (like a diagram or anatomy chart). I'll detect the labels and create flashcards automatically.",
+      "chooseFromLibrary": "Choose from Library",
+      "takePhoto": "Take Photo",
+      "detectingLabels": "Hiding text..",
+      "creatingFlashcards": "Creating flashcards...",
+      "loading": "Loading...",
+      "noTextDetected": "No text detected in this image. Try a different image with visible text labels.",
+      "tryDifferentImage": "Try Different Image",
+      "processingFailed": "Failed to process image",
+      "saveFailed": "Failed to save occlusion card"
+    },
+    "review": {
+      "loading": "Loading...",
+      "noRegions": "No occlusion regions found",
+      "goBack": "Go Back",
+      "typeAnswer": "Type your answer...",
+      "correctFeedback": "Correct",
+      "goodTry": "Good try.",
+      "correctAnswerIs": "The correct answer is",
+      "continue": "Continue",
+      "resultsTitle": "Session Complete",
+      "correctLabel": "Correct",
+      "incorrectLabel": "Incorrect",
+      "accuracy": "Accuracy",
+      "done": "Done",
+      "hideOne": "Hide one",
+      "hideAll": "Hide all"
+    },
+    "edit": {
+      "title": "Edit Occlusions",
+      "sectionTitle": "Occlusion Labels",
+      "sectionHint": "Tap a region on the image or in the list to edit",
+      "enterLabel": "Enter label...",
+      "cardNotFound": "Card not found",
+      "saveFailed": "Failed to save changes"
+    }
+  },
+  "typedRecall": {
+    "writeMeaning": "Write the meaning",
+    "typeAnswer": "Type your answer...",
+    "correctWord": "The correct word is"
+  },
+  "translation": {
+    "tapToTranslate": "Translate to",
+    "translateTo": "Translate to",
+    "searchLanguage": "Search languages",
+    "commonLanguages": "Common",
+    "allLanguages": "All languages"
+  },
+  "math": {
+    "guidedPlaceholder": "Write the answer on paper and snap it..",
+    "hint": "Hint",
+    "solve": "Solve",
+    "problemSingular": "problem",
+    "problemsPlural": "problems",
+    "ocrFailed": "Could not read the math expression. Please type it instead.",
+    "assignment": "Assignment",
+    "addPhoto": "Add a photo"
+  },
+  "ratingPrompt": {
+    "title": "Hey there, it's Elina",
+    "message": "How is Lexie helping you study? I built it because I think every student deserves to feel confident before an exam. If it's made a difference, a rating would mean the world to me. It helps other students find it too.",
+    "tapToContinue": "Tap to continue",
+    "thanks": "Thanks for your feedback!"
+  },
+  "focusMode": {
+    "pillInactive": "lock in",
+    "pillActive": "lock in",
+    "sheetTitle": "Time to lock in.",
+    "durationLabel": "Duration",
+    "durationSubtitle": "How long you wanna focus?",
+    "minSuffix": "min",
+    "startButton": "Start",
+    "confirmTitle": "Are you sure?",
+    "confirmSubtitle": "You've got still {minutes} minutes left",
+    "stayFocused": "Stay focused",
+    "giveUp": "Give up",
+    "completedTitle": "Done.",
+    "completedSubtitle": "{minutes} min studied. Good job.",
+    "completedButton": "Nice",
+    "notificationBody": "You've got {minutes} minutes left, are you sure?"
+  },
+  "onboarding": {
+    "continue": "Continue",
+    "skip": "Skip",
+    "studyLanguage": {
+      "title": "What language do you study in?",
+      "subtitle": "The language your study materials are mostly in.",
+      "nudgePickFirst": "Pick a language to continue"
+    },
+    "learningLanguages": {
+      "title": "Any languages you're learning?",
+      "subtitle": "The ones you're trying to actually speak. Skip if none, you can always add more later.",
+      "add": "Add +"
+    }
+  },
+  "softPrompt": {
+    "languages": {
+      "title": "Lexie just got better on languages",
+      "body": "Mind telling us two quick things? This will make your experience better",
+      "cta": "Set up now",
+      "dismiss": "Dismiss"
+    }
+  },
+  "picker": {
+    "title": {
+      "singleSelect": "Pick a language",
+      "multiSelect": "Pick languages"
+    },
+    "searchPlaceholder": "Search",
+    "confirm": "Done",
+    "empty": "No languages found"
+  },
+  "topicOrLanguage": {
+    "question": "This is in {language}. Are you studying the topic, or learning {language}?",
+    "learningButton": "Learning {language}",
+    "topicButton": "The topic"
+  },
+  "onboardingPaywall": {
+    "title": "Invest in your future",
+    "subtitle": "3 sets on the house to get you started. Need more? Invite a friend or go Pro.",
+    "features": {
+      "flashcards": "Remember more in less time with *flashcards*",
+      "quiz": "*Quiz* to know what you don't know yet",
+      "exams": "Practise the exam before the exam",
+      "listen": "*Listen* to your study texts anywhere"
+    },
+    "annual": "Annual",
+    "monthly": "Monthly",
+    "annualPass": "Annual pass",
+    "familyAnnual": "Family Annual",
+    "oneTimeAnnual": "One Time Annual",
+    "noAutoRenewal": "No auto-renewal.",
+    "recurringBilling": "Recurring billing",
+    "monthlyEquivalent": "{price} a month",
+    "mostPopular": "Most popular",
+    "perMonth": "/mo",
+    "perYear": "/yr",
+    "billedAnnually": "{price} billed annually",
+    "billedMonthly": "{price} billed monthly",
+    "subscribeAnnually": "Subscribe annually",
+    "subscribeMonthly": "Subscribe monthly",
+    "viewAllPlans": "View all plans",
+    "maybeLater": "Maybe later",
+    "restore": "Restore purchases",
+    "legalText": "Renews automatically unless cancelled 24 hours before the period ends. Cancel anytime in your settings. By continuing you agree to our",
+    "choosePlanTitle": "Choose a plan that\nworks for you",
+    "otherPlans": "Other plans"
+  },
+  "passes": {
+    "semester": "Semester Pass",
+    "yearly": "Yearly Pass",
+    "semesterDuration": "One time purchase, valid 5 months",
+    "yearlyDuration": "One time purchase, valid 12 months",
+    "buySemester": "Buy semester pass",
+    "buyYearly": "Buy yearly pass",
+    "bestValue": "Best value",
+    "orSubscribe": "Or subscribe",
+    "billedTotalYearly": "{price} per year",
+    "viewAllPlans": "View all plans",
+    "choosePassTitle": "Choose a pass",
+    "featureTitle": "Unlimited usage",
+    "featureDescription": "Study sessions, questions, flashcards, audio recordings, translations and much more"
+  },
+  "postCreatePaywall": {
+    "title": "Make the most of Lexie",
+    "subtitle": "This set is one of your 3 free ones.\nThe Semester Pass makes every set unlimited."
+  },
+  "proWelcome": {
+    "title": "Welcome to Lexie Pro",
+    "message": "Thank you for your support. It keeps Lexie going and pays for the work that makes it better.",
+    "signature": "Elina and the Lexie Team"
+  }
+}

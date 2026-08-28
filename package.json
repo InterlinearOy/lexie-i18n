@@ -1,0 +1,19 @@
+{
+  "name": "@lexie/i18n",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Every Lexie UI string, for every language, in one place.",
+  "license": "UNLICENSED",
+  "type": "module",
+  "files": [
+    "dist",
+    "locales",
+    "meta",
+    "scripts"
+  ],
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "prepare": "node scripts/build.mjs"
+  }
+}

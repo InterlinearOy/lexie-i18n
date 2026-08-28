@@ -1,0 +1,5698 @@
+{
+  "app:common.language": {
+    "screen": "Shared labels",
+    "order": 0
+  },
+  "app:common.cancel": {
+    "screen": "Shared labels",
+    "order": 1
+  },
+  "app:common.back": {
+    "screen": "Shared labels",
+    "order": 2
+  },
+  "app:common.save": {
+    "screen": "Shared labels",
+    "order": 3
+  },
+  "app:common.ok": {
+    "screen": "Shared labels",
+    "order": 4
+  },
+  "app:common.share": {
+    "screen": "Shared labels",
+    "order": 5
+  },
+  "app:common.shareWithFriends": {
+    "screen": "Shared labels",
+    "order": 6
+  },
+  "app:common.months.january": {
+    "screen": "Shared labels",
+    "order": 7
+  },
+  "app:common.months.february": {
+    "screen": "Shared labels",
+    "order": 8
+  },
+  "app:common.months.march": {
+    "screen": "Shared labels",
+    "order": 9
+  },
+  "app:common.months.april": {
+    "screen": "Shared labels",
+    "order": 10
+  },
+  "app:common.months.may": {
+    "screen": "Shared labels",
+    "order": 11
+  },
+  "app:common.months.june": {
+    "screen": "Shared labels",
+    "order": 12
+  },
+  "app:common.months.july": {
+    "screen": "Shared labels",
+    "order": 13
+  },
+  "app:common.months.august": {
+    "screen": "Shared labels",
+    "order": 14
+  },
+  "app:common.months.september": {
+    "screen": "Shared labels",
+    "order": 15
+  },
+  "app:common.months.october": {
+    "screen": "Shared labels",
+    "order": 16
+  },
+  "app:common.months.november": {
+    "screen": "Shared labels",
+    "order": 17
+  },
+  "app:common.months.december": {
+    "screen": "Shared labels",
+    "order": 18
+  },
+  "app:common.tapToWatchOnYouTube": {
+    "screen": "Shared labels",
+    "order": 19
+  },
+  "app:common.videoUnavailable": {
+    "screen": "Shared labels",
+    "order": 20
+  },
+  "app:common.questionWillBeSkipped": {
+    "screen": "Shared labels",
+    "order": 21
+  },
+  "app:common.close": {
+    "screen": "Shared labels",
+    "order": 22
+  },
+  "app:welcome.title": {
+    "screen": "Onboarding — welcome",
+    "order": 23
+  },
+  "app:welcome.description": {
+    "screen": "Onboarding — welcome",
+    "order": 24
+  },
+  "app:welcome.subtitle": {
+    "screen": "Onboarding — welcome",
+    "order": 25
+  },
+  "app:welcome.startButton": {
+    "screen": "Onboarding — welcome",
+    "order": 26
+  },
+  "app:welcome.loginButton": {
+    "screen": "Onboarding — welcome",
+    "order": 27
+  },
+  "app:welcome.features.flashcards": {
+    "screen": "Onboarding — welcome",
+    "order": 28
+  },
+  "app:welcome.features.quiz": {
+    "screen": "Onboarding — welcome",
+    "order": 29
+  },
+  "app:welcome.features.exams": {
+    "screen": "Onboarding — welcome",
+    "order": 30
+  },
+  "app:welcome.features.languages": {
+    "screen": "Onboarding — welcome",
+    "order": 31
+  },
+  "app:welcome.features.math": {
+    "screen": "Onboarding — welcome",
+    "order": 32
+  },
+  "app:welcome.features.listen": {
+    "screen": "Onboarding — welcome",
+    "order": 33
+  },
+  "app:welcome.features.occlusion": {
+    "screen": "Onboarding — welcome",
+    "order": 34
+  },
+  "app:welcome.proBadge": {
+    "screen": "Onboarding — welcome",
+    "order": 35
+  },
+  "app:welcome.carousel.slide1": {
+    "screen": "Onboarding — welcome",
+    "order": 36
+  },
+  "app:welcome.carousel.slide2": {
+    "screen": "Onboarding — welcome",
+    "order": 37
+  },
+  "app:welcome.carousel.slide3": {
+    "screen": "Onboarding — welcome",
+    "order": 38
+  },
+  "app:welcome.carousel.slide4": {
+    "screen": "Onboarding — welcome",
+    "order": 39
+  },
+  "app:welcome.carousel.slide5": {
+    "screen": "Onboarding — welcome",
+    "order": 40
+  },
+  "app:welcome.carousel.slide6": {
+    "screen": "Onboarding — welcome",
+    "order": 41
+  },
+  "app:welcome.carousel.slide7": {
+    "screen": "Onboarding — welcome",
+    "order": 42
+  },
+  "app:welcome.carousel.slide8": {
+    "screen": "Onboarding — welcome",
+    "order": 43
+  },
+  "app:welcome.carousel.subjects.math": {
+    "screen": "Onboarding — welcome",
+    "order": 44
+  },
+  "app:welcome.carousel.subjects.history": {
+    "screen": "Onboarding — welcome",
+    "order": 45
+  },
+  "app:welcome.carousel.subjects.biology": {
+    "screen": "Onboarding — welcome",
+    "order": 46
+  },
+  "app:welcome.carousel.subjects.physics": {
+    "screen": "Onboarding — welcome",
+    "order": 47
+  },
+  "app:welcome.carousel.subjects.chemistry": {
+    "screen": "Onboarding — welcome",
+    "order": 48
+  },
+  "app:welcome.carousel.subjects.french": {
+    "screen": "Onboarding — welcome",
+    "order": 49
+  },
+  "app:welcome.carousel.subjects.japanese": {
+    "screen": "Onboarding — welcome",
+    "order": 50
+  },
+  "app:welcome.carousel.subjects.economics": {
+    "screen": "Onboarding — welcome",
+    "order": 51
+  },
+  "app:welcome.carousel.subjects.geography": {
+    "screen": "Onboarding — welcome",
+    "order": 52
+  },
+  "app:welcome.carousel.subjects.spanish": {
+    "screen": "Onboarding — welcome",
+    "order": 53
+  },
+  "app:prep.yoTitle": {
+    "screen": "Prep library",
+    "order": 54
+  },
+  "app:prep.yoBadge": {
+    "screen": "Prep library",
+    "order": 55
+  },
+  "app:prep.yoIntro": {
+    "screen": "Prep library",
+    "order": 56
+  },
+  "app:prep.coursesTitle": {
+    "screen": "Prep library",
+    "order": 57
+  },
+  "app:prep.coursesIntro": {
+    "screen": "Prep library",
+    "order": 58
+  },
+  "app:prep.empty": {
+    "screen": "Prep library",
+    "order": 59
+  },
+  "app:prep.topicCount": {
+    "screen": "Prep library",
+    "order": 60
+  },
+  "app:prep.setCountOne": {
+    "screen": "Prep library",
+    "order": 61
+  },
+  "app:prep.setCountMany": {
+    "screen": "Prep library",
+    "order": 62
+  },
+  "app:prep.cardCountOne": {
+    "screen": "Prep library",
+    "order": 63
+  },
+  "app:prep.cardCountMany": {
+    "screen": "Prep library",
+    "order": 64
+  },
+  "app:prep.questionCountOne": {
+    "screen": "Prep library",
+    "order": 65
+  },
+  "app:prep.questionCountMany": {
+    "screen": "Prep library",
+    "order": 66
+  },
+  "app:login.title": {
+    "screen": "Log in",
+    "order": 67
+  },
+  "app:login.subtitle": {
+    "screen": "Log in",
+    "order": 68
+  },
+  "app:login.emailPlaceholder": {
+    "screen": "Log in",
+    "order": 69
+  },
+  "app:login.emailMissing": {
+    "screen": "Log in",
+    "order": 70
+  },
+  "app:login.sendFailed": {
+    "screen": "Log in",
+    "order": 71
+  },
+  "app:login.sendCode": {
+    "screen": "Log in",
+    "order": 72
+  },
+  "app:login.codeSent": {
+    "screen": "Log in",
+    "order": 73
+  },
+  "app:login.codeMissing": {
+    "screen": "Log in",
+    "order": 74
+  },
+  "app:login.codeInvalid": {
+    "screen": "Log in",
+    "order": 75
+  },
+  "app:login.verify": {
+    "screen": "Log in",
+    "order": 76
+  },
+  "app:login.resend": {
+    "screen": "Log in",
+    "order": 77
+  },
+  "app:login.changeEmail": {
+    "screen": "Log in",
+    "order": 78
+  },
+  "app:login.ageNote": {
+    "screen": "Log in",
+    "order": 79
+  },
+  "app:home.greeting": {
+    "screen": "Home",
+    "order": 80
+  },
+  "app:home.questionPrompt": {
+    "screen": "Home",
+    "order": 81
+  },
+  "app:home.startLesson": {
+    "screen": "Home",
+    "order": 82
+  },
+  "app:home.toReview": {
+    "screen": "Home",
+    "order": 83
+  },
+  "app:home.lessons": {
+    "screen": "Home",
+    "order": 84
+  },
+  "app:home.earnMoreSets": {
+    "screen": "Home",
+    "order": 85
+  },
+  "app:home.inviteFriends": {
+    "screen": "Home",
+    "order": 86
+  },
+  "app:spacedRepAnnouncement.headerLabel": {
+    "screen": "Spaced repetition intro",
+    "order": 87
+  },
+  "app:spacedRepAnnouncement.title": {
+    "screen": "Spaced repetition intro",
+    "order": 88
+  },
+  "app:spacedRepAnnouncement.subtitle": {
+    "screen": "Spaced repetition intro",
+    "order": 89
+  },
+  "app:spacedRepAnnouncement.okButton": {
+    "screen": "Spaced repetition intro",
+    "order": 90
+  },
+  "app:spacedRepAnnouncement.practise": {
+    "screen": "Spaced repetition intro",
+    "order": 91
+  },
+  "app:spacedRepAnnouncement.flipcards": {
+    "screen": "Spaced repetition intro",
+    "order": 92
+  },
+  "app:spacedRepAnnouncement.questions": {
+    "screen": "Spaced repetition intro",
+    "order": 93
+  },
+  "app:studySet.guide.readFirst": {
+    "screen": "Study set",
+    "order": 94
+  },
+  "app:studySet.guide.minutesShort": {
+    "screen": "Study set",
+    "order": 95
+  },
+  "app:studySet.guide.studyTimePrefix": {
+    "screen": "Study set",
+    "order": 96
+  },
+  "app:studySet.guide.studyTimeSuffix": {
+    "screen": "Study set",
+    "order": 97
+  },
+  "app:studySet.guide.title": {
+    "screen": "Study set",
+    "order": 98
+  },
+  "app:studySet.guide.goal": {
+    "screen": "Study set",
+    "order": 99
+  },
+  "app:studySet.guide.bigIdea": {
+    "screen": "Study set",
+    "order": 100
+  },
+  "app:studySet.guide.usuallyTested": {
+    "screen": "Study set",
+    "order": 101
+  },
+  "app:studySet.guide.howAsked": {
+    "screen": "Study set",
+    "order": 102
+  },
+  "app:studySet.guide.loseMarks": {
+    "screen": "Study set",
+    "order": 103
+  },
+  "app:studySet.title": {
+    "screen": "Study set",
+    "order": 104
+  },
+  "app:studySet.folder": {
+    "screen": "Study set",
+    "order": 105
+  },
+  "app:studySet.summary": {
+    "screen": "Study set",
+    "order": 106
+  },
+  "app:studySet.quiz": {
+    "screen": "Study set",
+    "order": 107
+  },
+  "app:studySet.flashcards": {
+    "screen": "Study set",
+    "order": 108
+  },
+  "app:studySet.original": {
+    "screen": "Study set",
+    "order": 109
+  },
+  "app:studySet.actions.rename": {
+    "screen": "Study set",
+    "order": 110
+  },
+  "app:studySet.actions.delete": {
+    "screen": "Study set",
+    "order": 111
+  },
+  "app:studySet.rename.title": {
+    "screen": "Study set",
+    "order": 112
+  },
+  "app:studySet.rename.subtitle": {
+    "screen": "Study set",
+    "order": 113
+  },
+  "app:studySet.loadingAudioSubtext": {
+    "screen": "Study set",
+    "order": 114
+  },
+  "app:studySet.audioReady": {
+    "screen": "Study set",
+    "order": 115
+  },
+  "app:studySet.audioTimeoutError": {
+    "screen": "Study set",
+    "order": 116
+  },
+  "app:studySet.audioServerError": {
+    "screen": "Study set",
+    "order": 117
+  },
+  "app:studySet.audioNetworkError": {
+    "screen": "Study set",
+    "order": 118
+  },
+  "app:studySet.audioGenericError": {
+    "screen": "Study set",
+    "order": 119
+  },
+  "app:studySet.audioRetry": {
+    "screen": "Study set",
+    "order": 120
+  },
+  "app:studySet.loadingCaptions": {
+    "screen": "Study set",
+    "order": 121
+  },
+  "app:studySet.loadingNextSection": {
+    "screen": "Study set",
+    "order": 122
+  },
+  "app:studySet.loadingAudioProgress": {
+    "screen": "Study set",
+    "order": 123
+  },
+  "app:studySet.loading": {
+    "screen": "Study set",
+    "order": 124
+  },
+  "app:studySet.noContent": {
+    "screen": "Study set",
+    "order": 125
+  },
+  "app:studySet.loadError": {
+    "screen": "Study set",
+    "order": 126
+  },
+  "app:studySet.showMore": {
+    "screen": "Study set",
+    "order": 127
+  },
+  "app:studySet.showLess": {
+    "screen": "Study set",
+    "order": 128
+  },
+  "app:studySet.cards.learn": {
+    "screen": "Study set",
+    "order": 129
+  },
+  "app:studySet.cards.practice": {
+    "screen": "Study set",
+    "order": 130
+  },
+  "app:studySet.cards.review": {
+    "screen": "Study set",
+    "order": 131
+  },
+  "app:studySet.cards.reviewSubtitle": {
+    "screen": "Study set",
+    "order": 132
+  },
+  "app:studySet.cards.dueForReview": {
+    "screen": "Study set",
+    "order": 133
+  },
+  "app:studySet.cards.xCards": {
+    "screen": "Study set",
+    "order": 134
+  },
+  "app:studySet.cards.xQuestions": {
+    "screen": "Study set",
+    "order": 135
+  },
+  "app:studySet.cards.noCards": {
+    "screen": "Study set",
+    "order": 136
+  },
+  "app:studySet.cards.noQuestions": {
+    "screen": "Study set",
+    "order": 137
+  },
+  "app:studySet.cards.goToFlashcards": {
+    "screen": "Study set",
+    "order": 138
+  },
+  "app:studySet.cards.dueCount": {
+    "screen": "Study set",
+    "order": 139
+  },
+  "app:studySet.tableDisplay": {
+    "screen": "Study set",
+    "order": 140
+  },
+  "app:studySet.vocabularyTable.term": {
+    "screen": "Study set",
+    "order": 141
+  },
+  "app:studySet.vocabularyTable.definition": {
+    "screen": "Study set",
+    "order": 142
+  },
+  "app:studySet.noContentToPlay": {
+    "screen": "Study set",
+    "order": 143
+  },
+  "app:studySet.noLanguageForAudio": {
+    "screen": "Study set",
+    "order": 144
+  },
+  "app:studySet.share": {
+    "screen": "Study set",
+    "order": 145
+  },
+  "app:studySet.share_error_title": {
+    "screen": "Study set",
+    "order": 146
+  },
+  "app:studySet.share_error_message": {
+    "screen": "Study set",
+    "order": 147
+  },
+  "app:studySet.whatsapp_not_installed": {
+    "screen": "Study set",
+    "order": 148
+  },
+  "app:studySet.shareTitle": {
+    "screen": "Study set",
+    "order": 149
+  },
+  "app:studySet.shareDialogTitle": {
+    "screen": "Study set",
+    "order": 150
+  },
+  "app:studySet.previewText": {
+    "screen": "Study set",
+    "order": 151
+  },
+  "app:studySet.shareModalTitle": {
+    "screen": "Study set",
+    "order": 152
+  },
+  "app:studySet.shareModalMessage": {
+    "screen": "Study set",
+    "order": 153
+  },
+  "app:studySet.shareStudySet": {
+    "screen": "Study set",
+    "order": 154
+  },
+  "app:studySet.linkCopied": {
+    "screen": "Study set",
+    "order": 155
+  },
+  "app:studySet.generateReadingPractice": {
+    "screen": "Study set",
+    "order": 156
+  },
+  "app:studySet.readingPracticeSubtitle": {
+    "screen": "Study set",
+    "order": 157
+  },
+  "app:studySet.readingPracticeGenerating": {
+    "screen": "Study set",
+    "order": 158
+  },
+  "app:studySet.openReadingPractice": {
+    "screen": "Study set",
+    "order": 159
+  },
+  "app:studySet.generatingReadingPractice": {
+    "screen": "Study set",
+    "order": 160
+  },
+  "app:studySet.noVocabularyData": {
+    "screen": "Study set",
+    "order": 161
+  },
+  "app:studySet.loadingAudio": {
+    "screen": "Study set",
+    "order": 162
+  },
+  "app:studySet.read": {
+    "screen": "Study set",
+    "order": 163
+  },
+  "app:studySet.listen": {
+    "screen": "Study set",
+    "order": 164
+  },
+  "app:progressive.toasts.checkingContent": {
+    "screen": "Creating a set",
+    "order": 165
+  },
+  "app:progressive.toasts.creatingFlashcards": {
+    "screen": "Creating a set",
+    "order": 166
+  },
+  "app:progressive.toasts.creatingMathProblems": {
+    "screen": "Creating a set",
+    "order": 167
+  },
+  "app:progressive.toasts.nextStepQuiz": {
+    "screen": "Creating a set",
+    "order": 168
+  },
+  "app:progressive.toasts.almostDone": {
+    "screen": "Creating a set",
+    "order": 169
+  },
+  "app:progressive.features.flashcards": {
+    "screen": "Creating a set",
+    "order": 170
+  },
+  "app:progressive.features.quiz": {
+    "screen": "Creating a set",
+    "order": 171
+  },
+  "app:progressive.features.thinking": {
+    "screen": "Creating a set",
+    "order": 172
+  },
+  "app:progressive.features.feedback": {
+    "screen": "Creating a set",
+    "order": 173
+  },
+  "app:progressive.features.concepts": {
+    "screen": "Creating a set",
+    "order": 174
+  },
+  "app:progressive.features.audio": {
+    "screen": "Creating a set",
+    "order": 175
+  },
+  "app:progressive.features.privacy": {
+    "screen": "Creating a set",
+    "order": 176
+  },
+  "app:settings.title": {
+    "screen": "Settings",
+    "order": 177
+  },
+  "app:settings.language": {
+    "screen": "Settings",
+    "order": 178
+  },
+  "app:settings.interfaceLanguage": {
+    "screen": "Settings",
+    "order": 179
+  },
+  "app:settings.error": {
+    "screen": "Settings",
+    "order": 180
+  },
+  "app:settings.languages.English.name": {
+    "screen": "Settings",
+    "order": 181
+  },
+  "app:settings.languages.English.inLanguage": {
+    "screen": "Settings",
+    "order": 182
+  },
+  "app:settings.languages.Finnish.name": {
+    "screen": "Settings",
+    "order": 183
+  },
+  "app:settings.languages.Finnish.inLanguage": {
+    "screen": "Settings",
+    "order": 184
+  },
+  "app:settings.languages.Swedish.name": {
+    "screen": "Settings",
+    "order": 185
+  },
+  "app:settings.languages.Swedish.inLanguage": {
+    "screen": "Settings",
+    "order": 186
+  },
+  "app:settings.languages.French.name": {
+    "screen": "Settings",
+    "order": 187
+  },
+  "app:settings.languages.French.inLanguage": {
+    "screen": "Settings",
+    "order": 188
+  },
+  "app:settings.languages.Spanish.name": {
+    "screen": "Settings",
+    "order": 189
+  },
+  "app:settings.languages.Spanish.inLanguage": {
+    "screen": "Settings",
+    "order": 190
+  },
+  "app:settings.languages.German.name": {
+    "screen": "Settings",
+    "order": 191
+  },
+  "app:settings.languages.German.inLanguage": {
+    "screen": "Settings",
+    "order": 192
+  },
+  "app:settings.sections.account": {
+    "screen": "Settings",
+    "order": 193
+  },
+  "app:settings.sections.preferences": {
+    "screen": "Settings",
+    "order": 194
+  },
+  "app:settings.sections.languages": {
+    "screen": "Settings",
+    "order": 195
+  },
+  "app:settings.sections.sharing": {
+    "screen": "Settings",
+    "order": 196
+  },
+  "app:settings.sections.about": {
+    "screen": "Settings",
+    "order": 197
+  },
+  "app:settings.studyLanguage": {
+    "screen": "Settings",
+    "order": 198
+  },
+  "app:settings.learningLanguages": {
+    "screen": "Settings",
+    "order": 199
+  },
+  "app:settings.notSet": {
+    "screen": "Settings",
+    "order": 200
+  },
+  "app:settings.none": {
+    "screen": "Settings",
+    "order": 201
+  },
+  "app:settings.accountRow": {
+    "screen": "Settings",
+    "order": 202
+  },
+  "app:settings.accountScreen.title": {
+    "screen": "Settings",
+    "order": 203
+  },
+  "app:settings.accountScreen.emptyBody": {
+    "screen": "Settings",
+    "order": 204
+  },
+  "app:settings.accountScreen.createAccount": {
+    "screen": "Settings",
+    "order": 205
+  },
+  "app:settings.accountScreen.loggedIn": {
+    "screen": "Settings",
+    "order": 206
+  },
+  "app:settings.accountScreen.logOut": {
+    "screen": "Settings",
+    "order": 207
+  },
+  "app:settings.accountScreen.deleteAccount": {
+    "screen": "Settings",
+    "order": 208
+  },
+  "app:settings.accountScreen.deleteCaption": {
+    "screen": "Settings",
+    "order": 209
+  },
+  "app:settings.accountScreen.deleteConfirmTitle": {
+    "screen": "Settings",
+    "order": 210
+  },
+  "app:settings.accountScreen.deleteConfirmMessage": {
+    "screen": "Settings",
+    "order": 211
+  },
+  "app:settings.accountScreen.deleteConfirm": {
+    "screen": "Settings",
+    "order": 212
+  },
+  "app:settings.accountScreen.deleteError": {
+    "screen": "Settings",
+    "order": 213
+  },
+  "app:settings.profileSettings": {
+    "screen": "Settings",
+    "order": 214
+  },
+  "app:settings.manageSubscription": {
+    "screen": "Settings",
+    "order": 215
+  },
+  "app:settings.appearance": {
+    "screen": "Settings",
+    "order": 216
+  },
+  "app:settings.useSystemTheme": {
+    "screen": "Settings",
+    "order": 217
+  },
+  "app:settings.lightMode": {
+    "screen": "Settings",
+    "order": 218
+  },
+  "app:settings.darkMode": {
+    "screen": "Settings",
+    "order": 219
+  },
+  "app:settings.notifications": {
+    "screen": "Settings",
+    "order": 220
+  },
+  "app:settings.spacedRepetition": {
+    "screen": "Settings",
+    "order": 221
+  },
+  "app:settings.spacedRepetitionDescription": {
+    "screen": "Settings",
+    "order": 222
+  },
+  "app:settings.dailyReminder": {
+    "screen": "Settings",
+    "order": 223
+  },
+  "app:settings.reminderTime": {
+    "screen": "Settings",
+    "order": 224
+  },
+  "app:settings.termsConditions": {
+    "screen": "Settings",
+    "order": 225
+  },
+  "app:settings.getHelp": {
+    "screen": "Settings",
+    "order": 226
+  },
+  "app:settings.rateApp": {
+    "screen": "Settings",
+    "order": 227
+  },
+  "app:settings.earnFreeSets": {
+    "screen": "Settings",
+    "order": 228
+  },
+  "app:settings.upgradeToPro": {
+    "screen": "Settings",
+    "order": 229
+  },
+  "app:settings.redeemCode": {
+    "screen": "Settings",
+    "order": 230
+  },
+  "app:settings.giftLexie": {
+    "screen": "Settings",
+    "order": 231
+  },
+  "app:settings.tellAFriend": {
+    "screen": "Settings",
+    "order": 232
+  },
+  "app:settings.proPass.title": {
+    "screen": "Settings",
+    "order": 233
+  },
+  "app:settings.proPass.subtitle": {
+    "screen": "Settings",
+    "order": 234
+  },
+  "app:settings.proPass.upgradeButton": {
+    "screen": "Settings",
+    "order": 235
+  },
+  "app:settings.lexieGift.title": {
+    "screen": "Settings",
+    "order": 236
+  },
+  "app:settings.lexieGift.subtitle": {
+    "screen": "Settings",
+    "order": 237
+  },
+  "app:settings.betaFeatures": {
+    "screen": "Settings",
+    "order": 238
+  },
+  "app:settings.betaFeaturesSubtitle": {
+    "screen": "Settings",
+    "order": 239
+  },
+  "app:settings.features.imageOcclusion": {
+    "screen": "Settings",
+    "order": 240
+  },
+  "app:settings.features.imageOcclusionDesc": {
+    "screen": "Settings",
+    "order": 241
+  },
+  "app:settings.features.mathMode": {
+    "screen": "Settings",
+    "order": 242
+  },
+  "app:settings.features.mathModeDesc": {
+    "screen": "Settings",
+    "order": 243
+  },
+  "app:settings.features.mathModeBetaTitle": {
+    "screen": "Settings",
+    "order": 244
+  },
+  "app:settings.features.mathModeBetaMessage": {
+    "screen": "Settings",
+    "order": 245
+  },
+  "app:settings.footer.thankYou": {
+    "screen": "Settings",
+    "order": 246
+  },
+  "app:settings.footer.loveLine": {
+    "screen": "Settings",
+    "order": 247
+  },
+  "app:settings.deleteProfile.title": {
+    "screen": "Settings",
+    "order": 248
+  },
+  "app:settings.deleteProfile.message": {
+    "screen": "Settings",
+    "order": 249
+  },
+  "app:settings.deleteProfile.cancel": {
+    "screen": "Settings",
+    "order": 250
+  },
+  "app:settings.deleteProfile.confirm": {
+    "screen": "Settings",
+    "order": 251
+  },
+  "app:settings.deleteProfile.error": {
+    "screen": "Settings",
+    "order": 252
+  },
+  "app:settings.helpCentre.title": {
+    "screen": "Settings",
+    "order": 253
+  },
+  "app:settings.helpCentre.intro": {
+    "screen": "Settings",
+    "order": 254
+  },
+  "app:settings.helpCentre.sections.subscriptionPayments": {
+    "screen": "Settings",
+    "order": 255
+  },
+  "app:settings.helpCentre.sections.usingLexie": {
+    "screen": "Settings",
+    "order": 256
+  },
+  "app:settings.helpCentre.stillStuck.label": {
+    "screen": "Settings",
+    "order": 257
+  },
+  "app:settings.helpCentre.stillStuck.body": {
+    "screen": "Settings",
+    "order": 258
+  },
+  "app:settings.helpCentre.stillStuck.messageMe": {
+    "screen": "Settings",
+    "order": 259
+  },
+  "app:settings.helpCentre.stillStuck.whatsapp": {
+    "screen": "Settings",
+    "order": 260
+  },
+  "app:settings.helpCentre.stillStuck.whatsappMessage": {
+    "screen": "Settings",
+    "order": 261
+  },
+  "app:settings.helpCentre.faqs.howToCancel.question": {
+    "screen": "Settings",
+    "order": 262
+  },
+  "app:settings.helpCentre.faqs.howToCancel.answer": {
+    "screen": "Settings",
+    "order": 263
+  },
+  "app:settings.helpCentre.faqs.webPurchaseLogin.question": {
+    "screen": "Settings",
+    "order": 264
+  },
+  "app:settings.helpCentre.faqs.webPurchaseLogin.answer": {
+    "screen": "Settings",
+    "order": 265
+  },
+  "app:settings.helpCentre.faqs.shareWithKid.question": {
+    "screen": "Settings",
+    "order": 266
+  },
+  "app:settings.helpCentre.faqs.shareWithKid.answer": {
+    "screen": "Settings",
+    "order": 267
+  },
+  "app:settings.helpCentre.faqs.freeTierRunsOut.question": {
+    "screen": "Settings",
+    "order": 268
+  },
+  "app:settings.helpCentre.faqs.freeTierRunsOut.answer": {
+    "screen": "Settings",
+    "order": 269
+  },
+  "app:settings.helpCentre.faqs.openWhatsappSet.question": {
+    "screen": "Settings",
+    "order": 270
+  },
+  "app:settings.helpCentre.faqs.openWhatsappSet.answer": {
+    "screen": "Settings",
+    "order": 271
+  },
+  "app:settings.helpCentre.faqs.multiDevice.question": {
+    "screen": "Settings",
+    "order": 272
+  },
+  "app:settings.helpCentre.faqs.multiDevice.answer": {
+    "screen": "Settings",
+    "order": 273
+  },
+  "app:settings.helpCentre.message.title": {
+    "screen": "Settings",
+    "order": 274
+  },
+  "app:settings.helpCentre.message.placeholder": {
+    "screen": "Settings",
+    "order": 275
+  },
+  "app:settings.helpCentre.message.emailPlaceholder": {
+    "screen": "Settings",
+    "order": 276
+  },
+  "app:settings.helpCentre.message.attach": {
+    "screen": "Settings",
+    "order": 277
+  },
+  "app:settings.helpCentre.message.send": {
+    "screen": "Settings",
+    "order": 278
+  },
+  "app:settings.helpCentre.message.sent": {
+    "screen": "Settings",
+    "order": 279
+  },
+  "app:settings.manageSubscriptionScreen.title": {
+    "screen": "Settings",
+    "order": 280
+  },
+  "app:settings.manageSubscriptionScreen.statusLabel": {
+    "screen": "Settings",
+    "order": 281
+  },
+  "app:settings.manageSubscriptionScreen.planAnnual": {
+    "screen": "Settings",
+    "order": 282
+  },
+  "app:settings.manageSubscriptionScreen.planMonthly": {
+    "screen": "Settings",
+    "order": 283
+  },
+  "app:settings.manageSubscriptionScreen.proPassName": {
+    "screen": "Settings",
+    "order": 284
+  },
+  "app:settings.manageSubscriptionScreen.renewsLabel": {
+    "screen": "Settings",
+    "order": 285
+  },
+  "app:settings.manageSubscriptionScreen.openStoreSettings": {
+    "screen": "Settings",
+    "order": 286
+  },
+  "app:settings.manageSubscriptionScreen.manageWebBilling": {
+    "screen": "Settings",
+    "order": 287
+  },
+  "app:settings.manageSubscriptionScreen.cancelSubscription": {
+    "screen": "Settings",
+    "order": 288
+  },
+  "app:settings.manageSubscriptionScreen.survey.title": {
+    "screen": "Settings",
+    "order": 289
+  },
+  "app:settings.manageSubscriptionScreen.survey.subtitle": {
+    "screen": "Settings",
+    "order": 290
+  },
+  "app:settings.manageSubscriptionScreen.survey.reasons.notUsing": {
+    "screen": "Settings",
+    "order": 291
+  },
+  "app:settings.manageSubscriptionScreen.survey.reasons.tooExpensive": {
+    "screen": "Settings",
+    "order": 292
+  },
+  "app:settings.manageSubscriptionScreen.survey.reasons.missing": {
+    "screen": "Settings",
+    "order": 293
+  },
+  "app:settings.manageSubscriptionScreen.survey.reasons.foundBetter": {
+    "screen": "Settings",
+    "order": 294
+  },
+  "app:settings.manageSubscriptionScreen.survey.reasons.examEnded": {
+    "screen": "Settings",
+    "order": 295
+  },
+  "app:settings.manageSubscriptionScreen.survey.reasons.technical": {
+    "screen": "Settings",
+    "order": 296
+  },
+  "app:settings.manageSubscriptionScreen.survey.followupPlaceholder": {
+    "screen": "Settings",
+    "order": 297
+  },
+  "app:settings.manageSubscriptionScreen.survey.continueButton": {
+    "screen": "Settings",
+    "order": 298
+  },
+  "app:preview.title": {
+    "screen": "Preview",
+    "order": 299
+  },
+  "app:preview.imageCounter": {
+    "screen": "Preview",
+    "order": 300
+  },
+  "app:preview.readyButton": {
+    "screen": "Preview",
+    "order": 301
+  },
+  "app:preview.takeMore": {
+    "screen": "Preview",
+    "order": 302
+  },
+  "app:preview.chooseMore": {
+    "screen": "Preview",
+    "order": 303
+  },
+  "app:preview.loading": {
+    "screen": "Preview",
+    "order": 304
+  },
+  "app:preview.maxImagesReached": {
+    "screen": "Preview",
+    "order": 305
+  },
+  "app:preview.maxImagesMessage": {
+    "screen": "Preview",
+    "order": 306
+  },
+  "app:preview.maxImagesHint": {
+    "screen": "Preview",
+    "order": 307
+  },
+  "app:chat.askLexie": {
+    "screen": "Chat",
+    "order": 308
+  },
+  "app:chat.addPhoto": {
+    "screen": "Chat",
+    "order": 309
+  },
+  "app:chat.takePhoto": {
+    "screen": "Chat",
+    "order": 310
+  },
+  "app:chat.chooseFromLibrary": {
+    "screen": "Chat",
+    "order": 311
+  },
+  "app:chat.cancel": {
+    "screen": "Chat",
+    "order": 312
+  },
+  "app:feedback.title": {
+    "screen": "Feedback",
+    "order": 313
+  },
+  "app:feedback.selectCategory": {
+    "screen": "Feedback",
+    "order": 314
+  },
+  "app:feedback.categories.technical": {
+    "screen": "Feedback",
+    "order": 315
+  },
+  "app:feedback.categories.content": {
+    "screen": "Feedback",
+    "order": 316
+  },
+  "app:feedback.categories.ux": {
+    "screen": "Feedback",
+    "order": 317
+  },
+  "app:feedback.categories.feature": {
+    "screen": "Feedback",
+    "order": 318
+  },
+  "app:feedback.categories.incorrect": {
+    "screen": "Feedback",
+    "order": 319
+  },
+  "app:feedback.categories.offTopic": {
+    "screen": "Feedback",
+    "order": 320
+  },
+  "app:feedback.categories.multipleAnswers": {
+    "screen": "Feedback",
+    "order": 321
+  },
+  "app:feedback.categories.formatting": {
+    "screen": "Feedback",
+    "order": 322
+  },
+  "app:feedback.categories.other": {
+    "screen": "Feedback",
+    "order": 323
+  },
+  "app:feedback.submit": {
+    "screen": "Feedback",
+    "order": 324
+  },
+  "app:feedback.disclaimer": {
+    "screen": "Feedback",
+    "order": 325
+  },
+  "app:feedback.thankYou": {
+    "screen": "Feedback",
+    "order": 326
+  },
+  "app:feedback.permissions.gallery": {
+    "screen": "Feedback",
+    "order": 327
+  },
+  "app:feedback.errors.category": {
+    "screen": "Feedback",
+    "order": 328
+  },
+  "app:feedback.errors.description": {
+    "screen": "Feedback",
+    "order": 329
+  },
+  "app:feedback.selectCategoryPlaceholder": {
+    "screen": "Feedback",
+    "order": 330
+  },
+  "app:alerts.error": {
+    "screen": "Alerts",
+    "order": 331
+  },
+  "app:alerts.ok": {
+    "screen": "Alerts",
+    "order": 332
+  },
+  "app:alerts.permissionNeeded": {
+    "screen": "Alerts",
+    "order": 333
+  },
+  "app:alerts.photoLibraryPermission": {
+    "screen": "Alerts",
+    "order": 334
+  },
+  "app:alerts.imageLoadFailed": {
+    "screen": "Alerts",
+    "order": 335
+  },
+  "app:alerts.processingError": {
+    "screen": "Alerts",
+    "order": 336
+  },
+  "app:alerts.imageSendingFailed": {
+    "screen": "Alerts",
+    "order": 337
+  },
+  "app:alerts.imagesTooLarge": {
+    "screen": "Alerts",
+    "order": 338
+  },
+  "app:alerts.imageUnreadable": {
+    "screen": "Alerts",
+    "order": 339
+  },
+  "app:alerts.noTextInImage": {
+    "screen": "Alerts",
+    "order": 340
+  },
+  "app:alerts.imageRefused": {
+    "screen": "Alerts",
+    "order": 341
+  },
+  "app:alerts.sizeError": {
+    "screen": "Alerts",
+    "order": 342
+  },
+  "app:alerts.tooManyAttempts": {
+    "screen": "Alerts",
+    "order": 343
+  },
+  "app:alerts.serverUnavailable": {
+    "screen": "Alerts",
+    "order": 344
+  },
+  "app:alerts.checkConnection": {
+    "screen": "Alerts",
+    "order": 345
+  },
+  "app:alerts.networkError": {
+    "screen": "Alerts",
+    "order": 346
+  },
+  "app:alerts.connectionError": {
+    "screen": "Alerts",
+    "order": 347
+  },
+  "app:alerts.pdfExtractionError": {
+    "screen": "Alerts",
+    "order": 348
+  },
+  "app:alerts.pdfImportFailed": {
+    "screen": "Alerts",
+    "order": 349
+  },
+  "app:alerts.invalidTextContent": {
+    "screen": "Alerts",
+    "order": 350
+  },
+  "app:alerts.processingTimeout": {
+    "screen": "Alerts",
+    "order": 351
+  },
+  "app:alerts.generationTimeout": {
+    "screen": "Alerts",
+    "order": 352
+  },
+  "app:alerts.noTextContent": {
+    "screen": "Alerts",
+    "order": 353
+  },
+  "app:alerts.analyzeTextFailed": {
+    "screen": "Alerts",
+    "order": 354
+  },
+  "app:alerts.folderCreateFailed": {
+    "screen": "Alerts",
+    "order": 355
+  },
+  "app:alerts.assignToFolderFailed": {
+    "screen": "Alerts",
+    "order": 356
+  },
+  "app:alerts.noImages": {
+    "screen": "Alerts",
+    "order": 357
+  },
+  "app:alerts.profileError": {
+    "screen": "Alerts",
+    "order": 358
+  },
+  "app:alerts.noProfile": {
+    "screen": "Alerts",
+    "order": 359
+  },
+  "app:alerts.languageComingSoon": {
+    "screen": "Alerts",
+    "order": 360
+  },
+  "app:alerts.deleteStudySet": {
+    "screen": "Alerts",
+    "order": 361
+  },
+  "app:alerts.deleteConfirmation": {
+    "screen": "Alerts",
+    "order": 362
+  },
+  "app:alerts.delete": {
+    "screen": "Alerts",
+    "order": 363
+  },
+  "app:alerts.deleteError": {
+    "screen": "Alerts",
+    "order": 364
+  },
+  "app:alerts.renameFailed": {
+    "screen": "Alerts",
+    "order": 365
+  },
+  "app:alerts.deleteFailed": {
+    "screen": "Alerts",
+    "order": 366
+  },
+  "app:alerts.takePictureError": {
+    "screen": "Alerts",
+    "order": 367
+  },
+  "app:alerts.permission": {
+    "screen": "Alerts",
+    "order": 368
+  },
+  "app:alerts.cameraAccess": {
+    "screen": "Alerts",
+    "order": 369
+  },
+  "app:scanPage.title": {
+    "screen": "Scan a page",
+    "order": 370
+  },
+  "app:scanPage.cameraError": {
+    "screen": "Scan a page",
+    "order": 371
+  },
+  "app:scanPage.checkingPermission": {
+    "screen": "Scan a page",
+    "order": 372
+  },
+  "app:scanPage.permissionRequired": {
+    "screen": "Scan a page",
+    "order": 373
+  },
+  "app:scanPage.cameraPermissionRequired": {
+    "screen": "Scan a page",
+    "order": 374
+  },
+  "app:scanPage.cameraPermissionMessage": {
+    "screen": "Scan a page",
+    "order": 375
+  },
+  "app:scanPage.grantPermission": {
+    "screen": "Scan a page",
+    "order": 376
+  },
+  "app:scanPage.goBack": {
+    "screen": "Scan a page",
+    "order": 377
+  },
+  "app:scanPage.tryAgain": {
+    "screen": "Scan a page",
+    "order": 378
+  },
+  "app:scanPage.startingCamera": {
+    "screen": "Scan a page",
+    "order": 379
+  },
+  "app:scanPage.takePhotoInstruction": {
+    "screen": "Scan a page",
+    "order": 380
+  },
+  "app:scanPage.requestingCameraPermission": {
+    "screen": "Scan a page",
+    "order": 381
+  },
+  "app:scanPage.tips.title": {
+    "screen": "Scan a page",
+    "order": 382
+  },
+  "app:scanPage.tips.tip1Title": {
+    "screen": "Scan a page",
+    "order": 383
+  },
+  "app:scanPage.tips.tip1Description": {
+    "screen": "Scan a page",
+    "order": 384
+  },
+  "app:scanPage.tips.tip2Title": {
+    "screen": "Scan a page",
+    "order": 385
+  },
+  "app:scanPage.tips.tip2Description": {
+    "screen": "Scan a page",
+    "order": 386
+  },
+  "app:scanPage.tips.tip3Title": {
+    "screen": "Scan a page",
+    "order": 387
+  },
+  "app:scanPage.tips.tip3Description": {
+    "screen": "Scan a page",
+    "order": 388
+  },
+  "app:scanPage.initializingCamera": {
+    "screen": "Scan a page",
+    "order": 389
+  },
+  "app:quiz.title": {
+    "screen": "Quiz",
+    "order": 390
+  },
+  "app:quiz.progressOf": {
+    "screen": "Quiz",
+    "order": 391
+  },
+  "app:quiz.loading": {
+    "screen": "Quiz",
+    "order": 392
+  },
+  "app:quiz.feedback.checking": {
+    "screen": "Quiz",
+    "order": 393
+  },
+  "app:quiz.feedback.incorrect": {
+    "screen": "Quiz",
+    "order": 394
+  },
+  "app:quiz.feedback.incorrectFinal": {
+    "screen": "Quiz",
+    "order": 395
+  },
+  "app:quiz.feedback.goodJob": {
+    "screen": "Quiz",
+    "order": 396
+  },
+  "app:quiz.feedback.thatWentWrong": {
+    "screen": "Quiz",
+    "order": 397
+  },
+  "app:quiz.feedback.correct": {
+    "screen": "Quiz",
+    "order": 398
+  },
+  "app:quiz.feedback.notQuite": {
+    "screen": "Quiz",
+    "order": 399
+  },
+  "app:quiz.feedback.goodTry": {
+    "screen": "Quiz",
+    "order": 400
+  },
+  "app:quiz.feedback.stillLearning": {
+    "screen": "Quiz",
+    "order": 401
+  },
+  "app:quiz.feedback.mastered": {
+    "screen": "Quiz",
+    "order": 402
+  },
+  "app:quiz.walk.correctAnswer": {
+    "screen": "Quiz",
+    "order": 403
+  },
+  "app:quiz.buttons.ok": {
+    "screen": "Quiz",
+    "order": 404
+  },
+  "app:quiz.buttons.skip": {
+    "screen": "Quiz",
+    "order": 405
+  },
+  "app:quiz.buttons.continue": {
+    "screen": "Quiz",
+    "order": 406
+  },
+  "app:quiz.buttons.tryAgain": {
+    "screen": "Quiz",
+    "order": 407
+  },
+  "app:quiz.buttons.submit": {
+    "screen": "Quiz",
+    "order": 408
+  },
+  "app:quiz.alerts.noQuestionsTitle": {
+    "screen": "Quiz",
+    "order": 409
+  },
+  "app:quiz.alerts.noQuestionsMessage": {
+    "screen": "Quiz",
+    "order": 410
+  },
+  "app:quiz.alerts.loadErrorTitle": {
+    "screen": "Quiz",
+    "order": 411
+  },
+  "app:quiz.alerts.loadErrorMessage": {
+    "screen": "Quiz",
+    "order": 412
+  },
+  "app:quiz.alerts.studyTextErrorTitle": {
+    "screen": "Quiz",
+    "order": 413
+  },
+  "app:quiz.alerts.studyTextErrorMessage": {
+    "screen": "Quiz",
+    "order": 414
+  },
+  "app:quiz.validation.selectAnswer": {
+    "screen": "Quiz",
+    "order": 415
+  },
+  "app:quiz.validation.fillAllBlanks": {
+    "screen": "Quiz",
+    "order": 416
+  },
+  "app:quiz.studyText.title": {
+    "screen": "Quiz",
+    "order": 417
+  },
+  "app:quizComplete.results.perfect.title": {
+    "screen": "Quiz results",
+    "order": 418
+  },
+  "app:quizComplete.results.perfect.subtitle": {
+    "screen": "Quiz results",
+    "order": 419
+  },
+  "app:quizComplete.results.excellent.title": {
+    "screen": "Quiz results",
+    "order": 420
+  },
+  "app:quizComplete.results.excellent.subtitle": {
+    "screen": "Quiz results",
+    "order": 421
+  },
+  "app:quizComplete.results.good.title": {
+    "screen": "Quiz results",
+    "order": 422
+  },
+  "app:quizComplete.results.good.subtitle": {
+    "screen": "Quiz results",
+    "order": 423
+  },
+  "app:quizComplete.results.average.title": {
+    "screen": "Quiz results",
+    "order": 424
+  },
+  "app:quizComplete.results.average.subtitle": {
+    "screen": "Quiz results",
+    "order": 425
+  },
+  "app:quizComplete.results.needsImprovement.title": {
+    "screen": "Quiz results",
+    "order": 426
+  },
+  "app:quizComplete.results.needsImprovement.subtitle": {
+    "screen": "Quiz results",
+    "order": 427
+  },
+  "app:quizComplete.yourProgress": {
+    "screen": "Quiz results",
+    "order": 428
+  },
+  "app:quizComplete.questionsMastered": {
+    "screen": "Quiz results",
+    "order": 429
+  },
+  "app:quizComplete.stillLearning": {
+    "screen": "Quiz results",
+    "order": 430
+  },
+  "app:quizComplete.skipped": {
+    "screen": "Quiz results",
+    "order": 431
+  },
+  "app:quizComplete.mastered": {
+    "screen": "Quiz results",
+    "order": 432
+  },
+  "app:quizComplete.keepPracticing": {
+    "screen": "Quiz results",
+    "order": 433
+  },
+  "app:quizComplete.keepPracticingMath": {
+    "screen": "Quiz results",
+    "order": 434
+  },
+  "app:quizComplete.startAgain": {
+    "screen": "Quiz results",
+    "order": 435
+  },
+  "app:quizComplete.backToLesson": {
+    "screen": "Quiz results",
+    "order": 436
+  },
+  "app:quizComplete.close": {
+    "screen": "Quiz results",
+    "order": 437
+  },
+  "app:quizComplete.studyTips.perfect1": {
+    "screen": "Quiz results",
+    "order": 438
+  },
+  "app:quizComplete.studyTips.perfect2": {
+    "screen": "Quiz results",
+    "order": 439
+  },
+  "app:quizComplete.studyTips.perfect3": {
+    "screen": "Quiz results",
+    "order": 440
+  },
+  "app:quizComplete.studyTips.excellent1": {
+    "screen": "Quiz results",
+    "order": 441
+  },
+  "app:quizComplete.studyTips.excellent2": {
+    "screen": "Quiz results",
+    "order": 442
+  },
+  "app:quizComplete.studyTips.excellent3": {
+    "screen": "Quiz results",
+    "order": 443
+  },
+  "app:quizComplete.studyTips.good1": {
+    "screen": "Quiz results",
+    "order": 444
+  },
+  "app:quizComplete.studyTips.good2": {
+    "screen": "Quiz results",
+    "order": 445
+  },
+  "app:quizComplete.studyTips.good3": {
+    "screen": "Quiz results",
+    "order": 446
+  },
+  "app:quizComplete.studyTips.average1": {
+    "screen": "Quiz results",
+    "order": 447
+  },
+  "app:quizComplete.studyTips.average2": {
+    "screen": "Quiz results",
+    "order": 448
+  },
+  "app:quizComplete.studyTips.average3": {
+    "screen": "Quiz results",
+    "order": 449
+  },
+  "app:quizComplete.studyTips.needsImprovement1": {
+    "screen": "Quiz results",
+    "order": 450
+  },
+  "app:quizComplete.studyTips.needsImprovement2": {
+    "screen": "Quiz results",
+    "order": 451
+  },
+  "app:quizComplete.studyTips.needsImprovement3": {
+    "screen": "Quiz results",
+    "order": 452
+  },
+  "app:profileSettings.title": {
+    "screen": "Profile settings",
+    "order": 453
+  },
+  "app:profileSettings.loading": {
+    "screen": "Profile settings",
+    "order": 454
+  },
+  "app:profileSettings.save": {
+    "screen": "Profile settings",
+    "order": 455
+  },
+  "app:profileSettings.nameLabel": {
+    "screen": "Profile settings",
+    "order": 456
+  },
+  "app:profileSettings.namePlaceholder": {
+    "screen": "Profile settings",
+    "order": 457
+  },
+  "app:profileSettings.deleteProfile": {
+    "screen": "Profile settings",
+    "order": 458
+  },
+  "app:profileSettings.alerts.loadError": {
+    "screen": "Profile settings",
+    "order": 459
+  },
+  "app:profileSettings.alerts.noProfile": {
+    "screen": "Profile settings",
+    "order": 460
+  },
+  "app:profileSettings.alerts.saveError": {
+    "screen": "Profile settings",
+    "order": 461
+  },
+  "app:profileImage.title": {
+    "screen": "Profile image",
+    "order": 462
+  },
+  "app:profileImage.continue": {
+    "screen": "Profile image",
+    "order": 463
+  },
+  "app:profileImage.alerts.selectImageTitle": {
+    "screen": "Profile image",
+    "order": 464
+  },
+  "app:profileImage.alerts.selectImageMessage": {
+    "screen": "Profile image",
+    "order": 465
+  },
+  "app:nameInput.greeting": {
+    "screen": "Onboarding — name",
+    "order": 466
+  },
+  "app:nameInput.question": {
+    "screen": "Onboarding — name",
+    "order": 467
+  },
+  "app:nameInput.placeholder": {
+    "screen": "Onboarding — name",
+    "order": 468
+  },
+  "app:nameInput.continue": {
+    "screen": "Onboarding — name",
+    "order": 469
+  },
+  "app:nameInput.alerts.nameRequiredTitle": {
+    "screen": "Onboarding — name",
+    "order": 470
+  },
+  "app:nameInput.alerts.nameRequiredMessage": {
+    "screen": "Onboarding — name",
+    "order": 471
+  },
+  "app:lessonHistory.title": {
+    "screen": "My sets",
+    "order": 472
+  },
+  "app:lessonHistory.loading": {
+    "screen": "My sets",
+    "order": 473
+  },
+  "app:lessonHistory.empty.noLessons": {
+    "screen": "My sets",
+    "order": 474
+  },
+  "app:lessonHistory.empty.startFirst": {
+    "screen": "My sets",
+    "order": 475
+  },
+  "app:lessonHistory.dateFormats.unknownDate": {
+    "screen": "My sets",
+    "order": 476
+  },
+  "app:lessonHistory.dateFormats.invalidDate": {
+    "screen": "My sets",
+    "order": 477
+  },
+  "app:lessonHistory.dateFormats.invalidFormat": {
+    "screen": "My sets",
+    "order": 478
+  },
+  "app:lessonHistory.dateFormats.dateError": {
+    "screen": "My sets",
+    "order": 479
+  },
+  "app:lessonHistory.tabs.allSets": {
+    "screen": "My sets",
+    "order": 480
+  },
+  "app:lessonHistory.tabs.folders": {
+    "screen": "My sets",
+    "order": 481
+  },
+  "app:lessonHistory.tabs.set": {
+    "screen": "My sets",
+    "order": 482
+  },
+  "app:lessonHistory.tabs.sets": {
+    "screen": "My sets",
+    "order": 483
+  },
+  "app:lessonHistory.tabs.noFolders": {
+    "screen": "My sets",
+    "order": 484
+  },
+  "app:fontSettings.goToSettings": {
+    "screen": "Font settings",
+    "order": 485
+  },
+  "app:fontSettings.title": {
+    "screen": "Font settings",
+    "order": 486
+  },
+  "app:fontSettings.fontSize": {
+    "screen": "Font settings",
+    "order": 487
+  },
+  "app:fontSettings.fontFamily": {
+    "screen": "Font settings",
+    "order": 488
+  },
+  "app:fontSettings.allCaps": {
+    "screen": "Font settings",
+    "order": 489
+  },
+  "app:fontSettings.standard": {
+    "screen": "Font settings",
+    "order": 490
+  },
+  "app:fontSettings.reading": {
+    "screen": "Font settings",
+    "order": 491
+  },
+  "app:fontSettings.dyslexiaFriendly": {
+    "screen": "Font settings",
+    "order": 492
+  },
+  "app:fontSettings.highVisibility": {
+    "screen": "Font settings",
+    "order": 493
+  },
+  "app:fontSettings.monospaced": {
+    "screen": "Font settings",
+    "order": 494
+  },
+  "app:fontSettings.case": {
+    "screen": "Font settings",
+    "order": 495
+  },
+  "app:flashcards.title": {
+    "screen": "Flashcards",
+    "order": 496
+  },
+  "app:flashcards.counter": {
+    "screen": "Flashcards",
+    "order": 497
+  },
+  "app:flashcards.left": {
+    "screen": "Flashcards",
+    "order": 498
+  },
+  "app:flashcards.noCards": {
+    "screen": "Flashcards",
+    "order": 499
+  },
+  "app:flashcards.stillLearning": {
+    "screen": "Flashcards",
+    "order": 500
+  },
+  "app:flashcards.iKnowThis": {
+    "screen": "Flashcards",
+    "order": 501
+  },
+  "app:flashcardResults.congratsTitle": {
+    "screen": "Flashcard results",
+    "order": 502
+  },
+  "app:flashcardResults.termsMastered": {
+    "screen": "Flashcard results",
+    "order": 503
+  },
+  "app:flashcardResults.stillLearningLabel": {
+    "screen": "Flashcard results",
+    "order": 504
+  },
+  "app:flashcardResults.keepReviewingButton": {
+    "screen": "Flashcard results",
+    "order": 505
+  },
+  "app:flashcardResults.restartButton": {
+    "screen": "Flashcard results",
+    "order": 506
+  },
+  "app:flashcardResults.practiceRemainingButton": {
+    "screen": "Flashcard results",
+    "order": 507
+  },
+  "app:flashcardResults.masteredLabel": {
+    "screen": "Flashcard results",
+    "order": 508
+  },
+  "app:flashcardResults.progressTitle": {
+    "screen": "Flashcard results",
+    "order": 509
+  },
+  "app:flashcardResults.practiceButton": {
+    "screen": "Flashcard results",
+    "order": 510
+  },
+  "app:review.loading": {
+    "screen": "Spaced repetition",
+    "order": 511
+  },
+  "app:review.front": {
+    "screen": "Spaced repetition",
+    "order": 512
+  },
+  "app:review.back": {
+    "screen": "Spaced repetition",
+    "order": 513
+  },
+  "app:review.tapToFlip": {
+    "screen": "Spaced repetition",
+    "order": 514
+  },
+  "app:review.stillLearning": {
+    "screen": "Spaced repetition",
+    "order": 515
+  },
+  "app:review.iKnowThis": {
+    "screen": "Spaced repetition",
+    "order": 516
+  },
+  "app:review.continue": {
+    "screen": "Spaced repetition",
+    "order": 517
+  },
+  "app:review.sessionComplete": {
+    "screen": "Spaced repetition",
+    "order": 518
+  },
+  "app:review.correctRate": {
+    "screen": "Spaced repetition",
+    "order": 519
+  },
+  "app:review.correct": {
+    "screen": "Spaced repetition",
+    "order": 520
+  },
+  "app:review.needsReview": {
+    "screen": "Spaced repetition",
+    "order": 521
+  },
+  "app:review.done": {
+    "screen": "Spaced repetition",
+    "order": 522
+  },
+  "app:review.allCaughtUp": {
+    "screen": "Spaced repetition",
+    "order": 523
+  },
+  "app:review.noItemsDue": {
+    "screen": "Spaced repetition",
+    "order": 524
+  },
+  "app:review.goBack": {
+    "screen": "Spaced repetition",
+    "order": 525
+  },
+  "app:notifications.promptTitle": {
+    "screen": "Notifications",
+    "order": 526
+  },
+  "app:notifications.promptSubtitle": {
+    "screen": "Notifications",
+    "order": 527
+  },
+  "app:notifications.yesPlease": {
+    "screen": "Notifications",
+    "order": 528
+  },
+  "app:notifications.noThanks": {
+    "screen": "Notifications",
+    "order": 529
+  },
+  "app:notifications.continue": {
+    "screen": "Notifications",
+    "order": 530
+  },
+  "app:notifications.notNow": {
+    "screen": "Notifications",
+    "order": 531
+  },
+  "app:notifications.settingsTitle": {
+    "screen": "Notifications",
+    "order": 532
+  },
+  "app:notifications.settingsEnabled": {
+    "screen": "Notifications",
+    "order": 533
+  },
+  "app:notifications.settingsTime": {
+    "screen": "Notifications",
+    "order": 534
+  },
+  "app:notifications.settingsDisabled": {
+    "screen": "Notifications",
+    "order": 535
+  },
+  "app:notifications.pushTitle": {
+    "screen": "Notifications",
+    "order": 536
+  },
+  "app:notifications.pushBody": {
+    "screen": "Notifications",
+    "order": 537
+  },
+  "app:conceptCards.title": {
+    "screen": "Concept cards",
+    "order": 538
+  },
+  "app:conceptCards.noCards": {
+    "screen": "Concept cards",
+    "order": 539
+  },
+  "app:conceptCards.hint": {
+    "screen": "Concept cards",
+    "order": 540
+  },
+  "app:conceptCards.counter": {
+    "screen": "Concept cards",
+    "order": 541
+  },
+  "app:studySetSettings.language": {
+    "screen": "Study set settings",
+    "order": 542
+  },
+  "app:studySetSettings.chooseFolder": {
+    "screen": "Study set settings",
+    "order": 543
+  },
+  "app:studySetSettings.chooseFont": {
+    "screen": "Study set settings",
+    "order": 544
+  },
+  "app:studySetSettings.editText": {
+    "screen": "Study set settings",
+    "order": 545
+  },
+  "app:studySetSettings.deleteLesson": {
+    "screen": "Study set settings",
+    "order": 546
+  },
+  "app:folder.loading": {
+    "screen": "Folder",
+    "order": 547
+  },
+  "app:folder.empty": {
+    "screen": "Folder",
+    "order": 548
+  },
+  "app:folder.createStudySet": {
+    "screen": "Folder",
+    "order": 549
+  },
+  "app:folder.addNotes": {
+    "screen": "Folder",
+    "order": 550
+  },
+  "app:folder.moveNotes.title": {
+    "screen": "Folder",
+    "order": 551
+  },
+  "app:folder.moveNotes.empty": {
+    "screen": "Folder",
+    "order": 552
+  },
+  "app:folder.moveNotes.saveError": {
+    "screen": "Folder",
+    "order": 553
+  },
+  "app:folder.alerts.deleteError": {
+    "screen": "Folder",
+    "order": 554
+  },
+  "app:folder.alerts.saveError": {
+    "screen": "Folder",
+    "order": 555
+  },
+  "app:folders.actions.rename": {
+    "screen": "Folders",
+    "order": 556
+  },
+  "app:folders.rename.title": {
+    "screen": "Folders",
+    "order": 557
+  },
+  "app:folders.rename.subtitle": {
+    "screen": "Folders",
+    "order": 558
+  },
+  "app:folders.selection.title": {
+    "screen": "Folders",
+    "order": 559
+  },
+  "app:folders.selection.subtitle": {
+    "screen": "Folders",
+    "order": 560
+  },
+  "app:folders.selection.empty": {
+    "screen": "Folders",
+    "order": 561
+  },
+  "app:folders.selection.createButton": {
+    "screen": "Folders",
+    "order": 562
+  },
+  "app:folders.edit.title": {
+    "screen": "Folders",
+    "order": 563
+  },
+  "app:folders.edit.nameLabel": {
+    "screen": "Folders",
+    "order": 564
+  },
+  "app:folders.edit.namePlaceholder": {
+    "screen": "Folders",
+    "order": 565
+  },
+  "app:folders.edit.validation": {
+    "screen": "Folders",
+    "order": 566
+  },
+  "app:folders.edit.colorLabel": {
+    "screen": "Folders",
+    "order": 567
+  },
+  "app:folders.edit.deleteButton": {
+    "screen": "Folders",
+    "order": 568
+  },
+  "app:folders.edit.deletingButton": {
+    "screen": "Folders",
+    "order": 569
+  },
+  "app:folders.edit.alerts.deleteTitle": {
+    "screen": "Folders",
+    "order": 570
+  },
+  "app:folders.edit.alerts.deleteMessage": {
+    "screen": "Folders",
+    "order": 571
+  },
+  "app:folders.edit.alerts.cancel": {
+    "screen": "Folders",
+    "order": 572
+  },
+  "app:folders.edit.alerts.delete": {
+    "screen": "Folders",
+    "order": 573
+  },
+  "app:folders.edit.alerts.error": {
+    "screen": "Folders",
+    "order": 574
+  },
+  "app:folders.edit.alerts.saveError": {
+    "screen": "Folders",
+    "order": 575
+  },
+  "app:folders.creation.title": {
+    "screen": "Folders",
+    "order": 576
+  },
+  "app:folders.creation.nameLabel": {
+    "screen": "Folders",
+    "order": 577
+  },
+  "app:folders.creation.namePlaceholder": {
+    "screen": "Folders",
+    "order": 578
+  },
+  "app:folders.creation.validation": {
+    "screen": "Folders",
+    "order": 579
+  },
+  "app:folders.creation.colorLabel": {
+    "screen": "Folders",
+    "order": 580
+  },
+  "app:folders.creation.createButton": {
+    "screen": "Folders",
+    "order": 581
+  },
+  "app:audioPremium.title": {
+    "screen": "Audio",
+    "order": 582
+  },
+  "app:audioPremium.description": {
+    "screen": "Audio",
+    "order": 583
+  },
+  "app:audioPremium.feature1": {
+    "screen": "Audio",
+    "order": 584
+  },
+  "app:audioPremium.feature2": {
+    "screen": "Audio",
+    "order": 585
+  },
+  "app:audioPremium.upgradeButton": {
+    "screen": "Audio",
+    "order": 586
+  },
+  "app:audioPremium.maybeLater": {
+    "screen": "Audio",
+    "order": 587
+  },
+  "app:termsAndLanguage.languageTitle": {
+    "screen": "Onboarding — terms",
+    "order": 588
+  },
+  "app:termsAndLanguage.termsText": {
+    "screen": "Onboarding — terms",
+    "order": 589
+  },
+  "app:termsAndLanguage.terms": {
+    "screen": "Onboarding — terms",
+    "order": 590
+  },
+  "app:termsAndLanguage.privacy": {
+    "screen": "Onboarding — terms",
+    "order": 591
+  },
+  "app:termsAndLanguage.connector": {
+    "screen": "Onboarding — terms",
+    "order": 592
+  },
+  "app:termsAndLanguage.suffix": {
+    "screen": "Onboarding — terms",
+    "order": 593
+  },
+  "app:termsAndLanguage.continue": {
+    "screen": "Onboarding — terms",
+    "order": 594
+  },
+  "app:termsAndLanguage.termsRequired": {
+    "screen": "Onboarding — terms",
+    "order": 595
+  },
+  "app:termsAndLanguage.termsRequiredMessage": {
+    "screen": "Onboarding — terms",
+    "order": 596
+  },
+  "app:proPass.title": {
+    "screen": "Pro pass",
+    "order": 597
+  },
+  "app:proPass.featureTitle": {
+    "screen": "Pro pass",
+    "order": 598
+  },
+  "app:proPass.featureDescription": {
+    "screen": "Pro pass",
+    "order": 599
+  },
+  "app:proPass.continue": {
+    "screen": "Pro pass",
+    "order": 600
+  },
+  "app:proPass.subscribeAnnually": {
+    "screen": "Pro pass",
+    "order": 601
+  },
+  "app:proPass.subscribeMonthly": {
+    "screen": "Pro pass",
+    "order": 602
+  },
+  "app:proPass.loading": {
+    "screen": "Pro pass",
+    "order": 603
+  },
+  "app:proPass.restorePurchases": {
+    "screen": "Pro pass",
+    "order": 604
+  },
+  "app:proPass.webSignIn": {
+    "screen": "Pro pass",
+    "order": 605
+  },
+  "app:proPass.billedMonthly": {
+    "screen": "Pro pass",
+    "order": 606
+  },
+  "app:proPass.billedYearly": {
+    "screen": "Pro pass",
+    "order": 607
+  },
+  "app:proPass.perMonth": {
+    "screen": "Pro pass",
+    "order": 608
+  },
+  "app:proPass.plans.annual.badge": {
+    "screen": "Pro pass",
+    "order": 609
+  },
+  "app:proPass.plans.annual.title": {
+    "screen": "Pro pass",
+    "order": 610
+  },
+  "app:proPass.plans.annual.description": {
+    "screen": "Pro pass",
+    "order": 611
+  },
+  "app:proPass.plans.annual.period": {
+    "screen": "Pro pass",
+    "order": 612
+  },
+  "app:proPass.plans.annual.discount": {
+    "screen": "Pro pass",
+    "order": 613
+  },
+  "app:proPass.plans.family.badge": {
+    "screen": "Pro pass",
+    "order": 614
+  },
+  "app:proPass.plans.family.title": {
+    "screen": "Pro pass",
+    "order": 615
+  },
+  "app:proPass.plans.family.description": {
+    "screen": "Pro pass",
+    "order": 616
+  },
+  "app:proPass.plans.family.period": {
+    "screen": "Pro pass",
+    "order": 617
+  },
+  "app:proPass.plans.monthly.badge": {
+    "screen": "Pro pass",
+    "order": 618
+  },
+  "app:proPass.plans.monthly.title": {
+    "screen": "Pro pass",
+    "order": 619
+  },
+  "app:proPass.plans.monthly.description": {
+    "screen": "Pro pass",
+    "order": 620
+  },
+  "app:proPass.plans.monthly.period": {
+    "screen": "Pro pass",
+    "order": 621
+  },
+  "app:proPass.purchaseSuccess.title": {
+    "screen": "Pro pass",
+    "order": 622
+  },
+  "app:proPass.purchaseSuccess.message": {
+    "screen": "Pro pass",
+    "order": 623
+  },
+  "app:proPass.purchaseSuccess.button": {
+    "screen": "Pro pass",
+    "order": 624
+  },
+  "app:proPass.purchaseError.title": {
+    "screen": "Pro pass",
+    "order": 625
+  },
+  "app:proPass.purchaseError.message": {
+    "screen": "Pro pass",
+    "order": 626
+  },
+  "app:proPass.purchaseError.button": {
+    "screen": "Pro pass",
+    "order": 627
+  },
+  "app:proPass.restore.success.title": {
+    "screen": "Pro pass",
+    "order": 628
+  },
+  "app:proPass.restore.success.message": {
+    "screen": "Pro pass",
+    "order": 629
+  },
+  "app:proPass.restore.success.button": {
+    "screen": "Pro pass",
+    "order": 630
+  },
+  "app:proPass.restore.error.title": {
+    "screen": "Pro pass",
+    "order": 631
+  },
+  "app:proPass.restore.error.message": {
+    "screen": "Pro pass",
+    "order": 632
+  },
+  "app:proPass.restore.error.button": {
+    "screen": "Pro pass",
+    "order": 633
+  },
+  "app:proPass.subscribed.title": {
+    "screen": "Pro pass",
+    "order": 634
+  },
+  "app:proPass.subscribed.message": {
+    "screen": "Pro pass",
+    "order": 635
+  },
+  "app:proPass.subscribed.backToApp": {
+    "screen": "Pro pass",
+    "order": 636
+  },
+  "app:proPass.affiliateCode.label": {
+    "screen": "Pro pass",
+    "order": 637
+  },
+  "app:proPass.affiliateCode.placeholder": {
+    "screen": "Pro pass",
+    "order": 638
+  },
+  "app:proPass.affiliateCode.applied": {
+    "screen": "Pro pass",
+    "order": 639
+  },
+  "app:proPass.affiliateCode.invalid": {
+    "screen": "Pro pass",
+    "order": 640
+  },
+  "app:referral.title": {
+    "screen": "Referral",
+    "order": 641
+  },
+  "app:referral.subtitle": {
+    "screen": "Referral",
+    "order": 642
+  },
+  "app:referral.freeStudySet": {
+    "screen": "Referral",
+    "order": 643
+  },
+  "app:referral.studySets": {
+    "screen": "Referral",
+    "order": 644
+  },
+  "app:referral.perFriend": {
+    "screen": "Referral",
+    "order": 645
+  },
+  "app:referral.whoJoins": {
+    "screen": "Referral",
+    "order": 646
+  },
+  "app:referral.whoDownloads": {
+    "screen": "Referral",
+    "order": 647
+  },
+  "app:referral.friendsJoined": {
+    "screen": "Referral",
+    "order": 648
+  },
+  "app:referral.ofFriendsJoined": {
+    "screen": "Referral",
+    "order": 649
+  },
+  "app:referral.inviteButton": {
+    "screen": "Referral",
+    "order": 650
+  },
+  "app:referral.shareCode": {
+    "screen": "Referral",
+    "order": 651
+  },
+  "app:referral.shareMessage": {
+    "screen": "Referral",
+    "order": 652
+  },
+  "app:referral.shareMessageWithCode": {
+    "screen": "Referral",
+    "order": 653
+  },
+  "app:referral.redeemCode": {
+    "screen": "Referral",
+    "order": 654
+  },
+  "app:referral.unlimited": {
+    "screen": "Referral",
+    "order": 655
+  },
+  "app:referral.copiedCode": {
+    "screen": "Referral",
+    "order": 656
+  },
+  "app:giftModal.title": {
+    "screen": "Gift",
+    "order": 657
+  },
+  "app:giftModal.subtitle": {
+    "screen": "Gift",
+    "order": 658
+  },
+  "app:giftModal.createLink": {
+    "screen": "Gift",
+    "order": 659
+  },
+  "app:giftModal.createLinkDescription": {
+    "screen": "Gift",
+    "order": 660
+  },
+  "app:giftModal.shareIt": {
+    "screen": "Gift",
+    "order": 661
+  },
+  "app:giftModal.shareItDescription": {
+    "screen": "Gift",
+    "order": 662
+  },
+  "app:giftModal.enterCode": {
+    "screen": "Gift",
+    "order": 663
+  },
+  "app:giftModal.enterCodeDescription": {
+    "screen": "Gift",
+    "order": 664
+  },
+  "app:giftModal.createGiftLinkButton": {
+    "screen": "Gift",
+    "order": 665
+  },
+  "app:giftModal.giftMessage": {
+    "screen": "Gift",
+    "order": 666
+  },
+  "app:rewardCode.title": {
+    "screen": "Reward code",
+    "order": 667
+  },
+  "app:rewardCode.subtitle": {
+    "screen": "Reward code",
+    "order": 668
+  },
+  "app:rewardCode.apply": {
+    "screen": "Reward code",
+    "order": 669
+  },
+  "app:rewardCode.success": {
+    "screen": "Reward code",
+    "order": 670
+  },
+  "app:rewardCode.error": {
+    "screen": "Reward code",
+    "order": 671
+  },
+  "app:rewardCode.enterAllCharacters": {
+    "screen": "Reward code",
+    "order": 672
+  },
+  "app:rewardCode.somethingWentWrong": {
+    "screen": "Reward code",
+    "order": 673
+  },
+  "app:think.question": {
+    "screen": "Think",
+    "order": 674
+  },
+  "app:think.questionSingular": {
+    "screen": "Think",
+    "order": 675
+  },
+  "app:think.questionsPlural": {
+    "screen": "Think",
+    "order": 676
+  },
+  "app:think.answer": {
+    "screen": "Think",
+    "order": 677
+  },
+  "app:think.seeYourAnswer": {
+    "screen": "Think",
+    "order": 678
+  },
+  "app:think.title": {
+    "screen": "Think",
+    "order": 679
+  },
+  "app:think.openEndedQuestion": {
+    "screen": "Think",
+    "order": 680
+  },
+  "app:think.openEndedQuestions": {
+    "screen": "Think",
+    "order": 681
+  },
+  "app:think.recordOrTypeAnswer": {
+    "screen": "Think",
+    "order": 682
+  },
+  "app:think.holdAndSpeak": {
+    "screen": "Think",
+    "order": 683
+  },
+  "app:think.releaseToFinish": {
+    "screen": "Think",
+    "order": 684
+  },
+  "app:think.tryAgain": {
+    "screen": "Think",
+    "order": 685
+  },
+  "app:think.reviseStudyText": {
+    "screen": "Think",
+    "order": 686
+  },
+  "app:think.yourReply": {
+    "screen": "Think",
+    "order": 687
+  },
+  "app:think.dictate": {
+    "screen": "Think",
+    "order": 688
+  },
+  "app:think.stopDictation": {
+    "screen": "Think",
+    "order": 689
+  },
+  "app:think.viewGrade": {
+    "screen": "Think",
+    "order": 690
+  },
+  "app:think.placeholderTypeOrDictate": {
+    "screen": "Think",
+    "order": 691
+  },
+  "app:think.noQuestionToDisplay": {
+    "screen": "Think",
+    "order": 692
+  },
+  "app:think.point": {
+    "screen": "Think",
+    "order": 693
+  },
+  "app:think.points": {
+    "screen": "Think",
+    "order": 694
+  },
+  "app:think.yourPoints": {
+    "screen": "Think",
+    "order": 695
+  },
+  "app:think.submit": {
+    "screen": "Think",
+    "order": 696
+  },
+  "app:think.revise": {
+    "screen": "Think",
+    "order": 697
+  },
+  "app:think.submitAsIs": {
+    "screen": "Think",
+    "order": 698
+  },
+  "app:think.viewFeedback": {
+    "screen": "Think",
+    "order": 699
+  },
+  "app:think.viewAnswerKey": {
+    "screen": "Think",
+    "order": 700
+  },
+  "app:think.answerKey": {
+    "screen": "Think",
+    "order": 701
+  },
+  "app:think.keyConcepts": {
+    "screen": "Think",
+    "order": 702
+  },
+  "app:think.nextQuestion": {
+    "screen": "Think",
+    "order": 703
+  },
+  "app:think.backToLesson": {
+    "screen": "Think",
+    "order": 704
+  },
+  "app:think.close": {
+    "screen": "Think",
+    "order": 705
+  },
+  "app:think.writeSomethingBeforeSubmitting": {
+    "screen": "Think",
+    "order": 706
+  },
+  "app:think.readingYourAnswer": {
+    "screen": "Think",
+    "order": 707
+  },
+  "app:think.gradingYourAnswer": {
+    "screen": "Think",
+    "order": 708
+  },
+  "app:think.placeholderRevise": {
+    "screen": "Think",
+    "order": 709
+  },
+  "app:think.failedToGetFeedback": {
+    "screen": "Think",
+    "order": 710
+  },
+  "app:think.failedToGradeAnswer": {
+    "screen": "Think",
+    "order": 711
+  },
+  "app:think.answered": {
+    "screen": "Think",
+    "order": 712
+  },
+  "app:think.questionLabel": {
+    "screen": "Think",
+    "order": 713
+  },
+  "app:textUpload.title": {
+    "screen": "Paste text",
+    "order": 714
+  },
+  "app:textUpload.submit": {
+    "screen": "Paste text",
+    "order": 715
+  },
+  "app:textUpload.placeholder": {
+    "screen": "Paste text",
+    "order": 716
+  },
+  "app:textUpload.importPDF": {
+    "screen": "Paste text",
+    "order": 717
+  },
+  "app:textUpload.emptyTextTitle": {
+    "screen": "Paste text",
+    "order": 718
+  },
+  "app:textUpload.emptyTextMessage": {
+    "screen": "Paste text",
+    "order": 719
+  },
+  "app:occlusion.modeToggle.studySet": {
+    "screen": "Image occlusion",
+    "order": 720
+  },
+  "app:occlusion.modeToggle.imageCards": {
+    "screen": "Image occlusion",
+    "order": 721
+  },
+  "app:occlusion.create.title": {
+    "screen": "Image occlusion",
+    "order": 722
+  },
+  "app:occlusion.create.heading": {
+    "screen": "Image occlusion",
+    "order": 723
+  },
+  "app:occlusion.create.subtitle": {
+    "screen": "Image occlusion",
+    "order": 724
+  },
+  "app:occlusion.create.chooseFromLibrary": {
+    "screen": "Image occlusion",
+    "order": 725
+  },
+  "app:occlusion.create.takePhoto": {
+    "screen": "Image occlusion",
+    "order": 726
+  },
+  "app:occlusion.create.detectingLabels": {
+    "screen": "Image occlusion",
+    "order": 727
+  },
+  "app:occlusion.create.creatingFlashcards": {
+    "screen": "Image occlusion",
+    "order": 728
+  },
+  "app:occlusion.create.loading": {
+    "screen": "Image occlusion",
+    "order": 729
+  },
+  "app:occlusion.create.noTextDetected": {
+    "screen": "Image occlusion",
+    "order": 730
+  },
+  "app:occlusion.create.tryDifferentImage": {
+    "screen": "Image occlusion",
+    "order": 731
+  },
+  "app:occlusion.create.processingFailed": {
+    "screen": "Image occlusion",
+    "order": 732
+  },
+  "app:occlusion.create.saveFailed": {
+    "screen": "Image occlusion",
+    "order": 733
+  },
+  "app:occlusion.review.loading": {
+    "screen": "Image occlusion",
+    "order": 734
+  },
+  "app:occlusion.review.noRegions": {
+    "screen": "Image occlusion",
+    "order": 735
+  },
+  "app:occlusion.review.goBack": {
+    "screen": "Image occlusion",
+    "order": 736
+  },
+  "app:occlusion.review.typeAnswer": {
+    "screen": "Image occlusion",
+    "order": 737
+  },
+  "app:occlusion.review.correctFeedback": {
+    "screen": "Image occlusion",
+    "order": 738
+  },
+  "app:occlusion.review.goodTry": {
+    "screen": "Image occlusion",
+    "order": 739
+  },
+  "app:occlusion.review.correctAnswerIs": {
+    "screen": "Image occlusion",
+    "order": 740
+  },
+  "app:occlusion.review.continue": {
+    "screen": "Image occlusion",
+    "order": 741
+  },
+  "app:occlusion.review.resultsTitle": {
+    "screen": "Image occlusion",
+    "order": 742
+  },
+  "app:occlusion.review.correctLabel": {
+    "screen": "Image occlusion",
+    "order": 743
+  },
+  "app:occlusion.review.incorrectLabel": {
+    "screen": "Image occlusion",
+    "order": 744
+  },
+  "app:occlusion.review.accuracy": {
+    "screen": "Image occlusion",
+    "order": 745
+  },
+  "app:occlusion.review.done": {
+    "screen": "Image occlusion",
+    "order": 746
+  },
+  "app:occlusion.review.hideOne": {
+    "screen": "Image occlusion",
+    "order": 747
+  },
+  "app:occlusion.review.hideAll": {
+    "screen": "Image occlusion",
+    "order": 748
+  },
+  "app:occlusion.edit.title": {
+    "screen": "Image occlusion",
+    "order": 749
+  },
+  "app:occlusion.edit.sectionTitle": {
+    "screen": "Image occlusion",
+    "order": 750
+  },
+  "app:occlusion.edit.sectionHint": {
+    "screen": "Image occlusion",
+    "order": 751
+  },
+  "app:occlusion.edit.enterLabel": {
+    "screen": "Image occlusion",
+    "order": 752
+  },
+  "app:occlusion.edit.cardNotFound": {
+    "screen": "Image occlusion",
+    "order": 753
+  },
+  "app:occlusion.edit.saveFailed": {
+    "screen": "Image occlusion",
+    "order": 754
+  },
+  "app:typedRecall.writeMeaning": {
+    "screen": "Typed recall",
+    "order": 755
+  },
+  "app:typedRecall.typeAnswer": {
+    "screen": "Typed recall",
+    "order": 756
+  },
+  "app:typedRecall.correctWord": {
+    "screen": "Typed recall",
+    "order": 757
+  },
+  "app:typedRecall.writeIn": {
+    "screen": "Typed recall",
+    "order": 758
+  },
+  "app:typedRecall.whatDoYouHear": {
+    "screen": "Typed recall",
+    "order": 759
+  },
+  "app:translation.tapToTranslate": {
+    "screen": "Translation",
+    "order": 760
+  },
+  "app:translation.translateTo": {
+    "screen": "Translation",
+    "order": 761
+  },
+  "app:translation.searchLanguage": {
+    "screen": "Translation",
+    "order": 762
+  },
+  "app:translation.commonLanguages": {
+    "screen": "Translation",
+    "order": 763
+  },
+  "app:translation.allLanguages": {
+    "screen": "Translation",
+    "order": 764
+  },
+  "app:math.guidedPlaceholder": {
+    "screen": "Math",
+    "order": 765
+  },
+  "app:math.hint": {
+    "screen": "Math",
+    "order": 766
+  },
+  "app:math.solve": {
+    "screen": "Math",
+    "order": 767
+  },
+  "app:math.problemSingular": {
+    "screen": "Math",
+    "order": 768
+  },
+  "app:math.problemsPlural": {
+    "screen": "Math",
+    "order": 769
+  },
+  "app:math.ocrFailed": {
+    "screen": "Math",
+    "order": 770
+  },
+  "app:math.assignment": {
+    "screen": "Math",
+    "order": 771
+  },
+  "app:math.addPhoto": {
+    "screen": "Math",
+    "order": 772
+  },
+  "app:math.calculate": {
+    "screen": "Math",
+    "order": 773
+  },
+  "app:math.typeAnswer": {
+    "screen": "Math",
+    "order": 774
+  },
+  "app:ratingPrompt.title": {
+    "screen": "Rating prompt",
+    "order": 775
+  },
+  "app:ratingPrompt.message": {
+    "screen": "Rating prompt",
+    "order": 776
+  },
+  "app:ratingPrompt.tapToContinue": {
+    "screen": "Rating prompt",
+    "order": 777
+  },
+  "app:ratingPrompt.thanks": {
+    "screen": "Rating prompt",
+    "order": 778
+  },
+  "app:focusMode.pillInactive": {
+    "screen": "Focus mode",
+    "order": 779
+  },
+  "app:focusMode.pillActive": {
+    "screen": "Focus mode",
+    "order": 780
+  },
+  "app:focusMode.sheetTitle": {
+    "screen": "Focus mode",
+    "order": 781
+  },
+  "app:focusMode.durationLabel": {
+    "screen": "Focus mode",
+    "order": 782
+  },
+  "app:focusMode.durationSubtitle": {
+    "screen": "Focus mode",
+    "order": 783
+  },
+  "app:focusMode.minSuffix": {
+    "screen": "Focus mode",
+    "order": 784
+  },
+  "app:focusMode.startButton": {
+    "screen": "Focus mode",
+    "order": 785
+  },
+  "app:focusMode.confirmTitle": {
+    "screen": "Focus mode",
+    "order": 786
+  },
+  "app:focusMode.confirmSubtitle": {
+    "screen": "Focus mode",
+    "order": 787
+  },
+  "app:focusMode.stayFocused": {
+    "screen": "Focus mode",
+    "order": 788
+  },
+  "app:focusMode.giveUp": {
+    "screen": "Focus mode",
+    "order": 789
+  },
+  "app:focusMode.completedTitle": {
+    "screen": "Focus mode",
+    "order": 790
+  },
+  "app:focusMode.completedSubtitle": {
+    "screen": "Focus mode",
+    "order": 791
+  },
+  "app:focusMode.completedButton": {
+    "screen": "Focus mode",
+    "order": 792
+  },
+  "app:focusMode.notificationBody": {
+    "screen": "Focus mode",
+    "order": 793
+  },
+  "app:onboarding.continue": {
+    "screen": "Onboarding",
+    "order": 794
+  },
+  "app:onboarding.skip": {
+    "screen": "Onboarding",
+    "order": 795
+  },
+  "app:onboarding.studyLanguage.title": {
+    "screen": "Onboarding",
+    "order": 796
+  },
+  "app:onboarding.studyLanguage.subtitle": {
+    "screen": "Onboarding",
+    "order": 797
+  },
+  "app:onboarding.studyLanguage.nudgePickFirst": {
+    "screen": "Onboarding",
+    "order": 798
+  },
+  "app:onboarding.learningLanguages.title": {
+    "screen": "Onboarding",
+    "order": 799
+  },
+  "app:onboarding.learningLanguages.subtitle": {
+    "screen": "Onboarding",
+    "order": 800
+  },
+  "app:onboarding.learningLanguages.add": {
+    "screen": "Onboarding",
+    "order": 801
+  },
+  "app:softPrompt.languages.title": {
+    "screen": "Prompts",
+    "order": 802
+  },
+  "app:softPrompt.languages.body": {
+    "screen": "Prompts",
+    "order": 803
+  },
+  "app:softPrompt.languages.cta": {
+    "screen": "Prompts",
+    "order": 804
+  },
+  "app:softPrompt.languages.dismiss": {
+    "screen": "Prompts",
+    "order": 805
+  },
+  "app:picker.title.singleSelect": {
+    "screen": "Picker",
+    "order": 806
+  },
+  "app:picker.title.multiSelect": {
+    "screen": "Picker",
+    "order": 807
+  },
+  "app:picker.searchPlaceholder": {
+    "screen": "Picker",
+    "order": 808
+  },
+  "app:picker.confirm": {
+    "screen": "Picker",
+    "order": 809
+  },
+  "app:picker.empty": {
+    "screen": "Picker",
+    "order": 810
+  },
+  "app:topicOrLanguage.question": {
+    "screen": "Onboarding — topic",
+    "order": 811
+  },
+  "app:topicOrLanguage.learningButton": {
+    "screen": "Onboarding — topic",
+    "order": 812
+  },
+  "app:topicOrLanguage.topicButton": {
+    "screen": "Onboarding — topic",
+    "order": 813
+  },
+  "app:onboardingPaywall.title": {
+    "screen": "Onboarding — paywall",
+    "order": 814
+  },
+  "app:onboardingPaywall.subtitle": {
+    "screen": "Onboarding — paywall",
+    "order": 815
+  },
+  "app:onboardingPaywall.features.flashcards": {
+    "screen": "Onboarding — paywall",
+    "order": 816
+  },
+  "app:onboardingPaywall.features.quiz": {
+    "screen": "Onboarding — paywall",
+    "order": 817
+  },
+  "app:onboardingPaywall.features.exams": {
+    "screen": "Onboarding — paywall",
+    "order": 818
+  },
+  "app:onboardingPaywall.features.listen": {
+    "screen": "Onboarding — paywall",
+    "order": 819
+  },
+  "app:onboardingPaywall.annual": {
+    "screen": "Onboarding — paywall",
+    "order": 820
+  },
+  "app:onboardingPaywall.monthly": {
+    "screen": "Onboarding — paywall",
+    "order": 821
+  },
+  "app:onboardingPaywall.annualPass": {
+    "screen": "Onboarding — paywall",
+    "order": 822
+  },
+  "app:onboardingPaywall.familyAnnual": {
+    "screen": "Onboarding — paywall",
+    "order": 823
+  },
+  "app:onboardingPaywall.oneTimeAnnual": {
+    "screen": "Onboarding — paywall",
+    "order": 824
+  },
+  "app:onboardingPaywall.noAutoRenewal": {
+    "screen": "Onboarding — paywall",
+    "order": 825
+  },
+  "app:onboardingPaywall.recurringBilling": {
+    "screen": "Onboarding — paywall",
+    "order": 826
+  },
+  "app:onboardingPaywall.monthlyEquivalent": {
+    "screen": "Onboarding — paywall",
+    "order": 827
+  },
+  "app:onboardingPaywall.mostPopular": {
+    "screen": "Onboarding — paywall",
+    "order": 828
+  },
+  "app:onboardingPaywall.perMonth": {
+    "screen": "Onboarding — paywall",
+    "order": 829
+  },
+  "app:onboardingPaywall.perYear": {
+    "screen": "Onboarding — paywall",
+    "order": 830
+  },
+  "app:onboardingPaywall.billedAnnually": {
+    "screen": "Onboarding — paywall",
+    "order": 831
+  },
+  "app:onboardingPaywall.billedMonthly": {
+    "screen": "Onboarding — paywall",
+    "order": 832
+  },
+  "app:onboardingPaywall.subscribeAnnually": {
+    "screen": "Onboarding — paywall",
+    "order": 833
+  },
+  "app:onboardingPaywall.subscribeMonthly": {
+    "screen": "Onboarding — paywall",
+    "order": 834
+  },
+  "app:onboardingPaywall.viewAllPlans": {
+    "screen": "Onboarding — paywall",
+    "order": 835
+  },
+  "app:onboardingPaywall.maybeLater": {
+    "screen": "Onboarding — paywall",
+    "order": 836
+  },
+  "app:onboardingPaywall.restore": {
+    "screen": "Onboarding — paywall",
+    "order": 837
+  },
+  "app:onboardingPaywall.legalText": {
+    "screen": "Onboarding — paywall",
+    "order": 838
+  },
+  "app:onboardingPaywall.choosePlanTitle": {
+    "screen": "Onboarding — paywall",
+    "order": 839
+  },
+  "app:onboardingPaywall.otherPlans": {
+    "screen": "Onboarding — paywall",
+    "order": 840
+  },
+  "app:passes.semester": {
+    "screen": "Passes",
+    "order": 841
+  },
+  "app:passes.yearly": {
+    "screen": "Passes",
+    "order": 842
+  },
+  "app:passes.semesterDuration": {
+    "screen": "Passes",
+    "order": 843
+  },
+  "app:passes.yearlyDuration": {
+    "screen": "Passes",
+    "order": 844
+  },
+  "app:passes.buySemester": {
+    "screen": "Passes",
+    "order": 845
+  },
+  "app:passes.buyYearly": {
+    "screen": "Passes",
+    "order": 846
+  },
+  "app:passes.bestValue": {
+    "screen": "Passes",
+    "order": 847
+  },
+  "app:passes.orSubscribe": {
+    "screen": "Passes",
+    "order": 848
+  },
+  "app:passes.billedTotalYearly": {
+    "screen": "Passes",
+    "order": 849
+  },
+  "app:passes.viewAllPlans": {
+    "screen": "Passes",
+    "order": 850
+  },
+  "app:passes.choosePassTitle": {
+    "screen": "Passes",
+    "order": 851
+  },
+  "app:passes.featureTitle": {
+    "screen": "Passes",
+    "order": 852
+  },
+  "app:passes.featureDescription": {
+    "screen": "Passes",
+    "order": 853
+  },
+  "app:postCreatePaywall.title": {
+    "screen": "Paywall after create",
+    "order": 854
+  },
+  "app:postCreatePaywall.subtitle": {
+    "screen": "Paywall after create",
+    "order": 855
+  },
+  "app:proWelcome.title": {
+    "screen": "Pro welcome",
+    "order": 856
+  },
+  "app:proWelcome.message": {
+    "screen": "Pro welcome",
+    "order": 857
+  },
+  "app:proWelcome.signature": {
+    "screen": "Pro welcome",
+    "order": 858
+  },
+  "web:metaDescription": {
+    "screen": "Landing — page metadata",
+    "order": 859
+  },
+  "web:insightsNav": {
+    "screen": "Header",
+    "order": 860
+  },
+  "web:betterWayToLearn": {
+    "screen": "Landing page",
+    "order": 861
+  },
+  "web:heroDescription": {
+    "screen": "Landing page",
+    "order": 862
+  },
+  "web:downloadForIos": {
+    "screen": "Landing page",
+    "order": 863
+  },
+  "web:downloadForAndroid": {
+    "screen": "Landing page",
+    "order": 864
+  },
+  "web:getStarted": {
+    "screen": "Landing page",
+    "order": 865
+  },
+  "web:downloadApp": {
+    "screen": "Landing page",
+    "order": 866
+  },
+  "web:giftLexie": {
+    "screen": "Landing page",
+    "order": 867
+  },
+  "web:tryWhatsApp": {
+    "screen": "Landing page",
+    "order": 868
+  },
+  "web:locale": {
+    "screen": "Landing — page metadata",
+    "order": 869
+  },
+  "web:unlimited.cta": {
+    "screen": "Unlimited modal",
+    "order": 870
+  },
+  "web:unlimited.modalTitle": {
+    "screen": "Unlimited modal",
+    "order": 871
+  },
+  "web:unlimited.modalSubtitleLine1": {
+    "screen": "Unlimited modal",
+    "order": 872
+  },
+  "web:unlimited.modalSubtitleLine2": {
+    "screen": "Unlimited modal",
+    "order": 873
+  },
+  "web:unlimited.modalPlanLabel": {
+    "screen": "Unlimited modal",
+    "order": 874
+  },
+  "web:unlimited.modalPlanPrice": {
+    "screen": "Unlimited modal",
+    "order": 875
+  },
+  "web:unlimited.modalPlanMonthly": {
+    "screen": "Unlimited modal",
+    "order": 876
+  },
+  "web:unlimited.modalEmailLabel": {
+    "screen": "Unlimited modal",
+    "order": 877
+  },
+  "web:unlimited.modalEmailPlaceholder": {
+    "screen": "Unlimited modal",
+    "order": 878
+  },
+  "web:unlimited.modalContinue": {
+    "screen": "Unlimited modal",
+    "order": 879
+  },
+  "web:unlimited.modalLoading": {
+    "screen": "Unlimited modal",
+    "order": 880
+  },
+  "web:unlimited.modalHowItWorks": {
+    "screen": "Unlimited modal",
+    "order": 881
+  },
+  "web:unlimited.modalFootnote": {
+    "screen": "Unlimited modal",
+    "order": 882
+  },
+  "web:unlimited.modalError": {
+    "screen": "Unlimited modal",
+    "order": 883
+  },
+  "web:unlimited.modalClose": {
+    "screen": "Unlimited modal",
+    "order": 884
+  },
+  "web:unlimited.successTitle": {
+    "screen": "Unlimited modal",
+    "order": 885
+  },
+  "web:unlimited.successSubtitle": {
+    "screen": "Unlimited modal",
+    "order": 886
+  },
+  "web:unlimited.successHowToUse": {
+    "screen": "Unlimited modal",
+    "order": 887
+  },
+  "web:unlimited.successGetApp": {
+    "screen": "Unlimited modal",
+    "order": 888
+  },
+  "web:unlimited.successBackHome": {
+    "screen": "Unlimited modal",
+    "order": 889
+  },
+  "web:heroCreate.prompt": {
+    "screen": "Landing — hero",
+    "order": 890
+  },
+  "web:heroCreate.upload": {
+    "screen": "Landing — hero",
+    "order": 891
+  },
+  "web:heroCreate.paste": {
+    "screen": "Landing — hero",
+    "order": 892
+  },
+  "web:heroCreate.pastePlaceholder": {
+    "screen": "Landing — hero",
+    "order": 893
+  },
+  "web:heroCreate.pdfTooLarge": {
+    "screen": "Landing — hero",
+    "order": 894
+  },
+  "web:heroCreate.pdfTruncated": {
+    "screen": "Landing — hero",
+    "order": 895
+  },
+  "web:heroCreate.pdfFailed": {
+    "screen": "Landing — hero",
+    "order": 896
+  },
+  "web:heroCreate.addContent": {
+    "screen": "Landing — hero",
+    "order": 897
+  },
+  "web:heroCreate.genericError": {
+    "screen": "Landing — hero",
+    "order": 898
+  },
+  "web:heroCreate.extractingPdf": {
+    "screen": "Landing — hero",
+    "order": 899
+  },
+  "web:heroCreate.checking": {
+    "screen": "Landing — hero",
+    "order": 900
+  },
+  "web:heroCreate.limitTitle": {
+    "screen": "Landing — hero",
+    "order": 901
+  },
+  "web:heroCreate.limitText": {
+    "screen": "Landing — hero",
+    "order": 902
+  },
+  "web:heroCreate.tip": {
+    "screen": "Landing — hero",
+    "order": 903
+  },
+  "web:heroCreate.largePdfTitle": {
+    "screen": "Landing — hero",
+    "order": 904
+  },
+  "web:heroCreate.largePdfText": {
+    "screen": "Landing — hero",
+    "order": 905
+  },
+  "web:heroCreate.largePdfContinue": {
+    "screen": "Landing — hero",
+    "order": 906
+  },
+  "web:heroCreate.largePdfCancel": {
+    "screen": "Landing — hero",
+    "order": 907
+  },
+  "web:workspace.navLabel": {
+    "screen": "Workspace",
+    "order": 908
+  },
+  "web:workspace.loginTitle": {
+    "screen": "Workspace",
+    "order": 909
+  },
+  "web:workspace.loginProof": {
+    "screen": "Workspace",
+    "order": 910
+  },
+  "web:workspace.loginEmailPlaceholder": {
+    "screen": "Workspace",
+    "order": 911
+  },
+  "web:workspace.loginEmailMissing": {
+    "screen": "Workspace",
+    "order": 912
+  },
+  "web:workspace.loginSendFailed": {
+    "screen": "Workspace",
+    "order": 913
+  },
+  "web:workspace.loginContinue": {
+    "screen": "Workspace",
+    "order": 914
+  },
+  "web:workspace.loginSending": {
+    "screen": "Workspace",
+    "order": 915
+  },
+  "web:workspace.loginCodeSent": {
+    "screen": "Workspace",
+    "order": 916
+  },
+  "web:workspace.loginCodePlaceholder": {
+    "screen": "Workspace",
+    "order": 917
+  },
+  "web:workspace.loginCodeMissing": {
+    "screen": "Workspace",
+    "order": 918
+  },
+  "web:workspace.loginCodeInvalid": {
+    "screen": "Workspace",
+    "order": 919
+  },
+  "web:workspace.loginVerify": {
+    "screen": "Workspace",
+    "order": 920
+  },
+  "web:workspace.loginVerifying": {
+    "screen": "Workspace",
+    "order": 921
+  },
+  "web:workspace.loginResend": {
+    "screen": "Workspace",
+    "order": 922
+  },
+  "web:workspace.loginChangeEmail": {
+    "screen": "Workspace",
+    "order": 923
+  },
+  "web:workspace.loginLegalPre": {
+    "screen": "Workspace",
+    "order": 924
+  },
+  "web:workspace.loginTerms": {
+    "screen": "Workspace",
+    "order": 925
+  },
+  "web:workspace.loginLegalAnd": {
+    "screen": "Workspace",
+    "order": 926
+  },
+  "web:workspace.loginPrivacy": {
+    "screen": "Workspace",
+    "order": 927
+  },
+  "web:workspace.loginLegalAge": {
+    "screen": "Workspace",
+    "order": 928
+  },
+  "web:workspace.splash": {
+    "screen": "Workspace",
+    "order": 929
+  },
+  "web:workspace.navHome": {
+    "screen": "Workspace",
+    "order": 930
+  },
+  "web:workspace.navSets": {
+    "screen": "Workspace",
+    "order": 931
+  },
+  "web:workspace.navCourses": {
+    "screen": "Workspace",
+    "order": 932
+  },
+  "web:workspace.account": {
+    "screen": "Workspace",
+    "order": 933
+  },
+  "web:workspace.signOut": {
+    "screen": "Workspace",
+    "order": 934
+  },
+  "web:workspace.manageSubscription": {
+    "screen": "Workspace",
+    "order": 935
+  },
+  "web:workspace.redeemAction": {
+    "screen": "Workspace",
+    "order": 936
+  },
+  "web:workspace.redeemTitle": {
+    "screen": "Workspace",
+    "order": 937
+  },
+  "web:workspace.redeemSubtitle": {
+    "screen": "Workspace",
+    "order": 938
+  },
+  "web:workspace.redeemSubmit": {
+    "screen": "Workspace",
+    "order": 939
+  },
+  "web:workspace.redeemMissing": {
+    "screen": "Workspace",
+    "order": 940
+  },
+  "web:workspace.redeemInvalid": {
+    "screen": "Workspace",
+    "order": 941
+  },
+  "web:workspace.redeemInactive": {
+    "screen": "Workspace",
+    "order": 942
+  },
+  "web:workspace.redeemExhausted": {
+    "screen": "Workspace",
+    "order": 943
+  },
+  "web:workspace.redeemAlreadyRedeemed": {
+    "screen": "Workspace",
+    "order": 944
+  },
+  "web:workspace.redeemFailed": {
+    "screen": "Workspace",
+    "order": 945
+  },
+  "web:workspace.redeemSuccessTitle": {
+    "screen": "Workspace",
+    "order": 946
+  },
+  "web:workspace.redeemSuccessText": {
+    "screen": "Workspace",
+    "order": 947
+  },
+  "web:workspace.redeemDone": {
+    "screen": "Workspace",
+    "order": 948
+  },
+  "web:workspace.redeemModalClose": {
+    "screen": "Workspace",
+    "order": 949
+  },
+  "web:workspace.language": {
+    "screen": "Workspace",
+    "order": 950
+  },
+  "web:workspace.upgrade": {
+    "screen": "Workspace",
+    "order": 951
+  },
+  "web:workspace.upgradeBody": {
+    "screen": "Workspace",
+    "order": 952
+  },
+  "web:workspace.downloadApp": {
+    "screen": "Workspace",
+    "order": 953
+  },
+  "web:workspace.getAppTitle": {
+    "screen": "Workspace",
+    "order": 954
+  },
+  "web:workspace.getAppScan": {
+    "screen": "Workspace",
+    "order": 955
+  },
+  "web:workspace.getAppOr": {
+    "screen": "Workspace",
+    "order": 956
+  },
+  "web:workspace.referralSidebar": {
+    "screen": "Workspace",
+    "order": 957
+  },
+  "web:workspace.referralTitle": {
+    "screen": "Workspace",
+    "order": 958
+  },
+  "web:workspace.referralSubtitle": {
+    "screen": "Workspace",
+    "order": 959
+  },
+  "web:workspace.referralTabRefer": {
+    "screen": "Workspace",
+    "order": 960
+  },
+  "web:workspace.referralTabPast": {
+    "screen": "Workspace",
+    "order": 961
+  },
+  "web:workspace.referralCodeLabel": {
+    "screen": "Workspace",
+    "order": 962
+  },
+  "web:workspace.referralHowLabel": {
+    "screen": "Workspace",
+    "order": 963
+  },
+  "web:workspace.referralHow1": {
+    "screen": "Workspace",
+    "order": 964
+  },
+  "web:workspace.referralHow2": {
+    "screen": "Workspace",
+    "order": 965
+  },
+  "web:workspace.referralHow3": {
+    "screen": "Workspace",
+    "order": 966
+  },
+  "web:workspace.referralLinkLabel": {
+    "screen": "Workspace",
+    "order": 967
+  },
+  "web:workspace.referralPastEmpty": {
+    "screen": "Workspace",
+    "order": 968
+  },
+  "web:workspace.referralPastJoined": {
+    "screen": "Workspace",
+    "order": 969
+  },
+  "web:workspace.referralPastStudying": {
+    "screen": "Workspace",
+    "order": 970
+  },
+  "web:workspace.referralPastEarned": {
+    "screen": "Workspace",
+    "order": 971
+  },
+  "web:workspace.referralCopy": {
+    "screen": "Workspace",
+    "order": 972
+  },
+  "web:workspace.referralCopied": {
+    "screen": "Workspace",
+    "order": 973
+  },
+  "web:workspace.referralShare": {
+    "screen": "Workspace",
+    "order": 974
+  },
+  "web:workspace.referralStats": {
+    "screen": "Workspace",
+    "order": 975
+  },
+  "web:workspace.referralFooter": {
+    "screen": "Workspace",
+    "order": 976
+  },
+  "web:workspace.referralFooterSubscriber": {
+    "screen": "Workspace",
+    "order": 977
+  },
+  "web:workspace.referralCapReached": {
+    "screen": "Workspace",
+    "order": 978
+  },
+  "web:workspace.referralToast": {
+    "screen": "Workspace",
+    "order": 979
+  },
+  "web:workspace.referralFailed": {
+    "screen": "Workspace",
+    "order": 980
+  },
+  "web:workspace.referralShareMessage": {
+    "screen": "Workspace",
+    "order": 981
+  },
+  "web:workspace.referralLandingTitle": {
+    "screen": "Workspace",
+    "order": 982
+  },
+  "web:workspace.referralLandingBody": {
+    "screen": "Workspace",
+    "order": 983
+  },
+  "web:workspace.referralLandingCta": {
+    "screen": "Workspace",
+    "order": 984
+  },
+  "web:workspace.referralSharePageTitle": {
+    "screen": "Workspace",
+    "order": 985
+  },
+  "web:workspace.referralSharePageCta": {
+    "screen": "Workspace",
+    "order": 986
+  },
+  "web:workspace.referralSuccessTitle": {
+    "screen": "Workspace",
+    "order": 987
+  },
+  "web:workspace.referralSuccessUntil": {
+    "screen": "Workspace",
+    "order": 988
+  },
+  "web:workspace.referralSuccessStudy": {
+    "screen": "Workspace",
+    "order": 989
+  },
+  "web:workspace.referralAppLead": {
+    "screen": "Workspace",
+    "order": 990
+  },
+  "web:workspace.referralAppStep1": {
+    "screen": "Workspace",
+    "order": 991
+  },
+  "web:workspace.referralAppStep2": {
+    "screen": "Workspace",
+    "order": 992
+  },
+  "web:workspace.referralNotNew": {
+    "screen": "Workspace",
+    "order": 993
+  },
+  "web:workspace.homeTitlePre": {
+    "screen": "Workspace",
+    "order": 994
+  },
+  "web:workspace.homeTitleEm": {
+    "screen": "Workspace",
+    "order": 995
+  },
+  "web:workspace.homeTitlePost": {
+    "screen": "Workspace",
+    "order": 996
+  },
+  "web:workspace.homeVariants": {
+    "screen": "Workspace",
+    "order": 997
+  },
+  "web:workspace.homeRecents": {
+    "screen": "Workspace",
+    "order": 998
+  },
+  "web:workspace.createPrompt": {
+    "screen": "Workspace",
+    "order": 999
+  },
+  "web:workspace.createUpload": {
+    "screen": "Workspace",
+    "order": 1000
+  },
+  "web:workspace.createPaste": {
+    "screen": "Workspace",
+    "order": 1001
+  },
+  "web:workspace.setsTitle": {
+    "screen": "Workspace",
+    "order": 1002
+  },
+  "web:workspace.setsEmpty": {
+    "screen": "Workspace",
+    "order": 1003
+  },
+  "web:workspace.setsError": {
+    "screen": "Workspace",
+    "order": 1004
+  },
+  "web:workspace.limitTitle": {
+    "screen": "Workspace",
+    "order": 1005
+  },
+  "web:workspace.limitText": {
+    "screen": "Workspace",
+    "order": 1006
+  },
+  "web:workspace.setsCreate": {
+    "screen": "Workspace",
+    "order": 1007
+  },
+  "web:workspace.setsTabAll": {
+    "screen": "Workspace",
+    "order": 1008
+  },
+  "web:workspace.setsTabFolders": {
+    "screen": "Workspace",
+    "order": 1009
+  },
+  "web:workspace.setsFolderOne": {
+    "screen": "Workspace",
+    "order": 1010
+  },
+  "web:workspace.setsFolderMany": {
+    "screen": "Workspace",
+    "order": 1011
+  },
+  "web:workspace.setsFolderEmpty": {
+    "screen": "Workspace",
+    "order": 1012
+  },
+  "web:workspace.setsNewFolder": {
+    "screen": "Workspace",
+    "order": 1013
+  },
+  "web:workspace.folderCreateTitle": {
+    "screen": "Workspace",
+    "order": 1014
+  },
+  "web:workspace.folderNamePlaceholder": {
+    "screen": "Workspace",
+    "order": 1015
+  },
+  "web:workspace.folderNameValidation": {
+    "screen": "Workspace",
+    "order": 1016
+  },
+  "web:workspace.folderCreateButton": {
+    "screen": "Workspace",
+    "order": 1017
+  },
+  "web:workspace.folderChooseTitle": {
+    "screen": "Workspace",
+    "order": 1018
+  },
+  "web:workspace.folderChooseSubtitle": {
+    "screen": "Workspace",
+    "order": 1019
+  },
+  "web:workspace.folderChooseEmpty": {
+    "screen": "Workspace",
+    "order": 1020
+  },
+  "web:workspace.folderMove": {
+    "screen": "Workspace",
+    "order": 1021
+  },
+  "web:workspace.folderActionFailed": {
+    "screen": "Workspace",
+    "order": 1022
+  },
+  "web:workspace.folderModalClose": {
+    "screen": "Workspace",
+    "order": 1023
+  },
+  "web:workspace.folderEmpty": {
+    "screen": "Workspace",
+    "order": 1024
+  },
+  "web:workspace.folderEmptyCreate": {
+    "screen": "Workspace",
+    "order": 1025
+  },
+  "web:workspace.coursesTitle": {
+    "screen": "Workspace",
+    "order": 1026
+  },
+  "web:workspace.coursesIntro": {
+    "screen": "Workspace",
+    "order": 1027
+  },
+  "web:workspace.backToCourses": {
+    "screen": "Workspace",
+    "order": 1028
+  },
+  "web:paywall.proof": {
+    "screen": "Paywall",
+    "order": 1029
+  },
+  "web:paywall.title": {
+    "screen": "Paywall",
+    "order": 1030
+  },
+  "web:paywall.titleActive": {
+    "screen": "Paywall",
+    "order": 1031
+  },
+  "web:paywall.subtitle": {
+    "screen": "Paywall",
+    "order": 1032
+  },
+  "web:paywall.subtitleActive": {
+    "screen": "Paywall",
+    "order": 1033
+  },
+  "web:paywall.loading": {
+    "screen": "Paywall",
+    "order": 1034
+  },
+  "web:paywall.signinHint": {
+    "screen": "Paywall",
+    "order": 1035
+  },
+  "web:paywall.ageNote": {
+    "screen": "Paywall",
+    "order": 1036
+  },
+  "web:paywall.signedInAs": {
+    "screen": "Paywall",
+    "order": 1037
+  },
+  "web:paywall.switchAccount": {
+    "screen": "Paywall",
+    "order": 1038
+  },
+  "web:paywall.payHint": {
+    "screen": "Paywall",
+    "order": 1039
+  },
+  "web:paywall.planAnnual": {
+    "screen": "Paywall",
+    "order": 1040
+  },
+  "web:paywall.planMonthly": {
+    "screen": "Paywall",
+    "order": 1041
+  },
+  "web:paywall.planAnnualSub": {
+    "screen": "Paywall",
+    "order": 1042
+  },
+  "web:paywall.planMonthlySub": {
+    "screen": "Paywall",
+    "order": 1043
+  },
+  "web:paywall.perYear": {
+    "screen": "Paywall",
+    "order": 1044
+  },
+  "web:paywall.perMonth": {
+    "screen": "Paywall",
+    "order": 1045
+  },
+  "web:paywall.subscribe": {
+    "screen": "Paywall",
+    "order": 1046
+  },
+  "web:paywall.working": {
+    "screen": "Paywall",
+    "order": 1047
+  },
+  "web:paywall.legacyPlanSub": {
+    "screen": "Paywall",
+    "order": 1048
+  },
+  "web:paywall.legacyCheckout": {
+    "screen": "Paywall",
+    "order": 1049
+  },
+  "web:paywall.activating": {
+    "screen": "Paywall",
+    "order": 1050
+  },
+  "web:paywall.activatingSlow": {
+    "screen": "Paywall",
+    "order": 1051
+  },
+  "web:paywall.continueCta": {
+    "screen": "Paywall",
+    "order": 1052
+  },
+  "web:paywall.plansFailed": {
+    "screen": "Paywall",
+    "order": 1053
+  },
+  "web:paywall.genericError": {
+    "screen": "Paywall",
+    "order": 1054
+  },
+  "web:paywall.footnote": {
+    "screen": "Paywall",
+    "order": 1055
+  },
+  "web:paywall.close": {
+    "screen": "Paywall",
+    "order": 1056
+  },
+  "web:paywall.prepTitle": {
+    "screen": "Paywall",
+    "order": 1057
+  },
+  "web:paywall.prepSubtitle": {
+    "screen": "Paywall",
+    "order": 1058
+  },
+  "web:paywall.prepBadge": {
+    "screen": "Paywall",
+    "order": 1059
+  },
+  "web:paywall.prepToggleAnnual": {
+    "screen": "Paywall",
+    "order": 1060
+  },
+  "web:paywall.prepToggleMonthly": {
+    "screen": "Paywall",
+    "order": 1061
+  },
+  "web:paywall.prepFeature1": {
+    "screen": "Paywall",
+    "order": 1062
+  },
+  "web:paywall.prepFeature2": {
+    "screen": "Paywall",
+    "order": 1063
+  },
+  "web:paywall.prepFeature3": {
+    "screen": "Paywall",
+    "order": 1064
+  },
+  "web:paywall.prepFeature4": {
+    "screen": "Paywall",
+    "order": 1065
+  },
+  "web:paywall.prepStaticAnnualPrice": {
+    "screen": "Paywall",
+    "order": 1066
+  },
+  "web:paywall.prepStaticMonthlyPrice": {
+    "screen": "Paywall",
+    "order": 1067
+  },
+  "web:paywall.prepAnnualPriceSub": {
+    "screen": "Paywall",
+    "order": 1068
+  },
+  "web:paywall.prepMonthlyPriceSub": {
+    "screen": "Paywall",
+    "order": 1069
+  },
+  "web:paywall.prepSubscribeAnnual": {
+    "screen": "Paywall",
+    "order": 1070
+  },
+  "web:paywall.prepSubscribeMonthly": {
+    "screen": "Paywall",
+    "order": 1071
+  },
+  "web:paywall.prepSigninHint": {
+    "screen": "Paywall",
+    "order": 1072
+  },
+  "web:paywall.prepSignedInAs": {
+    "screen": "Paywall",
+    "order": 1073
+  },
+  "web:paywall.prepLegal": {
+    "screen": "Paywall",
+    "order": 1074
+  },
+  "web:paywall.prepLegalTerms": {
+    "screen": "Paywall",
+    "order": 1075
+  },
+  "web:paywall.prepLegalPrivacy": {
+    "screen": "Paywall",
+    "order": 1076
+  },
+  "web:paywall.prepLegacyPrice": {
+    "screen": "Paywall",
+    "order": 1077
+  },
+  "web:paywall.prepLegacyPriceSub": {
+    "screen": "Paywall",
+    "order": 1078
+  },
+  "web:takePicture": {
+    "screen": "Landing page",
+    "order": 1079
+  },
+  "web:featuresIngress": {
+    "screen": "Landing page",
+    "order": 1080
+  },
+  "web:featuresCard1Title": {
+    "screen": "Landing page",
+    "order": 1081
+  },
+  "web:featuresCard1Description": {
+    "screen": "Landing page",
+    "order": 1082
+  },
+  "web:featuresCard2Title": {
+    "screen": "Landing page",
+    "order": 1083
+  },
+  "web:featuresCard2Description": {
+    "screen": "Landing page",
+    "order": 1084
+  },
+  "web:featuresCard3Title": {
+    "screen": "Landing page",
+    "order": 1085
+  },
+  "web:featuresCard3Description": {
+    "screen": "Landing page",
+    "order": 1086
+  },
+  "web:featuresCard4Title": {
+    "screen": "Landing page",
+    "order": 1087
+  },
+  "web:featuresCard4Description": {
+    "screen": "Landing page",
+    "order": 1088
+  },
+  "web:featuresCard5Title": {
+    "screen": "Landing page",
+    "order": 1089
+  },
+  "web:featuresCard5Description": {
+    "screen": "Landing page",
+    "order": 1090
+  },
+  "web:textLexieTitle": {
+    "screen": "Landing page",
+    "order": 1091
+  },
+  "web:textLexieDescription": {
+    "screen": "Landing page",
+    "order": 1092
+  },
+  "web:textLexieButton": {
+    "screen": "Landing page",
+    "order": 1093
+  },
+  "web:noAds.title": {
+    "screen": "Landing — no ads",
+    "order": 1094
+  },
+  "web:noAds.description1": {
+    "screen": "Landing — no ads",
+    "order": 1095
+  },
+  "web:noAds.description2": {
+    "screen": "Landing — no ads",
+    "order": 1096
+  },
+  "web:pricing.title": {
+    "screen": "Landing — pricing",
+    "order": 1097
+  },
+  "web:pricing.subtitle": {
+    "screen": "Landing — pricing",
+    "order": 1098
+  },
+  "web:pricing.bestDeal": {
+    "screen": "Landing — pricing",
+    "order": 1099
+  },
+  "web:pricing.mostPopular": {
+    "screen": "Landing — pricing",
+    "order": 1100
+  },
+  "web:pricing.flexible": {
+    "screen": "Landing — pricing",
+    "order": 1101
+  },
+  "web:pricing.annual.title": {
+    "screen": "Landing — pricing",
+    "order": 1102
+  },
+  "web:pricing.annual.description": {
+    "screen": "Landing — pricing",
+    "order": 1103
+  },
+  "web:pricing.annual.price": {
+    "screen": "Landing — pricing",
+    "order": 1104
+  },
+  "web:pricing.annual.billing": {
+    "screen": "Landing — pricing",
+    "order": 1105
+  },
+  "web:pricing.monthly.title": {
+    "screen": "Landing — pricing",
+    "order": 1106
+  },
+  "web:pricing.monthly.description": {
+    "screen": "Landing — pricing",
+    "order": 1107
+  },
+  "web:pricing.monthly.price": {
+    "screen": "Landing — pricing",
+    "order": 1108
+  },
+  "web:pricing.monthly.billing": {
+    "screen": "Landing — pricing",
+    "order": 1109
+  },
+  "web:pricing.family.title": {
+    "screen": "Landing — pricing",
+    "order": 1110
+  },
+  "web:pricing.family.description": {
+    "screen": "Landing — pricing",
+    "order": 1111
+  },
+  "web:pricing.family.price": {
+    "screen": "Landing — pricing",
+    "order": 1112
+  },
+  "web:pricing.family.billing": {
+    "screen": "Landing — pricing",
+    "order": 1113
+  },
+  "web:storyTitle": {
+    "screen": "Landing — story",
+    "order": 1114
+  },
+  "web:storyP1": {
+    "screen": "Landing — story",
+    "order": 1115
+  },
+  "web:storyP2": {
+    "screen": "Landing — story",
+    "order": 1116
+  },
+  "web:storyP3": {
+    "screen": "Landing — story",
+    "order": 1117
+  },
+  "web:storyP4": {
+    "screen": "Landing — story",
+    "order": 1118
+  },
+  "web:videoTestimonialsTitle": {
+    "screen": "Landing — testimonials",
+    "order": 1119
+  },
+  "web:videoTestimonialsSubtitle": {
+    "screen": "Landing — testimonials",
+    "order": 1120
+  },
+  "web:testimonialsTitle": {
+    "screen": "Landing — testimonials",
+    "order": 1121
+  },
+  "web:testimonialsRating": {
+    "screen": "Landing — testimonials",
+    "order": 1122
+  },
+  "web:testimonials": {
+    "screen": "Landing — testimonials",
+    "order": 1123
+  },
+  "web:ctaTitle": {
+    "screen": "Landing page",
+    "order": 1124
+  },
+  "web:getTheApp": {
+    "screen": "Landing page",
+    "order": 1125
+  },
+  "web:headerLogin": {
+    "screen": "Header",
+    "order": 1126
+  },
+  "web:faq": {
+    "screen": "Landing — FAQ",
+    "order": 1127
+  },
+  "web:whyDifferent": {
+    "screen": "Landing — FAQ",
+    "order": 1128
+  },
+  "web:whyDifferentAnswer": {
+    "screen": "Landing — FAQ",
+    "order": 1129
+  },
+  "web:howLexieWorks": {
+    "screen": "Landing — FAQ",
+    "order": 1130
+  },
+  "web:howLexieWorksAnswer": {
+    "screen": "Landing — FAQ",
+    "order": 1131
+  },
+  "web:whatCanLearn": {
+    "screen": "Landing — FAQ",
+    "order": 1132
+  },
+  "web:whatCanLearnAnswer": {
+    "screen": "Landing — FAQ",
+    "order": 1133
+  },
+  "web:howToUse": {
+    "screen": "Landing — FAQ",
+    "order": 1134
+  },
+  "web:howToUseAnswer": {
+    "screen": "Landing — FAQ",
+    "order": 1135
+  },
+  "web:materialsStored": {
+    "screen": "Landing — FAQ",
+    "order": 1136
+  },
+  "web:materialsStoredAnswer": {
+    "screen": "Landing — FAQ",
+    "order": 1137
+  },
+  "web:faqMaterialsBest": {
+    "screen": "Landing — FAQ",
+    "order": 1138
+  },
+  "web:faqMaterialsBestAnswer": {
+    "screen": "Landing — FAQ",
+    "order": 1139
+  },
+  "web:faqTextLexie": {
+    "screen": "Landing — FAQ",
+    "order": 1140
+  },
+  "web:faqTextLexieAnswer": {
+    "screen": "Landing — FAQ",
+    "order": 1141
+  },
+  "web:privacy": {
+    "screen": "Footer",
+    "order": 1142
+  },
+  "web:terms": {
+    "screen": "Footer",
+    "order": 1143
+  },
+  "web:termsOfService": {
+    "screen": "Footer",
+    "order": 1144
+  },
+  "web:privacyPolicy": {
+    "screen": "Footer",
+    "order": 1145
+  },
+  "web:honorCode.title": {
+    "screen": "Honor code",
+    "order": 1146
+  },
+  "web:honorCode.lastUpdated": {
+    "screen": "Honor code",
+    "order": 1147
+  },
+  "web:termsPage.title": {
+    "screen": "Terms",
+    "order": 1148
+  },
+  "web:termsPage.lastUpdated": {
+    "screen": "Terms",
+    "order": 1149
+  },
+  "web:privacyPage.title": {
+    "screen": "Privacy",
+    "order": 1150
+  },
+  "web:privacyPage.lastUpdated": {
+    "screen": "Privacy",
+    "order": 1151
+  },
+  "web:creatorProgram.heroTitle": {
+    "screen": "Creator program",
+    "order": 1152
+  },
+  "web:creatorProgram.heroSubtext": {
+    "screen": "Creator program",
+    "order": 1153
+  },
+  "web:creatorProgram.heroCta": {
+    "screen": "Creator program",
+    "order": 1154
+  },
+  "web:creatorProgram.howItWorksTitle": {
+    "screen": "Creator program",
+    "order": 1155
+  },
+  "web:creatorProgram.howItWorksSubtext": {
+    "screen": "Creator program",
+    "order": 1156
+  },
+  "web:creatorProgram.step1Label": {
+    "screen": "Creator program",
+    "order": 1157
+  },
+  "web:creatorProgram.step1Title": {
+    "screen": "Creator program",
+    "order": 1158
+  },
+  "web:creatorProgram.step1Description": {
+    "screen": "Creator program",
+    "order": 1159
+  },
+  "web:creatorProgram.step1Ingress": {
+    "screen": "Creator program",
+    "order": 1160
+  },
+  "web:creatorProgram.step1IngressLink": {
+    "screen": "Creator program",
+    "order": 1161
+  },
+  "web:creatorProgram.step2Label": {
+    "screen": "Creator program",
+    "order": 1162
+  },
+  "web:creatorProgram.step2Title": {
+    "screen": "Creator program",
+    "order": 1163
+  },
+  "web:creatorProgram.step2Description": {
+    "screen": "Creator program",
+    "order": 1164
+  },
+  "web:creatorProgram.step2Ingress": {
+    "screen": "Creator program",
+    "order": 1165
+  },
+  "web:creatorProgram.step2IngressAnd": {
+    "screen": "Creator program",
+    "order": 1166
+  },
+  "web:creatorProgram.step3Label": {
+    "screen": "Creator program",
+    "order": 1167
+  },
+  "web:creatorProgram.step3Title": {
+    "screen": "Creator program",
+    "order": 1168
+  },
+  "web:creatorProgram.step3Description": {
+    "screen": "Creator program",
+    "order": 1169
+  },
+  "web:creatorProgram.step3PayLink": {
+    "screen": "Creator program",
+    "order": 1170
+  },
+  "web:creatorProgram.step3DescriptionAfter": {
+    "screen": "Creator program",
+    "order": 1171
+  },
+  "web:creatorProgram.faqTitle": {
+    "screen": "Creator program",
+    "order": 1172
+  },
+  "web:creatorProgram.faqSubtext": {
+    "screen": "Creator program",
+    "order": 1173
+  },
+  "web:creatorProgram.faqEmail": {
+    "screen": "Creator program",
+    "order": 1174
+  },
+  "web:creatorProgram.faqEmailSuffix": {
+    "screen": "Creator program",
+    "order": 1175
+  },
+  "web:creatorProgram.faq1Question": {
+    "screen": "Creator program",
+    "order": 1176
+  },
+  "web:creatorProgram.faq1Answer": {
+    "screen": "Creator program",
+    "order": 1177
+  },
+  "web:creatorProgram.faq2Question": {
+    "screen": "Creator program",
+    "order": 1178
+  },
+  "web:creatorProgram.faq2Answer": {
+    "screen": "Creator program",
+    "order": 1179
+  },
+  "web:creatorProgram.faq3Question": {
+    "screen": "Creator program",
+    "order": 1180
+  },
+  "web:creatorProgram.faq3Answer": {
+    "screen": "Creator program",
+    "order": 1181
+  },
+  "web:creatorProgram.faq3TierLink": {
+    "screen": "Creator program",
+    "order": 1182
+  },
+  "web:creatorProgram.faq3AnswerAfter": {
+    "screen": "Creator program",
+    "order": 1183
+  },
+  "web:creatorProgram.faq4Question": {
+    "screen": "Creator program",
+    "order": 1184
+  },
+  "web:creatorProgram.faq4Answer": {
+    "screen": "Creator program",
+    "order": 1185
+  },
+  "web:creatorProgram.faq4Answer2": {
+    "screen": "Creator program",
+    "order": 1186
+  },
+  "web:creatorProgram.finalCtaTitle": {
+    "screen": "Creator program",
+    "order": 1187
+  },
+  "web:creatorProgram.finalCtaSubtext": {
+    "screen": "Creator program",
+    "order": 1188
+  },
+  "web:creatorProgram.finalCtaCta": {
+    "screen": "Creator program",
+    "order": 1189
+  },
+  "web:study.modes.noMathProblems": {
+    "screen": "Study modes",
+    "order": 1190
+  },
+  "web:study.modes.yourScore": {
+    "screen": "Study modes",
+    "order": 1191
+  },
+  "web:study.modes.correct": {
+    "screen": "Study modes",
+    "order": 1192
+  },
+  "web:study.modes.incorrect": {
+    "screen": "Study modes",
+    "order": 1193
+  },
+  "web:study.modes.correctAnswerPrefix": {
+    "screen": "Study modes",
+    "order": 1194
+  },
+  "web:study.modes.yourStep": {
+    "screen": "Study modes",
+    "order": 1195
+  },
+  "web:study.modes.workingPlaceholder": {
+    "screen": "Study modes",
+    "order": 1196
+  },
+  "web:study.modes.noThinkQuestions": {
+    "screen": "Study modes",
+    "order": 1197
+  },
+  "web:study.modes.summary": {
+    "screen": "Study modes",
+    "order": 1198
+  },
+  "web:study.modes.blankPlaceholder": {
+    "screen": "Study modes",
+    "order": 1199
+  },
+  "web:study.modes.calculate": {
+    "screen": "Study modes",
+    "order": 1200
+  },
+  "web:study.modes.answerPlaceholder": {
+    "screen": "Study modes",
+    "order": 1201
+  },
+  "web:study.modes.loadingAudio": {
+    "screen": "Study modes",
+    "order": 1202
+  },
+  "web:study.modes.close": {
+    "screen": "Study modes",
+    "order": 1203
+  },
+  "web:study.blankFeedback.checking": {
+    "screen": "Blank feedback",
+    "order": 1204
+  },
+  "web:study.tryPage.loading": {
+    "screen": "Try Lexie",
+    "order": 1205
+  },
+  "web:study.tryPage.errorTitle": {
+    "screen": "Try Lexie",
+    "order": 1206
+  },
+  "web:study.tryPage.errorHint": {
+    "screen": "Try Lexie",
+    "order": 1207
+  },
+  "web:study.tryPage.learn": {
+    "screen": "Try Lexie",
+    "order": 1208
+  },
+  "web:study.tryPage.flipcards": {
+    "screen": "Try Lexie",
+    "order": 1209
+  },
+  "web:study.tryPage.practise": {
+    "screen": "Try Lexie",
+    "order": 1210
+  },
+  "web:study.tryPage.questions": {
+    "screen": "Try Lexie",
+    "order": 1211
+  },
+  "web:study.tryPage.keyConcepts": {
+    "screen": "Try Lexie",
+    "order": 1212
+  },
+  "web:study.sharedViewer.mobileCta": {
+    "screen": "Shared set",
+    "order": 1213
+  },
+  "web:study.sharedViewer.desktopCta": {
+    "screen": "Shared set",
+    "order": 1214
+  },
+  "web:study.sharedViewer.getLexie": {
+    "screen": "Shared set",
+    "order": 1215
+  },
+  "web:study.sharedViewer.saveToWorkspace": {
+    "screen": "Shared set",
+    "order": 1216
+  },
+  "web:study.courseView.back": {
+    "screen": "Course",
+    "order": 1217
+  },
+  "web:study.courseView.chaptersMetaOne": {
+    "screen": "Course",
+    "order": 1218
+  },
+  "web:study.courseView.chaptersMetaOther": {
+    "screen": "Course",
+    "order": 1219
+  },
+  "web:study.courseView.setsMetaOne": {
+    "screen": "Course",
+    "order": 1220
+  },
+  "web:study.courseView.setsMetaOther": {
+    "screen": "Course",
+    "order": 1221
+  },
+  "web:study.courseView.exercisesMeta": {
+    "screen": "Course",
+    "order": 1222
+  },
+  "web:study.courseView.importCta": {
+    "screen": "Course",
+    "order": 1223
+  },
+  "web:study.courseView.previewCta": {
+    "screen": "Course",
+    "order": 1224
+  },
+  "web:study.courseView.importFailed": {
+    "screen": "Course",
+    "order": 1225
+  },
+  "web:study.courseView.chaptersCountOne": {
+    "screen": "Course",
+    "order": 1226
+  },
+  "web:study.courseView.chaptersCountOther": {
+    "screen": "Course",
+    "order": 1227
+  },
+  "web:study.courseView.lessonSetsOne": {
+    "screen": "Course",
+    "order": 1228
+  },
+  "web:study.courseView.lessonSetsOther": {
+    "screen": "Course",
+    "order": 1229
+  },
+  "web:study.courseView.lessonExercisesOne": {
+    "screen": "Course",
+    "order": 1230
+  },
+  "web:study.courseView.lessonExercisesOther": {
+    "screen": "Course",
+    "order": 1231
+  },
+  "web:study.courseView.notStarted": {
+    "screen": "Course",
+    "order": 1232
+  },
+  "web:study.coursesIndex.browse": {
+    "screen": "Courses",
+    "order": 1233
+  },
+  "web:study.coursesIndex.own": {
+    "screen": "Courses",
+    "order": 1234
+  },
+  "web:study.coursesIndex.section": {
+    "screen": "Courses",
+    "order": 1235
+  },
+  "web:study.coursesIndex.coursesOne": {
+    "screen": "Courses",
+    "order": 1236
+  },
+  "web:study.coursesIndex.coursesOther": {
+    "screen": "Courses",
+    "order": 1237
+  },
+  "web:study.coursesIndex.setsOne": {
+    "screen": "Courses",
+    "order": 1238
+  },
+  "web:study.coursesIndex.setsOther": {
+    "screen": "Courses",
+    "order": 1239
+  },
+  "web:study.coursesIndex.chaptersOne": {
+    "screen": "Courses",
+    "order": 1240
+  },
+  "web:study.coursesIndex.chaptersOther": {
+    "screen": "Courses",
+    "order": 1241
+  },
+  "web:study.coursesIndex.notStarted": {
+    "screen": "Courses",
+    "order": 1242
+  },
+  "web:study.coursesIndex.emptyOwn": {
+    "screen": "Courses",
+    "order": 1243
+  },
+  "web:study.coursesIndex.goBrowse": {
+    "screen": "Courses",
+    "order": 1244
+  },
+  "web:study.prepFolderCard.empty": {
+    "screen": "Prep folder",
+    "order": 1245
+  },
+  "web:study.prepFolderCard.one": {
+    "screen": "Prep folder",
+    "order": 1246
+  },
+  "web:study.prepFolderCard.many": {
+    "screen": "Prep folder",
+    "order": 1247
+  },
+  "web:study.prepGate.activating": {
+    "screen": "Prep activation",
+    "order": 1248
+  },
+  "web:study.prepGate.activatingSlow": {
+    "screen": "Prep activation",
+    "order": 1249
+  },
+  "web:study.prepHub.back": {
+    "screen": "Prep hub",
+    "order": 1250
+  },
+  "web:study.prepHub.learn": {
+    "screen": "Prep hub",
+    "order": 1251
+  },
+  "web:study.prepHub.practise": {
+    "screen": "Prep hub",
+    "order": 1252
+  },
+  "web:study.prepHub.think": {
+    "screen": "Prep hub",
+    "order": 1253
+  },
+  "web:study.prepHub.read": {
+    "screen": "Prep hub",
+    "order": 1254
+  },
+  "web:study.prepHub.listen": {
+    "screen": "Prep hub",
+    "order": 1255
+  },
+  "web:study.prepHub.keyPoints": {
+    "screen": "Prep hub",
+    "order": 1256
+  },
+  "web:study.prepHub.flipcards": {
+    "screen": "Prep hub",
+    "order": 1257
+  },
+  "web:study.prepHub.questions": {
+    "screen": "Prep hub",
+    "order": 1258
+  },
+  "web:study.prepHub.aiDisclaimer": {
+    "screen": "Prep hub",
+    "order": 1259
+  },
+  "web:study.prepHub.thinkDeco": {
+    "screen": "Prep hub",
+    "order": 1260
+  },
+  "web:study.prepThink.close": {
+    "screen": "Prep think",
+    "order": 1261
+  },
+  "web:study.prepThink.question": {
+    "screen": "Prep think",
+    "order": 1262
+  },
+  "web:study.prepThink.questions": {
+    "screen": "Prep think",
+    "order": 1263
+  },
+  "web:study.prepThink.questionLabel": {
+    "screen": "Prep think",
+    "order": 1264
+  },
+  "web:study.prepThink.answer": {
+    "screen": "Prep think",
+    "order": 1265
+  },
+  "web:study.prepThink.seeYourAnswer": {
+    "screen": "Prep think",
+    "order": 1266
+  },
+  "web:study.prepThink.prev": {
+    "screen": "Prep think",
+    "order": 1267
+  },
+  "web:study.prepThink.next": {
+    "screen": "Prep think",
+    "order": 1268
+  },
+  "web:study.prepThink.pointsLabelOne": {
+    "screen": "Prep think",
+    "order": 1269
+  },
+  "web:study.prepThink.pointsLabelOther": {
+    "screen": "Prep think",
+    "order": 1270
+  },
+  "web:study.prepThink.pointsShort": {
+    "screen": "Prep think",
+    "order": 1271
+  },
+  "web:study.prepThink.savePromptTitle": {
+    "screen": "Prep think",
+    "order": 1272
+  },
+  "web:study.prepThink.createAccount": {
+    "screen": "Prep think",
+    "order": 1273
+  },
+  "web:study.prepThink.saveModalTitle": {
+    "screen": "Prep think",
+    "order": 1274
+  },
+  "web:study.prepThink.saveModalSubtitle": {
+    "screen": "Prep think",
+    "order": 1275
+  },
+  "web:study.prepThink.answered": {
+    "screen": "Prep think",
+    "order": 1276
+  },
+  "web:study.typedRecall.targetLanguageFallback": {
+    "screen": "Typed recall",
+    "order": 1277
+  },
+  "web:study.typedRecall.targetLanguages.english": {
+    "screen": "Typed recall",
+    "order": 1278
+  },
+  "web:study.typedRecall.targetLanguages.finnish": {
+    "screen": "Typed recall",
+    "order": 1279
+  },
+  "web:study.typedRecall.targetLanguages.swedish": {
+    "screen": "Typed recall",
+    "order": 1280
+  },
+  "web:study.typedRecall.targetLanguages.german": {
+    "screen": "Typed recall",
+    "order": 1281
+  },
+  "web:study.typedRecall.targetLanguages.french": {
+    "screen": "Typed recall",
+    "order": 1282
+  },
+  "web:study.typedRecall.targetLanguages.spanish": {
+    "screen": "Typed recall",
+    "order": 1283
+  },
+  "web:study.typedRecall.targetLanguages.italian": {
+    "screen": "Typed recall",
+    "order": 1284
+  },
+  "web:study.typedRecall.targetLanguages.russian": {
+    "screen": "Typed recall",
+    "order": 1285
+  },
+  "web:study.typedRecall.targetLanguages.estonian": {
+    "screen": "Typed recall",
+    "order": 1286
+  },
+  "web:study.typedRecall.writePrompt": {
+    "screen": "Typed recall",
+    "order": 1287
+  },
+  "web:study.typedRecall.listenPrompt": {
+    "screen": "Typed recall",
+    "order": 1288
+  },
+  "web:study.flashcards.termsMastered": {
+    "screen": "Flashcards",
+    "order": 1289
+  },
+  "web:study.flashcards.left": {
+    "screen": "Flashcards",
+    "order": 1290
+  },
+  "web:study.flashcards.getUnlimited": {
+    "screen": "Flashcards",
+    "order": 1291
+  },
+  "web:study.flashcards.priceHint": {
+    "screen": "Flashcards",
+    "order": 1292
+  },
+  "web:study.flashcards.restart": {
+    "screen": "Flashcards",
+    "order": 1293
+  },
+  "web:study.flashcards.noFlashcards": {
+    "screen": "Flashcards",
+    "order": 1294
+  },
+  "web:study.flashcards.stillLearning": {
+    "screen": "Flashcards",
+    "order": 1295
+  },
+  "web:study.flashcards.iKnowThis": {
+    "screen": "Flashcards",
+    "order": 1296
+  },
+  "web:study.flashcards.mastered": {
+    "screen": "Flashcards",
+    "order": 1297
+  },
+  "web:study.flashcards.yourProgress": {
+    "screen": "Flashcards",
+    "order": 1298
+  },
+  "web:study.flashcards.practiceWithQuestions": {
+    "screen": "Flashcards",
+    "order": 1299
+  },
+  "web:study.thinkExam.crumbLabel": {
+    "screen": "Think",
+    "order": 1300
+  },
+  "web:study.thinkExam.feedbackTitle": {
+    "screen": "Think",
+    "order": 1301
+  },
+  "web:study.thinkExam.gradeTitle": {
+    "screen": "Think",
+    "order": 1302
+  },
+  "web:study.thinkExam.gradeRow": {
+    "screen": "Think",
+    "order": 1303
+  },
+  "web:study.thinkExam.lexieFeedback": {
+    "screen": "Think",
+    "order": 1304
+  },
+  "web:study.thinkExam.placeholderType": {
+    "screen": "Think",
+    "order": 1305
+  },
+  "web:study.thinkExam.editor.draft": {
+    "screen": "Think",
+    "order": 1306
+  },
+  "web:study.thinkExam.editor.submitted": {
+    "screen": "Think",
+    "order": 1307
+  },
+  "web:study.thinkExam.editor.characters": {
+    "screen": "Think",
+    "order": 1308
+  },
+  "web:study.thinkExam.editor.bold": {
+    "screen": "Think",
+    "order": 1309
+  },
+  "web:study.thinkExam.editor.italic": {
+    "screen": "Think",
+    "order": 1310
+  },
+  "web:study.thinkExam.editor.underline": {
+    "screen": "Think",
+    "order": 1311
+  },
+  "web:study.thinkExam.editor.bulletList": {
+    "screen": "Think",
+    "order": 1312
+  },
+  "web:study.thinkExam.editor.numberedList": {
+    "screen": "Think",
+    "order": 1313
+  },
+  "web:study.thinkExam.point": {
+    "screen": "Think",
+    "order": 1314
+  },
+  "web:study.thinkExam.points": {
+    "screen": "Think",
+    "order": 1315
+  },
+  "web:study.thinkExam.yourPoints": {
+    "screen": "Think",
+    "order": 1316
+  },
+  "web:study.thinkExam.submit": {
+    "screen": "Think",
+    "order": 1317
+  },
+  "web:study.thinkExam.revise": {
+    "screen": "Think",
+    "order": 1318
+  },
+  "web:study.thinkExam.submitAsIs": {
+    "screen": "Think",
+    "order": 1319
+  },
+  "web:study.thinkExam.viewFeedback": {
+    "screen": "Think",
+    "order": 1320
+  },
+  "web:study.thinkExam.viewAnswerKey": {
+    "screen": "Think",
+    "order": 1321
+  },
+  "web:study.thinkExam.answerKey": {
+    "screen": "Think",
+    "order": 1322
+  },
+  "web:study.thinkExam.keyConcepts": {
+    "screen": "Think",
+    "order": 1323
+  },
+  "web:study.thinkExam.nextQuestion": {
+    "screen": "Think",
+    "order": 1324
+  },
+  "web:study.thinkExam.backToLesson": {
+    "screen": "Think",
+    "order": 1325
+  },
+  "web:study.thinkExam.close": {
+    "screen": "Think",
+    "order": 1326
+  },
+  "web:study.thinkExam.writeSomething": {
+    "screen": "Think",
+    "order": 1327
+  },
+  "web:study.thinkExam.readingYourAnswer": {
+    "screen": "Think",
+    "order": 1328
+  },
+  "web:study.thinkExam.gradingYourAnswer": {
+    "screen": "Think",
+    "order": 1329
+  },
+  "web:study.thinkExam.placeholderRevise": {
+    "screen": "Think",
+    "order": 1330
+  },
+  "web:study.thinkExam.failedToGetFeedback": {
+    "screen": "Think",
+    "order": 1331
+  },
+  "web:study.thinkExam.failedToGrade": {
+    "screen": "Think",
+    "order": 1332
+  },
+  "web:study.thinkExam.questionLabel": {
+    "screen": "Think",
+    "order": 1333
+  },
+  "web:study.shell.studySet": {
+    "screen": "Study shell",
+    "order": 1334
+  },
+  "web:study.shell.learn": {
+    "screen": "Study shell",
+    "order": 1335
+  },
+  "web:study.shell.practise": {
+    "screen": "Study shell",
+    "order": 1336
+  },
+  "web:study.shell.think": {
+    "screen": "Study shell",
+    "order": 1337
+  },
+  "web:study.shell.vocabulary": {
+    "screen": "Study shell",
+    "order": 1338
+  },
+  "web:study.shell.term": {
+    "screen": "Study shell",
+    "order": 1339
+  },
+  "web:study.shell.translation": {
+    "screen": "Study shell",
+    "order": 1340
+  },
+  "web:study.shell.generateReading": {
+    "screen": "Study shell",
+    "order": 1341
+  },
+  "web:study.shell.openReading": {
+    "screen": "Study shell",
+    "order": 1342
+  },
+  "web:study.shell.generateReadingSub": {
+    "screen": "Study shell",
+    "order": 1343
+  },
+  "web:study.shell.generatingHint": {
+    "screen": "Study shell",
+    "order": 1344
+  },
+  "web:study.shell.thinkDeco": {
+    "screen": "Study shell",
+    "order": 1345
+  },
+  "web:study.shell.flipcards": {
+    "screen": "Study shell",
+    "order": 1346
+  },
+  "web:study.shell.questions": {
+    "screen": "Study shell",
+    "order": 1347
+  },
+  "web:study.shell.openQuestionsOne": {
+    "screen": "Study shell",
+    "order": 1348
+  },
+  "web:study.shell.openQuestionsOther": {
+    "screen": "Study shell",
+    "order": 1349
+  },
+  "web:study.shell.upgrade": {
+    "screen": "Study shell",
+    "order": 1350
+  },
+  "web:study.shell.keepSharedSet": {
+    "screen": "Study shell",
+    "order": 1351
+  },
+  "web:study.shell.back": {
+    "screen": "Study shell",
+    "order": 1352
+  },
+  "web:study.shell.aiDisclaimer": {
+    "screen": "Study shell",
+    "order": 1353
+  },
+  "web:study.shell.createCtaTitle": {
+    "screen": "Study shell",
+    "order": 1354
+  },
+  "web:study.shell.createCtaBody": {
+    "screen": "Study shell",
+    "order": 1355
+  },
+  "web:study.shell.studyText": {
+    "screen": "Study shell",
+    "order": 1356
+  },
+  "web:study.shell.read": {
+    "screen": "Study shell",
+    "order": 1357
+  },
+  "web:study.shell.listen": {
+    "screen": "Study shell",
+    "order": 1358
+  },
+  "web:study.shell.guide": {
+    "screen": "Study shell",
+    "order": 1359
+  },
+  "web:study.quiz.niceTry": {
+    "screen": "Quiz",
+    "order": 1360
+  },
+  "web:study.quiz.thinkAgain": {
+    "screen": "Quiz",
+    "order": 1361
+  },
+  "web:study.quiz.greatJob": {
+    "screen": "Quiz",
+    "order": 1362
+  },
+  "web:study.quiz.goodOne": {
+    "screen": "Quiz",
+    "order": 1363
+  },
+  "web:study.quiz.correctAnswerIs": {
+    "screen": "Quiz",
+    "order": 1364
+  },
+  "web:study.quiz.seeResults": {
+    "screen": "Quiz",
+    "order": 1365
+  },
+  "web:study.quiz.yourScore": {
+    "screen": "Quiz",
+    "order": 1366
+  },
+  "web:study.quiz.correctAnswers": {
+    "screen": "Quiz",
+    "order": 1367
+  },
+  "web:study.quiz.correctLabel": {
+    "screen": "Quiz",
+    "order": 1368
+  },
+  "web:study.quiz.incorrect": {
+    "screen": "Quiz",
+    "order": 1369
+  },
+  "web:study.quiz.downloadLexie": {
+    "screen": "Quiz",
+    "order": 1370
+  },
+  "web:study.quiz.savesSessions": {
+    "screen": "Quiz",
+    "order": 1371
+  },
+  "web:study.quiz.matchPairs": {
+    "screen": "Quiz",
+    "order": 1372
+  },
+  "web:study.quiz.typeAnswer": {
+    "screen": "Quiz",
+    "order": 1373
+  },
+  "web:study.quiz.typeAnswerPlaceholder": {
+    "screen": "Quiz",
+    "order": 1374
+  },
+  "web:study.quiz.couldNotCheck": {
+    "screen": "Quiz",
+    "order": 1375
+  },
+  "web:study.quiz.noQuestions": {
+    "screen": "Quiz",
+    "order": 1376
+  },
+  "web:study.quiz.noStudyText": {
+    "screen": "Quiz",
+    "order": 1377
+  },
+  "web:study.quiz.saveSet": {
+    "screen": "Quiz",
+    "order": 1378
+  },
+  "web:study.quiz.saveSetResults": {
+    "screen": "Quiz",
+    "order": 1379
+  },
+  "web:study.quiz.saveSetHint": {
+    "screen": "Quiz",
+    "order": 1380
+  },
+  "web:study.quiz.createAccount": {
+    "screen": "Quiz",
+    "order": 1381
+  },
+  "web:study.quiz.prepAccountHint": {
+    "screen": "Quiz",
+    "order": 1382
+  },
+  "web:study.quiz.continueInWorkspace": {
+    "screen": "Quiz",
+    "order": 1383
+  },
+  "web:study.quiz.correct": {
+    "screen": "Quiz",
+    "order": 1384
+  },
+  "web:study.quiz.notQuite": {
+    "screen": "Quiz",
+    "order": 1385
+  },
+  "web:study.quiz.goodTry": {
+    "screen": "Quiz",
+    "order": 1386
+  },
+  "web:study.quiz.stillLearning": {
+    "screen": "Quiz",
+    "order": 1387
+  },
+  "web:study.quiz.mastered": {
+    "screen": "Quiz",
+    "order": 1388
+  },
+  "web:study.quiz.continueLabel": {
+    "screen": "Quiz",
+    "order": 1389
+  },
+  "web:study.quiz.tryAgain": {
+    "screen": "Quiz",
+    "order": 1390
+  },
+  "web:study.quiz.check": {
+    "screen": "Quiz",
+    "order": 1391
+  },
+  "web:study.quiz.selectAnswer": {
+    "screen": "Quiz",
+    "order": 1392
+  },
+  "web:study.quiz.fillBlanks": {
+    "screen": "Quiz",
+    "order": 1393
+  },
+  "web:study.quiz.studyText": {
+    "screen": "Quiz",
+    "order": 1394
+  },
+  "web:study.saveSetModal.title": {
+    "screen": "Save set",
+    "order": 1395
+  },
+  "web:study.saveSetModal.subtitle": {
+    "screen": "Save set",
+    "order": 1396
+  },
+  "web:study.saveSetModal.saving": {
+    "screen": "Save set",
+    "order": 1397
+  },
+  "web:study.saveSetModal.savedTitle": {
+    "screen": "Save set",
+    "order": 1398
+  },
+  "web:study.saveSetModal.savedBody": {
+    "screen": "Save set",
+    "order": 1399
+  },
+  "web:study.saveSetModal.continueStudying": {
+    "screen": "Save set",
+    "order": 1400
+  },
+  "web:study.saveSetModal.limitBody": {
+    "screen": "Save set",
+    "order": 1401
+  },
+  "web:study.saveSetModal.errorBody": {
+    "screen": "Save set",
+    "order": 1402
+  },
+  "web:study.saveSetModal.close": {
+    "screen": "Save set",
+    "order": 1403
+  },
+  "web:study.saveSetModal.legalPrefix": {
+    "screen": "Save set",
+    "order": 1404
+  },
+  "web:study.saveSetModal.legalTerms": {
+    "screen": "Save set",
+    "order": 1405
+  },
+  "web:study.saveSetModal.legalAnd": {
+    "screen": "Save set",
+    "order": 1406
+  },
+  "web:study.saveSetModal.legalPrivacy": {
+    "screen": "Save set",
+    "order": 1407
+  },
+  "web:study.saveSetModal.legalSuffix": {
+    "screen": "Save set",
+    "order": 1408
+  },
+  "web:study.saveSetModal.sharedTitle": {
+    "screen": "Save set",
+    "order": 1409
+  },
+  "web:study.saveSetModal.sharedSubtitle": {
+    "screen": "Save set",
+    "order": 1410
+  },
+  "web:study.saveSetModal.prepTitle": {
+    "screen": "Save set",
+    "order": 1411
+  },
+  "web:study.saveSetModal.prepSubtitle": {
+    "screen": "Save set",
+    "order": 1412
+  },
+  "web:study.saveSetModal.prepSaving": {
+    "screen": "Save set",
+    "order": 1413
+  },
+  "web:study.saveSetModal.prepSavedTitle": {
+    "screen": "Save set",
+    "order": 1414
+  },
+  "web:study.saveSetModal.prepSavedBody": {
+    "screen": "Save set",
+    "order": 1415
+  },
+  "web:study.saveSetModal.prepGoToWorkspace": {
+    "screen": "Save set",
+    "order": 1416
+  },
+  "web:study.saveSetModal.prepStayHere": {
+    "screen": "Save set",
+    "order": 1417
+  },
+  "web:study.prepGuide.title": {
+    "screen": "Study guide",
+    "order": 1418
+  },
+  "web:study.prepGuide.goal": {
+    "screen": "Study guide",
+    "order": 1419
+  },
+  "web:study.prepGuide.bigIdea": {
+    "screen": "Study guide",
+    "order": 1420
+  },
+  "web:study.prepGuide.usuallyTested": {
+    "screen": "Study guide",
+    "order": 1421
+  },
+  "web:study.prepGuide.howAsked": {
+    "screen": "Study guide",
+    "order": 1422
+  },
+  "web:study.prepGuide.loseMarks": {
+    "screen": "Study guide",
+    "order": 1423
+  }
+}

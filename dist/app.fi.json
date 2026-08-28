@@ -1,0 +1,1143 @@
+{
+  "common": {
+    "language": "Suomi",
+    "cancel": "Peruuta",
+    "back": "Takaisin",
+    "save": "Tallenna",
+    "ok": "OK",
+    "share": "Jaa",
+    "shareWithFriends": "Jaa",
+    "months": {
+      "january": "Tammikuu",
+      "february": "Helmikuu",
+      "march": "Maaliskuu",
+      "april": "Huhtikuu",
+      "may": "Toukokuu",
+      "june": "Kesäkuu",
+      "july": "Heinäkuu",
+      "august": "Elokuu",
+      "september": "Syyskuu",
+      "october": "Lokakuu",
+      "november": "Marraskuu",
+      "december": "Joulukuu"
+    },
+    "tapToWatchOnYouTube": "Katso YouTubessa napauttamalla",
+    "videoUnavailable": "Video ei ole saatavilla",
+    "questionWillBeSkipped": "Tämä kysymys ohitetaan.",
+    "close": "Sulje"
+  },
+  "welcome": {
+    "title": "Tervetuloa Lexieen",
+    "description": "Lexie auttaa sinua oppimaan paremmin. Ota kuva ja Lexie hoitaa loput.",
+    "subtitle": "Ota kuva siitä mitä haluat oppia ja Lexie hoitaa loput.",
+    "startButton": "Aloita",
+    "loginButton": "Minulla on jo tili",
+    "features": {
+      "flashcards": "Selaa *muistikortteja*",
+      "quiz": "*Testaa* itsesi",
+      "exams": "Vastaa *koekysymyksiin*",
+      "languages": "Hio *kieliä*",
+      "math": "*Matikkatila* laskemiseen",
+      "listen": "*Kuuntele* tekstit",
+      "occlusion": "*Peittokuvat*"
+    },
+    "proBadge": "PRO",
+    "carousel": {
+      "slide1": "Yksi kuva,\nviisi tapaa harjoitella",
+      "slide2": "Ota kuva mistä\ntahansa aiheesta",
+      "slide3": "Muistikorttien avulla toistat\nja vahvistat oppimaasi",
+      "slide4": "Tehtävien avulla voit kerrata\nja testata osaamistasi",
+      "slide5": "Harjoittele avoimia vastauksia\nennen koetta",
+      "slide6": "Kuuntelemalla voit kerrata\nmissä ja milloin vain",
+      "slide7": "Opiskeluajastin\nauttaa keskittymään",
+      "slide8": "Peitä kuvan osat ja\ntestaa mitä muistat",
+      "subjects": {
+        "math": "Matematiikka",
+        "history": "Historia",
+        "biology": "Biologia",
+        "physics": "Fysiikka",
+        "chemistry": "Kemia",
+        "french": "Ranska",
+        "japanese": "Japani",
+        "economics": "Taloustiede",
+        "geography": "Maantieto",
+        "spanish": "Espanja"
+      }
+    }
+  },
+  "prep": {
+    "yoTitle": "Yo-kertaus",
+    "yoBadge": "UUSI",
+    "yoIntro": "Lexien valmiit kertaussarjat ylioppilaskokeisiin auttavat kertaamaan keskeiset asiat.",
+    "coursesTitle": "Kurssit",
+    "coursesIntro": "Täältä löydät Lexien valmiit kurssit ja oppimateriaalit.",
+    "empty": "Ei vielä sisältöä tällä opiskelukielellä.",
+    "topicCount": "{count} kokonaisuutta",
+    "setCountOne": "{count} kertaussetti",
+    "setCountMany": "{count} kertaussettiä",
+    "cardCountOne": "{count} kortti",
+    "cardCountMany": "{count} korttia",
+    "questionCountOne": "{count} tehtävä",
+    "questionCountMany": "{count} tehtävää"
+  },
+  "login": {
+    "title": "Kirjaudu sisään",
+    "subtitle": "Lähetämme sähköpostiisi 6-numeroisen koodin. Et tarvitse salasanaa.",
+    "emailPlaceholder": "Sähköpostisi",
+    "emailMissing": "Anna sähköpostiosoitteesi.",
+    "sendFailed": "Koodin lähetys epäonnistui. Yritä hetken kuluttua uudelleen.",
+    "sendCode": "Lähetä kirjautumiskoodi",
+    "codeSent": "Lähetimme kirjautumiskoodin osoitteeseen {email}. Koodi on voimassa hetken.",
+    "codeMissing": "Anna sähköpostiisi lähetetty 6-numeroinen koodi.",
+    "codeInvalid": "Koodi ei kelvannut. Tarkista koodi ja yritä uudelleen.",
+    "verify": "Kirjaudu",
+    "resend": "Lähetä koodi uudelleen",
+    "changeEmail": "Vaihda sähköpostiosoitetta",
+    "ageNote": "Luomalla tilin vahvistat, että olet vähintään 13-vuotias."
+  },
+  "home": {
+    "greeting": "Hei 👋🏻",
+    "questionPrompt": "Mitä haluaisit oppia\n tänään?",
+    "startLesson": "Aloita",
+    "toReview": "{count} kerrattavaa",
+    "lessons": "Setit",
+    "earnMoreSets": "Earn more sets",
+    "inviteFriends": "Kutsu kavereita"
+  },
+  "spacedRepAnnouncement": {
+    "headerLabel": "Uutta → Aikavälikertaus",
+    "title": "Lexie tietää nyt mitä olet unohtamassa",
+    "subtitle": "Lexie seuraa oppimistasi ja ehdottaa mitä ja milloin kannattaa kerrata, jotta asiat painuvat mieleen.",
+    "okButton": "OK",
+    "practise": "Harjoittele",
+    "flipcards": "12 flipcards",
+    "questions": "15 questions"
+  },
+  "studySet": {
+    "guide": {
+      "readFirst": "Lue tämä ensin",
+      "minutesShort": "min",
+      "studyTimePrefix": "Varaa n.",
+      "studyTimeSuffix": "kertaamiseen",
+      "title": "Opiskeluopas",
+      "goal": "Tavoite",
+      "bigIdea": "Ydinajatus",
+      "usuallyTested": "Mitä yleensä kysytään",
+      "howAsked": "Miten asiaa yleensä kysytään",
+      "loseMarks": "Missä pisteitä yleensä menetetään"
+    },
+    "title": "Harjoitus",
+    "folder": "Kansio",
+    "summary": "Pääkohdat",
+    "quiz": "Testi",
+    "flashcards": "Muistikortit",
+    "original": "Teksti",
+    "actions": {
+      "rename": "Nimeä uudelleen",
+      "delete": "Poista harjoitussetti"
+    },
+    "rename": {
+      "title": "Nimeä harjoitussetti uudelleen",
+      "subtitle": "Kirjoita uusi nimi"
+    },
+    "loadingAudioSubtext": "Tässä voi mennä hetki. Voit tehdä vaikka tehtäviä odotellessasi ja saat viestin kun ääniversio on valmis.",
+    "audioReady": "Psst..audio on nyt valmis kuunneltavaksi",
+    "audioTimeoutError": "Lataus kesti liian kauan. Tarkista yhteytesi ja yritä uudelleen.",
+    "audioServerError": "Palvelin ei ole käytettävissä. Yritä myöhemmin uudelleen.",
+    "audioNetworkError": "Ei internet-yhteyttä. Tarkista yhteytesi ja yritä uudelleen.",
+    "audioGenericError": "Jokin meni pieleen. Yritä uudelleen.",
+    "audioRetry": "Yritä uudelleen",
+    "loadingCaptions": "Hetkinen...",
+    "loadingNextSection": "Ladataan seuraavaa osaa...",
+    "loadingAudioProgress": "Osa",
+    "loading": "Ladataan sisältöä...",
+    "noContent": "Ei sisältöä saatavilla",
+    "loadError": "Harjoittelusetin lataaminen epäonnistui.",
+    "showMore": "Näytä lisää",
+    "showLess": "Näytä vähemmän",
+    "cards": {
+      "learn": "Harjoittele",
+      "practice": "Testaa",
+      "review": "Kertaa",
+      "reviewSubtitle": "Nyt on hyvä aika kerrata nämä",
+      "dueForReview": "{count} kohdetta kerrattavana",
+      "xCards": "{count} korttia",
+      "xQuestions": "{count} tehtävää",
+      "noCards": "Ei kortteja",
+      "noQuestions": "Ei tehtäviä",
+      "goToFlashcards": "Siirry muistikortteihin",
+      "dueCount": "Kertaa {count}"
+    },
+    "tableDisplay": "Taulukot eivät ehkä näy oikein tässä näkymässä. Kokeile muistikortteja.",
+    "vocabularyTable": {
+      "term": "Sana",
+      "definition": "Käännös"
+    },
+    "noContentToPlay": "Ei sisältöä",
+    "noLanguageForAudio": "Kieltä ei tunnistettu. Äänitoiminto ei ole käytettävissä tälle harjoitussetille.",
+    "share": "Jaa WhatsAppissa",
+    "share_error_title": "Jakaminen ei onnistunut",
+    "share_error_message": "Harjoitussetin jakaminen epäonnistui. Yritä uudelleen.",
+    "whatsapp_not_installed": "WhatsAppia ei ole asennettu laitteellesi.",
+    "shareTitle": "Jaa harjoitussetin",
+    "shareDialogTitle": "Jaa tämä harjoitussetti",
+    "previewText": "Tein tämän sinulle Lexiellä",
+    "shareModalTitle": "Sharing is caring",
+    "shareModalMessage": "Luokkakaverisi lukevat varmaan samaan kokeeseen, ehkä joku tarvitsee jeesiä? Jaa harjoitussetti niin voitte harjoitella yhdessä.",
+    "shareStudySet": "Jaa setti",
+    "linkCopied": "Linkki kopioitu!",
+    "generateReadingPractice": "Luo lukuharjoitus",
+    "readingPracticeSubtitle": "Tee uusi harjoitussetti näistä sanoista",
+    "readingPracticeGenerating": "Tässä menee pieni hetki..",
+    "openReadingPractice": "Avaa lukuharjoitus",
+    "generatingReadingPractice": "Luon lukuharjoitusta...",
+    "noVocabularyData": "Sanastoa ei ole saatavilla",
+    "loadingAudio": "Luon ääniversion",
+    "read": "Lue",
+    "listen": "Kuuntele"
+  },
+  "progressive": {
+    "toasts": {
+      "checkingContent": "Katson läpi mitä lähetit..",
+      "creatingFlashcards": "Teen nyt muistikortteja",
+      "creatingMathProblems": "Luon harjoitustehtäviä",
+      "nextStepQuiz": "Valmis. Teen seuraavaksi harjoituksia..",
+      "almostDone": "Melkein valmista.."
+    },
+    "features": {
+      "flashcards": "Kääntökortit auttaa muistamaan asioita paremmin.",
+      "quiz": "Tehtävien avulla voi testaa mitä osaa ja mitä ei osaa",
+      "thinking": "Sovella oppimaasi avointen kysymysten avulla",
+      "feedback": "Saat heti palautetta ja voit parantaa vastauksiasi",
+      "concepts": "Tärkeimmät avainsanat selitetty selkeästi",
+      "audio": "Kuuntele koealue ääneen tekstityksen kanssa",
+      "privacy": "Harjoitussetit kulkevat aina mukana puhelimessa"
+    }
+  },
+  "settings": {
+    "title": "Asetukset",
+    "language": "Kieli",
+    "interfaceLanguage": "Käyttöliittymän kieli",
+    "error": "Virhe",
+    "languages": {
+      "English": {
+        "name": "Englanti",
+        "inLanguage": "englanniksi"
+      },
+      "Finnish": {
+        "name": "Suomi",
+        "inLanguage": "suomeksi"
+      },
+      "Swedish": {
+        "name": "Ruotsi",
+        "inLanguage": "ruotsiksi"
+      },
+      "French": {
+        "name": "Ranska",
+        "inLanguage": "ranskaksi"
+      },
+      "Spanish": {
+        "name": "Espanja",
+        "inLanguage": "espanjaksi"
+      },
+      "German": {
+        "name": "Saksa",
+        "inLanguage": "saksaksi"
+      }
+    },
+    "sections": {
+      "account": "Tili",
+      "preferences": "Yleiset",
+      "languages": "Kielet",
+      "sharing": "Jakaminen",
+      "about": "Tietoja"
+    },
+    "studyLanguage": "Opiskelukieli",
+    "learningLanguages": "Kielet, joita opettelen",
+    "notSet": "Ei asetettu",
+    "none": "Ei mitään",
+    "accountRow": "Tili",
+    "accountScreen": {
+      "title": "Tili",
+      "emptyBody": "Kirjaudu sisään, jos ostit Pro Passin osoitteessa lexielearn.com.",
+      "createAccount": "Kirjaudu tai luo tili",
+      "loggedIn": "Kirjautunut sisään",
+      "logOut": "Kirjaudu ulos",
+      "deleteAccount": "Poista tili",
+      "deleteCaption": "Poistaa tilisi ja kaikki siihen tallennetut tiedot.",
+      "deleteConfirmTitle": "Poista tili",
+      "deleteConfirmMessage": "Tämä poistaa tilisi ja siihen tallennetut tiedot pysyvästi. Toimintoa ei voi perua.",
+      "deleteConfirm": "Poista",
+      "deleteError": "Tilin poistaminen epäonnistui. Yritä hetken kuluttua uudelleen."
+    },
+    "profileSettings": "Profiili",
+    "manageSubscription": "Hallinnoi tilausta",
+    "appearance": "Ulkoasu",
+    "useSystemTheme": "Järjestelmä",
+    "lightMode": "Vaalea",
+    "darkMode": "Tumma",
+    "notifications": "Ilmoitukset",
+    "spacedRepetition": "Hajautettu kertaus",
+    "spacedRepetitionDescription": "Näyttää, mitkä kortit on aika kerrata sen perusteella, miten hyvin osaat ne",
+    "dailyReminder": "Päivittäinen muistutus",
+    "reminderTime": "Muistutusaika",
+    "termsConditions": "Käyttöehdot",
+    "getHelp": "Tuki",
+    "rateApp": "Suosittele Lexietä",
+    "earnFreeSets": "Ansaitse ilmaisia settejä",
+    "upgradeToPro": "Päivitä Lexie Prohon",
+    "redeemCode": "Lunasta koodi",
+    "giftLexie": "Pyydä Lexie lahjaksi",
+    "tellAFriend": "Kerro kaverille",
+    "proPass": {
+      "title": "Lexie Pro Pass",
+      "subtitle": "Rajattomasti harjoitussettejä, tehtäviä, kääntökortteja...",
+      "upgradeButton": "Tilaa nyt"
+    },
+    "lexieGift": {
+      "title": "Pyydä Lexie lahjaksi",
+      "subtitle": "Lahja joka auttaa lukemaan paremmin kokeisiin?"
+    },
+    "betaFeatures": "Betaominaisuudet",
+    "betaFeaturesSubtitle": "Kokeile uusia ominaisuuksia ennen muita",
+    "features": {
+      "imageOcclusion": "Peittokortit",
+      "imageOcclusionDesc": "Luo muistikortteja kuvien teksteistä",
+      "mathMode": "Matikkamoodi",
+      "mathModeDesc": "Luo harjoitustehtäviä matikan sisällöstä",
+      "mathModeBetaTitle": "Matematiikka (Beta)",
+      "mathModeBetaMessage": "Tämä ominaisuus on vielä kehitteillä. Jos jokin ei toimi oikein, kerro meille."
+    },
+    "footer": {
+      "thankYou": "Kiitos kun valitsit Lexien.",
+      "loveLine": "We 🫶🏻 you."
+    },
+    "deleteProfile": {
+      "title": "Poista profiili",
+      "message": "Haluatko varmasti poistaa tämän profiilin? Tätä toimintoa ei voi peruuttaa.",
+      "cancel": "Peruuta",
+      "confirm": "Poista",
+      "error": "Profiilin poistaminen epäonnistui. Yritä uudelleen."
+    },
+    "helpCentre": {
+      "title": "Lexie tuki",
+      "intro": "Hei, olen Elina, Lexien tekijä. Tällä sivulla usein kysyttyjä kysymyksiä. Jos et löydä etsimääsi, laita viesti.",
+      "sections": {
+        "subscriptionPayments": "Tilaus ja maksut",
+        "usingLexie": "Lexien käyttö"
+      },
+      "stillStuck": {
+        "label": "Edelleen jumissa?",
+        "body": "Onko sinulla toiveita tai ideoita Lexieen liittyen? Eikö joku toimi? Luen jokaisen viestin ja vastaan 24h sisällä.",
+        "messageMe": "Lähetä palautetta",
+        "whatsapp": "WhatsApp",
+        "whatsappMessage": "Hei Elina! Käytän LexieLearn-sovellusta ja haluaisin antaa palautetta."
+      },
+      "faqs": {
+        "howToCancel": {
+          "question": "Miten peruutan tilauksen",
+          "answer": "Tilauksen voi perua milloin tahansa puhelimen asetuksista, ei Lexien sisältä. Apple hallinnoi tilauksia, joten en voi perua tilausta puolestasi.\n\niPhonella: Asetukset → oma nimi → Tilaukset → Lexie → Peruuta tilaus.\nAndroidilla: Play Kauppa → profiili → Maksut ja tilaukset → Tilaukset → Lexie → Peruuta tilaus.\n\nJos ostit tilauksen osoitteessa lexielearn.com, sovelluskaupat eivät tiedä tilauksestasi. Avaa sovelluksessa Asetukset → Hallinnoi tilausta, niin pääset oikeaan paikkaan.\n\nKäyttöoikeus säilyy sen jakson loppuun asti, jonka olet jo maksanut."
+        },
+        "webPurchaseLogin": {
+          "question": "Ostin Pron verkkosivulta, miten saan sen sovellukseen",
+          "answer": "Kirjaudu sisään samalla sähköpostilla, jolla teit ostoksen. Sovelluksessa: Asetukset → Tili, tai napauta kirjautumislinkkiä tilaussivulla. Saat sähköpostiisi 6-numeroisen koodin, salasanaa ei tarvita. Kirjautumisen jälkeen Pro Pass aukeaa automaattisesti.\n\nHuomaa, että Palauta ostot löytää vain App Storen ja Google Playn ostokset. Verkosta ostettu tilaus aukeaa kirjautumalla.\n\nYksi rehellinen huomio: kirjautuminen tuo mukanaan Pro Passin, ei harjoitussettejä. Verkossa tekemäsi setit pysyvät toistaiseksi verkossa."
+        },
+        "shareWithKid": {
+          "question": "Miten jaan tilauksen lapseni kanssa",
+          "answer": "Valitse perheen vuositilaus. Se kattaa enintään kuusi laitetta Applen perhejaon kautta, joten lapsesi ja muut perheryhmäsi jäsenet saavat täydet käyttöoikeudet omiin puhelimiinsa.\n\nOta perhejako ensin käyttöön iPhonen asetuksissa, jos et ole vielä tehnyt sitä. Osta sen jälkeen perhetilaus Lexien sisältä. Kaikki perheryhmän jäsenet saavat käyttöoikeuden automaattisesti.\n\nHuomaa, että perhetilaus toimii vain iPhonella, koska Google Play ei tue tilausten perhejakoa. Jos käytät Androidia tai perheessäsi on sekä iPhone- että Android-käyttäjiä, lähetä minulle viesti, niin etsimme yhdessä ratkaisun."
+        },
+        "freeTierRunsOut": {
+          "question": "Mitä tapahtuu, kun ilmaiset harjoitussetit loppuvat",
+          "answer": "Kolme jo tekemääsi harjoitussettiä säilyvät. Voit jatkaa niiden kertaamista, kuuntelua ja muistikorttien käyttöä normaalisti. Uusia settejä et kuitenkaan voi luoda ennen kuin päivität tilauksen tai ansaitset lisää settejä kutsujen kautta.\n\nKutsu kaveri mukaan, niin molemmat saatte kaksi ilmaista settiä, kun hän liittyy."
+        },
+        "openWhatsappSet": {
+          "question": "Miten avaan WhatsAppissa tai verkossa luodun harjoitussetin sovelluksessa",
+          "answer": "Tällä hetkellä se ei ole mahdollista. Harjoitussetit eivät vielä siirry verkon ja sovelluksen välillä, vaikka kirjautuisit samalla sähköpostilla. Kirjautuminen avaa Pro Passin sovelluksessa, mutta setit pysyvät siellä, missä ne on tehty.\n\nJos haluat setin sovellukseen, helpoin tapa on ottaa kuva samasta materiaalista ja antaa Lexien luoda setti uudelleen. Jos synkronointi olisi sinulle hyödyllinen ominaisuus, lähetä viesti ja kerro siitä. Se auttaa minua päättämään, mitä rakennan seuraavaksi."
+        },
+        "multiDevice": {
+          "question": "Voinko käyttää Lexietä useammalla laitteella",
+          "answer": "Harjoitussetit tallentuvat siihen puhelimeen, jolla ne on luotu, eivätkä ne synkronoidu puhelimien välillä automaattisesti. Jokainen puhelin on oma erillinen kokonaisuutensa.\n\nJos haluat setin toiseen puhelimeen, jaa se alkuperäisestä puhelimesta (napauta Jaa → Lähetä linkki) ja avaa linkki toisessa puhelimessa.\n\nJaettuja linkkejä voi avata myös tietokoneen selaimessa ilman sovellusta. Riittää, että napautat linkkiä. Tämä on kätevä tapa opiskella isommalta näytöltä.\n\nPro Pass sen sijaan kulkee mukana. Verkosta ostettu tilaus aukeaa millä tahansa puhelimella, kun kirjaudut sisään. Sovelluskaupasta ostettu tilaus seuraa App Store- tai Google Play -tiliäsi."
+        }
+      },
+      "message": {
+        "title": "Lähetä viesti",
+        "placeholder": "Kerro, miten voimme parantaa Lexietä",
+        "emailPlaceholder": "Sähköposti (valinnainen, jos haluat vastauksen)",
+        "attach": "Liitä kuvakaappaus",
+        "send": "Lähetä",
+        "sent": "Viesti lähetetty. Kiitos!"
+      }
+    },
+    "manageSubscriptionScreen": {
+      "title": "Hallinnoi tilausta",
+      "statusLabel": "Tilauksen tila",
+      "planAnnual": "Vuositilaus",
+      "planMonthly": "Kuukausitilaus",
+      "proPassName": "Lexie Pro Pass",
+      "renewsLabel": "Uusiutuu {date}",
+      "openStoreSettings": "Avaa kaupan asetukset",
+      "manageWebBilling": "Hallinnoi tilausta verkossa",
+      "cancelSubscription": "Peruuta tilaus",
+      "survey": {
+        "title": "Yksi asia ennen kuin lähdet",
+        "subtitle": "Kerro miksi peruutat",
+        "reasons": {
+          "notUsing": "En käytä tarpeeksi",
+          "tooExpensive": "Liian kallis",
+          "missing": "Jotain puuttuu",
+          "foundBetter": "Löysin paremman",
+          "examEnded": "Koeperiodi loppui",
+          "technical": "Tekniset ongelmat tai bugit"
+        },
+        "followupPlaceholder": "Mikä olisi saanut sinut jäämään?",
+        "continueButton": "Jatka peruutukseen"
+      }
+    }
+  },
+  "preview": {
+    "title": "Esikatselu",
+    "imageCounter": "{current}/{total}",
+    "readyButton": "Valmis",
+    "takeMore": "Ota lisää kuvia",
+    "chooseMore": "Valitse lisää kuvia",
+    "loading": "Ladataan...",
+    "maxImagesReached": "Voit ladata max 9 kuvaa yhteen settiin.",
+    "maxImagesMessage": "Voit lisätä enintään yhdeksän kuvaa kerralla.",
+    "maxImagesHint": "Vinkki: Pienemmät setit toimivat paremmin"
+  },
+  "chat": {
+    "askLexie": "Kysy Lexieltä...",
+    "addPhoto": "Lisää kuva",
+    "takePhoto": "Ota kuva",
+    "chooseFromLibrary": "Valitse kirjastosta",
+    "cancel": "Peruuta"
+  },
+  "feedback": {
+    "title": "Mikä meni pieleen?",
+    "selectCategory": "Mihin palautteesi liittyy?",
+    "categories": {
+      "technical": "Tekninen toimivuus",
+      "content": "Sisällön laatu",
+      "ux": "Käyttökokemus",
+      "feature": "Ominaisuustoiveet",
+      "incorrect": "Väärä kysymys/kortti",
+      "offTopic": "Ei liity aiheeseen",
+      "multipleAnswers": "Useita oikeita vastauksia",
+      "formatting": "Oikeinkirjoitus-/muotoiluvirheet",
+      "other": "Muu ongelma"
+    },
+    "submit": "Lähetä",
+    "disclaimer": "Tämän palautteen lähettäminen lähettää koko harjoittelusetin Interlinearille tulevien Lexie -parannusten tekemistä varten.",
+    "thankYou": "Kiitos palautteestasi.",
+    "permissions": {
+      "gallery": "Tarvitsemme luvan kuvien valitsemiseen"
+    },
+    "errors": {
+      "category": "Valitse palautteen tyyppi",
+      "description": "Kirjoita palautteen kuvaus"
+    },
+    "selectCategoryPlaceholder": "Valitse kategoria"
+  },
+  "alerts": {
+    "error": "Virhe",
+    "ok": "OK",
+    "permissionNeeded": "Lupa tarvitaan",
+    "photoLibraryPermission": "Lexie tarvitsee luvan käyttää kuvakirjastoasi.",
+    "imageLoadFailed": "Kuvan lataus epäonnistui. Yritä uudelleen.",
+    "processingError": "jotain meni pieleen meidän päässä. kokeile uudelleen?",
+    "imageSendingFailed": "Kuvien lähettäminen epäonnistui. Varmista, että kuvasi ovat selkeitä ja yritä uudelleen.",
+    "imagesTooLarge": "aika paljon sisältöä. kokeile skannata vähemmän sivuja kerralla",
+    "imageUnreadable": "tämä kuva ei toimi. voi olla laatu, voi olla ettei tekstiä löydy",
+    "noTextInImage": "Kuvasta ei löytynyt tekstiä. Kokeile skannata jotain missä on tekstiä",
+    "imageRefused": "Kuvaongelma",
+    "sizeError": "Liikaa sisältöä",
+    "tooManyAttempts": "Liian monta yritystä. Odota hetki ja yritä uudelleen.",
+    "serverUnavailable": "Palvelin on tilapäisesti pois käytöstä. Yritä myöhemmin uudelleen.",
+    "checkConnection": "Tarkista internet-yhteytesi ja yritä uudelleen.",
+    "networkError": "ei nettiyhteyttä. etsi wifi ja kokeile uudelleen",
+    "connectionError": "lexien aivoja ei tavoiteta juuri nyt. tarkista yhteys?",
+    "pdfExtractionError": "tämä pdf on itsepäinen. kokeile toista?",
+    "pdfImportFailed": "hmm tuo pdf ei toiminut. onko se ehkä salasanasuojattu?",
+    "invalidTextContent": "tuo teksti näyttää vähän oudolta. kokeile kopioida ja liittää uudelleen?",
+    "processingTimeout": "tämä kestää liian kauan. kokeile vähemmän sisältöä tai yksinkertaisempaa materiaalia?",
+    "generationTimeout": "lexie jumittui ajattelemaan. kokeile lyhyemmällä tekstillä?",
+    "noTextContent": "ei vielä mitään skannattavaa. ota kuva tai liitä tekstiä",
+    "analyzeTextFailed": "en saanut tuota luettua kunnolla. kokeile selkeämpää kuvaa?",
+    "folderCreateFailed": "Kansion luominen epäonnistui",
+    "assignToFolderFailed": "Harjoittelusetin lisääminen kansioon epäonnistui",
+    "noImages": "Kuvia ei valittu",
+    "profileError": "Profiilivirhe",
+    "noProfile": "Profiilia ei ole valittu",
+    "languageComingSoon": "Kieliasetukset tulossa pian!",
+    "deleteStudySet": "Poista harjoittelusetti",
+    "deleteConfirmation": "Haluatko varmasti poistaa tämän harjoittelusetin? Tätä toimintoa ei voi kumota.",
+    "delete": "Poista",
+    "deleteError": "Harjoitussetin poistaminen epäonnistui",
+    "renameFailed": "Harjoitussetin nimeäminen epäonnistui",
+    "deleteFailed": "Harjoitussetin poistaminen epäonnistui",
+    "takePictureError": "Kuvan ottaminen epäonnistui. Yritä uudelleen.",
+    "permission": "Kameran käyttöoikeus",
+    "cameraAccess": "Anna Lexielle lupa käyttää kameraa harjoitussetin luomiseen."
+  },
+  "scanPage": {
+    "title": "Ota kuva",
+    "cameraError": "Kameravirhe",
+    "checkingPermission": "Tarkistetaan kameran käyttöoikeutta...",
+    "permissionRequired": "Kameran käyttöoikeus vaaditaan kuvien skannaamiseen",
+    "cameraPermissionRequired": "Kameran käyttöoikeus vaaditaan kuvien skannaamiseen",
+    "cameraPermissionMessage": "Salli kameran käyttö laitteen asetuksista ottaaksesi kuvia.",
+    "grantPermission": "Myönnä käyttöoikeus",
+    "goBack": "Takaisin",
+    "tryAgain": "Yritä uudelleen",
+    "startingCamera": "Käynnistetään kameraa...",
+    "takePhotoInstruction": "Ota kuva sisällöstä, jota haluat harjoitella",
+    "requestingCameraPermission": "Pyydetään kameran käyttöoikeutta...",
+    "tips": {
+      "title": "Vinkkejä",
+      "tip1Title": "Vähemmän on enemmän",
+      "tip1Description": "Lexie toimii parhaiten kun lataat 1-4 kuvaa kerralla. Tee mieluummin monta pientä settiä kuin yhden ison.",
+      "tip2Title": "Yksi aihe kerrallaan",
+      "tip2Description": "Sekoitatko kieliä ja historiaa samaan settiin? Kysymykset menevät sekaisin. Lataa vain kuvia siitä aiheesta, mitä harjoittelet juuri nyt.",
+      "tip3Title": "Selkeät kuvat",
+      "tip3Description": "Epäselvä teksti = outoja kysymyksiä. Varmista, että muistiinpanosi tai kirjan sivut ovat hyvin valaistuja ja tarkennettuja, eikä mukaan eksy muuta tekstiä."
+    },
+    "initializingCamera": "Käynnistetään kameraa..."
+  },
+  "quiz": {
+    "title": "Harjoittele",
+    "progressOf": "{current}/{total}",
+    "loading": "Ladataan kysymyksiä...",
+    "feedback": {
+      "checking": "Tarkistetaan...",
+      "incorrect": "Se meni väärin. Kokeile uudelleen?",
+      "incorrectFinal": "Se meni väärin. Oikea vastaus on {answer}.",
+      "goodJob": "Hyvää työtä",
+      "thatWentWrong": "Se meni väärin.",
+      "correct": "Oikein.",
+      "notQuite": "Hyvä yritys",
+      "goodTry": "Hyvä yritys",
+      "stillLearning": "Harjoittelen",
+      "mastered": "Osaan"
+    },
+    "walk": {
+      "correctAnswer": "Oikea vastaus on {answer}."
+    },
+    "buttons": {
+      "ok": "OK",
+      "skip": "Ohita kysymys",
+      "continue": "Jatka",
+      "tryAgain": "Yritä uudelleen",
+      "submit": "Vastaa"
+    },
+    "alerts": {
+      "noQuestionsTitle": "Virhe",
+      "noQuestionsMessage": "Tälle harjoitussetille ei löytynyt kysymyksiä.",
+      "loadErrorTitle": "Virhe",
+      "loadErrorMessage": "Kysymysten lataaminen epäonnistui.",
+      "studyTextErrorTitle": "Virhe",
+      "studyTextErrorMessage": "Opiskelutekstin lataaminen epäonnistui. Yritä uudelleen."
+    },
+    "validation": {
+      "selectAnswer": "Valitse vastaus ennen tarkistusta",
+      "fillAllBlanks": "Täytä kaikki aukot ennen tarkistusta"
+    },
+    "studyText": {
+      "title": "Teksti"
+    }
+  },
+  "quizComplete": {
+    "results": {
+      "perfect": {
+        "title": "Loistavaa",
+        "subtitle": "Hallitset selvästi tämän aiheen"
+      },
+      "excellent": {
+        "title": "Hyvää työtä",
+        "subtitle": "Suurin osa meni oikein"
+      },
+      "good": {
+        "title": "Hyvin menee",
+        "subtitle": "Jatka harjoittelua"
+      },
+      "average": {
+        "title": "Hyvä alku",
+        "subtitle": "Palaa vielä harjoittelemaan"
+      },
+      "needsImprovement": {
+        "title": "Harjoitellaan lisää",
+        "subtitle": "Kaikki oppii omaan tahtiin"
+      }
+    },
+    "yourProgress": "Edistyminen",
+    "questionsMastered": "kysymystä\nhallussa",
+    "stillLearning": "Harjoittelet",
+    "skipped": "Ohitit",
+    "mastered": "Osaat",
+    "keepPracticing": "Harjoittele {count} käsitettä",
+    "keepPracticingMath": "Harjoittele {count} tehtävää",
+    "startAgain": "Aloita uudelleen",
+    "backToLesson": "Takaisin harjoitussettiin",
+    "close": "Sulje",
+    "studyTips": {
+      "perfect1": "Jos haluat tehdä harjoittelusta vielä tehokkaampaa, kannattaa tehdä vaikka kymmenen kyykkyä. Liikunta parantaa tutkitusti oppimista.",
+      "perfect2": "Kokeile mennä ajoissa tänään nukkumaan. Oppimisesta puolet tapahtuu yöllä nukkuessa.",
+      "perfect3": "Opeta tämä jollekin kaverille tai perheenjäsenelle. Opettaminen on paras tapa varmistaa että todella osaat.",
+      "excellent1": "Kokeile selittää ääneen mitä opit. Se auttaa huomaamaan mitkä kohdat on vielä vähän epäselviä.",
+      "excellent2": "Palaa hankalampiin kohtiin huomenna. Aivot käsittelee asioita yön aikana.",
+      "excellent3": "Piirrä kaavioita tai kuvia näistä käsitteistä. Visualisointi auttaa muistamaan paremmin.",
+      "good1": "Kokeile lukea materiaali ääneen seuraavan kerran. Kuuleminen auttaa ymmärtämään paremmin.",
+      "good2": "Ota yksi käsite kerrallaan. Älä yritä oppia kaikkea yhdellä kertaa.",
+      "good3": "Keksi omia esimerkkejä näistä asioista. Se auttaa ymmärtämään miten ne toimii oikeassa elämässä.",
+      "average1": "Kokeile selittää käsitteet omin sanoin. Jos et osaa selittää, et vielä ymmärrä kunnolla.",
+      "average2": "Keskity oppimaan yksi asia kunnolla ennen kuin siirryt seuraavaan.",
+      "average3": "Kirjoita tärkeimmät asiat käsin paperille. Käsinkirjoittaminen auttaa muistamaan.",
+      "needsImprovement1": "Lue jokainen käsite hitaasti ja mieti mitä se oikeasti tarkoittaa. Kiire ei auta oppimisessa.",
+      "needsImprovement2": "Yritä yhdistää nämä uudet asiat johonkin mitä jo tiedät. Se tekee oppimisesta helpompaa.",
+      "needsImprovement3": "Ota pieni tauko ja palaa asiaan myöhemmin. Joskus aivot tarvitsee aikaa prosessoida."
+    }
+  },
+  "profileSettings": {
+    "title": "Profiiliasetukset",
+    "loading": "Ladataan profiilia...",
+    "save": "Tallenna",
+    "nameLabel": "Millä nimellä voisin kutsua sinua?",
+    "namePlaceholder": "Kirjoita nimesi",
+    "deleteProfile": "Poista profiili",
+    "alerts": {
+      "loadError": "Profiilin tietoja ei voitu ladata",
+      "noProfile": "Profiilia ei ladattu",
+      "saveError": "Profiilin muutosten tallentaminen epäonnistui"
+    }
+  },
+  "profileImage": {
+    "title": "Valitse profiilikuva",
+    "continue": "Jatka",
+    "alerts": {
+      "selectImageTitle": "Valitse profiilikuva",
+      "selectImageMessage": "Valitse profiilikuva jatkaaksesi"
+    }
+  },
+  "nameInput": {
+    "greeting": "Hei 👋🏻",
+    "question": "Millä nimellä voin kutsua sinua?",
+    "placeholder": "",
+    "continue": "Jatka",
+    "alerts": {
+      "nameRequiredTitle": "Nimi vaaditaan",
+      "nameRequiredMessage": "Kirjoita nimesi jatkaaksesi"
+    }
+  },
+  "lessonHistory": {
+    "title": "Harjoitussetit",
+    "loading": "Ladataan settejä...",
+    "empty": {
+      "noLessons": "Tyhjää toistaiseksi.",
+      "startFirst": "Ota kuva ja pääset alkuun."
+    },
+    "dateFormats": {
+      "unknownDate": "Päivämäärä ei saatavilla",
+      "invalidDate": "Virheellinen päivämäärä",
+      "invalidFormat": "Virheellinen päivämäärän muoto",
+      "dateError": "Päivämäärävirhe"
+    },
+    "tabs": {
+      "allSets": "Kaikki setit",
+      "folders": "Kansiot",
+      "set": "setti",
+      "sets": "settiä",
+      "noFolders": "Sinulla ei ole vielä kansioita."
+    }
+  },
+  "fontSettings": {
+    "goToSettings": "Siirry fonttiasetuksiin",
+    "title": "Fonttiasetukset",
+    "fontSize": "Fonttikoko",
+    "fontFamily": "Fontti",
+    "allCaps": "ISOT KIRJAIMET",
+    "standard": "Tavallinen",
+    "reading": "Lukutila",
+    "dyslexiaFriendly": "Dysleksia-fontti",
+    "highVisibility": "Selkeälukuinen",
+    "monospaced": "Tasavälinen",
+    "case": "KIRJAINKOKO"
+  },
+  "folder": {
+    "loading": "Ladataan...",
+    "empty": "Tässä kansiossa ei ole vielä harjoittelusettejä",
+    "createStudySet": "Luo harjoittelusetti",
+    "addNotes": "Lisää settejä",
+    "moveNotes": {
+      "title": "Siirrä muistiinpanoja",
+      "empty": "Ei siirrettäviä muistiinpanoja",
+      "saveError": "Muistiinpanojen siirtäminen epäonnistui"
+    },
+    "alerts": {
+      "deleteError": "Kansion poistaminen epäonnistui",
+      "saveError": "Kansion muutosten tallentaminen epäonnistui"
+    }
+  },
+  "flashcards": {
+    "title": "Opi",
+    "counter": "{current} / {total}",
+    "left": "jäljellä",
+    "noCards": "Ei muistikortteja saatavilla",
+    "stillLearning": "Treenaan",
+    "iKnowThis": "Osaan"
+  },
+  "flashcardResults": {
+    "congratsTitle": "Hyvin harjoiteltu.",
+    "termsMastered": "Käsitteistä \nhallussa",
+    "stillLearningLabel": "Harjoittele vielä",
+    "keepReviewingButton": "Jatka {count} asian kertausta",
+    "restartButton": "Aloita alusta",
+    "practiceRemainingButton": "Harjoittele loput {count} korttia",
+    "masteredLabel": "Osaat jo",
+    "progressTitle": "Edistyminen",
+    "practiceButton": "Testaa taitosi"
+  },
+  "review": {
+    "loading": "Ladataan kerrattavia...",
+    "front": "Etu",
+    "back": "Taka",
+    "tapToFlip": "Napauta kääntääksesi",
+    "stillLearning": "Opettelen vielä",
+    "iKnowThis": "Osaan tämän",
+    "continue": "Jatka",
+    "sessionComplete": "Kertaus valmis!",
+    "correctRate": "Oikein",
+    "correct": "Oikein",
+    "needsReview": "Kerrattavaa",
+    "done": "Valmis",
+    "allCaughtUp": "Kaikki kerratttu!",
+    "noItemsDue": "Ei kerrattavia kohteita juuri nyt.",
+    "goBack": "Takaisin"
+  },
+  "notifications": {
+    "promptTitle": "Haluatko että Lexie muistuttaa milloin kannattaa kerrata?",
+    "promptSubtitle": "Unohdat ~70% näistä seuraavan 24h sisään",
+    "yesPlease": "Kyllä kiitos",
+    "noThanks": "Ei kiitos",
+    "continue": "Jatka",
+    "notNow": "Ei nyt",
+    "settingsTitle": "Kertausmuistutukset",
+    "settingsEnabled": "Päivittäinen muistutus",
+    "settingsTime": "Muistutusaika",
+    "settingsDisabled": "Muistutukset pois",
+    "pushTitle": "Lexie täällä 👋🏻",
+    "pushBody": "Sulla on asioita, jotka odottaa kertausta."
+  },
+  "conceptCards": {
+    "title": "Tärkeimmät käsitteet",
+    "noCards": "Ei kortteja saatavilla.",
+    "hint": "Vihje",
+    "counter": "{current} / {total}"
+  },
+  "studySetSettings": {
+    "language": "Käännä kieli",
+    "chooseFolder": "Valitse kansio",
+    "chooseFont": "Valitse fontti",
+    "editText": "Muokkaa tekstiä",
+    "deleteLesson": "Poista harjoitus"
+  },
+  "folders": {
+    "actions": {
+      "rename": "Nimeä uudelleen"
+    },
+    "rename": {
+      "title": "Nimeä kansio uudelleen",
+      "subtitle": "Anna uusi nimi"
+    },
+    "selection": {
+      "title": "Valitse kansio",
+      "subtitle": "Valitse tai luo uusi",
+      "empty": "Sinulla ei ole vielä kansiota",
+      "createButton": "Luo uusi kansio"
+    },
+    "edit": {
+      "title": "Muokkaa kansiota",
+      "nameLabel": "Kansion nimi",
+      "namePlaceholder": "Kirjoita kansion nimi",
+      "validation": "Anna kansiolle nimi",
+      "colorLabel": "Valitse väri",
+      "deleteButton": "Poista",
+      "deletingButton": "Poistetaan...",
+      "alerts": {
+        "deleteTitle": "Poista kansio",
+        "deleteMessage": "Haluatko varmasti poistaa tämän kansion? Toimintoa ei voi kumota.",
+        "cancel": "Peruuta",
+        "delete": "Poista",
+        "error": "Kansion poistaminen epäonnistui",
+        "saveError": "Kansion muutosten tallentaminen epäonnistui"
+      }
+    },
+    "creation": {
+      "title": "Luo kansio",
+      "nameLabel": "Kansion nimi",
+      "namePlaceholder": "esim. Matematiikka, Biologia, jne.",
+      "validation": "Anna kansiolle nimi",
+      "colorLabel": "Valitse väri",
+      "createButton": "Luo uusi kansio"
+    }
+  },
+  "audioPremium": {
+    "title": "Haluatko kuunnella opiskelutekstin?",
+    "description": "Haluamme Lexien kuulostavan oikeasti ihmiseltä ja laadukkaat äänet maksavat. Siksi kuuntelu on nyt maksullinen ominaisuus.",
+    "feature1": "",
+    "feature2": "",
+    "upgradeButton": "Tilaa Lexie Pro Pass",
+    "maybeLater": "Ehkä myöhemmin"
+  },
+  "termsAndLanguage": {
+    "languageTitle": "Valitse kieli",
+    "termsText": "Käyttämällä Lexietä hyväksyt",
+    "terms": "käyttöehdot",
+    "privacy": "tietosuojakäytännön",
+    "connector": "ja",
+    "suffix": ".",
+    "continue": "Jatka",
+    "termsRequired": "Käyttöehdot vaaditaan",
+    "termsRequiredMessage": "Hyväksy käyttöehdot jatkaaksesi."
+  },
+  "proPass": {
+    "title": "Lexie Pro pass",
+    "featureTitle": "Ota Lexiestä kaikki irti",
+    "featureDescription": "Ilmaisella pääset alkuun.\nTilaamalla pääset perille.",
+    "continue": "Tilaa nyt",
+    "subscribeAnnually": "Tilaa vuodeksi",
+    "subscribeMonthly": "Tilaa kuukaudeksi",
+    "loading": "Ladataan tilausvaihtoehtoja...",
+    "restorePurchases": "Palauta ostot",
+    "webSignIn": "Ostitko jo verkossa? Kirjaudu sisään",
+    "billedMonthly": "laskutetaan kuukausittain",
+    "billedYearly": "laskutetaan vuosittain",
+    "perMonth": "/kk",
+    "plans": {
+      "annual": {
+        "badge": "SUOSITUIN",
+        "title": "Vuositilaus",
+        "description": "Säästät enemmän tilaamalla Lexien vuodeksi.",
+        "period": "Laskutetaan vuosittain",
+        "discount": "40% alennus"
+      },
+      "family": {
+        "badge": "2-6 JÄSENTÄ",
+        "title": "Perhetilaus vuodeksi",
+        "description": "Rajattomat harjoitussetit jopa kuudelle laitteelle. Käyttää Applen perhejakoa.",
+        "period": "Laskutetaan vuosittain"
+      },
+      "monthly": {
+        "badge": "JOUSTAVIN",
+        "title": "Kuukausitilaus",
+        "description": "Maksa kuukausi kerrallaan Lexiestä. Voit peruuttaa milloin tahansa.",
+        "period": "Laskutetaan kuukausittain"
+      }
+    },
+    "purchaseSuccess": {
+      "title": "Valmista",
+      "message": "Voit nyt luoda niin monta harjoitussettiä kuin tarvitset.",
+      "button": "Jatka"
+    },
+    "purchaseError": {
+      "title": "Osto epäonnistui",
+      "message": "Ostossa tapahtui virhe. Yritä uudelleen tai ota yhteyttä tukeen.",
+      "button": "OK"
+    },
+    "restore": {
+      "success": {
+        "title": "Ostot palautettu!",
+        "message": "Aiemmat ostoksesi on palautettu onnistuneesti.",
+        "button": "Jatka"
+      },
+      "error": {
+        "title": "Palautus epäonnistui",
+        "message": "Ostojesi palauttaminen epäonnistui. Yritä uudelleen tai ota yhteyttä tukeen.",
+        "button": "OK"
+      }
+    },
+    "subscribed": {
+      "title": "Kaikki kunnossa!",
+      "message": "Sinulla on Lexie Pro ja voit luoda rajattomasti harjoitussettejä. Kiitos tuestasi!",
+      "backToApp": "Takaisin sovellukseen"
+    },
+    "affiliateCode": {
+      "label": "Onko sinulla affiliate-koodi? Esim. MILJA26",
+      "placeholder": "Syötä koodi",
+      "applied": "Affiliate-koodi hyväksytty",
+      "invalid": "Virheellinen affiliate-koodi"
+    }
+  },
+  "referral": {
+    "title": "Tienaa ilmaisia harjoituksia",
+    "subtitle": "Kutsu kaveri ja te MOLEMMAT saatte 2 ilmaista harjoitussettiä",
+    "freeStudySet": "ilmaista harjoitusta",
+    "studySets": "harjoitusta",
+    "perFriend": "per kaveri",
+    "whoJoins": "joka liittyy",
+    "whoDownloads": "joka lataa Lexien",
+    "friendsJoined": "kaveria liittynyt",
+    "ofFriendsJoined": "{total} kaverista liittynyt",
+    "inviteButton": "Kutsu kavereita",
+    "shareCode": "Jaa koodi",
+    "shareMessage": "Found this app that makes quizzes from photos of your notes. LOVE it.",
+    "shareMessageWithCode": "Rakastan tätä appia. Käytä koodiani {code} niin molemmat saadaan 2 ilmaista harjoitusta.",
+    "redeemCode": "Lunasta koodi",
+    "unlimited": "rajattomasti",
+    "copiedCode": "Koodi kopioitu!"
+  },
+  "giftModal": {
+    "title": "Pyydä Lexie lahjaksi",
+    "subtitle": "Lahja joka auttaa sinua lukemaan paremmin kokeisiin.",
+    "createLink": "Luo linkki",
+    "createLinkDescription": "Saat henkilökohtaisen linkin, jonka voit jakaa",
+    "shareIt": "Jaa se eteenpäin",
+    "shareItDescription": "Lähetä kenelle tahansa joka haluaa tukea opiskeluasi",
+    "enterCode": "Syötä koodi",
+    "enterCodeDescription": "Ostaja lähettää sinulle koodin. Syötä se Lexieen ja vuoden tilaus aktivoituu.",
+    "createGiftLinkButton": "Luo lahjalinkki",
+    "giftMessage": "Haluaisin lahjaksi Lexien. Se auttaa harjoittelemaan paremmin kokeisiin."
+  },
+  "rewardCode": {
+    "title": "Syötä koodi",
+    "subtitle": "Lunasta koodi ja saat ilmaisia harjoituksia",
+    "apply": "Käytä",
+    "success": "Onnistui!",
+    "error": "Virhe",
+    "enterAllCharacters": "Syötä kaikki 5 merkkiä",
+    "somethingWentWrong": "Jokin meni pieleen. Yritä uudelleen."
+  },
+  "think": {
+    "question": "Kysymys",
+    "questionSingular": "kysymys",
+    "questionsPlural": "kysymystä",
+    "answer": "Vastaa",
+    "seeYourAnswer": "Katso vastauksesi",
+    "title": "Sovella",
+    "openEndedQuestion": "avoin kysymys",
+    "openEndedQuestions": "avointa kysymystä",
+    "recordOrTypeAnswer": "Puhu tai kirjoita vastaus",
+    "holdAndSpeak": "Paina ja sanele",
+    "releaseToFinish": "Paina ja lopeta",
+    "tryAgain": "Vastaa uudelleen?",
+    "reviseStudyText": "Lue teksti uudestaan?",
+    "yourReply": "VASTAUS",
+    "dictate": "Sanele",
+    "stopDictation": "Lopeta",
+    "viewGrade": "Katso pisteet",
+    "placeholderTypeOrDictate": "Kirjoita tai sanele vastaus",
+    "noQuestionToDisplay": "Ei näytettävää kysymystä.",
+    "point": "piste",
+    "points": "pistettä",
+    "yourPoints": "Pisteesi",
+    "submit": "Lähetä",
+    "revise": "Muokkaa",
+    "submitAsIs": "Lähetä näin",
+    "viewFeedback": "Katso palaute",
+    "viewAnswerKey": "Katso mallivastaus",
+    "answerKey": "MALLIVASTAUS",
+    "keyConcepts": "AVAINKÄSITTEET",
+    "nextQuestion": "Seuraava kysymys",
+    "backToLesson": "Takaisin harjoitussettiin",
+    "close": "Sulje",
+    "writeSomethingBeforeSubmitting": "Kirjoita jotain ennen lähettämistä.",
+    "readingYourAnswer": "Luen vastaustasi...",
+    "gradingYourAnswer": "Arvioin vastaustasi...",
+    "placeholderRevise": "Muokkaa vastausta",
+    "failedToGetFeedback": "Palautteen lataaminen epäonnistui.",
+    "failedToGradeAnswer": "Vastauksen arviointi epäonnistui.",
+    "answered": "Vastattu",
+    "questionLabel": "KYSYMYS {number}"
+  },
+  "textUpload": {
+    "title": "Teksti",
+    "submit": "Lähetä",
+    "placeholder": "Kirjoita tai liitä tekstisi tähän",
+    "importPDF": "Lataa PDF",
+    "emptyTextTitle": "Tyhjä teksti",
+    "emptyTextMessage": "Syötä teksti ennen lähettämistä."
+  },
+  "occlusion": {
+    "modeToggle": {
+      "studySet": "Harjoitussetti",
+      "imageCards": "Peittokortti"
+    },
+    "create": {
+      "title": "Peittokortit",
+      "heading": "Luo peittokortit",
+      "subtitle": "Lataa kuva, jossa on tekstejä (esim. kaavio tai anatomian kuva). Tunnistan tekstit ja luon muistikortit automaattisesti.",
+      "chooseFromLibrary": "Valitse kirjastosta",
+      "takePhoto": "Ota kuva",
+      "detectingLabels": "Piilotan tekstit..",
+      "creatingFlashcards": "Luodaan muistikortteja...",
+      "loading": "Ladataan...",
+      "noTextDetected": "Kuvasta ei löytynyt tekstiä. Kokeile toista kuvaa, jossa on näkyvää tekstiä.",
+      "tryDifferentImage": "Kokeile toista kuvaa",
+      "processingFailed": "Kuvan käsittely epäonnistui",
+      "saveFailed": "Muistikortin tallennus epäonnistui"
+    },
+    "review": {
+      "loading": "Ladataan...",
+      "noRegions": "Ei peittoalueita",
+      "goBack": "Takaisin",
+      "typeAnswer": "Kirjoita vastauksesi...",
+      "correctFeedback": "Oikein",
+      "goodTry": "Hyvä yritys.",
+      "correctAnswerIs": "Oikea vastaus on",
+      "continue": "Jatka",
+      "resultsTitle": "Harjoitus valmis",
+      "correctLabel": "Oikein",
+      "incorrectLabel": "Väärin",
+      "accuracy": "Tarkkuus",
+      "done": "Valmis",
+      "hideOne": "Piilota yksi",
+      "hideAll": "Piilota kaikki"
+    },
+    "edit": {
+      "title": "Muokkaa peittoalueita",
+      "sectionTitle": "Peittoalueiden tekstit",
+      "sectionHint": "Napauta aluetta kuvassa tai listassa muokataksesi",
+      "enterLabel": "Kirjoita teksti...",
+      "cardNotFound": "Korttia ei löytynyt",
+      "saveFailed": "Muutosten tallennus epäonnistui"
+    }
+  },
+  "typedRecall": {
+    "writeMeaning": "Kirjoita merkitys",
+    "typeAnswer": "Kirjoita vastaus...",
+    "correctWord": "Oikea vastaus on",
+    "writeIn": "Kirjoita {language}",
+    "whatDoYouHear": "Mitä kuulet?"
+  },
+  "translation": {
+    "tapToTranslate": "Käännä kielelle",
+    "translateTo": "Käännä kielelle",
+    "searchLanguage": "Hae kieliä",
+    "commonLanguages": "Yleisimmät",
+    "allLanguages": "Kaikki kielet"
+  },
+  "math": {
+    "guidedPlaceholder": "Kirjoita vastaus paperille ja kuvaa..",
+    "hint": "Vihje",
+    "solve": "Ratkaise",
+    "problemSingular": "tehtävä",
+    "problemsPlural": "tehtävää",
+    "ocrFailed": "Matemaattista lauseketta ei voitu lukea. Kirjoita se sen sijaan.",
+    "assignment": "Tehtävänanto",
+    "addPhoto": "Lisää kuva",
+    "calculate": "Laske",
+    "typeAnswer": "Kirjoita vastaus..."
+  },
+  "ratingPrompt": {
+    "title": "Moi Elina tässä 👋",
+    "message": "Onko Lexie auttanut sinua opiskelemaan? Tein Lexien koska halusin että mahdollisimman monella olisi helppo tapa harjoitella tehokkaita opiskelutekniikoita hyödyntäen. Jos siitä on ollut apua, arvostelu merkitsisi minulle paljon. Se auttaa myös muita opiskelijoita löytämään sen.",
+    "tapToContinue": "Jatka",
+    "thanks": "Kiitos palautteestasi 🫶"
+  },
+  "focusMode": {
+    "pillInactive": "lock in",
+    "pillActive": "lock in",
+    "sheetTitle": "Time to lock in.",
+    "durationLabel": "Kesto",
+    "durationSubtitle": "Kauanko haluat keskittyä?",
+    "minSuffix": "min",
+    "startButton": "Aloita",
+    "confirmTitle": "Oletko varma?",
+    "confirmSubtitle": "Sessiota {minutes} min jäljellä",
+    "stayFocused": "Keskity vielä",
+    "giveUp": "Lopeta",
+    "completedTitle": "Valmis.",
+    "completedSubtitle": "{minutes} min opiskeltu. Hyvää työtä.",
+    "completedButton": "Nice",
+    "notificationBody": "Sessiota {minutes} min jäljellä, oletko varma?"
+  },
+  "onboarding": {
+    "continue": "Jatka",
+    "skip": "Ohita",
+    "studyLanguage": {
+      "title": "Millä kielellä opiskelet?",
+      "subtitle": "Kieli, jolla opiskelumateriaalisi ovat pääosin.",
+      "nudgePickFirst": "Valitse kieli jatkaaksesi"
+    },
+    "learningLanguages": {
+      "title": "Mitä kieliä opettelet?",
+      "subtitle": "Niitä, joita oikeasti yrität puhua. Ohita jos ei mitään, voit aina lisätä lisää myöhemmin.",
+      "add": "Lisää +"
+    }
+  },
+  "softPrompt": {
+    "languages": {
+      "title": "Lexie tunnistaa nyt kielet paremmin",
+      "body": "Kerrotko kaksi pikaista juttua? Tämä parantaa kokemustasi",
+      "cta": "Aseta nyt",
+      "dismiss": "Sulje"
+    }
+  },
+  "picker": {
+    "title": {
+      "singleSelect": "Valitse kieli",
+      "multiSelect": "Valitse kielet"
+    },
+    "searchPlaceholder": "Hae",
+    "confirm": "Valmis",
+    "empty": "Ei tuloksia"
+  },
+  "topicOrLanguage": {
+    "question": "Tämä on kielellä {language}. Opiskeletko aihetta vai opetteletko kieltä {language}?",
+    "learningButton": "Opettelen kieltä {language}",
+    "topicButton": "Aihetta"
+  },
+  "onboardingPaywall": {
+    "title": "Sijoita tulevaisuuteesi",
+    "subtitle": "Tarjoamme kolme settiä niin pääset alkuun. Tarvitsetko lisää? Kutsu kaveri tai tilaa Pro.",
+    "features": {
+      "flashcards": "Muista paremmin *muistikorteilla*",
+      "quiz": "*Testaa* mitä et vielä osaa",
+      "exams": "*Harjoittele* avoimia koekysymyksiä",
+      "listen": "*Kuuntele* opiskelutekstit missä tahansa"
+    },
+    "annual": "Vuositilaus",
+    "monthly": "Kuukausitilaus",
+    "annualPass": "Vuosipassi",
+    "familyAnnual": "Perhetilaus vuodeksi",
+    "oneTimeAnnual": "Kertapassi",
+    "noAutoRenewal": "Ei automaattista uusiutumista.",
+    "recurringBilling": "Toistuva laskutus",
+    "monthlyEquivalent": "{price} kuukaudessa",
+    "mostPopular": "Suosituin",
+    "perMonth": "/kk",
+    "perYear": "/v",
+    "billedAnnually": "{price} laskutetaan vuosittain",
+    "billedMonthly": "{price} laskutetaan kuukausittain",
+    "subscribeAnnually": "Tee vuositilaus",
+    "subscribeMonthly": "Tee kuukausitilaus",
+    "viewAllPlans": "Katso kaikki vaihtoehdot",
+    "maybeLater": "Ehkä myöhemmin",
+    "restore": "Palauta ostokset",
+    "legalText": "Uusiutuu automaattisesti, ellei sitä peruta 24 tuntia ennen jakson päättymistä. Peru milloin tahansa asetuksissa. Jatkamalla hyväksyt",
+    "choosePlanTitle": "Valitse sinulle sopiva\nvaihtoehto",
+    "otherPlans": "Muut vaihtoehdot"
+  },
+  "passes": {
+    "semester": "Lukukausipassi",
+    "yearly": "Vuosipassi",
+    "semesterDuration": "Kertaostos, voimassa 5 kk",
+    "yearlyDuration": "Kertaostos, voimassa 12 kk",
+    "buySemester": "Osta lukukausipassi",
+    "buyYearly": "Osta vuosipassi",
+    "viewAllPlans": "Katso kaikki vaihtoehdot",
+    "choosePassTitle": "Valitse passi",
+    "bestValue": "Edullisin",
+    "orSubscribe": "Tai tilaa",
+    "billedTotalYearly": "{price} vuodessa",
+    "featureTitle": "Rajaton käyttö",
+    "featureDescription": "Opiskelusessiot, kysymykset, muistikortit, ääniversiot, käännökset ja paljon muuta"
+  },
+  "postCreatePaywall": {
+    "title": "Ota Lexiestä kaikki irti",
+    "subtitle": "Tämä on yksi kolmesta ilmaisesta setistä.\nLukukausipassilla saat rajattomasti settejä."
+  },
+  "proWelcome": {
+    "title": "Tervetuloa Lexie Prohon",
+    "message": "Tukesi pitää Lexien toiminnassa ja auttaa kehittämään sitä paremmaksi.",
+    "signature": "Elina ja Lexie-tiimi"
+  }
+}

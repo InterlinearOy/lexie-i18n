@@ -1,0 +1,240 @@
+[
+  {
+    "locale": "en",
+    "key": "quiz.correct",
+    "webPath": "study.quiz.correct",
+    "was": "Correct!",
+    "now": "You nailed it."
+  },
+  {
+    "locale": "en",
+    "key": "quiz.goodTry",
+    "webPath": "study.quiz.goodTry",
+    "was": "Good try",
+    "now": "Good thinking, but..."
+  },
+  {
+    "locale": "en",
+    "key": "quiz.submit",
+    "webPath": "study.quiz.check",
+    "was": "Check",
+    "now": "Submit"
+  },
+  {
+    "locale": "en",
+    "key": "quiz.selectAnswer",
+    "webPath": "study.quiz.selectAnswer",
+    "was": "Please select an answer",
+    "now": "Please select an answer before checking"
+  },
+  {
+    "locale": "en",
+    "key": "quiz.fillAllBlanks",
+    "webPath": "study.quiz.fillBlanks",
+    "was": "Please fill all blanks",
+    "now": "Please fill all blanks before checking"
+  },
+  {
+    "locale": "en",
+    "key": "quiz.studyTextTitle",
+    "webPath": "study.quiz.studyText",
+    "was": "Study Text",
+    "now": "Study text"
+  },
+  {
+    "locale": "en",
+    "key": "flashcards.stillLearning",
+    "webPath": "study.flashcards.stillLearning",
+    "was": "Still learning",
+    "now": "Practising"
+  },
+  {
+    "locale": "en",
+    "key": "flashcards.practiceCta",
+    "webPath": "study.flashcards.practiceWithQuestions",
+    "was": "Practice with questions",
+    "now": "Test what you know"
+  },
+  {
+    "locale": "en",
+    "key": "think.answerKey",
+    "webPath": "study.thinkExam.answerKey",
+    "was": "Answer key",
+    "now": "ANSWER KEY"
+  },
+  {
+    "locale": "en",
+    "key": "think.questionLabel",
+    "webPath": "study.thinkExam.questionLabel",
+    "was": "QUESTION {count}",
+    "now": "QUESTION {number}"
+  },
+  {
+    "locale": "en",
+    "key": "math.answerPlaceholder",
+    "webPath": "study.modes.answerPlaceholder",
+    "was": "Your answer...",
+    "now": "Type your answer..."
+  },
+  {
+    "locale": "en",
+    "key": "studySet.loadingAudio",
+    "webPath": "study.modes.loadingAudio",
+    "was": "Loading audio...",
+    "now": "Generating the audio"
+  },
+  {
+    "locale": "en",
+    "key": "guide.bigIdea",
+    "webPath": "study.prepGuide.bigIdea",
+    "was": "Big idea",
+    "now": "The big idea to get first"
+  },
+  {
+    "locale": "en",
+    "key": "guide.usuallyTested",
+    "webPath": "study.prepGuide.usuallyTested",
+    "was": "What is usually tested",
+    "now": "What usually gets tested"
+  },
+  {
+    "locale": "en",
+    "key": "guide.howAsked",
+    "webPath": "study.prepGuide.howAsked",
+    "was": "How it is usually asked",
+    "now": "How they usually ask it"
+  },
+  {
+    "locale": "en",
+    "key": "guide.loseMarks",
+    "webPath": "study.prepGuide.loseMarks",
+    "was": "Where marks are usually lost",
+    "now": "Where students usually lose marks"
+  },
+  {
+    "locale": "fi",
+    "key": "quiz.correct",
+    "webPath": "study.quiz.correct",
+    "was": "Oikein",
+    "now": "Oikein."
+  },
+  {
+    "locale": "fi",
+    "key": "quiz.notQuite",
+    "webPath": "study.quiz.notQuite",
+    "was": "Ei aivan",
+    "now": "Hyvä yritys"
+  },
+  {
+    "locale": "fi",
+    "key": "quiz.stillLearning",
+    "webPath": "study.quiz.stillLearning",
+    "was": "Vielä opettelen",
+    "now": "Harjoittelen"
+  },
+  {
+    "locale": "fi",
+    "key": "quiz.mastered",
+    "webPath": "study.quiz.mastered",
+    "was": "Hallussa",
+    "now": "Osaan"
+  },
+  {
+    "locale": "fi",
+    "key": "quiz.submit",
+    "webPath": "study.quiz.check",
+    "was": "Tarkista",
+    "now": "Vastaa"
+  },
+  {
+    "locale": "fi",
+    "key": "quiz.selectAnswer",
+    "webPath": "study.quiz.selectAnswer",
+    "was": "Valitse vastaus",
+    "now": "Valitse vastaus ennen tarkistusta"
+  },
+  {
+    "locale": "fi",
+    "key": "quiz.fillAllBlanks",
+    "webPath": "study.quiz.fillBlanks",
+    "was": "Täytä kaikki kohdat",
+    "now": "Täytä kaikki aukot ennen tarkistusta"
+  },
+  {
+    "locale": "fi",
+    "key": "quiz.studyTextTitle",
+    "webPath": "study.quiz.studyText",
+    "was": "Opiskeluteksti",
+    "now": "Teksti"
+  },
+  {
+    "locale": "fi",
+    "key": "quiz.studyTextTitle",
+    "webPath": "study.shell.studyText",
+    "was": "Opiskeluteksti",
+    "now": "Teksti"
+  },
+  {
+    "locale": "fi",
+    "key": "flashcards.stillLearning",
+    "webPath": "study.flashcards.stillLearning",
+    "was": "Vielä opettelen",
+    "now": "Treenaan"
+  },
+  {
+    "locale": "fi",
+    "key": "flashcards.iKnowThis",
+    "webPath": "study.flashcards.iKnowThis",
+    "was": "Osaan tämän",
+    "now": "Osaan"
+  },
+  {
+    "locale": "fi",
+    "key": "flashcards.mastered",
+    "webPath": "study.flashcards.mastered",
+    "was": "Hallussa",
+    "now": "Osaat jo"
+  },
+  {
+    "locale": "fi",
+    "key": "flashcards.yourProgress",
+    "webPath": "study.flashcards.yourProgress",
+    "was": "Edistymisesi",
+    "now": "Edistyminen"
+  },
+  {
+    "locale": "fi",
+    "key": "flashcards.practiceCta",
+    "webPath": "study.flashcards.practiceWithQuestions",
+    "was": "Harjoittele kysymyksillä",
+    "now": "Testaa taitosi"
+  },
+  {
+    "locale": "fi",
+    "key": "think.answerKey",
+    "webPath": "study.thinkExam.answerKey",
+    "was": "Mallivastaus",
+    "now": "MALLIVASTAUS"
+  },
+  {
+    "locale": "fi",
+    "key": "think.questionLabel",
+    "webPath": "study.thinkExam.questionLabel",
+    "was": "KYSYMYS {count}",
+    "now": "KYSYMYS {number}"
+  },
+  {
+    "locale": "fi",
+    "key": "math.answerPlaceholder",
+    "webPath": "study.modes.answerPlaceholder",
+    "was": "Vastauksesi...",
+    "now": "Kirjoita vastaus..."
+  },
+  {
+    "locale": "fi",
+    "key": "studySet.loadingAudio",
+    "webPath": "study.modes.loadingAudio",
+    "was": "Ladataan ääntä...",
+    "now": "Luon ääniversion"
+  }
+]

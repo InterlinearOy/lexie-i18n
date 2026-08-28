@@ -1,0 +1,71 @@
+{
+  "_comment": [
+    "Strings that both products show on the same screen. Each entry holds one",
+    "canonical key under locales/shared, plus the key path each product already",
+    "reads it from. The build projects the shared value into those paths, so a",
+    "string is translated once and neither product changes its call sites.",
+    "",
+    "Where the two products said different things, the app wording won.",
+    "Decided by Elina on 2026-08-28."
+  ],
+
+  "quiz.correct":            { "app": "quiz.feedback.correct",            "web": "study.quiz.correct" },
+  "quiz.notQuite":           { "app": "quiz.feedback.notQuite",           "web": "study.quiz.notQuite" },
+  "quiz.goodTry":            { "app": "quiz.feedback.goodTry",            "web": "study.quiz.goodTry" },
+  "quiz.stillLearning":      { "app": "quiz.feedback.stillLearning",      "web": "study.quiz.stillLearning" },
+  "quiz.mastered":           { "app": "quiz.feedback.mastered",           "web": "study.quiz.mastered" },
+  "quiz.continue":           { "app": "quiz.buttons.continue",            "web": "study.quiz.continueLabel" },
+  "quiz.tryAgain":           { "app": "quiz.buttons.tryAgain",            "web": "study.quiz.tryAgain" },
+  "quiz.submit":             { "app": "quiz.buttons.submit",              "web": "study.quiz.check" },
+  "quiz.selectAnswer":       { "app": "quiz.validation.selectAnswer",     "web": "study.quiz.selectAnswer" },
+  "quiz.fillAllBlanks":      { "app": "quiz.validation.fillAllBlanks",    "web": "study.quiz.fillBlanks" },
+  "quiz.studyTextTitle":     { "app": "quiz.studyText.title",             "web": ["study.quiz.studyText", "study.shell.studyText"] },
+
+  "flashcards.noCards":      { "app": "flashcards.noCards",               "web": "study.flashcards.noFlashcards" },
+  "flashcards.stillLearning":{ "app": "flashcards.stillLearning",         "web": "study.flashcards.stillLearning" },
+  "flashcards.iKnowThis":    { "app": "flashcards.iKnowThis",             "web": "study.flashcards.iKnowThis" },
+  "flashcards.mastered":     { "app": "flashcardResults.masteredLabel",   "web": "study.flashcards.mastered" },
+  "flashcards.yourProgress": { "app": "flashcardResults.progressTitle",   "web": "study.flashcards.yourProgress" },
+  "flashcards.practiceCta":  { "app": "flashcardResults.practiceButton",  "web": "study.flashcards.practiceWithQuestions" },
+
+  "think.point":             { "app": "think.point",                      "web": "study.thinkExam.point" },
+  "think.points":            { "app": "think.points",                     "web": "study.thinkExam.points" },
+  "think.yourPoints":        { "app": "think.yourPoints",                 "web": "study.thinkExam.yourPoints" },
+  "think.submit":            { "app": "think.submit",                     "web": "study.thinkExam.submit" },
+  "think.revise":            { "app": "think.revise",                     "web": "study.thinkExam.revise" },
+  "think.submitAsIs":        { "app": "think.submitAsIs",                 "web": "study.thinkExam.submitAsIs" },
+  "think.viewFeedback":      { "app": "think.viewFeedback",               "web": "study.thinkExam.viewFeedback" },
+  "think.viewAnswerKey":     { "app": "think.viewAnswerKey",              "web": "study.thinkExam.viewAnswerKey" },
+  "think.answerKey":         { "app": "think.answerKey",                  "web": "study.thinkExam.answerKey" },
+  "think.keyConcepts":       { "app": "think.keyConcepts",                "web": "study.thinkExam.keyConcepts" },
+  "think.nextQuestion":      { "app": "think.nextQuestion",               "web": "study.thinkExam.nextQuestion" },
+  "think.backToLesson":      { "app": "think.backToLesson",               "web": "study.thinkExam.backToLesson" },
+  "think.close":             { "app": "think.close",                      "web": "study.thinkExam.close" },
+  "think.writeSomething":    { "app": "think.writeSomethingBeforeSubmitting", "web": "study.thinkExam.writeSomething" },
+  "think.readingYourAnswer": { "app": "think.readingYourAnswer",          "web": "study.thinkExam.readingYourAnswer" },
+  "think.gradingYourAnswer": { "app": "think.gradingYourAnswer",          "web": "study.thinkExam.gradingYourAnswer" },
+  "think.placeholderRevise": { "app": "think.placeholderRevise",          "web": "study.thinkExam.placeholderRevise" },
+  "think.failedToGetFeedback": { "app": "think.failedToGetFeedback",      "web": "study.thinkExam.failedToGetFeedback" },
+  "think.failedToGrade":     { "app": "think.failedToGradeAnswer",        "web": "study.thinkExam.failedToGrade" },
+  "think.answered":          { "app": "think.answered",                   "web": "study.prepThink.answered" },
+  "think.questionLabel":     { "app": "think.questionLabel",              "web": "study.thinkExam.questionLabel" },
+
+  "math.calculate":          { "app": "math.calculate",                   "web": "study.modes.calculate" },
+  "math.answerPlaceholder":  { "app": "math.typeAnswer",                  "web": "study.modes.answerPlaceholder" },
+
+  "typedRecall.writeIn":     { "app": "typedRecall.writeIn",              "web": "study.typedRecall.writePrompt" },
+  "typedRecall.whatDoYouHear": { "app": "typedRecall.whatDoYouHear",      "web": "study.typedRecall.listenPrompt" },
+
+  "studySet.loadingAudio":   { "app": "studySet.loadingAudio",            "web": "study.modes.loadingAudio" },
+  "studySet.read":           { "app": "studySet.read",                    "web": "study.shell.read" },
+  "studySet.listen":         { "app": "studySet.listen",                  "web": "study.shell.listen" },
+
+  "guide.title":             { "app": "studySet.guide.title",             "web": ["study.prepGuide.title", "study.shell.guide"] },
+  "guide.goal":              { "app": "studySet.guide.goal",              "web": "study.prepGuide.goal" },
+  "guide.bigIdea":           { "app": "studySet.guide.bigIdea",           "web": "study.prepGuide.bigIdea" },
+  "guide.usuallyTested":     { "app": "studySet.guide.usuallyTested",     "web": "study.prepGuide.usuallyTested" },
+  "guide.howAsked":          { "app": "studySet.guide.howAsked",          "web": "study.prepGuide.howAsked" },
+  "guide.loseMarks":         { "app": "studySet.guide.loseMarks",         "web": "study.prepGuide.loseMarks" },
+
+  "common.close":            { "app": "common.close",                     "web": "study.modes.close" }
+}

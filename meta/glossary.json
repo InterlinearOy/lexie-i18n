@@ -1,0 +1,37 @@
+{
+  "_comment": [
+    "Product nouns that must read the same everywhere. Locked before translation",
+    "starts, not argued during it: divergent terminology across the app and the",
+    "web is the failure mode here, not missing strings.",
+    "",
+    "`de` is null where the German reviewer still has to decide. Two of these are",
+    "the open question from the plan: 'Flashcards' is normal German usage, but",
+    "'Think questions' and 'pass' are not, so those need a real German noun.",
+    "",
+    "German address form is du, everywhere, no exceptions. Decided 2026-08-28.",
+    "It is locked before translation because changing it later invalidates every",
+    "string the reviewer has already approved."
+  ],
+  "_addressForm": { "en": "you", "fi": "sinä (sinuttelu)", "de": "du" },
+
+  "terms": {
+    "studySet":    { "en": "study set",     "fi": "harjoitussetti", "de": null },
+    "flashcard":   { "en": "flashcard",     "fi": "muistikortti",   "de": null },
+    "quiz":        { "en": "quiz",          "fi": "testi",          "de": null },
+    "thinkQuestion": { "en": "think question", "fi": "soveltava kysymys", "de": null },
+    "studyGuide":  { "en": "study guide",   "fi": "opiskeluopas",   "de": null },
+    "studyText":   { "en": "study text",    "fi": "teksti",         "de": null },
+    "keyConcepts": { "en": "key concepts",  "fi": "pääkohdat",      "de": null },
+    "workspace":   { "en": "workspace",     "fi": "työtila",        "de": null },
+    "folder":      { "en": "folder",        "fi": "kansio",         "de": null },
+    "pass":        { "en": "pass",          "fi": "passi",          "de": null },
+    "pro":         { "en": "Lexie Pro",     "fi": "Lexie Pro",      "de": "Lexie Pro" },
+    "lexie":       { "en": "Lexie",         "fi": "Lexie",          "de": "Lexie" }
+  },
+
+  "voice": {
+    "en": "Plain and direct. Sentence case. No filler, no em-dashes.",
+    "fi": "Kirjakieli, ei puhekieltä. Sentence case. Ei täytesanoja eikä ajatusviivoja.",
+    "de": "du throughout. Sentence case. No filler, no em-dashes. Say it the way a person who knows the subject would say it, not the way a manual would."
+  }
+}
