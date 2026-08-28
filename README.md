@@ -15,7 +15,7 @@ locales/shared/   strings both products show on the same screen
 locales/app/      mobile only: scanPage, occlusion, focusMode, notifications, ...
 locales/web/      web only: landing page, pricing, creator program, ...
 meta/aliases.json where each product reads a shared string from
-meta/screens.json which screen each string appears on, in reading order
+meta/context.json  where in the flow each string appears, and what it is
 meta/glossary.json product nouns and the voice rules, per language
 dist/             the built bundles, committed so installing needs no build step
 ```

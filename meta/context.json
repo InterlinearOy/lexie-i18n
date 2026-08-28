@@ -1,0 +1,94 @@
+{
+  "_comment": [
+    "Where each string sits in the product, written by hand.",
+    "",
+    "A key path says nothing about what a string is. 'Weiter' as a button and",
+    "'Weiter' as a sentence want different German, and the reviewer cannot tell",
+    "them apart from a grid. Deriving this from the code was tried and dropped:",
+    "the heuristics matched an OG-image route for a screen title and called the",
+    "Submit button body text. Wrong context is worse than none.",
+    "",
+    "`flows` are ordered the way a person meets them, not the way the code is",
+    "organised."
+  ],
+
+  "flows": [
+    { "id": "start",      "name": "Erste Schritte",
+      "when": "Die allerersten Bildschirme nach dem Öffnen der App. Die Leserin hat noch kein Konto und weiß noch nicht, was Lexie ist." },
+    { "id": "signin",     "name": "Anmelden",
+      "when": "Anmeldung per E-Mail-Code, im Browser. Sie kommt entweder von der Website oder hat die App schon benutzt." },
+    { "id": "upgrade",    "name": "Auf Pro upgraden",
+      "when": "Die Bezahlseite. Sie erscheint nach dem Onboarding und wieder, sobald die drei kostenlosen Lernsets aufgebraucht sind." },
+    { "id": "home",       "name": "Startseite",
+      "when": "Der Startbildschirm der App bei jedem Öffnen. Kurze Texte, viel Weißraum, alles hier wird hundertmal gelesen." },
+    { "id": "flashcards", "name": "Karteikarten lernen",
+      "when": "Eine Karte nach der anderen: lesen, umdrehen, selbst einschätzen. Die zwei Bewertungsknöpfe stehen direkt nebeneinander und müssen sich klar unterscheiden." },
+    { "id": "quiz",       "name": "Quiz üben",
+      "when": "Fragen beantworten und sofort Rückmeldung bekommen. Die Rückmeldungen sind das Herz des Produkts: sie erscheinen im Moment des Irrtums und dürfen weder herablassend noch überschwänglich klingen." },
+    { "id": "web",        "name": "Website",
+      "when": "Die öffentliche Website, bevor jemand die App kennt." },
+    { "id": "everywhere", "name": "Überall",
+      "when": "Knöpfe, die in fast jedem Dialog vorkommen. Sie stehen ohne Kontext da, also müssen sie für sich allein verständlich sein." }
+  ],
+
+  "roles": {
+    "button":      "Schaltfläche",
+    "heading":     "Überschrift",
+    "body":        "Fließtext",
+    "label":       "Kurzlabel",
+    "feedback":    "Rückmeldung",
+    "status":      "Statusmeldung",
+    "hint":        "Hinweis",
+    "field":       "Eingabefeld",
+    "fineprint":   "Kleingedrucktes"
+  },
+
+  "strings": {
+    "common.close":            { "flow": "everywhere", "role": "button", "note": "Schließen-Knopf oben in Dialogen." },
+    "common.cancel":           { "flow": "everywhere", "role": "button", "note": "Steht neben einer bestätigenden Aktion." },
+    "common.save":             { "flow": "everywhere", "role": "button", "note": "Bestätigt eine Änderung." },
+    "common.back":             { "flow": "everywhere", "role": "button", "note": "Zurück zum vorherigen Bildschirm." },
+
+    "welcome.title":           { "flow": "start", "role": "heading", "note": "Die erste Zeile, die überhaupt jemand von Lexie liest. Groß gesetzt." },
+    "welcome.description":     { "flow": "start", "role": "body",    "note": "Direkt unter der Überschrift. Erklärt in zwei Sätzen, was die App tut." },
+    "welcome.startButton":     { "flow": "start", "role": "button",  "note": "Der große Hauptknopf. Kurz halten." },
+    "welcome.loginButton":     { "flow": "start", "role": "button",  "note": "Unauffälliger Textknopf darunter, für Rückkehrerinnen." },
+
+    "home.greeting":           { "flow": "home", "role": "body",    "note": "Begrüßung ganz oben, mit Emoji." },
+    "home.questionPrompt":     { "flow": "home", "role": "heading", "note": "Große Frage auf dem Startbildschirm. Der Zeilenumbruch \\n ist gesetzt und sollte auch im Deutschen sinnvoll fallen." },
+    "home.startLesson":        { "flow": "home", "role": "button",  "note": "Hauptknopf zum Loslegen." },
+    "home.toReview":           { "flow": "home", "role": "label",   "note": "Kleines Abzeichen mit Zahl: wie viel heute zur Wiederholung ansteht. Sehr wenig Platz." },
+    "home.lessons":            { "flow": "home", "role": "label",   "note": "Abschnittsüberschrift über der Liste gespeicherter Lernsets." },
+    "home.inviteFriends":      { "flow": "home", "role": "button",  "note": "Führt zum Empfehlungsprogramm." },
+
+    "quiz.title":              { "flow": "quiz", "role": "heading", "note": "Name des Übungsmodus, erscheint als Kachel und als Titel." },
+    "quiz.progressOf":         { "flow": "quiz", "role": "label",   "note": "Fortschrittschip, z. B. „3/10“. Sehr wenig Platz." },
+    "quiz.feedback.checking":  { "flow": "quiz", "role": "status",  "note": "Während die Antwort geprüft wird. Ein bis zwei Sekunden sichtbar." },
+    "quiz.feedback.correct":   { "flow": "quiz", "role": "feedback","note": "Erscheint bei einer richtigen Antwort." },
+    "quiz.feedback.incorrect": { "flow": "quiz", "role": "feedback","note": "Bei einer falschen Antwort, wenn noch ein Versuch möglich ist." },
+    "quiz.feedback.notQuite":  { "flow": "quiz", "role": "feedback","note": "Sanftere Variante bei knapp daneben. Steht im Finnischen identisch zu goodTry, das darf im Deutschen gern unterschiedlich sein." },
+    "quiz.feedback.goodTry":   { "flow": "quiz", "role": "feedback","note": "Anerkennt den Gedankengang, obwohl die Antwort falsch war." },
+    "quiz.feedback.goodJob":   { "flow": "quiz", "role": "feedback","note": "Lob nach einer richtigen Antwort. Nicht überschwänglich." },
+    "quiz.feedback.stillLearning": { "flow": "quiz", "role": "label", "note": "Zahlenwert auf dem Ergebnisbildschirm: so viele Fragen sitzen noch nicht." },
+    "quiz.feedback.mastered":  { "flow": "quiz", "role": "label",   "note": "Gegenstück dazu: so viele sitzen. Beide stehen nebeneinander unter Zahlen." },
+    "quiz.buttons.submit":     { "flow": "quiz", "role": "button",  "note": "Der Hauptknopf unter den Antwortmöglichkeiten." },
+    "quiz.buttons.continue":   { "flow": "quiz", "role": "button",  "note": "Nach der Rückmeldung, führt zur nächsten Frage." },
+    "quiz.buttons.tryAgain":   { "flow": "quiz", "role": "button",  "note": "Nach einer falschen Antwort." },
+    "quiz.buttons.skip":       { "flow": "quiz", "role": "button",  "note": "Überspringt die Frage." },
+    "quiz.validation.selectAnswer": { "flow": "quiz", "role": "hint", "note": "Erscheint, wenn jemand prüft, ohne etwas gewählt zu haben. Knöpfe werden bei Lexie nie ausgegraut, stattdessen dieser Hinweis." },
+
+    "flashcards.noCards":      { "flow": "flashcards", "role": "body",   "note": "Leerer Zustand, wenn ein Lernset keine Karten hat." },
+    "flashcards.stillLearning":{ "flow": "flashcards", "role": "button", "note": "Linker Bewertungsknopf: die Karte sitzt noch nicht. Erste Person, aus Sicht der Lernenden." },
+    "flashcards.iKnowThis":    { "flow": "flashcards", "role": "button", "note": "Rechter Bewertungsknopf, direkt daneben. Muss sich vom linken klar unterscheiden." },
+
+    "onboardingPaywall.title": { "flow": "upgrade", "role": "heading", "note": "Überschrift der Bezahlseite." },
+    "onboardingPaywall.subtitle": { "flow": "upgrade", "role": "body", "note": "Erklärt das kostenlose Kontingent. Der längste Text im Durchgang und aktuell über der Längengrenze." },
+
+    "heroCreate.pastePlaceholder": { "flow": "web", "role": "field", "note": "Platzhalter im großen Textfeld auf der Startseite der Website." },
+
+    "workspace.loginTitle":    { "flow": "signin", "role": "heading", "note": "Überschrift über dem Anmeldeformular." },
+    "workspace.loginEmailPlaceholder": { "flow": "signin", "role": "field", "note": "Platzhalter im E-Mail-Feld." },
+    "workspace.splash":        { "flow": "signin", "role": "status", "note": "Kurz sichtbar, während der Arbeitsbereich lädt." },
+    "paywall.ageNote":         { "flow": "signin", "role": "fineprint", "note": "Rechtlicher Hinweis unter dem Anmeldeknopf. Klein gesetzt, aber verbindlich." }
+  }
+}

@@ -16,8 +16,11 @@ const flat = (o, p = '') =>
 const holes = (s) =>
   typeof s === 'string' ? [...s.matchAll(/\{(\w+)\}/g)].map((m) => m[1]) : [];
 
-const screens = read('meta/screens.json');
 const glossary = read('meta/glossary.json');
+// Where each string sits in the product, hand-written. See meta/context.json
+// for why this is not derived from the code.
+const context = read('meta/context.json');
+const flowOrder = new Map(context.flows.map((f, i) => [f.id, i]));
 
 const rows = [];
 const seen = new Set();
@@ -38,11 +41,15 @@ for (const target of ['app', 'web']) {
 
     const enHoles = holes(enVal);
     const deHoles = holes(deVal);
+    const ctx = context.strings[key];
+    if (!ctx) throw new Error(`no context written for ${key} — add it to meta/context.json`);
     rows.push({
       key,
       target,
-      screen: screens[`${target}:${key}`]?.screen ?? 'Unsorted',
-      order: screens[`${target}:${key}`]?.order ?? 1e9,
+      flow: ctx.flow,
+      role: context.roles[ctx.role],
+      note: ctx.note,
+      order: flowOrder.get(ctx.flow) ?? 1e9,
       en: enVal,
       fi: fi.get(key) ?? '',
       de: deVal,
@@ -64,11 +71,11 @@ const terms = Object.entries(glossary.terms)
   .map(([id, v]) => ({ id, en: v.en, fi: v.fi, de: v.de, note: glossary.openQuestions?.[id] ?? null }));
 
 const out = {
-  generated: null, // stamped by the caller; Date.now() is unavailable in workflows
+  flows: context.flows,
   addressForm: glossary._addressForm.de,
   voice: glossary.voice.de,
   terms,
   rows,
 };
 fs.writeFileSync(path.join(ROOT, 'meta/review-data.json'), JSON.stringify(out, null, 2) + '\n');
-console.log(`${rows.length} strings across ${new Set(rows.map((r) => r.screen)).size} screens, ${terms.length} glossary terms`);
+console.log(`${rows.length} strings across ${new Set(rows.map((r) => r.flow)).size} flows, ${terms.length} glossary terms`);
