@@ -949,7 +949,7 @@
     }
   },
   "typedRecall": {
-    "whatDoYouHear": "Mitä sana tarkoittaa?",
+    "writeWhatYouHear": "Kirjoita kuulemasi {language}",
     "writeMeaning": "Kirjoita merkitys",
     "typeAnswer": "Kirjoita vastaus...",
     "correctWord": "Oikea vastaus on"

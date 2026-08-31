@@ -949,7 +949,7 @@
     }
   },
   "typedRecall": {
-    "whatDoYouHear": "What does the word mean?",
+    "writeWhatYouHear": "Write what you hear in {language}",
     "writeMeaning": "Write the meaning",
     "typeAnswer": "Type your answer...",
     "correctWord": "The correct word is"
