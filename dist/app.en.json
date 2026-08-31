@@ -192,6 +192,12 @@
     "openReadingPractice": "Open reading practice",
     "generatingReadingPractice": "Generating reading practice...",
     "noVocabularyData": "No vocabulary data available",
+    "claim": {
+      "stillMaking": "Lexie is still finishing this set.",
+      "interrupted": "Part of this set didn't finish.",
+      "finish": "Finish the set",
+      "finishFailed": "That didn't work. Try again in a moment."
+    },
     "loadingAudio": "Generating the audio",
     "read": "Read",
     "listen": "Listen"

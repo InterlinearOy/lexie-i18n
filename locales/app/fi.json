@@ -184,7 +184,13 @@
     "readingPracticeGenerating": "Tässä menee pieni hetki..",
     "openReadingPractice": "Avaa lukuharjoitus",
     "generatingReadingPractice": "Luon lukuharjoitusta...",
-    "noVocabularyData": "Sanastoa ei ole saatavilla"
+    "noVocabularyData": "Sanastoa ei ole saatavilla",
+    "claim": {
+      "stillMaking": "Lexie viimeistelee vielä tätä settiä.",
+      "interrupted": "Osa tästä setistä jäi kesken.",
+      "finish": "Viimeistele setti",
+      "finishFailed": "Viimeistely ei onnistunut. Yritä hetken kuluttua uudelleen."
+    }
   },
   "progressive": {
     "toasts": {

@@ -33,5 +33,13 @@
     "cancel": "Abbrechen",
     "save": "Speichern",
     "back": "Zurück"
+  },
+  "studySet": {
+    "claim": {
+      "stillMaking": "Lexie stellt dieses Set noch fertig.",
+      "interrupted": "Ein Teil dieses Sets wurde nicht fertig.",
+      "finish": "Set fertigstellen",
+      "finishFailed": "Das hat nicht geklappt. Versuch es gleich noch einmal."
+    }
   }
 }
