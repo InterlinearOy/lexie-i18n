@@ -48,8 +48,7 @@
     "answerPlaceholder": "Kirjoita vastaus..."
   },
   "typedRecall": {
-    "writeIn": "Kirjoita {language}",
-    "whatDoYouHear": "Mitä kuulet?"
+    "writeIn": "Kirjoita {language}"
   },
   "studySet": {
     "loadingAudio": "Luon ääniversion",

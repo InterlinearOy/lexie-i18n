@@ -1001,11 +1001,11 @@
     }
   },
   "typedRecall": {
+    "whatDoYouHear": "What does the word mean?",
     "writeMeaning": "Write the meaning",
     "typeAnswer": "Type your answer...",
     "correctWord": "The correct word is",
-    "writeIn": "Write in {language}",
-    "whatDoYouHear": "What do you hear?"
+    "writeIn": "Write in {language}"
   },
   "translation": {
     "tapToTranslate": "Translate to",

@@ -485,6 +485,7 @@
       "saveModalSubtitle": "Luo maksuton tili, niin vastauksesi ja saamasi palaute odottavat työtilassasi."
     },
     "typedRecall": {
+      "listenPrompt": "Mitä kuulet?",
       "targetLanguageFallback": "{name}-kielellä",
       "targetLanguages": {
         "english": "englanniksi",

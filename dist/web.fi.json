@@ -490,6 +490,7 @@
       "answered": "Vastattu"
     },
     "typedRecall": {
+      "listenPrompt": "Mitä kuulet?",
       "targetLanguageFallback": "{name}-kielellä",
       "targetLanguages": {
         "english": "englanniksi",
@@ -502,8 +503,7 @@
         "russian": "venäjäksi",
         "estonian": "viroksi"
       },
-      "writePrompt": "Kirjoita {language}",
-      "listenPrompt": "Mitä kuulet?"
+      "writePrompt": "Kirjoita {language}"
     },
     "flashcards": {
       "termsMastered": "termeistä hallussa",

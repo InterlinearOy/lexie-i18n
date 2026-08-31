@@ -492,6 +492,7 @@
       "saveModalSubtitle": "Create a free account and your answers, with the feedback you got, are waiting in your workspace."
     },
     "typedRecall": {
+      "listenPrompt": "What do you hear?",
       "targetLanguageFallback": "{name}",
       "targetLanguages": {
         "english": "English",

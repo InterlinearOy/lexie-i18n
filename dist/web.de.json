@@ -497,6 +497,7 @@
       "answered": "Answered"
     },
     "typedRecall": {
+      "listenPrompt": "What do you hear?",
       "targetLanguageFallback": "{name}",
       "targetLanguages": {
         "english": "English",
@@ -509,8 +510,7 @@
         "russian": "Russian",
         "estonian": "Estonian"
       },
-      "writePrompt": "Write in {language}",
-      "listenPrompt": "What do you hear?"
+      "writePrompt": "Write in {language}"
     },
     "flashcards": {
       "termsMastered": "terms mastered",

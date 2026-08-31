@@ -1001,11 +1001,11 @@
     }
   },
   "typedRecall": {
+    "whatDoYouHear": "Mitä sana tarkoittaa?",
     "writeMeaning": "Kirjoita merkitys",
     "typeAnswer": "Kirjoita vastaus...",
     "correctWord": "Oikea vastaus on",
-    "writeIn": "Kirjoita {language}",
-    "whatDoYouHear": "Mitä kuulet?"
+    "writeIn": "Kirjoita {language}"
   },
   "translation": {
     "tapToTranslate": "Käännä kielelle",

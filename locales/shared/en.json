@@ -48,8 +48,7 @@
     "answerPlaceholder": "Type your answer..."
   },
   "typedRecall": {
-    "writeIn": "Write in {language}",
-    "whatDoYouHear": "What do you hear?"
+    "writeIn": "Write in {language}"
   },
   "studySet": {
     "loadingAudio": "Generating the audio",

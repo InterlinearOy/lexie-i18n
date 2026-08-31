@@ -54,7 +54,6 @@
   "math.answerPlaceholder":  { "app": "math.typeAnswer",                  "web": "study.modes.answerPlaceholder" },
 
   "typedRecall.writeIn":     { "app": "typedRecall.writeIn",              "web": "study.typedRecall.writePrompt" },
-  "typedRecall.whatDoYouHear": { "app": "typedRecall.whatDoYouHear",      "web": "study.typedRecall.listenPrompt" },
 
   "studySet.loadingAudio":   { "app": "studySet.loadingAudio",            "web": "study.modes.loadingAudio" },
   "studySet.read":           { "app": "studySet.read",                    "web": "study.shell.read" },
