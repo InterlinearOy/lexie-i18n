@@ -156,7 +156,7 @@
     "showMore": "Näytä lisää",
     "showLess": "Näytä vähemmän",
     "cards": {
-      "learn": "Harjoittele",
+      "learn": "Muista",
       "practice": "Testaa",
       "review": "Kertaa",
       "reviewSubtitle": "Nyt on hyvä aika kerrata nämä",
@@ -918,7 +918,7 @@
     "questionsPlural": "kysymystä",
     "answer": "Vastaa",
     "seeYourAnswer": "Katso vastauksesi",
-    "title": "Sovella",
+    "title": "Kirjoita",
     "openEndedQuestion": "avoin kysymys",
     "openEndedQuestions": "avointa kysymystä",
     "recordOrTypeAnswer": "Puhu tai kirjoita vastaus",
@@ -1148,9 +1148,9 @@
     "signature": "Elina ja Lexie-tiimi"
   },
   "sessionCard": {
-    "title": "Tän päivän sessio",
+    "title": "Kertaa",
     "start": "Aloita sessio",
-    "firstSession": "Ensimmäinen sessio: {section}",
+    "firstSession": "Tänään {section}",
     "teach": "Seuraavaksi: {section}",
     "recallThenTeach": "Pikakertaus: {topic}, sitten {section}",
     "recallThenTeachPlain": "Pikakertaus ({count} tehtävää), sitten {section}",

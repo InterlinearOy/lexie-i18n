@@ -156,7 +156,7 @@
     "showMore": "Show More",
     "showLess": "Show Less",
     "cards": {
-      "learn": "Practise",
+      "learn": "Memorize",
       "practice": "Test",
       "review": "Review",
       "reviewSubtitle": "Now is a good time to review these",
@@ -918,7 +918,7 @@
     "questionsPlural": "questions",
     "answer": "Answer",
     "seeYourAnswer": "See your answer",
-    "title": "Think",
+    "title": "Write",
     "openEndedQuestion": "open ended question",
     "openEndedQuestions": "open ended questions",
     "recordOrTypeAnswer": "Hold the mic and speak or type",
@@ -1148,9 +1148,9 @@
     "signature": "Elina and the Lexie Team"
   },
   "sessionCard": {
-    "title": "Today's session",
+    "title": "Revise",
     "start": "Start session",
-    "firstSession": "First session: {section}",
+    "firstSession": "Today: {section}",
     "teach": "Next up: {section}",
     "recallThenTeach": "Quick check on {topic}, then {section}",
     "recallThenTeachPlain": "Quick check ({count} items), then {section}",

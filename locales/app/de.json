@@ -44,9 +44,9 @@
     "shareModalRightsNote": "Teile nur Materialien, an denen du die Rechte hast."
   },
   "sessionCard": {
-    "title": "Deine Session heute",
+    "title": "Wiederholen",
     "start": "Session starten",
-    "firstSession": "Erste Session: {section}",
+    "firstSession": "Heute: {section}",
     "teach": "Als Nächstes: {section}",
     "recallThenTeach": "Kurzer Check zu {topic}, dann {section}",
     "recallThenTeachPlain": "Kurzer Check ({count} Aufgaben), dann {section}",

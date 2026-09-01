@@ -9,24 +9,24 @@
     "",
     "Google Play carries the same description, so it is written once.",
     "",
-    "There is no Finnish store listing: the Finnish storefront serves the English",
-    "text. So these two have no Finnish reference, and `fi` is empty rather than",
-    "invented. Checked against Apple's lookup API on 2026-09-01."
+    "The Finnish reference is the real Finnish listing, pulled from Apple's lookup",
+    "API with lang=fi_fi. Without that parameter the API returns the English text",
+    "even on the Finnish storefront, which is misleading."
   ],
   "fields": [
     {
       "id": "store.name",
       "role": "Store-Name",
       "limit": 30,
-      "note": "Der Name unter dem Icon, im Store und auf dem Homescreen. Apple lehnt mehr als 30 Zeichen ab. 'Lexie' bleibt.",
+      "note": "Der Name unter dem Icon, im Store und auf dem Homescreen. Apple lehnt mehr als 30 Zeichen ab. 'Lexie' bleibt. Das Finnische übersetzt den englischen Namen nicht, es sagt etwas anderes: 'Mach ein Foto und lerne'. Dieselbe Freiheit gilt hier.",
       "en": "Lexie: Study & Exam Prep",
-      "fi": ""
+      "fi": "Lexie: Ota kuva ja opiskele"
     },
     {
       "id": "store.subtitle",
       "role": "Store-Untertitel",
       "limit": 30,
-      "note": "Steht direkt unter dem Namen im Store. Sagt in einer Zeile, was die App tut. Ebenfalls hart auf 30 Zeichen begrenzt.",
+      "note": "Steht direkt unter dem Namen im Store. Sagt in einer Zeile, was die App tut. Ebenfalls hart auf 30 Zeichen begrenzt. Der finnische Untertitel ist über die API nicht abrufbar.",
       "en": "Practice tests & study guides",
       "fi": ""
     }
