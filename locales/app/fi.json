@@ -1108,6 +1108,16 @@
       "eyebrow": "Käsitteet",
       "practiseTest": "Harjoituskoe",
       "practiseTestSubtitle": "Testaa osaamisesi esseekysymyksillä"
+    },
+    "flow": {
+      "foundConcepts": "löysin nämä käsitteet, jotka sinun kannattaa kerrata",
+      "letsStart": "aloitetaan aiheesta {section}, kun olet valmis",
+      "readyFirstQuestion": "Valmiina ensimmäiseen kysymykseen?",
+      "nextConcept": "seuraavaksi: {section}",
+      "done": "siinä oli läpikäynti. kysymykset tulevat seuraavaksi.",
+      "continueBtn": "Jatka",
+      "lesson": "Oppitunti",
+      "concept": "Käsite"
     }
   }
 }

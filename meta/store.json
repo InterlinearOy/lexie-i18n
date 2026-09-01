@@ -1,0 +1,34 @@
+{
+  "_comment": [
+    "The store listing. Translatable text that is NOT app UI, so it lives in",
+    "meta rather than locales: nothing here ships inside a bundle.",
+    "",
+    "The character limits are Apple's, and they are hard. A name over 30",
+    "characters is rejected at submission, not merely clipped. German runs long,",
+    "so these two are the hardest short-form writing in the whole job.",
+    "",
+    "Google Play carries the same description, so it is written once.",
+    "",
+    "There is no Finnish store listing: the Finnish storefront serves the English",
+    "text. So these two have no Finnish reference, and `fi` is empty rather than",
+    "invented. Checked against Apple's lookup API on 2026-09-01."
+  ],
+  "fields": [
+    {
+      "id": "store.name",
+      "role": "Store-Name",
+      "limit": 30,
+      "note": "Der Name unter dem Icon, im Store und auf dem Homescreen. Apple lehnt mehr als 30 Zeichen ab. 'Lexie' bleibt.",
+      "en": "Lexie: Study & Exam Prep",
+      "fi": ""
+    },
+    {
+      "id": "store.subtitle",
+      "role": "Store-Untertitel",
+      "limit": 30,
+      "note": "Steht direkt unter dem Namen im Store. Sagt in einer Zeile, was die App tut. Ebenfalls hart auf 30 Zeichen begrenzt.",
+      "en": "Practice tests & study guides",
+      "fi": ""
+    }
+  ]
+}

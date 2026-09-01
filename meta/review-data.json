@@ -1,6 +1,11 @@
 {
   "flows": [
     {
+      "id": "store",
+      "name": "Store-Eintrag",
+      "when": "Name und Untertitel im App Store und bei Google Play. Das Erste, was jemand von Lexie sieht, und beides hart auf 30 Zeichen begrenzt. Apple lehnt längere Texte ab, sie werden nicht nur abgeschnitten."
+    },
+    {
       "id": "start",
       "name": "Erste Schritte",
       "when": "Die allerersten Bildschirme nach dem Öffnen der App. Die Leserin hat noch kein Konto und weiß noch nicht, was Lexie ist."
@@ -116,6 +121,34 @@
     }
   ],
   "rows": [
+    {
+      "key": "store.name",
+      "target": "store",
+      "flow": "store",
+      "role": "Store-Name",
+      "note": "Der Name unter dem Icon, im Store und auf dem Homescreen. Apple lehnt mehr als 30 Zeichen ab. 'Lexie' bleibt.",
+      "en": "Lexie: Study & Exam Prep",
+      "fi": "",
+      "de": "Lexie: Study & Exam Prep",
+      "budget": 30,
+      "placeholders": [],
+      "placeholdersOk": true,
+      "order": -1
+    },
+    {
+      "key": "store.subtitle",
+      "target": "store",
+      "flow": "store",
+      "role": "Store-Untertitel",
+      "note": "Steht direkt unter dem Namen im Store. Sagt in einer Zeile, was die App tut. Ebenfalls hart auf 30 Zeichen begrenzt.",
+      "en": "Practice tests & study guides",
+      "fi": "",
+      "de": "Practice tests & study guides",
+      "budget": 30,
+      "placeholders": [],
+      "placeholdersOk": true,
+      "order": -1
+    },
     {
       "key": "welcome.title",
       "target": "app",

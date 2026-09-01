@@ -20,10 +20,16 @@ const glossary = read('meta/glossary.json');
 // Where each string sits in the product, hand-written. See meta/context.json
 // for why this is not derived from the code.
 const context = read('meta/context.json');
+// The store listing is translatable text that never ships inside a bundle, so
+// it lives in meta rather than locales. It goes first: the name and subtitle
+// are the highest-traffic strings there are, and Apple's 30-character cap is
+// hard, which makes them the sharpest test of writing short in German.
+const store = read('meta/store.json');
 const flowOrder = new Map(context.flows.map((f, i) => [f.id, i]));
 
 const rows = [];
 const seen = new Set();
+const unbriefed = [];
 
 for (const target of ['app', 'web']) {
   const en = new Map(flat(bundle(target, BASE)));
@@ -41,8 +47,12 @@ for (const target of ['app', 'web']) {
 
     const enHoles = holes(enVal);
     const deHoles = holes(deVal);
+    // A string with no context written is left out of the review rather than
+    // shown without one. The reviewer cannot judge a button she cannot place,
+    // and a pass should not quietly swell as features land. They are listed at
+    // the end so nothing goes missing silently.
     const ctx = context.strings[key];
-    if (!ctx) throw new Error(`no context written for ${key} — add it to meta/context.json`);
+    if (!ctx) { unbriefed.push(`${target}:${key}`); continue; }
     rows.push({
       key,
       target,
@@ -64,6 +74,27 @@ for (const target of ['app', 'web']) {
   }
 }
 
+// German drafts for the store fields live alongside the rest, keyed by id.
+const storeDe = read('locales/shared/de.json').store ?? {};
+for (const f of [...store.fields].reverse()) {
+  const key = f.id.split('.')[1];
+  rows.unshift({
+    key: f.id,
+    target: 'store',
+    flow: 'store',
+    role: f.role,
+    note: f.note,
+    en: f.en,
+    fi: f.fi,
+    de: storeDe[key] ?? f.en,
+    // Apple's hard limit, not the usual 30% allowance.
+    budget: f.limit,
+    placeholders: [],
+    placeholdersOk: true,
+    order: -1,
+  });
+}
+
 rows.sort((a, b) => a.order - b.order);
 
 const terms = Object.entries(glossary.terms)
@@ -71,7 +102,11 @@ const terms = Object.entries(glossary.terms)
   .map(([id, v]) => ({ id, en: v.en, fi: v.fi, de: v.de, note: glossary.openQuestions?.[id] ?? null }));
 
 const out = {
-  flows: context.flows,
+  flows: [
+    { id: 'store', name: 'Store-Eintrag',
+      when: 'Name und Untertitel im App Store und bei Google Play. Das Erste, was jemand von Lexie sieht, und beides hart auf 30 Zeichen begrenzt. Apple lehnt längere Texte ab, sie werden nicht nur abgeschnitten.' },
+    ...context.flows,
+  ],
   addressForm: glossary._addressForm.de,
   voice: glossary.voice.de,
   terms,
@@ -79,3 +114,8 @@ const out = {
 };
 fs.writeFileSync(path.join(ROOT, 'meta/review-data.json'), JSON.stringify(out, null, 2) + '\n');
 console.log(`${rows.length} strings across ${new Set(rows.map((r) => r.flow)).size} flows, ${terms.length} glossary terms`);
+if (unbriefed.length) {
+  console.log(`\n${unbriefed.length} translated strings are NOT in this review, because meta/context.json`);
+  console.log('does not say where they appear. Add them there to include them:');
+  for (const k of unbriefed) console.log('  ' + k);
+}

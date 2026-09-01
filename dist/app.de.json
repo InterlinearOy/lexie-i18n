@@ -1163,6 +1163,16 @@
       "eyebrow": "Konzepte",
       "practiseTest": "Übungstest",
       "practiseTestSubtitle": "Teste dich mit Essayfragen"
+    },
+    "flow": {
+      "foundConcepts": "diese Konzepte solltest du wiederholen",
+      "letsStart": "wir starten mit {section}, sobald du bereit bist",
+      "readyFirstQuestion": "Bereit für die erste Frage?",
+      "nextConcept": "als Nächstes: {section}",
+      "done": "das war der Überblick. Die Fragen kommen als Nächstes.",
+      "continueBtn": "Weiter",
+      "lesson": "Lektion",
+      "concept": "Konzept"
     }
   }
 }

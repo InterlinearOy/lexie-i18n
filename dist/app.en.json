@@ -1163,6 +1163,16 @@
       "eyebrow": "Concepts",
       "practiseTest": "Practise test",
       "practiseTestSubtitle": "Test yourself with essay questions"
+    },
+    "flow": {
+      "foundConcepts": "found these main concepts you need to revise",
+      "letsStart": "let's start with {section} whenever you are ready",
+      "readyFirstQuestion": "Ready for the first question?",
+      "nextConcept": "next up: {section}",
+      "done": "that was the walkthrough. the questions are coming next.",
+      "continueBtn": "Continue",
+      "lesson": "Lesson",
+      "concept": "Concept"
     }
   }
 }
