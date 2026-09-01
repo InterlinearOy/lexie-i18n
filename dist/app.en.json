@@ -1150,13 +1150,16 @@
   "sessionCard": {
     "title": "Revise",
     "start": "Start session",
-    "firstSession": "Today: {section}",
+    "firstSession": "Starting with {section}",
     "teach": "Next up: {section}",
     "recallThenTeach": "Quick check on {topic}, then {section}",
     "recallThenTeachPlain": "Quick check ({count} items), then {section}",
     "recall": "Review round, {count} items",
     "rest": "Nothing due until {date}",
-    "generating": "Lexie is still building this set"
+    "generating": "Lexie is still building this set",
+    "restTomorrow": "Nothing due until tomorrow",
+    "restWeekday": "Nothing due until {weekday}",
+    "open": "Open session"
   },
   "session": {
     "outline": {
@@ -1172,7 +1175,10 @@
       "done": "that was the walkthrough. the questions are coming next.",
       "continueBtn": "Continue",
       "lesson": "Lesson",
-      "concept": "Concept"
+      "concept": "Concept",
+      "outlineSummary": "So {count} concepts and a few practise questions to wrap things up",
+      "resumeStart": "picking up with {section} whenever you are ready",
+      "resumeAllDone": "all concepts done. revisit anything or take the practise test"
     }
   }
 }

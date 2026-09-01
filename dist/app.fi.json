@@ -1150,13 +1150,16 @@
   "sessionCard": {
     "title": "Kertaa",
     "start": "Aloita sessio",
-    "firstSession": "Tänään {section}",
+    "firstSession": "Tänään aiheena {section}",
     "teach": "Seuraavaksi: {section}",
     "recallThenTeach": "Pikakertaus: {topic}, sitten {section}",
     "recallThenTeachPlain": "Pikakertaus ({count} tehtävää), sitten {section}",
     "recall": "Kertauskierros, {count} tehtävää",
     "rest": "Seuraava kertaus {date}",
-    "generating": "Lexie rakentaa tätä settiä vielä"
+    "generating": "Lexie rakentaa tätä settiä vielä",
+    "restTomorrow": "Seuraava kertaus huomenna",
+    "restWeekday": "Seuraava kertaus {weekday}",
+    "open": "Avaa sessio"
   },
   "session": {
     "outline": {
@@ -1172,7 +1175,10 @@
       "done": "siinä oli läpikäynti. kysymykset tulevat seuraavaksi.",
       "continueBtn": "Jatka",
       "lesson": "Oppitunti",
-      "concept": "Käsite"
+      "concept": "Käsite",
+      "outlineSummary": "Eli {count} käsitettä ja lopuksi pari harjoituskysymystä",
+      "resumeStart": "jatketaan aiheesta {section}, kun olet valmis",
+      "resumeAllDone": "kaikki käsitteet käyty. kertaa mitä vain tai tee harjoituskoe"
     }
   }
 }

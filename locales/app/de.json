@@ -46,13 +46,16 @@
   "sessionCard": {
     "title": "Wiederholen",
     "start": "Session starten",
-    "firstSession": "Heute: {section}",
+    "firstSession": "Wir starten mit {section}",
     "teach": "Als Nächstes: {section}",
     "recallThenTeach": "Kurzer Check zu {topic}, dann {section}",
     "recallThenTeachPlain": "Kurzer Check ({count} Aufgaben), dann {section}",
     "recall": "Wiederholungsrunde, {count} Aufgaben",
     "rest": "Nächste Wiederholung {date}",
-    "generating": "Lexie erstellt dieses Set noch"
+    "generating": "Lexie erstellt dieses Set noch",
+    "restTomorrow": "Nächste Wiederholung morgen",
+    "restWeekday": "Nächste Wiederholung am {weekday}",
+    "open": "Session öffnen"
   },
   "session": {
     "outline": {
@@ -68,7 +71,10 @@
       "done": "das war der Überblick. Die Fragen kommen als Nächstes.",
       "continueBtn": "Weiter",
       "lesson": "Lektion",
-      "concept": "Konzept"
+      "concept": "Konzept",
+      "outlineSummary": "Also {count} Konzepte und zum Schluss ein paar Übungsfragen",
+      "resumeStart": "weiter geht es mit {section}, sobald du bereit bist",
+      "resumeAllDone": "alle Konzepte geschafft. wiederhole was du willst oder mach den Übungstest"
     }
   }
 }
