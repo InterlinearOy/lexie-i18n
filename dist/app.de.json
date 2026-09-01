@@ -1145,5 +1145,15 @@
     "title": "Welcome to Lexie Pro",
     "message": "Thank you for your support. It keeps Lexie going and pays for the work that makes it better.",
     "signature": "Elina and the Lexie Team"
+  },
+  "sessionCard": {
+    "title": "Deine Session heute",
+    "start": "Session starten",
+    "firstSession": "Erste Session: {section}",
+    "teach": "Als Nächstes: {section}",
+    "recallThenTeach": "Kurzer Check zu {topic}, dann {section}",
+    "recallThenTeachPlain": "Kurzer Check ({count} Aufgaben), dann {section}",
+    "recall": "Wiederholungsrunde, {count} Aufgaben",
+    "rest": "Nächste Wiederholung {date}"
   }
 }

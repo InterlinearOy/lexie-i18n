@@ -1090,5 +1090,15 @@
     "title": "Tervetuloa Lexie Prohon",
     "message": "Tukesi pitää Lexien toiminnassa ja auttaa kehittämään sitä paremmaksi.",
     "signature": "Elina ja Lexie-tiimi"
+  },
+  "sessionCard": {
+    "title": "Tän päivän sessio",
+    "start": "Aloita sessio",
+    "firstSession": "Ensimmäinen sessio: {section}",
+    "teach": "Seuraavaksi: {section}",
+    "recallThenTeach": "Pikakertaus: {topic}, sitten {section}",
+    "recallThenTeachPlain": "Pikakertaus ({count} tehtävää), sitten {section}",
+    "recall": "Kertauskierros, {count} tehtävää",
+    "rest": "Seuraava kertaus {date}"
   }
 }

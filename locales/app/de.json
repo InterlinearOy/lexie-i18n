@@ -41,5 +41,15 @@
       "finish": "Set fertigstellen",
       "finishFailed": "Das hat nicht geklappt. Versuch es gleich noch einmal."
     }
+  },
+  "sessionCard": {
+    "title": "Deine Session heute",
+    "start": "Session starten",
+    "firstSession": "Erste Session: {section}",
+    "teach": "Als Nächstes: {section}",
+    "recallThenTeach": "Kurzer Check zu {topic}, dann {section}",
+    "recallThenTeachPlain": "Kurzer Check ({count} Aufgaben), dann {section}",
+    "recall": "Wiederholungsrunde, {count} Aufgaben",
+    "rest": "Nächste Wiederholung {date}"
   }
 }
