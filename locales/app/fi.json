@@ -1100,6 +1100,14 @@
     "recallThenTeach": "Pikakertaus: {topic}, sitten {section}",
     "recallThenTeachPlain": "Pikakertaus ({count} tehtävää), sitten {section}",
     "recall": "Kertauskierros, {count} tehtävää",
-    "rest": "Seuraava kertaus {date}"
+    "rest": "Seuraava kertaus {date}",
+    "generating": "Lexie rakentaa tätä settiä vielä"
+  },
+  "session": {
+    "outline": {
+      "eyebrow": "Käsitteet",
+      "practiseTest": "Harjoituskoe",
+      "practiseTestSubtitle": "Testaa osaamisesi esseekysymyksillä"
+    }
   }
 }

@@ -1100,6 +1100,14 @@
     "recallThenTeach": "Quick check on {topic}, then {section}",
     "recallThenTeachPlain": "Quick check ({count} items), then {section}",
     "recall": "Review round, {count} items",
-    "rest": "Nothing due until {date}"
+    "rest": "Nothing due until {date}",
+    "generating": "Lexie is still building this set"
+  },
+  "session": {
+    "outline": {
+      "eyebrow": "Concepts",
+      "practiseTest": "Practise test",
+      "practiseTestSubtitle": "Test yourself with essay questions"
+    }
   }
 }

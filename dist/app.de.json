@@ -1155,6 +1155,14 @@
     "recallThenTeach": "Kurzer Check zu {topic}, dann {section}",
     "recallThenTeachPlain": "Kurzer Check ({count} Aufgaben), dann {section}",
     "recall": "Wiederholungsrunde, {count} Aufgaben",
-    "rest": "Nächste Wiederholung {date}"
+    "rest": "Nächste Wiederholung {date}",
+    "generating": "Lexie erstellt dieses Set noch"
+  },
+  "session": {
+    "outline": {
+      "eyebrow": "Konzepte",
+      "practiseTest": "Übungstest",
+      "practiseTestSubtitle": "Teste dich mit Essayfragen"
+    }
   }
 }
