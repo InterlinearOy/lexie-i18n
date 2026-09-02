@@ -44,7 +44,7 @@
     "shareModalRightsNote": "Teile nur Materialien, an denen du die Rechte hast."
   },
   "sessionCard": {
-    "title": "Wiederholen",
+    "title": "Lernen",
     "start": "Session starten",
     "firstSession": "Wir starten mit {section}",
     "teach": "Als Nächstes: {section}",
@@ -74,7 +74,25 @@
       "concept": "Konzept",
       "outlineSummary": "Also {count} Konzepte und zum Schluss ein paar Übungsfragen",
       "resumeStart": "weiter geht es mit {section}, sobald du bereit bist",
-      "resumeAllDone": "alle Konzepte geschafft. wiederhole was du willst oder mach den Übungstest"
+      "resumeAllDone": "alle Konzepte geschafft. wiederhole was du willst oder mach den Übungstest",
+      "resumeRecap": "letztes Mal: {recap}",
+      "recallIntro": "wir starten mit einer kurzen Wiederholung, {count} Fragen von letztem Mal"
+    },
+    "recall": {
+      "eyebrow": "Wiederholung",
+      "tapToReveal": "Tippe auf die Karte für die Antwort",
+      "remembered": "Wusste ich",
+      "forgot": "Wusste ich nicht",
+      "verdict": "Wiederholung geschafft. {correct} von {total} sitzen noch"
+    },
+    "practiseTest": {
+      "verdict": "Übungstest geschafft.",
+      "points": "Punkte"
+    },
+    "summary": {
+      "niceWork": "Gut gemacht.",
+      "readyPractise": "bereit für den Übungstest?",
+      "allDone": "das war es für heute."
     }
   }
 }

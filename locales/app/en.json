@@ -1093,7 +1093,7 @@
     "signature": "Elina and the Lexie Team"
   },
   "sessionCard": {
-    "title": "Revise",
+    "title": "Learn",
     "start": "Start session",
     "firstSession": "Starting with {section}",
     "teach": "Next up: {section}",
@@ -1123,7 +1123,25 @@
       "concept": "Concept",
       "outlineSummary": "So {count} concepts and a few practise questions to wrap things up",
       "resumeStart": "picking up with {section} whenever you are ready",
-      "resumeAllDone": "all concepts done. revisit anything or take the practise test"
+      "resumeAllDone": "all concepts done. revisit anything or take the practise test",
+      "resumeRecap": "last time: {recap}",
+      "recallIntro": "let's warm up with a quick recall round, {count} questions from last time"
+    },
+    "recall": {
+      "eyebrow": "Recall",
+      "tapToReveal": "Tap the card to see the answer",
+      "remembered": "I remembered",
+      "forgot": "Not yet",
+      "verdict": "recall done. {correct} of {total} still in your head"
+    },
+    "practiseTest": {
+      "verdict": "practise test done.",
+      "points": "points"
+    },
+    "summary": {
+      "niceWork": "Nice work.",
+      "readyPractise": "ready for a practise test now?",
+      "allDone": "that's it for today."
     }
   }
 }

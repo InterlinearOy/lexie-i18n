@@ -1148,7 +1148,7 @@
     "signature": "Elina ja Lexie-tiimi"
   },
   "sessionCard": {
-    "title": "Kertaa",
+    "title": "Opi",
     "start": "Aloita sessio",
     "firstSession": "Tänään aiheena {section}",
     "teach": "Seuraavaksi: {section}",
@@ -1178,7 +1178,25 @@
       "concept": "Käsite",
       "outlineSummary": "Eli {count} käsitettä ja lopuksi pari harjoituskysymystä",
       "resumeStart": "jatketaan aiheesta {section}, kun olet valmis",
-      "resumeAllDone": "kaikki käsitteet käyty. kertaa mitä vain tai tee harjoituskoe"
+      "resumeAllDone": "kaikki käsitteet käyty. kertaa mitä vain tai tee harjoituskoe",
+      "resumeRecap": "viime kerralla: {recap}",
+      "recallIntro": "aloitetaan pikakertauksella, {count} kysymystä viime kerroilta"
+    },
+    "recall": {
+      "eyebrow": "Kertaus",
+      "tapToReveal": "Näytä vastaus napauttamalla korttia",
+      "remembered": "Muistin",
+      "forgot": "En muistanut",
+      "verdict": "kertaus tehty. {correct}/{total} oli muistissa"
+    },
+    "practiseTest": {
+      "verdict": "harjoituskoe tehty.",
+      "points": "pistettä"
+    },
+    "summary": {
+      "niceWork": "Hyvin tehty.",
+      "readyPractise": "oletko valmis harjoituskokeeseen?",
+      "allDone": "siinä kaikki tälle päivälle."
     }
   }
 }
