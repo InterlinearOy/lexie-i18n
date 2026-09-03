@@ -43,7 +43,7 @@
     },
     "proBadge": "PRO",
     "carousel": {
-      "slide1": "Turn any page into a\nstudy session",
+      "slide1": "Turn any material into a\nstudy session",
       "slide2": "Snap a photo of\nany topic",
       "slide3": "Remember more in less\ntime with flashcards",
       "slide4": "Quiz to know what\nyou don't know yet",
@@ -500,13 +500,16 @@
     "takePhotoInstruction": "Snap a photo of content you want to practice",
     "requestingCameraPermission": "Requesting camera permission...",
     "tips": {
-      "title": "Tips",
-      "tip1Title": "Start with 1-4 photos",
-      "tip1Description": "The app works faster with fewer images and creates more focused practice questions. You can always create another set later.",
+      "title": "Instructions",
+      "tip1Title": "Less is more",
+      "tip1Description": "Lexie works best when you upload 1-4 photos at a time, or a PDF with a few pages. Make several small sets rather than one big one.",
       "tip2Title": "One topic at a time",
-      "tip2Description": "Mixing math with history in the same set? The questions get messy. Keep each set focused on what you're studying right now.",
-      "tip3Title": "Clear, readable photos",
-      "tip3Description": "Blurry text = confused AI = weird questions. Make sure your notes or textbook pages are well-lit and in focus."
+      "tip2Description": "Mixing languages with history in the same set? The questions get messy. Only upload photos of the topic you are practicing right now.",
+      "tip3Title": "Clear photos",
+      "tip3Description": "A blurry photo = weird questions. Make sure your notes or material are well-lit and in focus, and that no other text ends up in the photo.",
+      "tip4Title": "Please note",
+      "tip4Description": "Only add material you have the right to use, such as your own notes. You can find more information in the",
+      "tip4Link": "terms of service."
     },
     "initializingCamera": "Initializing camera..."
   },
@@ -1206,5 +1209,10 @@
       "readyPractise": "ready for a practise test now?",
       "allDone": "that's it for today."
     }
+  },
+  "updateWall": {
+    "title": "Update Lexie",
+    "description": "This version is no longer supported. Get the latest version to continue.",
+    "button": "Update"
   }
 }

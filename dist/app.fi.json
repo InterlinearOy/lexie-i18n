@@ -140,7 +140,7 @@
       "title": "Nimeä harjoitussetti uudelleen",
       "subtitle": "Kirjoita uusi nimi"
     },
-    "loadingAudioSubtext": "Tässä voi mennä hetki. Voit tehdä vaikka tehtäviä odotellessasi ja saat viestin kun ääniversio on valmis.",
+    "loadingAudioSubtext": "Tässä voi mennä hetki. Voit tehdä vaikka tehtäviä odotellessasi ja saat viestin, kun ääniversio on valmis.",
     "audioReady": "Psst..audio on nyt valmis kuunneltavaksi",
     "audioTimeoutError": "Lataus kesti liian kauan. Tarkista yhteytesi ja yritä uudelleen.",
     "audioServerError": "Palvelin ei ole käytettävissä. Yritä myöhemmin uudelleen.",
@@ -316,7 +316,7 @@
       "mathModeBetaMessage": "Tämä ominaisuus on vielä kehitteillä. Jos jokin ei toimi oikein, kerro meille."
     },
     "footer": {
-      "thankYou": "Kiitos kun valitsit Lexien.",
+      "thankYou": "Kiitos, kun valitsit Lexien.",
       "loveLine": "We 🫶🏻 you."
     },
     "deleteProfile": {
@@ -500,13 +500,16 @@
     "takePhotoInstruction": "Ota kuva sisällöstä, jota haluat harjoitella",
     "requestingCameraPermission": "Pyydetään kameran käyttöoikeutta...",
     "tips": {
-      "title": "Vinkkejä",
+      "title": "Ohjeita",
       "tip1Title": "Vähemmän on enemmän",
-      "tip1Description": "Lexie toimii parhaiten kun lataat 1-4 kuvaa kerralla. Tee mieluummin monta pientä settiä kuin yhden ison.",
+      "tip1Description": "Lexie toimii parhaiten, kun lataat 1-4 kuvaa kerralla, tai muutaman sivun PDF:n. Tee mieluummin monta pientä settiä kuin yhden ison.",
       "tip2Title": "Yksi aihe kerrallaan",
-      "tip2Description": "Sekoitatko kieliä ja historiaa samaan settiin? Kysymykset menevät sekaisin. Lataa vain kuvia siitä aiheesta, mitä harjoittelet juuri nyt.",
+      "tip2Description": "Sekoitatko kieliä ja historiaa samaan settiin? Kysymykset menevät sekaisin. Lataa kuvia vain siitä aiheesta, mitä harjoittelet juuri nyt.",
       "tip3Title": "Selkeät kuvat",
-      "tip3Description": "Epäselvä teksti = outoja kysymyksiä. Varmista, että muistiinpanosi tai kirjan sivut ovat hyvin valaistuja ja tarkennettuja, eikä mukaan eksy muuta tekstiä."
+      "tip3Description": "Epäselvä kuva = outoja kysymyksiä. Varmista, että muistiinpanosi tai materiaalisi on hyvin valaistuja ja tarkennettuja, eikä mukaan eksy muuta tekstiä.",
+      "tip4Title": "Huomioi",
+      "tip4Description": "Lisää vain aineistoa, jota sinulla on oikeus käyttää, kuten omia muistiinpanojasi. Lisätietoja on",
+      "tip4Link": "käyttöehdoissa."
     },
     "initializingCamera": "Käynnistetään kameraa..."
   },
@@ -588,7 +591,7 @@
     "studyTips": {
       "perfect1": "Jos haluat tehdä harjoittelusta vielä tehokkaampaa, kannattaa tehdä vaikka kymmenen kyykkyä. Liikunta parantaa tutkitusti oppimista.",
       "perfect2": "Kokeile mennä ajoissa tänään nukkumaan. Oppimisesta puolet tapahtuu yöllä nukkuessa.",
-      "perfect3": "Opeta tämä jollekin kaverille tai perheenjäsenelle. Opettaminen on paras tapa varmistaa että todella osaat.",
+      "perfect3": "Opeta tämä jollekin kaverille tai perheenjäsenelle. Opettaminen on paras tapa varmistaa, että todella osaat.",
       "excellent1": "Kokeile selittää ääneen mitä opit. Se auttaa huomaamaan mitkä kohdat on vielä vähän epäselviä.",
       "excellent2": "Palaa hankalampiin kohtiin huomenna. Aivot käsittelee asioita yön aikana.",
       "excellent3": "Piirrä kaavioita tai kuvia näistä käsitteistä. Visualisointi auttaa muistamaan paremmin.",
@@ -720,7 +723,7 @@
     "goBack": "Takaisin"
   },
   "notifications": {
-    "promptTitle": "Haluatko että Lexie muistuttaa milloin kannattaa kerrata?",
+    "promptTitle": "Haluatko, että Lexie muistuttaa milloin kannattaa kerrata?",
     "promptSubtitle": "Unohdat ~70% näistä seuraavan 24h sisään",
     "yesPlease": "Kyllä kiitos",
     "noThanks": "Ei kiitos",
@@ -1035,7 +1038,7 @@
   },
   "ratingPrompt": {
     "title": "Moi Elina tässä 👋",
-    "message": "Onko Lexie auttanut sinua opiskelemaan? Tein Lexien koska halusin että mahdollisimman monella olisi helppo tapa harjoitella tehokkaita opiskelutekniikoita hyödyntäen. Jos siitä on ollut apua, arvostelu merkitsisi minulle paljon. Se auttaa myös muita opiskelijoita löytämään sen.",
+    "message": "Onko Lexie auttanut sinua opiskelemaan? Tein Lexien, koska halusin, että mahdollisimman monella olisi helppo tapa harjoitella tehokkaita opiskelutekniikoita hyödyntäen. Jos siitä on ollut apua, arvostelu merkitsisi minulle paljon. Se auttaa myös muita opiskelijoita löytämään sen.",
     "tapToContinue": "Jatka",
     "thanks": "Kiitos palautteestasi 🫶"
   },
@@ -1065,8 +1068,8 @@
       "nudgePickFirst": "Valitse kieli jatkaaksesi"
     },
     "learningLanguages": {
-      "title": "Mitä kieliä opettelet?",
-      "subtitle": "Niitä, joita oikeasti yrität puhua. Ohita jos ei mitään, voit aina lisätä lisää myöhemmin.",
+      "title": "Mitä kieliä opiskelet?",
+      "subtitle": "Valitse opiskelemasi kielet alta. Ohita, jos et opiskele mitään kieliä tällä hetkellä, voit aina lisätä niitä myöhemmin.",
       "add": "Lisää +"
     },
     "firstSession": {
@@ -1206,5 +1209,10 @@
       "readyPractise": "oletko valmis harjoituskokeeseen?",
       "allDone": "siinä kaikki tälle päivälle."
     }
+  },
+  "updateWall": {
+    "title": "Päivitä Lexie",
+    "description": "Tämä versio ei ole enää käytössä. Lataa uusin versio, niin pääset jatkamaan.",
+    "button": "Päivitä"
   }
 }
