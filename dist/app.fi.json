@@ -1068,6 +1068,14 @@
       "title": "Mitä kieliä opettelet?",
       "subtitle": "Niitä, joita oikeasti yrität puhua. Ohita jos ei mitään, voit aina lisätä lisää myöhemmin.",
       "add": "Lisää +"
+    },
+    "firstSession": {
+      "title": "Mitä haluaisit opiskella?",
+      "subtitle": "Lisää materiaali, josta haluaisit tehdä ensimmäisen harjoitussetin.",
+      "camera": "Ota tai lataa kuva",
+      "text": "Liitä tekstiä tai lataa PDF",
+      "sample": "Eikö materiaalia ole käsillä? Kurkkaa esimerkki",
+      "later": "Teen tämän myöhemmin"
     }
   },
   "softPrompt": {

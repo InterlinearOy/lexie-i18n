@@ -1013,6 +1013,14 @@
       "title": "Any languages you're learning?",
       "subtitle": "The ones you're trying to actually speak. Skip if none, you can always add more later.",
       "add": "Add +"
+    },
+    "firstSession": {
+      "title": "What would you like to study?",
+      "subtitle": "Add the material you want to turn into your first practice set.",
+      "camera": "Take or upload a photo",
+      "text": "Paste text or upload PDF",
+      "sample": "Nothing at hand? Try a sample",
+      "later": "I'll do this later"
     }
   },
   "softPrompt": {
