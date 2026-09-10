@@ -975,20 +975,20 @@
     "create": {
       "title": "Peittokortit",
       "heading": "Luo peittokortit",
-      "subtitle": "Lataa kuva, jossa on tekstejä (esim. kaavio tai anatomian kuva). Tunnistan tekstit ja luon muistikortit automaattisesti.",
+      "subtitle": "Lataa kaaviokuva, esimerkiksi anatomian kuva. Tunnistan käsitteet ja peitän ne puolestasi.",
       "chooseFromLibrary": "Valitse kirjastosta",
       "takePhoto": "Ota kuva",
-      "detectingLabels": "Piilotan tekstit..",
+      "detectingLabels": "Peitän käsitteet..",
       "creatingFlashcards": "Luodaan muistikortteja...",
       "loading": "Ladataan...",
-      "noTextDetected": "Kuvasta ei löytynyt tekstiä. Kokeile toista kuvaa, jossa on näkyvää tekstiä.",
+      "noTextDetected": "En löytänyt kuvasta käsitteitä. Kokeile toista kuvaa, jossa tekstit näkyvät selvästi.",
       "tryDifferentImage": "Kokeile toista kuvaa",
       "processingFailed": "Kuvan käsittely epäonnistui",
       "saveFailed": "Muistikortin tallennus epäonnistui"
     },
     "review": {
       "loading": "Ladataan...",
-      "noRegions": "Ei peittoalueita",
+      "noRegions": "Ei käsitteitä",
       "goBack": "Takaisin",
       "typeAnswer": "Kirjoita vastauksesi...",
       "correctFeedback": "Oikein",
@@ -1000,14 +1000,14 @@
       "incorrectLabel": "Väärin",
       "accuracy": "Tarkkuus",
       "done": "Valmis",
-      "hideOne": "Piilota yksi",
-      "hideAll": "Piilota kaikki"
+      "hideOne": "Peitä yksi",
+      "hideAll": "Peitä kaikki"
     },
     "edit": {
-      "title": "Muokkaa peittoalueita",
-      "sectionTitle": "Peittoalueiden tekstit",
-      "sectionHint": "Napauta aluetta kuvassa tai listassa muokataksesi",
-      "enterLabel": "Kirjoita teksti...",
+      "title": "Muokkaa käsitteitä",
+      "sectionTitle": "Käsitteet",
+      "sectionHint": "Napauta käsitettä kuvassa tai listassa muokataksesi",
+      "enterLabel": "Kirjoita käsite...",
       "cardNotFound": "Korttia ei löytynyt",
       "saveFailed": "Muutosten tallennus epäonnistui"
     }
