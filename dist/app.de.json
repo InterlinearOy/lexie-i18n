@@ -207,7 +207,7 @@
   },
   "progressive": {
     "toasts": {
-      "checkingContent": "Checking out what you send..",
+      "checkingContent": "Checking out what you sent..",
       "creatingFlashcards": "I'll spin you some nice recall triggers",
       "creatingMathProblems": "Creating practice problems",
       "nextStepQuiz": "Next up: quiz.",
