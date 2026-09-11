@@ -66,13 +66,13 @@
     "flow": {
       "foundConcepts": "diese Konzepte solltest du wiederholen",
       "letsStart": "wir starten mit {section}, sobald du bereit bist",
-      "readyFirstQuestion": "Bereit für die erste Frage?",
+      "readyFirstQuestion": "bereit für die erste Frage?",
       "nextConcept": "als Nächstes: {section}",
       "done": "das war der Überblick. Die Fragen kommen als Nächstes.",
       "continueBtn": "Weiter",
       "lesson": "Lektion",
       "concept": "Konzept",
-      "outlineSummary": "Also {count} Konzepte und zum Schluss ein paar Übungsfragen",
+      "outlineSummary": "also {count} Konzepte und zum Schluss ein paar Übungsfragen",
       "resumeStart": "weiter geht es mit {section}, sobald du bereit bist",
       "resumeAllDone": "alle Konzepte geschafft. wiederhole was du willst oder mach den Übungstest",
       "resumeRecap": "letztes Mal: {recap}",
@@ -90,7 +90,7 @@
       "points": "Punkte"
     },
     "summary": {
-      "niceWork": "Gut gemacht.",
+      "niceWork": "gut gemacht.",
       "readyPractise": "bereit für den Übungstest?",
       "allDone": "das war es für heute."
     }

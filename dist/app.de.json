@@ -24,6 +24,7 @@
     "tapToWatchOnYouTube": "Tap to watch on YouTube",
     "videoUnavailable": "Video unavailable",
     "questionWillBeSkipped": "This question will be skipped.",
+    "done": "Done",
     "close": "Schließen"
   },
   "welcome": {
@@ -486,7 +487,8 @@
     "deleteFailed": "Failed to delete study set",
     "takePictureError": "Failed to take picture. Please try again.",
     "permission": "Camera access needed",
-    "cameraAccess": "Lexie needs camera access to capture study materials"
+    "cameraAccess": "Lexie needs camera access to capture study materials",
+    "photoLibraryError": "Could not open your photos. Try again."
   },
   "scanPage": {
     "title": "Snap a photo",
@@ -525,6 +527,7 @@
       "incorrectFinal": "That was incorrect. The correct answer is {answer}.",
       "goodJob": "Gut gemacht",
       "thatWentWrong": "That went wrong.",
+      "errorEvaluating": "Couldn't check your answer. Try again.",
       "correct": "Richtig.",
       "notQuite": "Guter Versuch",
       "goodTry": "Guter Versuch",
@@ -537,6 +540,7 @@
     "buttons": {
       "ok": "OK",
       "skip": "Frage überspringen",
+      "seeResults": "See results",
       "continue": "Weiter",
       "tryAgain": "Noch einmal",
       "submit": "Antworten"
@@ -548,6 +552,10 @@
       "loadErrorMessage": "Failed to load quiz questions.",
       "studyTextErrorTitle": "Error",
       "studyTextErrorMessage": "Failed to load study text. Please try again."
+    },
+    "errors": {
+      "fillInBlankDataMissing": "This question is missing data, so it can't be shown.",
+      "unsupportedQuestionType": "This version of Lexie can't show this question type."
     },
     "validation": {
       "selectAnswer": "Wähle eine Antwort, bevor du prüfst",
@@ -1183,13 +1191,13 @@
     "flow": {
       "foundConcepts": "diese Konzepte solltest du wiederholen",
       "letsStart": "wir starten mit {section}, sobald du bereit bist",
-      "readyFirstQuestion": "Bereit für die erste Frage?",
+      "readyFirstQuestion": "bereit für die erste Frage?",
       "nextConcept": "als Nächstes: {section}",
       "done": "das war der Überblick. Die Fragen kommen als Nächstes.",
       "continueBtn": "Weiter",
       "lesson": "Lektion",
       "concept": "Konzept",
-      "outlineSummary": "Also {count} Konzepte und zum Schluss ein paar Übungsfragen",
+      "outlineSummary": "also {count} Konzepte und zum Schluss ein paar Übungsfragen",
       "resumeStart": "weiter geht es mit {section}, sobald du bereit bist",
       "resumeAllDone": "alle Konzepte geschafft. wiederhole was du willst oder mach den Übungstest",
       "resumeRecap": "letztes Mal: {recap}",
@@ -1207,7 +1215,7 @@
       "points": "Punkte"
     },
     "summary": {
-      "niceWork": "Gut gemacht.",
+      "niceWork": "gut gemacht.",
       "readyPractise": "bereit für den Übungstest?",
       "allDone": "das war es für heute."
     }

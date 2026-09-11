@@ -23,7 +23,8 @@
     },
     "tapToWatchOnYouTube": "Tap to watch on YouTube",
     "videoUnavailable": "Video unavailable",
-    "questionWillBeSkipped": "This question will be skipped."
+    "questionWillBeSkipped": "This question will be skipped.",
+    "done": "Done"
   },
   "welcome": {
     "title": "Welcome to Lexie",
@@ -476,7 +477,8 @@
     "deleteFailed": "Failed to delete study set",
     "takePictureError": "Failed to take picture. Please try again.",
     "permission": "Camera access needed",
-    "cameraAccess": "Lexie needs camera access to capture study materials"
+    "cameraAccess": "Lexie needs camera access to capture study materials",
+    "photoLibraryError": "Could not open your photos. Try again."
   },
   "scanPage": {
     "title": "Snap a photo",
@@ -514,14 +516,16 @@
       "incorrect": "That was incorrect. Try again.",
       "incorrectFinal": "That was incorrect. The correct answer is {answer}.",
       "goodJob": "Good job.",
-      "thatWentWrong": "That went wrong."
+      "thatWentWrong": "That went wrong.",
+      "errorEvaluating": "Couldn't check your answer. Try again."
     },
     "walk": {
       "correctAnswer": "The correct answer is {answer}."
     },
     "buttons": {
       "ok": "OK",
-      "skip": "Skip question"
+      "skip": "Skip question",
+      "seeResults": "See results"
     },
     "alerts": {
       "noQuestionsTitle": "Error",
@@ -530,6 +534,10 @@
       "loadErrorMessage": "Failed to load quiz questions.",
       "studyTextErrorTitle": "Error",
       "studyTextErrorMessage": "Failed to load study text. Please try again."
+    },
+    "errors": {
+      "fillInBlankDataMissing": "This question is missing data, so it can't be shown.",
+      "unsupportedQuestionType": "This version of Lexie can't show this question type."
     }
   },
   "quizComplete": {
@@ -1128,13 +1136,13 @@
     "flow": {
       "foundConcepts": "found these main concepts you need to revise",
       "letsStart": "let's start with {section} whenever you are ready",
-      "readyFirstQuestion": "Ready for the first question?",
+      "readyFirstQuestion": "ready for the first question?",
       "nextConcept": "next up: {section}",
       "done": "that was the walkthrough. the questions are coming next.",
       "continueBtn": "Continue",
       "lesson": "Lesson",
       "concept": "Concept",
-      "outlineSummary": "So {count} concepts and a few practise questions to wrap things up",
+      "outlineSummary": "so {count} concepts and a few practise questions to wrap things up",
       "resumeStart": "picking up with {section} whenever you are ready",
       "resumeAllDone": "all concepts done. revisit anything or take the practise test",
       "resumeRecap": "last time: {recap}",
@@ -1152,7 +1160,7 @@
       "points": "points"
     },
     "summary": {
-      "niceWork": "Nice work.",
+      "niceWork": "nice work.",
       "readyPractise": "ready for a practise test now?",
       "allDone": "that's it for today."
     }
