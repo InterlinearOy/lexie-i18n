@@ -352,6 +352,10 @@
           "question": "Ostin Pron verkkosivulta, miten saan sen sovellukseen",
           "answer": "Kirjaudu sisään samalla sähköpostilla, jolla teit ostoksen. Sovelluksessa: Asetukset → Tili, tai napauta kirjautumislinkkiä tilaussivulla. Saat sähköpostiisi 6-numeroisen koodin, salasanaa ei tarvita. Kirjautumisen jälkeen Pro Pass aukeaa automaattisesti.\n\nHuomaa, että Palauta ostot löytää vain App Storen ja Google Playn ostokset. Verkosta ostettu tilaus aukeaa kirjautumalla.\n\nYksi rehellinen huomio: kirjautuminen tuo mukanaan Pro Passin, ei harjoitussettejä. Verkossa tekemäsi setit pysyvät toistaiseksi verkossa."
         },
+        "appPurchaseWeb": {
+          "question": "Ostin Pron sovelluksessa, miten käytän sitä verkossa",
+          "answer": "Kirjaudu sisään samalla sähköpostilla molemmissa. Sovelluksessa: Asetukset → Tili, kirjaudu sähköpostillasi. Saat 6-numeroisen koodin, salasanaa ei tarvita. Mene sitten osoitteeseen lexielearn.com ja kirjaudu samalla sähköpostilla. Pro Pass aukeaa siellä heti.\n\nJos se ei aukea, kirjaudu verkossa ulos ja uudelleen sisään.\n\nSama huomio kuin toiseen suuntaan: Pro Pass kulkee mukana, harjoitussetit eivät. Sovelluksessa tekemäsi setit pysyvät toistaiseksi sovelluksessa."
+        },
         "shareWithKid": {
           "question": "Miten jaan tilauksen lapseni kanssa",
           "answer": "Valitse perheen vuositilaus. Se kattaa enintään kuusi laitetta Applen perhejaon kautta, joten lapsesi ja muut perheryhmäsi jäsenet saavat täydet käyttöoikeudet omiin puhelimiinsa.\n\nOta perhejako ensin käyttöön iPhonen asetuksissa, jos et ole vielä tehnyt sitä. Osta sen jälkeen perhetilaus Lexien sisältä. Kaikki perheryhmän jäsenet saavat käyttöoikeuden automaattisesti.\n\nHuomaa, että perhetilaus toimii vain iPhonella, koska Google Play ei tue tilausten perhejakoa. Jos käytät Androidia tai perheessäsi on sekä iPhone- että Android-käyttäjiä, lähetä minulle viesti, niin etsimme yhdessä ratkaisun."

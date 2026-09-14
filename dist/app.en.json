@@ -352,6 +352,10 @@
           "question": "I bought Pro on the website, how do I get it in the app?",
           "answer": "Log in with the same email you used when you bought it. In the app: Settings → Account, or tap the log in link on the paywall. You'll get a 6-digit code by email, no password needed. Once you're in, your Pro Pass unlocks automatically.\n\nNote that Restore purchases only finds App Store and Google Play purchases. For a web purchase, logging in is the way.\n\nOne honest caveat: logging in brings your Pro Pass, not your study sets. Sets you made on the web stay on the web for now."
         },
+        "appPurchaseWeb": {
+          "question": "I bought Pro in the app, how do I use it on the web?",
+          "answer": "Log in with the same email in both places. In the app: Settings → Account, log in with your email. You'll get a 6-digit code, no password needed. Then go to lexielearn.com and log in with the same email. Your Pro Pass unlocks there right away.\n\nIf it doesn't, log out on the web and log in again.\n\nSame caveat as the other way round: your Pro Pass travels, your study sets don't. Sets you made in the app stay in the app for now."
+        },
         "shareWithKid": {
           "question": "How do I share with my kid?",
           "answer": "Get the family annual plan. It covers up to 6 devices through Apple's Family Sharing, so your kid (or anyone in your family group) gets full access on their own phone.\n\nSet up Family Sharing in iPhone settings first if you haven't, then buy the family plan from inside Lexie. Everyone in the family group gets it automatically.\n\nHeads up: family plans are iPhone only, Google Play doesn't support family sharing for subscriptions. On Android, or a mixed iPhone/Android family? Message me and we'll figure it out."
