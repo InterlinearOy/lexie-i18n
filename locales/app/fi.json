@@ -66,6 +66,16 @@
     }
   },
   "prep": {
+    "libraryIntro": "Lexien valmiit kurssit ja kertaussetit",
+    "yoSection": "Yo-kertaus",
+    "viewAll": "Katso kaikki",
+    "contentLanguage": {
+      "fi": "Suomeksi"
+    },
+    "courseTitles": {
+      "kansalaisuuskoe": "Kansalaisuuskoe",
+      "suomi-keskitaso": "YKI-kertaus: suomi, keskitaso"
+    },
     "yoTitle": "Yo-kertaus",
     "yoBadge": "UUSI",
     "yoIntro": "Lexien valmiit kertaussarjat ylioppilaskokeisiin auttavat kertaamaan keskeiset asiat.",

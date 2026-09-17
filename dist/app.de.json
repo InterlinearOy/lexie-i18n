@@ -67,6 +67,16 @@
     }
   },
   "prep": {
+    "libraryIntro": "Ready-made courses and practice sets by Lexie",
+    "yoSection": "Matriculation exams",
+    "viewAll": "View all",
+    "contentLanguage": {
+      "fi": "In Finnish"
+    },
+    "courseTitles": {
+      "kansalaisuuskoe": "Finnish citizenship test",
+      "suomi-keskitaso": "YKI Finnish test, intermediate"
+    },
     "yoTitle": "Yo-kertaus",
     "yoBadge": "NEW",
     "yoIntro": "Lexie's ready-made revision series for the Finnish matriculation exams.",
