@@ -905,9 +905,20 @@
     "subtitle": "Redeem a code to unlock free study sets",
     "apply": "Apply",
     "success": "Success!",
-    "error": "Error",
+    "error": "Code not redeemed",
     "enterAllCharacters": "Please enter all 5 characters",
-    "somethingWentWrong": "Something went wrong. Please try again."
+    "somethingWentWrong": "Something went wrong. Please try again.",
+    "successMonth": "You have unlimited access for 1 month.",
+    "successMonths": "You have unlimited access for {months} months.",
+    "successInvite": "You and your friend both got {count} free study sets.",
+    "successAffiliate": "You got {days} days of free access. {name} shared this code with you.",
+    "failure": {
+      "notFound": "We can't find this code. Check the letters and try again.",
+      "used": "This code has already been used. Try a new one.",
+      "ownCode": "This is your own code. Share it with a friend, and you both get 2 free study sets.",
+      "inactive": "This code is no longer valid. Try a new one.",
+      "failed": "Something went wrong. Check your connection and try again."
+    }
   },
   "think": {
     "question": "Question",

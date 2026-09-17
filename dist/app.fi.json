@@ -936,9 +936,20 @@
     "subtitle": "Lunasta koodi ja saat ilmaisia harjoituksia",
     "apply": "Käytä",
     "success": "Onnistui!",
-    "error": "Virhe",
+    "error": "Koodia ei lunastettu",
     "enterAllCharacters": "Syötä kaikki 5 merkkiä",
-    "somethingWentWrong": "Jokin meni pieleen. Yritä uudelleen."
+    "somethingWentWrong": "Jokin meni pieleen. Yritä uudelleen.",
+    "successMonth": "Sinulla on nyt rajaton käyttö 1 kuukaudeksi.",
+    "successMonths": "Sinulla on nyt rajaton käyttö {months} kuukaudeksi.",
+    "successInvite": "Sinä ja kaverisi saitte molemmat {count} ilmaista harjoitussettiä.",
+    "successAffiliate": "Sait {days} päivää ilmaista käyttöä. {name} jakoi koodin sinulle.",
+    "failure": {
+      "notFound": "Koodia ei löytynyt. Tarkista merkit ja yritä uudelleen.",
+      "used": "Tämä koodi on jo käytetty. Kokeile toista koodia.",
+      "ownCode": "Tämä on oma koodisi. Jaa se kaverille, niin saatte molemmat 2 ilmaista harjoitussettiä.",
+      "inactive": "Tämä koodi ei ole enää voimassa. Kokeile toista koodia.",
+      "failed": "Jokin meni pieleen. Tarkista verkkoyhteys ja yritä uudelleen."
+    }
   },
   "think": {
     "question": "Kysymys",
