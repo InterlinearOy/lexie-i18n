@@ -67,9 +67,9 @@
     }
   },
   "prep": {
-    "libraryIntro": "Lexien valmiit kurssit ja kertaussetit",
     "yoSection": "Yo-kertaus",
-    "viewAll": "Katso kaikki",
+    "yoSectionIntro": "Valmistaudu ylioppilaskokeisiin.",
+    "examsSectionIntro": "Valmistaudu kielitutkintoon ja kansalaisuuskokeeseen.",
     "contentLanguage": {
       "fi": "Suomeksi"
     },

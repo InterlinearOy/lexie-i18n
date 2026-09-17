@@ -66,9 +66,9 @@
     }
   },
   "prep": {
-    "libraryIntro": "Ready-made courses and practice sets by Lexie",
     "yoSection": "Matriculation exams",
-    "viewAll": "View all",
+    "yoSectionIntro": "Get ready for the Finnish matriculation exams.",
+    "examsSectionIntro": "Get ready for the Finnish language and citizenship tests.",
     "contentLanguage": {
       "fi": "In Finnish"
     },
