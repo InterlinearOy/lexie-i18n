@@ -214,7 +214,7 @@
       "finish": "Viimeistele setti",
       "finishFailed": "Viimeistely ei onnistunut. Yritä hetken kuluttua uudelleen."
     },
-    "chooseSubject": "Valitse oppiaine",
+    "subjectHint": "Kirjoita oppiaineen nimi",
     "loadingAudio": "Luon ääniversion",
     "read": "Lue",
     "listen": "Kuuntele"

@@ -214,7 +214,7 @@
       "finish": "Set fertigstellen",
       "finishFailed": "Das hat nicht geklappt. Versuch es gleich noch einmal."
     },
-    "chooseSubject": "Choose subject",
+    "subjectHint": "Write the subject name",
     "loadingAudio": "Generating the audio",
     "read": "Read",
     "listen": "Listen"
