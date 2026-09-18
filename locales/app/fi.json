@@ -140,7 +140,8 @@
     "original": "Teksti",
     "actions": {
       "rename": "Nimeä uudelleen",
-      "delete": "Poista harjoitussetti"
+      "delete": "Poista harjoitussetti",
+      "changeSubject": "Vaihda oppiaine"
     },
     "rename": {
       "title": "Nimeä harjoitussetti uudelleen",
@@ -205,7 +206,8 @@
       "interrupted": "Osa tästä setistä jäi kesken.",
       "finish": "Viimeistele setti",
       "finishFailed": "Viimeistely ei onnistunut. Yritä hetken kuluttua uudelleen."
-    }
+    },
+    "chooseSubject": "Valitse oppiaine"
   },
   "progressive": {
     "toasts": {
@@ -1195,5 +1197,26 @@
     "title": "Päivitä Lexie",
     "description": "Tämä versio ei ole enää käytössä. Lataa uusin versio, niin pääset jatkamaan.",
     "button": "Päivitä"
+  },
+  "subjects": {
+    "biology": "Biologia",
+    "chemistry": "Kemia",
+    "physics": "Fysiikka",
+    "mathematics": "Matematiikka",
+    "geography": "Maantiede",
+    "health_education": "Terveystieto",
+    "medicine": "Lääketiede",
+    "history": "Historia",
+    "social_studies": "Yhteiskuntaoppi",
+    "economics": "Talous ja liiketoiminta",
+    "psychology": "Psykologia",
+    "philosophy": "Filosofia ja etiikka",
+    "religion": "Uskonto",
+    "literature": "Kirjallisuus",
+    "languages": "Kielet",
+    "computer_science": "Tietotekniikka",
+    "law": "Oikeustiede",
+    "arts": "Taide ja musiikki",
+    "other": "Muu"
   }
 }

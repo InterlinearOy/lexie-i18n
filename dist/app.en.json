@@ -147,7 +147,8 @@
     "original": "Source",
     "actions": {
       "rename": "Rename",
-      "delete": "Delete study set"
+      "delete": "Delete study set",
+      "changeSubject": "Change subject"
     },
     "rename": {
       "title": "Rename study set",
@@ -213,6 +214,7 @@
       "finish": "Finish the set",
       "finishFailed": "That didn't work. Try again in a moment."
     },
+    "chooseSubject": "Choose subject",
     "loadingAudio": "Generating the audio",
     "read": "Read",
     "listen": "Listen"
@@ -1250,5 +1252,26 @@
     "title": "Update Lexie",
     "description": "This version is no longer supported. Get the latest version to continue.",
     "button": "Update"
+  },
+  "subjects": {
+    "biology": "Biology",
+    "chemistry": "Chemistry",
+    "physics": "Physics",
+    "mathematics": "Mathematics",
+    "geography": "Geography",
+    "health_education": "Health education",
+    "medicine": "Medicine",
+    "history": "History",
+    "social_studies": "Social studies",
+    "economics": "Economics and business",
+    "psychology": "Psychology",
+    "philosophy": "Philosophy and ethics",
+    "religion": "Religion",
+    "literature": "Literature",
+    "languages": "Languages",
+    "computer_science": "Computer science",
+    "law": "Law",
+    "arts": "Arts and music",
+    "other": "Other"
   }
 }
