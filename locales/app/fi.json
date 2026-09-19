@@ -141,7 +141,8 @@
     "actions": {
       "rename": "Nimeä uudelleen",
       "delete": "Poista harjoitussetti",
-      "changeSubject": "Vaihda oppiaine"
+      "changeSubject": "Vaihda oppiaine",
+      "reorder": "Järjestä"
     },
     "rename": {
       "title": "Nimeä harjoitussetti uudelleen",

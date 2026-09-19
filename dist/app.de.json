@@ -148,7 +148,8 @@
     "actions": {
       "rename": "Rename",
       "delete": "Delete study set",
-      "changeSubject": "Change subject"
+      "changeSubject": "Change subject",
+      "reorder": "Reorder"
     },
     "rename": {
       "title": "Rename study set",
