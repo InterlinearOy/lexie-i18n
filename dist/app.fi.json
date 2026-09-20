@@ -429,8 +429,8 @@
     "takeMore": "Ota lisää kuvia",
     "chooseMore": "Valitse lisää kuvia",
     "loading": "Ladataan...",
-    "maxImagesReached": "Voit ladata max 9 kuvaa yhteen settiin.",
-    "maxImagesMessage": "Voit lisätä enintään yhdeksän kuvaa kerralla.",
+    "maxImagesReached": "Kuvien enimmäismäärä on täynnä",
+    "maxImagesMessage": "Tähän settiin ei mahdu enempää kuvia.",
     "maxImagesHint": "Vinkki: Pienemmät setit toimivat paremmin"
   },
   "chat": {
