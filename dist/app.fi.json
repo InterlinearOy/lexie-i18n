@@ -1155,6 +1155,7 @@
     "monthly": "Kuukausitilaus",
     "annualPass": "Vuosipassi",
     "familyAnnual": "Perhetilaus vuodeksi",
+    "familyContact": "Etsitkö perhetilausta? Ota yhteyttä",
     "oneTimeAnnual": "Kertapassi",
     "noAutoRenewal": "Ei automaattista uusiutumista.",
     "recurringBilling": "Toistuva laskutus",

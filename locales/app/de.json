@@ -27,7 +27,8 @@
   },
   "onboardingPaywall": {
     "title": "Investiere in deine Zukunft",
-    "subtitle": "Drei Lernsets gehen aufs Haus, damit du loslegen kannst. Mehr nötig? Lade eine Freundin ein oder hol dir Pro."
+    "subtitle": "Drei Lernsets gehen aufs Haus, damit du loslegen kannst. Mehr nötig? Lade eine Freundin ein oder hol dir Pro.",
+    "familyContact": "Suchst du ein Familienabo? Schreib uns"
   },
   "common": {
     "cancel": "Abbrechen",
