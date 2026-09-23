@@ -9,86 +9,677 @@
     "Submit button body text. Wrong context is worse than none.",
     "",
     "`flows` are ordered the way a person meets them, not the way the code is",
-    "organised."
+    "organised.",
+    "",
+    "`sections` brief a whole key prefix at once, for strings that have no entry",
+    "of their own in `strings`. Pass one briefed 39 strings by hand; pass two",
+    "covers 1,400, so the screen is described once and the role is read from the",
+    "key name (title, button, description, placeholder). A per-string entry always",
+    "wins over its section."
   ],
-
   "flows": [
-    { "id": "start",      "name": "Erste Schritte",
-      "when": "Die allerersten Bildschirme nach dem Öffnen der App. Die Leserin hat noch kein Konto und weiß noch nicht, was Lexie ist." },
-    { "id": "signin",     "name": "Anmelden",
-      "when": "Anmeldung per E-Mail-Code, im Browser. Sie kommt entweder von der Website oder hat die App schon benutzt." },
-    { "id": "upgrade",    "name": "Auf Pro upgraden",
-      "when": "Die Bezahlseite. Sie erscheint nach dem Onboarding und wieder, sobald die drei kostenlosen Lernsets aufgebraucht sind." },
-    { "id": "home",       "name": "Startseite",
-      "when": "Der Startbildschirm der App bei jedem Öffnen. Kurze Texte, viel Weißraum, alles hier wird hundertmal gelesen." },
-    { "id": "flashcards", "name": "Karteikarten lernen",
-      "when": "Eine Karte nach der anderen: lesen, umdrehen, selbst einschätzen. Die zwei Bewertungsknöpfe stehen direkt nebeneinander und müssen sich klar unterscheiden." },
-    { "id": "quiz",       "name": "Quiz üben",
-      "when": "Fragen beantworten und sofort Rückmeldung bekommen. Die Rückmeldungen sind das Herz des Produkts: sie erscheinen im Moment des Irrtums und dürfen weder herablassend noch überschwänglich klingen." },
-    { "id": "web",        "name": "Website",
-      "when": "Die öffentliche Website, bevor jemand die App kennt." },
-    { "id": "everywhere", "name": "Überall",
-      "when": "Knöpfe, die in fast jedem Dialog vorkommen. Sie stehen ohne Kontext da, also müssen sie für sich allein verständlich sein." }
+    {
+      "id": "start",
+      "name": "Erste Schritte",
+      "when": "Die allerersten Bildschirme nach dem Öffnen der App. Die Leserin hat noch kein Konto und weiß noch nicht, was Lexie ist."
+    },
+    {
+      "id": "signin",
+      "name": "Anmelden",
+      "when": "Anmeldung per E-Mail-Code, im Browser oder in der App. Sie kommt entweder von der Website oder hat die App schon benutzt."
+    },
+    {
+      "id": "upgrade",
+      "name": "Auf Pro upgraden",
+      "when": "Die Bezahlseite. Sie erscheint nach dem Onboarding und wieder, sobald die drei kostenlosen Lektionen aufgebraucht sind."
+    },
+    {
+      "id": "home",
+      "name": "Startseite",
+      "when": "Der Startbildschirm der App bei jedem Öffnen. Kurze Texte, viel Weißraum, alles hier wird hundertmal gelesen."
+    },
+    {
+      "id": "create",
+      "name": "Lektion erstellen",
+      "when": "Foto machen, Text einfügen oder PDF hochladen. Lexie erzeugt daraus eine Lektion. Hier steht die Leserin mit dem Handy über dem Schulbuch und liest nur kurz."
+    },
+    {
+      "id": "studyset",
+      "name": "Die Lektion",
+      "when": "Der Bildschirm einer fertigen Lektion: Text, Schlüsselkonzepte, Lernhilfe, und die Einstiege in Karteikarten, Quiz und Transferfragen."
+    },
+    {
+      "id": "flashcards",
+      "name": "Karteikarten lernen",
+      "when": "Eine Karte nach der anderen: lesen, umdrehen, selbst einschätzen. Die zwei Bewertungsknöpfe stehen direkt nebeneinander und müssen sich klar unterscheiden."
+    },
+    {
+      "id": "quiz",
+      "name": "Quiz üben",
+      "when": "Fragen beantworten und sofort Rückmeldung bekommen. Die Rückmeldungen sind das Herz des Produkts: sie erscheinen im Moment des Irrtums und dürfen weder herablassend noch überschwänglich klingen."
+    },
+    {
+      "id": "think",
+      "name": "Transferfragen",
+      "when": "Offene Fragen, die Lexie bewertet. Die Bewertungsstufen sind Substantive, keine Sätze. Die Rückmeldung erklärt, was fehlt, ohne zu belehren."
+    },
+    {
+      "id": "session",
+      "name": "Geführte Lernsession",
+      "when": "Lexie führt Schritt für Schritt durch eine Lektion: Gliederung, Abfragerunde, Zusammenfassung. Die Sprechblasen sind wie Chat, oft klein geschrieben."
+    },
+    {
+      "id": "prep",
+      "name": "Prüfungsvorbereitung",
+      "when": "Fertige Lektionen für Prüfungen, von Lexie kuratiert. Wer sie öffnet, hat ein Datum im Kopf."
+    },
+    {
+      "id": "folders",
+      "name": "Ordner und Verlauf",
+      "when": "Lektionen sortieren, umbenennen, löschen, und die Liste der letzten Lernrunden."
+    },
+    {
+      "id": "settings",
+      "name": "Einstellungen",
+      "when": "Konto, Profil, Sprache, Schrift, Benachrichtigungen, Abo, Rechtliches, Konto löschen. Viel Text, der selten gelesen wird, aber genau stimmen muss."
+    },
+    {
+      "id": "pay",
+      "name": "Bezahlen, Codes und Einladen",
+      "when": "Pro-Pass, Semester-Pass und Jahres-Pass, Geschenk- und Belohnungscodes, Freunde einladen. Preise kommen als Platzhalter. Apple verlangt, dass Abo-Bedingungen wörtlich und nüchtern dastehen."
+    },
+    {
+      "id": "notify",
+      "name": "Benachrichtigungen und Erinnerungen",
+      "when": "Push-Texte, der Lerntimer, die Bewertungsbitte, der Hinweis auf verteiltes Wiederholen, der Zwang zum Update. Kurz, weil der Platz knapp ist."
+    },
+    {
+      "id": "alerts",
+      "name": "Fehler und Hinweise",
+      "when": "Dialoge mit Titel, Text und Knöpfen. Sie sagen, was passiert ist und was die Leserin jetzt tun kann. Nüchtern, nicht entschuldigend."
+    },
+    {
+      "id": "web",
+      "name": "Website",
+      "when": "Die öffentliche Website lexielearn.com, bevor jemand die App kennt: Hero, Funktionen, FAQ, Preise, Download."
+    },
+    {
+      "id": "webworkspace",
+      "name": "Arbeitsbereich im Browser",
+      "when": "Der eingeloggte Bereich auf lexielearn.com: Liste der Lektionen, Ordner, Konto, Codes einlösen, und die Statuszeilen beim Erstellen."
+    },
+    {
+      "id": "webstudy",
+      "name": "Lernen im Browser",
+      "when": "Die Lektion im Browser: Quiz, Karteikarten, Transferfragen, Session, Speichern, Teilen. Gleiche Stimme wie in der App, mehr Platz."
+    },
+    {
+      "id": "creator",
+      "name": "Creator-Programm",
+      "when": "Schülerinnen, die Lektionen öffentlich teilen und dafür kostenlosen Zugang bekommen."
+    },
+    {
+      "id": "everywhere",
+      "name": "Überall",
+      "when": "Knöpfe, die in fast jedem Dialog vorkommen. Sie stehen ohne Kontext da, also müssen sie für sich allein verständlich sein."
+    }
   ],
-
   "roles": {
-    "button":      "Schaltfläche",
-    "heading":     "Überschrift",
-    "body":        "Fließtext",
-    "label":       "Kurzlabel",
-    "feedback":    "Rückmeldung",
-    "status":      "Statusmeldung",
-    "hint":        "Hinweis",
-    "field":       "Eingabefeld",
-    "fineprint":   "Kleingedrucktes"
+    "button": "Schaltfläche",
+    "heading": "Überschrift",
+    "body": "Fließtext",
+    "label": "Kurzlabel",
+    "feedback": "Rückmeldung",
+    "status": "Statusmeldung",
+    "hint": "Hinweis",
+    "field": "Eingabefeld",
+    "fineprint": "Kleingedrucktes"
   },
-
   "strings": {
-    "common.close":            { "flow": "everywhere", "role": "button", "note": "Schließen-Knopf oben in Dialogen." },
-    "common.cancel":           { "flow": "everywhere", "role": "button", "note": "Steht neben einer bestätigenden Aktion." },
-    "common.save":             { "flow": "everywhere", "role": "button", "note": "Bestätigt eine Änderung." },
-    "common.back":             { "flow": "everywhere", "role": "button", "note": "Zurück zum vorherigen Bildschirm." },
-
-    "welcome.title":           { "flow": "start", "role": "heading", "note": "Die erste Zeile, die überhaupt jemand von Lexie liest. Groß gesetzt." },
-    "welcome.description":     { "flow": "start", "role": "body",    "note": "Direkt unter der Überschrift. Erklärt in zwei Sätzen, was die App tut." },
-    "welcome.startButton":     { "flow": "start", "role": "button",  "note": "Der große Hauptknopf. Kurz halten." },
-    "welcome.loginButton":     { "flow": "start", "role": "button",  "note": "Unauffälliger Textknopf darunter, für Rückkehrerinnen." },
-
-    "home.greeting":           { "flow": "home", "role": "body",    "note": "Begrüßung ganz oben, mit Emoji." },
-    "home.questionPrompt":     { "flow": "home", "role": "heading", "note": "Große Frage auf dem Startbildschirm. Der Zeilenumbruch \\n ist gesetzt und sollte auch im Deutschen sinnvoll fallen." },
-    "home.startLesson":        { "flow": "home", "role": "button",  "note": "Hauptknopf zum Loslegen." },
-    "home.toReview":           { "flow": "home", "role": "label",   "note": "Kleines Abzeichen mit Zahl: wie viel heute zur Wiederholung ansteht. Sehr wenig Platz." },
-    "home.lessons":            { "flow": "home", "role": "label",   "note": "Abschnittsüberschrift über der Liste gespeicherter Lernsets." },
-    "home.inviteFriends":      { "flow": "home", "role": "button",  "note": "Führt zum Empfehlungsprogramm." },
-
-    "quiz.title":              { "flow": "quiz", "role": "heading", "note": "Name des Übungsmodus, erscheint als Kachel und als Titel." },
-    "quiz.progressOf":         { "flow": "quiz", "role": "label",   "note": "Fortschrittschip, z. B. „3/10“. Sehr wenig Platz." },
-    "quiz.feedback.checking":  { "flow": "quiz", "role": "status",  "note": "Während die Antwort geprüft wird. Ein bis zwei Sekunden sichtbar." },
-    "quiz.feedback.correct":   { "flow": "quiz", "role": "feedback","note": "Erscheint bei einer richtigen Antwort." },
-    "quiz.feedback.incorrect": { "flow": "quiz", "role": "feedback","note": "Bei einer falschen Antwort, wenn noch ein Versuch möglich ist." },
-    "quiz.feedback.notQuite":  { "flow": "quiz", "role": "feedback","note": "Sanftere Variante bei knapp daneben. Steht im Finnischen identisch zu goodTry, das darf im Deutschen gern unterschiedlich sein." },
-    "quiz.feedback.goodTry":   { "flow": "quiz", "role": "feedback","note": "Anerkennt den Gedankengang, obwohl die Antwort falsch war." },
-    "quiz.feedback.goodJob":   { "flow": "quiz", "role": "feedback","note": "Lob nach einer richtigen Antwort. Nicht überschwänglich." },
-    "quiz.feedback.stillLearning": { "flow": "quiz", "role": "label", "note": "Zahlenwert auf dem Ergebnisbildschirm: so viele Fragen sitzen noch nicht." },
-    "quiz.feedback.mastered":  { "flow": "quiz", "role": "label",   "note": "Gegenstück dazu: so viele sitzen. Beide stehen nebeneinander unter Zahlen." },
-    "quiz.buttons.submit":     { "flow": "quiz", "role": "button",  "note": "Der Hauptknopf unter den Antwortmöglichkeiten." },
-    "quiz.buttons.continue":   { "flow": "quiz", "role": "button",  "note": "Nach der Rückmeldung, führt zur nächsten Frage." },
-    "quiz.buttons.tryAgain":   { "flow": "quiz", "role": "button",  "note": "Nach einer falschen Antwort." },
-    "quiz.buttons.skip":       { "flow": "quiz", "role": "button",  "note": "Überspringt die Frage." },
-    "quiz.validation.selectAnswer": { "flow": "quiz", "role": "hint", "note": "Erscheint, wenn jemand prüft, ohne etwas gewählt zu haben. Knöpfe werden bei Lexie nie ausgegraut, stattdessen dieser Hinweis." },
-
-    "flashcards.noCards":      { "flow": "flashcards", "role": "body",   "note": "Leerer Zustand, wenn ein Lernset keine Karten hat." },
-    "flashcards.stillLearning":{ "flow": "flashcards", "role": "button", "note": "Linker Bewertungsknopf: die Karte sitzt noch nicht. Erste Person, aus Sicht der Lernenden." },
-    "flashcards.iKnowThis":    { "flow": "flashcards", "role": "button", "note": "Rechter Bewertungsknopf, direkt daneben. Muss sich vom linken klar unterscheiden." },
-
-    "onboardingPaywall.title": { "flow": "upgrade", "role": "heading", "note": "Überschrift der Bezahlseite." },
-    "onboardingPaywall.subtitle": { "flow": "upgrade", "role": "body", "note": "Erklärt das kostenlose Kontingent. Der längste Text im Durchgang und aktuell über der Längengrenze." },
-
-    "heroCreate.pastePlaceholder": { "flow": "web", "role": "field", "note": "Platzhalter im großen Textfeld auf der Startseite der Website." },
-
-    "workspace.loginTitle":    { "flow": "signin", "role": "heading", "note": "Überschrift über dem Anmeldeformular." },
-    "workspace.loginEmailPlaceholder": { "flow": "signin", "role": "field", "note": "Platzhalter im E-Mail-Feld." },
-    "workspace.splash":        { "flow": "signin", "role": "status", "note": "Kurz sichtbar, während der Arbeitsbereich lädt." },
-    "paywall.ageNote":         { "flow": "signin", "role": "fineprint", "note": "Rechtlicher Hinweis unter dem Anmeldeknopf. Klein gesetzt, aber verbindlich." }
+    "common.close": {
+      "flow": "everywhere",
+      "role": "button",
+      "note": "Schließen-Knopf oben in Dialogen."
+    },
+    "common.cancel": {
+      "flow": "everywhere",
+      "role": "button",
+      "note": "Steht neben einer bestätigenden Aktion."
+    },
+    "common.save": {
+      "flow": "everywhere",
+      "role": "button",
+      "note": "Bestätigt eine Änderung."
+    },
+    "common.back": {
+      "flow": "everywhere",
+      "role": "button",
+      "note": "Zurück zum vorherigen Bildschirm."
+    },
+    "welcome.title": {
+      "flow": "start",
+      "role": "heading",
+      "note": "Die erste Zeile, die überhaupt jemand von Lexie liest. Groß gesetzt."
+    },
+    "welcome.description": {
+      "flow": "start",
+      "role": "body",
+      "note": "Direkt unter der Überschrift. Erklärt in zwei Sätzen, was die App tut."
+    },
+    "welcome.startButton": {
+      "flow": "start",
+      "role": "button",
+      "note": "Der große Hauptknopf. Kurz halten."
+    },
+    "welcome.loginButton": {
+      "flow": "start",
+      "role": "button",
+      "note": "Unauffälliger Textknopf darunter, für Rückkehrerinnen."
+    },
+    "home.greeting": {
+      "flow": "home",
+      "role": "body",
+      "note": "Begrüßung ganz oben, mit Emoji."
+    },
+    "home.questionPrompt": {
+      "flow": "home",
+      "role": "heading",
+      "note": "Große Frage auf dem Startbildschirm. Der Zeilenumbruch \\n ist gesetzt und sollte auch im Deutschen sinnvoll fallen."
+    },
+    "home.startLesson": {
+      "flow": "home",
+      "role": "button",
+      "note": "Hauptknopf zum Loslegen."
+    },
+    "home.toReview": {
+      "flow": "home",
+      "role": "label",
+      "note": "Kleines Abzeichen mit Zahl: wie viel heute zur Wiederholung ansteht. Sehr wenig Platz."
+    },
+    "home.lessons": {
+      "flow": "home",
+      "role": "label",
+      "note": "Abschnittsüberschrift über der Liste gespeicherter Lernsets."
+    },
+    "home.inviteFriends": {
+      "flow": "home",
+      "role": "button",
+      "note": "Führt zum Empfehlungsprogramm."
+    },
+    "quiz.title": {
+      "flow": "quiz",
+      "role": "heading",
+      "note": "Name des Übungsmodus, erscheint als Kachel und als Titel."
+    },
+    "quiz.progressOf": {
+      "flow": "quiz",
+      "role": "label",
+      "note": "Fortschrittschip, z. B. „3/10“. Sehr wenig Platz."
+    },
+    "quiz.feedback.checking": {
+      "flow": "quiz",
+      "role": "status",
+      "note": "Während die Antwort geprüft wird. Ein bis zwei Sekunden sichtbar."
+    },
+    "quiz.feedback.correct": {
+      "flow": "quiz",
+      "role": "feedback",
+      "note": "Erscheint bei einer richtigen Antwort."
+    },
+    "quiz.feedback.incorrect": {
+      "flow": "quiz",
+      "role": "feedback",
+      "note": "Bei einer falschen Antwort, wenn noch ein Versuch möglich ist."
+    },
+    "quiz.feedback.notQuite": {
+      "flow": "quiz",
+      "role": "feedback",
+      "note": "Sanftere Variante bei knapp daneben. Steht im Finnischen identisch zu goodTry, das darf im Deutschen gern unterschiedlich sein."
+    },
+    "quiz.feedback.goodTry": {
+      "flow": "quiz",
+      "role": "feedback",
+      "note": "Anerkennt den Gedankengang, obwohl die Antwort falsch war."
+    },
+    "quiz.feedback.goodJob": {
+      "flow": "quiz",
+      "role": "feedback",
+      "note": "Lob nach einer richtigen Antwort. Nicht überschwänglich."
+    },
+    "quiz.feedback.stillLearning": {
+      "flow": "quiz",
+      "role": "label",
+      "note": "Zahlenwert auf dem Ergebnisbildschirm: so viele Fragen sitzen noch nicht."
+    },
+    "quiz.feedback.mastered": {
+      "flow": "quiz",
+      "role": "label",
+      "note": "Gegenstück dazu: so viele sitzen. Beide stehen nebeneinander unter Zahlen."
+    },
+    "quiz.buttons.submit": {
+      "flow": "quiz",
+      "role": "button",
+      "note": "Der Hauptknopf unter den Antwortmöglichkeiten."
+    },
+    "quiz.buttons.continue": {
+      "flow": "quiz",
+      "role": "button",
+      "note": "Nach der Rückmeldung, führt zur nächsten Frage."
+    },
+    "quiz.buttons.tryAgain": {
+      "flow": "quiz",
+      "role": "button",
+      "note": "Nach einer falschen Antwort."
+    },
+    "quiz.buttons.skip": {
+      "flow": "quiz",
+      "role": "button",
+      "note": "Überspringt die Frage."
+    },
+    "quiz.validation.selectAnswer": {
+      "flow": "quiz",
+      "role": "hint",
+      "note": "Erscheint, wenn jemand prüft, ohne etwas gewählt zu haben. Knöpfe werden bei Lexie nie ausgegraut, stattdessen dieser Hinweis."
+    },
+    "flashcards.noCards": {
+      "flow": "flashcards",
+      "role": "body",
+      "note": "Leerer Zustand, wenn ein Lernset keine Karten hat."
+    },
+    "flashcards.stillLearning": {
+      "flow": "flashcards",
+      "role": "button",
+      "note": "Linker Bewertungsknopf: die Karte sitzt noch nicht. Erste Person, aus Sicht der Lernenden."
+    },
+    "flashcards.iKnowThis": {
+      "flow": "flashcards",
+      "role": "button",
+      "note": "Rechter Bewertungsknopf, direkt daneben. Muss sich vom linken klar unterscheiden."
+    },
+    "onboardingPaywall.title": {
+      "flow": "upgrade",
+      "role": "heading",
+      "note": "Überschrift der Bezahlseite."
+    },
+    "onboardingPaywall.subtitle": {
+      "flow": "upgrade",
+      "role": "body",
+      "note": "Erklärt das kostenlose Kontingent. Der längste Text im Durchgang und aktuell über der Längengrenze."
+    },
+    "heroCreate.pastePlaceholder": {
+      "flow": "web",
+      "role": "field",
+      "note": "Platzhalter im großen Textfeld auf der Startseite der Website."
+    },
+    "workspace.loginTitle": {
+      "flow": "signin",
+      "role": "heading",
+      "note": "Überschrift über dem Anmeldeformular."
+    },
+    "workspace.loginEmailPlaceholder": {
+      "flow": "signin",
+      "role": "field",
+      "note": "Platzhalter im E-Mail-Feld."
+    },
+    "workspace.splash": {
+      "flow": "signin",
+      "role": "status",
+      "note": "Kurz sichtbar, während der Arbeitsbereich lädt."
+    },
+    "paywall.ageNote": {
+      "flow": "signin",
+      "role": "fineprint",
+      "note": "Rechtlicher Hinweis unter dem Anmeldeknopf. Klein gesetzt, aber verbindlich."
+    }
+  },
+  "sections": {
+    "app:welcome": {
+      "flow": "start",
+      "note": "Der erste Bildschirm und die Vorstellung, was Lexie kann."
+    },
+    "app:onboarding": {
+      "flow": "start",
+      "note": "Die Fragen beim ersten Start: Sprache, Ziel, Alter."
+    },
+    "app:nameInput": {
+      "flow": "start",
+      "note": "Namen eingeben. Ein Feld, ein Knopf."
+    },
+    "app:profileImage": {
+      "flow": "start",
+      "note": "Profilbild wählen oder überspringen."
+    },
+    "app:topicOrLanguage": {
+      "flow": "create",
+      "note": "Frage vor dem Erstellen: geht es um ein Thema oder um Vokabeln einer Sprache?"
+    },
+    "app:login": {
+      "flow": "signin",
+      "note": "Anmeldung in der App per E-Mail-Code."
+    },
+    "app:onboardingPaywall": {
+      "flow": "upgrade",
+      "note": "Die Bezahlseite direkt nach dem Onboarding."
+    },
+    "app:proPass": {
+      "flow": "pay",
+      "note": "Der Pro-Pass: Abo-Seite mit Vorteilen, Preisen und den Pflichtsätzen für Apple."
+    },
+    "app:passes": {
+      "flow": "pay",
+      "note": "Semester-Pass und Jahres-Pass, einmalige Käufe."
+    },
+    "app:rewardCode": {
+      "flow": "pay",
+      "note": "Einen Belohnungs- oder Geschenkcode einlösen, mit einer Meldung je Fehlerfall."
+    },
+    "app:giftModal": {
+      "flow": "pay",
+      "note": "Lexie verschenken."
+    },
+    "app:referral": {
+      "flow": "pay",
+      "note": "Freunde einladen: beide bekommen kostenlose Lektionen."
+    },
+    "app:audioPremium": {
+      "flow": "pay",
+      "note": "Hinweis, dass Vorlesen Teil von Pro ist."
+    },
+    "app:proWelcome": {
+      "flow": "pay",
+      "note": "Dank nach dem Kauf."
+    },
+    "app:softPrompt": {
+      "flow": "pay",
+      "note": "Sanfter Hinweis auf Pro, ohne Zwang."
+    },
+    "app:postCreatePaywall": {
+      "flow": "pay",
+      "note": "Bezahlhinweis nach der ersten erstellten Lektion."
+    },
+    "app:home": {
+      "flow": "home",
+      "note": "Startbildschirm."
+    },
+    "app:sessionCard": {
+      "flow": "home",
+      "note": "Die Karte für die heutige Lernsession auf der Startseite."
+    },
+    "app:session": {
+      "flow": "session",
+      "note": "Die geführte Session: Gliederung, Abfrage, Zusammenfassung, Pausen."
+    },
+    "app:scanPage": {
+      "flow": "create",
+      "note": "Die Kamera: Seite fotografieren, mehrere Seiten, Foto-Limit."
+    },
+    "app:textUpload": {
+      "flow": "create",
+      "note": "Text einfügen statt fotografieren."
+    },
+    "app:picker": {
+      "flow": "create",
+      "note": "Auswahl aus der Fotogalerie."
+    },
+    "app:subjects": {
+      "flow": "create",
+      "note": "Schulfächer als Label. Die üblichen deutschen Fächernamen."
+    },
+    "app:occlusion": {
+      "flow": "create",
+      "note": "Bild-Abdeckung: Beschriftungen auf einem Diagramm verdecken und sich abfragen."
+    },
+    "app:progressive": {
+      "flow": "create",
+      "note": "Statuszeilen, während Lexie eine Lektion erzeugt. Präsens, kurz."
+    },
+    "app:preview": {
+      "flow": "create",
+      "note": "Vorschau der Lektion, bevor sie gespeichert wird."
+    },
+    "app:studySet": {
+      "flow": "studyset",
+      "note": "Der Bildschirm der Lektion: Abschnitte, Aktionen, Teilen, Rechtehinweis, Reparatur einer unvollständigen Lektion."
+    },
+    "app:studySetSettings": {
+      "flow": "studyset",
+      "note": "Einstellungen einer Lektion: Fach ändern, umbenennen."
+    },
+    "app:conceptCards": {
+      "flow": "studyset",
+      "note": "Karten mit den Schlüsselkonzepten."
+    },
+    "app:translation": {
+      "flow": "studyset",
+      "note": "Wort antippen und Übersetzung sehen."
+    },
+    "app:chat": {
+      "flow": "studyset",
+      "note": "Lexie zur Lektion fragen."
+    },
+    "app:math": {
+      "flow": "studyset",
+      "note": "Mathe-Modus: Aufgaben mit getippter Antwort."
+    },
+    "app:flashcards": {
+      "flow": "flashcards",
+      "note": "Karteikarten in der App."
+    },
+    "app:flashcardResults": {
+      "flow": "flashcards",
+      "note": "Ergebnis nach einer Runde Karteikarten."
+    },
+    "app:quiz": {
+      "flow": "quiz",
+      "note": "Das Quiz in der App."
+    },
+    "app:quizComplete": {
+      "flow": "quiz",
+      "note": "Ergebnisseite nach dem Quiz: Punkte, Auswertung, nächste Schritte."
+    },
+    "app:typedRecall": {
+      "flow": "quiz",
+      "note": "Antwort tippen statt wählen."
+    },
+    "app:review": {
+      "flow": "quiz",
+      "note": "Wiederholen, was fällig ist (verteiltes Wiederholen)."
+    },
+    "app:think": {
+      "flow": "think",
+      "note": "Transferfragen in der App."
+    },
+    "app:feedback": {
+      "flow": "think",
+      "note": "Rückmeldung zur Antwort und das Formular, mit dem die Leserin Lexie Feedback gibt."
+    },
+    "app:prep": {
+      "flow": "prep",
+      "note": "Die Bibliothek mit fertigen Prüfungslektionen."
+    },
+    "app:folders": {
+      "flow": "folders",
+      "note": "Ordner anlegen, umbenennen, Lektionen verschieben."
+    },
+    "app:folder": {
+      "flow": "folders",
+      "note": "Ein einzelner Ordner."
+    },
+    "app:lessonHistory": {
+      "flow": "folders",
+      "note": "Verlauf der letzten Lernrunden."
+    },
+    "app:settings": {
+      "flow": "settings",
+      "note": "Die Einstellungen: Konto, Abo, Daten, Rechtliches, Support."
+    },
+    "app:profileSettings": {
+      "flow": "settings",
+      "note": "Profil bearbeiten."
+    },
+    "app:termsAndLanguage": {
+      "flow": "settings",
+      "note": "Sprache der Oberfläche und Zustimmung zu den Bedingungen."
+    },
+    "app:fontSettings": {
+      "flow": "settings",
+      "note": "Schriftart und -größe, auch für Legasthenie."
+    },
+    "app:notifications": {
+      "flow": "notify",
+      "note": "Push-Benachrichtigungen. Sehr kurz."
+    },
+    "app:focusMode": {
+      "flow": "notify",
+      "note": "Der Lerntimer."
+    },
+    "app:spacedRepAnnouncement": {
+      "flow": "notify",
+      "note": "Einmaliger Hinweis auf verteiltes Wiederholen."
+    },
+    "app:ratingPrompt": {
+      "flow": "notify",
+      "note": "Bitte um eine Bewertung im Store."
+    },
+    "app:updateWall": {
+      "flow": "notify",
+      "note": "Die App muss aktualisiert werden, bevor es weitergeht."
+    },
+    "app:alerts": {
+      "flow": "alerts",
+      "note": "Fehlerdialoge: Titel, Text, Knöpfe."
+    },
+    "app:common": {
+      "flow": "everywhere",
+      "note": "Knöpfe und Wörter, die überall vorkommen."
+    },
+    "shared:think": {
+      "flow": "think",
+      "note": "Transferfragen, in App und Browser gleich."
+    },
+    "shared:guide": {
+      "flow": "studyset",
+      "note": "Die Lernhilfe am Anfang einer Lektion."
+    },
+    "shared:quiz": {
+      "flow": "quiz",
+      "note": "Quiz-Rückmeldungen, in App und Browser gleich."
+    },
+    "shared:flashcards": {
+      "flow": "flashcards",
+      "note": "Karteikarten, in App und Browser gleich."
+    },
+    "shared:studySet": {
+      "flow": "studyset",
+      "note": "Die Lektion, in App und Browser gleich."
+    },
+    "shared:math": {
+      "flow": "studyset",
+      "note": "Mathe-Modus."
+    },
+    "shared:typedRecall": {
+      "flow": "quiz",
+      "note": "Antwort tippen."
+    },
+    "shared:common": {
+      "flow": "everywhere",
+      "note": "Überall."
+    },
+    "web:workspace": {
+      "flow": "webworkspace",
+      "note": "Der eingeloggte Arbeitsbereich: Anmeldung, Navigation, Lektionen, Codes, Konto."
+    },
+    "web:heroCreate": {
+      "flow": "web",
+      "note": "Das Erstellen-Feld oben auf der Startseite: Text einfügen, Foto oder PDF."
+    },
+    "web:unlimited": {
+      "flow": "web",
+      "note": "Preisabschnitt: unbegrenzt lernen."
+    },
+    "web:noAds": {
+      "flow": "web",
+      "note": "Preisabschnitt: keine Werbung."
+    },
+    "web:pricing": {
+      "flow": "web",
+      "note": "Die Preistabelle."
+    },
+    "web:paywall": {
+      "flow": "pay",
+      "note": "Bezahlen im Browser: Semester-Pass, Jahres-Pass, Pro."
+    },
+    "web:creatorProgram": {
+      "flow": "creator",
+      "note": "Das Creator-Programm."
+    },
+    "web:study.shell": {
+      "flow": "webstudy",
+      "note": "Der Rahmen der Lektion im Browser: Reiter, Navigation, Fortschritt."
+    },
+    "web:study.quiz": {
+      "flow": "webstudy",
+      "note": "Quiz im Browser."
+    },
+    "web:study.flashcards": {
+      "flow": "webstudy",
+      "note": "Karteikarten im Browser."
+    },
+    "web:study.thinkExam": {
+      "flow": "webstudy",
+      "note": "Transferfragen im Browser, zweispaltig: Antwort links, Rückmeldung rechts."
+    },
+    "web:study.typedRecall": {
+      "flow": "webstudy",
+      "note": "Antwort tippen im Browser."
+    },
+    "web:study.saveSetModal": {
+      "flow": "webstudy",
+      "note": "Lektion speichern: Konto anlegen oder anmelden, damit sie nicht nach 24 Stunden verfällt."
+    },
+    "web:study.sharedViewer": {
+      "flow": "webstudy",
+      "note": "Eine geteilte Lektion, geöffnet ohne Konto."
+    },
+    "web:study.tryPage": {
+      "flow": "webstudy",
+      "note": "Die Probier-Seite für Besucher."
+    },
+    "web:study.modes": {
+      "flow": "webstudy",
+      "note": "Namen der Lernmodi."
+    },
+    "web:study.blankFeedback": {
+      "flow": "webstudy",
+      "note": "Rückmeldung bei Lückentexten."
+    },
+    "web:study.courseView": {
+      "flow": "prep",
+      "note": "Ein Kurs aus der Prüfungsbibliothek im Browser."
+    },
+    "web:study.coursesIndex": {
+      "flow": "prep",
+      "note": "Übersicht der Kurse."
+    },
+    "web:study.prepFolderCard": {
+      "flow": "prep",
+      "note": "Karte eines Prüfungsordners."
+    },
+    "web:study.prepGate": {
+      "flow": "prep",
+      "note": "Die Schranke vor bezahlten Prüfungslektionen: drei zum Probieren, dann Pass."
+    },
+    "web:study.prepHub": {
+      "flow": "prep",
+      "note": "Die Prüfungsübersicht im Browser."
+    },
+    "web:study.prepThink": {
+      "flow": "prep",
+      "note": "Transferfragen in der Prüfungsvorbereitung."
+    },
+    "web:*": {
+      "flow": "web",
+      "note": "Die Startseite: Hero, Funktionen, Geschichte, FAQ, Testimonials, Download, Fußzeile."
+    }
   }
 }

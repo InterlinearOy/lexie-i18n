@@ -5,15 +5,63 @@
     "goodTry": "Guter Versuch, aber …",
     "stillLearning": "Hier muss ich noch üben:",
     "mastered": "So viele sitzen:",
-    "submit": "Abgeben",
     "continue": "Weiter",
     "tryAgain": "Noch mal versuchen",
-    "selectAnswer": "Wähle eine Antwort, bevor du abgibst."
+    "submit": "Abgeben",
+    "selectAnswer": "Wähle eine Antwort, bevor du abgibst.",
+    "fillAllBlanks": "Füll alle Lücken aus, bevor du prüfst",
+    "studyTextTitle": "Text"
   },
   "flashcards": {
-    "iKnowThis": "Kann ich",
+    "noCards": "Keine Karteikarten vorhanden",
     "stillLearning": "Weiter üben",
-    "noCards": "Keine Karteikarten vorhanden"
+    "iKnowThis": "Kann ich",
+    "mastered": "Kannst du schon",
+    "yourProgress": "Fortschritt",
+    "practiceCta": "Teste, was du kannst"
+  },
+  "think": {
+    "point": "Punkt",
+    "points": "Punkte",
+    "yourPoints": "Deine Punkte",
+    "submit": "Abgeben",
+    "revise": "Überarbeiten",
+    "submitAsIs": "So abgeben",
+    "viewFeedback": "Feedback ansehen",
+    "viewAnswerKey": "Musterlösung ansehen",
+    "answerKey": "MUSTERLÖSUNG",
+    "keyConcepts": "SCHLÜSSELKONZEPTE",
+    "nextQuestion": "Nächste Frage",
+    "backToLesson": "Zurück zur Lektion",
+    "close": "Schließen",
+    "writeSomething": "Schreib erst etwas, bevor du abgibst.",
+    "readingYourAnswer": "Ich lese deine Antwort …",
+    "gradingYourAnswer": "Ich bewerte deine Antwort …",
+    "placeholderRevise": "Antwort überarbeiten",
+    "failedToGetFeedback": "Das Feedback konnte nicht geladen werden.",
+    "failedToGrade": "Die Antwort konnte nicht bewertet werden.",
+    "answered": "Beantwortet",
+    "questionLabel": "FRAGE {number}"
+  },
+  "math": {
+    "calculate": "Berechnen",
+    "answerPlaceholder": "Antwort eingeben …"
+  },
+  "typedRecall": {
+    "writeIn": "Schreib auf {language}"
+  },
+  "studySet": {
+    "loadingAudio": "Ich erstelle die Audioversion",
+    "read": "Lesen",
+    "listen": "Hören"
+  },
+  "guide": {
+    "title": "Lernhilfe",
+    "goal": "Ziel",
+    "bigIdea": "Der Kerngedanke",
+    "usuallyTested": "Was meistens abgefragt wird",
+    "howAsked": "Wie es meistens gefragt wird",
+    "loseMarks": "Wo meistens Punkte verloren gehen"
   },
   "common": {
     "close": "Schließen"

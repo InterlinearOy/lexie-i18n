@@ -90,6 +90,24 @@
       "en": "Lexie",
       "fi": "Lexie",
       "de": "Lexie"
+    },
+    "imageOcclusion": {
+      "en": "image occlusion",
+      "fi": "peittokortit",
+      "de": "Bildkarten",
+      "deStatus": "proposed"
+    },
+    "prepSet": {
+      "en": "prep set",
+      "fi": "kertaussetti",
+      "de": "Wiederholungslektion",
+      "deStatus": "proposed"
+    },
+    "subscription": {
+      "en": "subscription",
+      "fi": "tilaus",
+      "de": "Abo",
+      "deStatus": "proposed"
     }
   },
   "voice": {
@@ -105,6 +123,9 @@
   "openQuestions": {
     "pass": "Literal 'Pass' means passport in German. Proposed 'Ticket' because German students know Semesterticket, so Semester-Ticket and Jahres-Ticket land naturally. This also touches the App Store product names, so it is Elina's call as much as the reviewer's.",
     "quiz": "Proposed 'Quiz', which is normal German usage. 'Test' was rejected because it reads like a real exam. Worth a second opinion: the Finnish deliberately chose 'testi'.",
-    "studyText": "Proposed the bare 'Text', mirroring the Finnish, which shortened 'opiskeluteksti' to 'teksti'."
+    "studyText": "Proposed the bare 'Text', mirroring the Finnish, which shortened 'opiskeluteksti' to 'teksti'.",
+    "imageOcclusion": "Pass two drafted the mode as Bildkarten, following the Finnish peittokortit. There is no settled German student word for it.",
+    "prepSet": "Wiederholungslektion is long. A shorter word for the curated exam-prep sets would help every prep screen.",
+    "subscription": "Abo throughout settings and paywalls (Abo verwalten, Jahresabo, Monatsabo). Confirm it fits Apple's required wording."
   }
 }

@@ -27,6 +27,36 @@ const context = read('meta/context.json');
 const store = read('meta/store.json');
 const flowOrder = new Map(context.flows.map((f, i) => [f.id, i]));
 
+// A string with no entry of its own takes its section's brief. The longest
+// matching prefix wins, so `web:study.quiz` beats `web:*`. The role is read
+// from the key name, which is rough but beats showing nothing: a reviewer who
+// knows a string is a button writes a different German than for a sentence.
+const roleFromKey = (key) => {
+  const last = key.split('.').pop();
+  if (/placeholder$/i.test(last)) return 'field';
+  if (/^(title|heading|header)$|title$|heading$/i.test(last)) return 'heading';
+  if (/(description|body|text|message|subtitle|intro|note|explanation|answer)$/i.test(last)) return 'body';
+  if (/(button|cta|action|continue|submit|confirm|cancel|retry|skip|save|close|back|next|done|start|open|share|delete|remove)$/i.test(last)) return 'button';
+  if (/(hint|tip|help)$/i.test(last)) return 'hint';
+  if (/(error|failed|invalid|missing)$/i.test(last)) return 'feedback';
+  if (/(loading|sending|saving|generating|checking|status)$/i.test(last)) return 'status';
+  if (/(legal|terms|privacy|disclaimer)/i.test(last)) return 'fineprint';
+  return 'label';
+};
+const sectionBrief = (target, key) => {
+  const sections = context.sections ?? {};
+  let best = null;
+  for (const [prefix, brief] of Object.entries(sections)) {
+    const [t, p] = prefix.split(':');
+    if (t !== target && !(t === 'shared')) continue;
+    if (p === '*' ? true : key === p || key.startsWith(p + '.')) {
+      const len = p === '*' ? 0 : p.length;
+      if (!best || len > best.len) best = { len, brief };
+    }
+  }
+  return best ? { ...best.brief, role: roleFromKey(key) } : null;
+};
+
 const rows = [];
 const seen = new Set();
 const unbriefed = [];
@@ -51,7 +81,7 @@ for (const target of ['app', 'web']) {
     // shown without one. The reviewer cannot judge a button she cannot place,
     // and a pass should not quietly swell as features land. They are listed at
     // the end so nothing goes missing silently.
-    const ctx = context.strings[key];
+    const ctx = context.strings[key] ?? sectionBrief(target, key);
     if (!ctx) { unbriefed.push(`${target}:${key}`); continue; }
     rows.push({
       key,

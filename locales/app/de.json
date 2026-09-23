@@ -1,48 +1,1147 @@
 {
+  "common": {
+    "language": "Deutsch",
+    "cancel": "Abbrechen",
+    "back": "Zurück",
+    "save": "Speichern",
+    "ok": "OK",
+    "share": "Teilen",
+    "shareWithFriends": "Teilen",
+    "months": {
+      "january": "Januar",
+      "february": "Februar",
+      "march": "März",
+      "april": "April",
+      "may": "Mai",
+      "june": "Juni",
+      "july": "Juli",
+      "august": "August",
+      "september": "September",
+      "october": "Oktober",
+      "november": "November",
+      "december": "Dezember"
+    },
+    "tapToWatchOnYouTube": "Tippen, um auf YouTube anzusehen",
+    "videoUnavailable": "Video nicht verfügbar",
+    "questionWillBeSkipped": "Diese Frage wird übersprungen.",
+    "done": "Fertig"
+  },
   "welcome": {
     "title": "Willkommen bei Lexie",
     "description": "Lexie hilft dir dabei, besser zu lernen. Mach ein Foto, und Lexie kümmert sich um den Rest.",
+    "subtitle": "Mach ein Foto von dem, was du lernen willst, und Lexie kümmert sich um den Rest.",
     "startButton": "Los geht's",
-    "loginButton": "Ich habe schon ein Konto"
+    "loginButton": "Ich habe schon ein Konto",
+    "features": {
+      "flashcards": "Geh *Karteikarten* durch",
+      "quiz": "*Teste* dich selbst",
+      "exams": "Beantworte *Prüfungsfragen*",
+      "languages": "Übe *Sprachen*",
+      "math": "*Mathe-Modus* zum Rechnen",
+      "listen": "*Hör* dir Texte an",
+      "occlusion": "*Bildkarten*"
+    },
+    "proBadge": "PRO",
+    "carousel": {
+      "slide1": "Ein Foto,\nfünf Arten zu üben",
+      "slide2": "Mach ein Foto von\nirgendeinem Thema",
+      "slide3": "Mit Karteikarten wiederholst du\nund festigst, was du gelernt hast",
+      "slide4": "Mit Aufgaben wiederholst du\nund testest dein Wissen",
+      "slide5": "Üb offene Antworten\nvor der Prüfung",
+      "slide6": "Durch Zuhören wiederholst du\nwo und wann du willst",
+      "slide7": "Der Lerntimer\nhilft dir beim Konzentrieren",
+      "slide8": "Deck Teile eines Bildes ab\nund teste, was du noch weißt",
+      "subjects": {
+        "math": "Mathe",
+        "history": "Geschichte",
+        "biology": "Biologie",
+        "physics": "Physik",
+        "chemistry": "Chemie",
+        "french": "Französisch",
+        "japanese": "Japanisch",
+        "economics": "Wirtschaft",
+        "geography": "Geografie",
+        "spanish": "Spanisch"
+      }
+    }
+  },
+  "prep": {
+    "yoSection": "Finnisches Abitur",
+    "yoSectionIntro": "Bereite dich auf das finnische Abitur vor.",
+    "examsSectionIntro": "Bereite dich auf die finnische Sprachprüfung und den Einbürgerungstest vor.",
+    "contentLanguage": {
+      "fi": "Auf Finnisch"
+    },
+    "courseTitles": {
+      "kansalaisuuskoe": "Finnischer Einbürgerungstest",
+      "suomi-keskitaso": "YKI-Finnischtest, Mittelstufe"
+    },
+    "yoTitle": "Yo-kertaus",
+    "yoBadge": "NEU",
+    "yoIntro": "Lexies fertige Wiederholungsreihen fürs finnische Abitur.",
+    "examsTitle": "Andere Prüfungen",
+    "examsIntro": "Bereite dich auf den Einbürgerungstest vor",
+    "coursesTitle": "Kurse",
+    "coursesIntro": "Fertige Kurse und Lernmaterial von Lexie.",
+    "empty": "Noch keine Inhalte in dieser Lernsprache.",
+    "topicCount": "{count} Kapitel",
+    "setCountOne": "{count} Lektion",
+    "setCountMany": "{count} Lektionen",
+    "cardCountOne": "{count} Karte",
+    "cardCountMany": "{count} Karten",
+    "questionCountOne": "{count} Aufgabe",
+    "questionCountMany": "{count} Aufgaben"
+  },
+  "login": {
+    "title": "Anmelden",
+    "subtitle": "Wir schicken dir einen 6-stelligen Code per E-Mail. Kein Passwort nötig.",
+    "emailPlaceholder": "Deine E-Mail-Adresse",
+    "emailMissing": "Gib deine E-Mail-Adresse ein.",
+    "sendFailed": "Der Code konnte nicht gesendet werden. Versuch es gleich noch mal.",
+    "sendCode": "Anmeldecode senden",
+    "codeSent": "Wir haben einen Anmeldecode an {email} geschickt. Der Code ist nur kurz gültig.",
+    "codeMissing": "Gib den 6-stelligen Code aus deiner E-Mail ein.",
+    "codeInvalid": "Der Code hat nicht funktioniert. Prüf den Code und versuch es noch mal.",
+    "verify": "Anmelden",
+    "resend": "Code noch mal senden",
+    "changeEmail": "E-Mail-Adresse ändern",
+    "ageNote": "Mit dem Erstellen eines Kontos bestätigst du, dass du mindestens 13 Jahre alt bist."
   },
   "home": {
     "greeting": "Hallo 👋🏻",
     "questionPrompt": "Was möchtest du heute\nlernen?",
     "startLesson": "Los geht’s",
-    "lessons": "Lektionen",
     "toReview": "{count} zu wiederholen",
+    "lessons": "Lektionen",
+    "earnMoreSets": "Mehr Lektionen verdienen",
     "inviteFriends": "Freunde einladen"
+  },
+  "spacedRepAnnouncement": {
+    "headerLabel": "Neu → Spaced Repetition",
+    "title": "Lexie weiß jetzt, was du bald vergisst",
+    "subtitle": "Lexie verfolgt, was du lernst, und schlägt vor, was du wann wiederholen solltest, damit es hängen bleibt.",
+    "okButton": "OK",
+    "practise": "Üben",
+    "flipcards": "12 Karteikarten",
+    "questions": "15 Fragen"
+  },
+  "studySet": {
+    "guide": {
+      "readFirst": "Lies das zuerst",
+      "minutesShort": "Min",
+      "studyTimePrefix": "Etwa",
+      "studyTimeSuffix": "zum Lernen"
+    },
+    "title": "Lektion",
+    "folder": "Ordner",
+    "summary": "Schlüsselkonzepte",
+    "quiz": "Quiz",
+    "flashcards": "Karteikarten",
+    "original": "Text",
+    "actions": {
+      "rename": "Umbenennen",
+      "delete": "Lektion löschen",
+      "changeSubject": "Fach ändern",
+      "reorder": "Sortieren"
+    },
+    "rename": {
+      "title": "Lektion umbenennen",
+      "subtitle": "Gib einen neuen Namen ein"
+    },
+    "loadingAudioSubtext": "Das kann einen Moment dauern. Du kannst inzwischen Karteikarten oder das Quiz machen. Du bekommst eine Nachricht, wenn die Audioversion fertig ist.",
+    "audioReady": "Psst … dein Audio ist jetzt fertig zum Anhören",
+    "audioTimeoutError": "Das Laden hat zu lange gedauert. Prüf deine Verbindung und versuch es noch mal.",
+    "audioServerError": "Der Server ist gerade nicht erreichbar. Versuch es später noch mal.",
+    "audioNetworkError": "Keine Internetverbindung. Prüf deine Verbindung und versuch es noch mal.",
+    "audioGenericError": "Etwas ist schiefgelaufen. Versuch es noch mal.",
+    "audioRetry": "Noch mal versuchen",
+    "loadingCaptions": "Einen Moment …",
+    "loadingNextSection": "Nächster Abschnitt wird geladen …",
+    "loadingAudioProgress": "Teil",
+    "loading": "Inhalt wird geladen …",
+    "noContent": "Kein Inhalt verfügbar",
+    "loadError": "Die Lektion konnte nicht geladen werden.",
+    "showMore": "Mehr anzeigen",
+    "showLess": "Weniger anzeigen",
+    "cards": {
+      "learn": "Merken",
+      "practice": "Testen",
+      "review": "Wiederholen",
+      "reviewSubtitle": "Jetzt ist ein guter Zeitpunkt, das zu wiederholen",
+      "dueForReview": "{count} zum Wiederholen",
+      "xCards": "{count} Karten",
+      "xQuestions": "{count} Fragen",
+      "noCards": "Keine Karten",
+      "noQuestions": "Keine Fragen",
+      "goToFlashcards": "Zu den Karteikarten",
+      "dueCount": "{count} fällig"
+    },
+    "tableDisplay": "Tabellen werden in dieser Ansicht vielleicht nicht richtig angezeigt. Probier die Karteikarten.",
+    "vocabularyTable": {
+      "term": "Wort",
+      "definition": "Bedeutung"
+    },
+    "noContentToPlay": "Kein Inhalt zum Abspielen",
+    "noLanguageForAudio": "Sprache nicht erkannt. Für diese Lektion gibt es kein Audio.",
+    "share": "Per WhatsApp teilen",
+    "share_error_title": "Teilen hat nicht geklappt",
+    "share_error_message": "Die Lektion konnte nicht geteilt werden. Versuch es noch mal.",
+    "whatsapp_not_installed": "WhatsApp ist auf deinem Gerät nicht installiert.",
+    "shareTitle": "Lektion teilen",
+    "shareDialogTitle": "Diese Lektion teilen",
+    "previewText": "Hab das für dich mit Lexie gemacht",
+    "shareModalTitle": "Sharing is caring",
+    "shareModalMessage": "Deine Klasse lernt wahrscheinlich für dieselbe Prüfung. Vielleicht braucht jemand Hilfe? Teil die Lektion, dann könnt ihr zusammen üben.",
+    "shareModalRightsNote": "Teile nur Materialien, an denen du die Rechte hast.",
+    "shareStudySet": "Lektion teilen",
+    "linkCopied": "Link kopiert.",
+    "generateReadingPractice": "Leseübung erstellen",
+    "readingPracticeSubtitle": "Erstell aus diesen Wörtern eine neue Lektion",
+    "readingPracticeGenerating": "Das dauert einen kleinen Moment …",
+    "openReadingPractice": "Leseübung öffnen",
+    "speak": "Sprechen",
+    "generatingReadingPractice": "Ich erstelle eine Leseübung …",
+    "noVocabularyData": "Keine Vokabeln verfügbar",
+    "claim": {
+      "stillMaking": "Lexie stellt diese Lektion noch fertig.",
+      "interrupted": "Ein Teil dieser Lektion wurde nicht fertig.",
+      "finish": "Set fertigstellen",
+      "finishFailed": "Das hat nicht geklappt. Versuch es gleich noch einmal."
+    },
+    "subjectHint": "Schreib den Namen des Fachs"
+  },
+  "progressive": {
+    "toasts": {
+      "checkingContent": "Ich schau mir an, was du geschickt hast …",
+      "creatingFlashcards": "Ich mache jetzt Karteikarten",
+      "creatingMathProblems": "Ich erstelle Übungsaufgaben",
+      "nextStepQuiz": "Fertig. Als Nächstes kommt das Quiz …",
+      "almostDone": "Fast fertig …"
+    },
+    "features": {
+      "flashcards": "Mit Karteikarten merkst du dir Dinge besser.",
+      "quiz": "Mit dem Quiz siehst du, was du kannst und was nicht.",
+      "thinking": "Wende das Gelernte in Transferfragen an.",
+      "feedback": "Du bekommst sofort Feedback und kannst deine Antworten verbessern.",
+      "concepts": "Die wichtigsten Begriffe klar erklärt.",
+      "audio": "Hör dir den Stoff mit Untertiteln an.",
+      "privacy": "Deine Lektionen sind immer auf deinem Handy dabei."
+    }
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "language": "Sprache",
+    "interfaceLanguage": "Sprache der App",
+    "error": "Fehler",
+    "languages": {
+      "English": {
+        "name": "Englisch",
+        "inLanguage": "auf Englisch"
+      },
+      "Finnish": {
+        "name": "Finnisch",
+        "inLanguage": "auf Finnisch"
+      },
+      "Swedish": {
+        "name": "Schwedisch",
+        "inLanguage": "auf Schwedisch"
+      },
+      "French": {
+        "name": "Französisch",
+        "inLanguage": "auf Französisch"
+      },
+      "Spanish": {
+        "name": "Spanisch",
+        "inLanguage": "auf Spanisch"
+      },
+      "German": {
+        "name": "Deutsch",
+        "inLanguage": "auf Deutsch"
+      }
+    },
+    "sections": {
+      "account": "Konto",
+      "preferences": "Allgemein",
+      "languages": "Sprachen",
+      "sharing": "Teilen",
+      "about": "Info"
+    },
+    "studyLanguage": "Lernsprache",
+    "learningLanguages": "Sprachen, die ich lerne",
+    "notSet": "Nicht festgelegt",
+    "none": "Keine",
+    "accountRow": "Konto",
+    "accountScreen": {
+      "title": "Konto",
+      "emptyBody": "Melde dich an, wenn du einen Pro-Pass auf lexielearn.com gekauft hast.",
+      "createAccount": "Anmelden oder Konto erstellen",
+      "loggedIn": "Angemeldet",
+      "logOut": "Abmelden",
+      "deleteAccount": "Konto löschen",
+      "deleteCaption": "Löscht dein Konto und alle darin gespeicherten Daten.",
+      "deleteConfirmTitle": "Konto löschen",
+      "deleteConfirmMessage": "Das löscht dein Konto und alle darin gespeicherten Daten endgültig. Das lässt sich nicht rückgängig machen.",
+      "deleteConfirm": "Löschen",
+      "deleteError": "Das Konto konnte nicht gelöscht werden. Versuch es gleich noch mal."
+    },
+    "profileSettings": "Profil",
+    "manageSubscription": "Abo verwalten",
+    "appearance": "Darstellung",
+    "useSystemTheme": "System",
+    "lightMode": "Hell",
+    "darkMode": "Dunkel",
+    "notifications": "Mitteilungen",
+    "spacedRepetition": "Verteiltes Wiederholen",
+    "spacedRepetitionDescription": "Zeigt dir, welche Karten fällig sind, je nachdem, wie gut du sie schon kannst",
+    "dailyReminder": "Tägliche Erinnerung",
+    "reminderTime": "Uhrzeit der Erinnerung",
+    "termsConditions": "Nutzungsbedingungen",
+    "getHelp": "Hilfe",
+    "rateApp": "Lexie weiterempfehlen",
+    "earnFreeSets": "Gratis-Lektionen verdienen",
+    "upgradeToPro": "Auf Lexie Pro upgraden",
+    "redeemCode": "Code einlösen",
+    "giftLexie": "Lexie schenken lassen",
+    "tellAFriend": "Weitersagen",
+    "proPass": {
+      "title": "Lexie Pro-Pass",
+      "subtitle": "Unbegrenzt Lektionen, Quizze, Karteikarten …",
+      "upgradeButton": "Jetzt holen"
+    },
+    "lexieGift": {
+      "title": "Wünsch dir Lexie als Geschenk",
+      "subtitle": "Ein Geschenk, das beim Lernen für Klausuren hilft?"
+    },
+    "betaFeatures": "Beta-Funktionen",
+    "betaFeaturesSubtitle": "Probier neue Funktionen vor allen anderen aus",
+    "features": {
+      "imageOcclusion": "Bildkarten",
+      "imageOcclusionDesc": "Erstellt Karteikarten aus Text in Bildern",
+      "mathMode": "Mathe-Modus",
+      "mathModeDesc": "Erstellt Übungsaufgaben aus Mathe-Inhalten",
+      "mathModeBetaTitle": "Mathe (Beta)",
+      "mathModeBetaMessage": "Diese Funktion ist noch in Arbeit. Wenn etwas nicht richtig funktioniert, sag uns Bescheid."
+    },
+    "footer": {
+      "thankYou": "Danke, dass du Lexie nutzt.",
+      "loveLine": "We 🫶🏻 you."
+    },
+    "deleteProfile": {
+      "title": "Profil löschen",
+      "message": "Willst du dieses Profil wirklich löschen? Das lässt sich nicht rückgängig machen.",
+      "cancel": "Abbrechen",
+      "confirm": "Löschen",
+      "error": "Das Profil konnte nicht gelöscht werden. Versuch es noch mal."
+    },
+    "helpCentre": {
+      "title": "Lexie Hilfe",
+      "intro": "Hallo, ich bin Elina und habe Lexie gebaut. Hier findest du häufige Fragen. Wenn deine nicht dabei ist, schreib mir.",
+      "sections": {
+        "subscriptionPayments": "Abo und Zahlung",
+        "usingLexie": "Lexie nutzen"
+      },
+      "stillStuck": {
+        "label": "Kommst du nicht weiter?",
+        "body": "Hast du Wünsche oder Ideen für Lexie? Funktioniert etwas nicht? Ich lese jede Nachricht und antworte innerhalb von 24 Stunden.",
+        "messageMe": "Feedback senden",
+        "whatsapp": "WhatsApp",
+        "whatsappMessage": "Hallo Elina, ich nutze LexieLearn und möchte dir Feedback geben."
+      },
+      "faqs": {
+        "howToCancel": {
+          "question": "Wie kündige ich mein Abo",
+          "answer": "Du kannst jederzeit in den Einstellungen deines Handys kündigen, nicht in Lexie. Apple verwaltet das Abo, deshalb kann ich es nicht für dich kündigen.\n\nAuf dem iPhone: Einstellungen → dein Name → Abonnements → Lexie → Abo kündigen.\nAuf Android: Play Store → Profil → Zahlungen und Abos → Abos → Lexie → Kündigen.\n\nAuf lexielearn.com gekauft? Dann wissen die Stores nichts von deinem Abo. Öffne in der App Einstellungen → Abo verwalten, das bringt dich an die richtige Stelle.\n\nDu behältst den Zugang bis zum Ende des Zeitraums, den du schon bezahlt hast."
+        },
+        "webPurchaseLogin": {
+          "question": "Ich habe Pro auf der Website gekauft, wie bekomme ich es in die App",
+          "answer": "Melde dich mit derselben E-Mail-Adresse an, mit der du gekauft hast. In der App: Einstellungen → Konto, oder tippe auf den Anmelde-Link auf der Pro-Seite. Du bekommst einen 6-stelligen Code per E-Mail, ein Passwort brauchst du nicht. Nach der Anmeldung ist dein Pro-Pass automatisch freigeschaltet.\n\nBeachte, dass Käufe wiederherstellen nur Käufe im App Store und bei Google Play findet. Ein Web-Kauf wird durch die Anmeldung freigeschaltet.\n\nEin ehrlicher Hinweis: Die Anmeldung bringt deinen Pro-Pass mit, nicht deine Lektionen. Lektionen, die du im Web erstellt hast, bleiben vorerst im Web."
+        },
+        "appPurchaseWeb": {
+          "question": "Ich habe Pro in der App gekauft, wie nutze ich es im Web",
+          "answer": "Melde dich an beiden Orten mit derselben E-Mail-Adresse an. In der App: Einstellungen → Konto, melde dich mit deiner E-Mail-Adresse an. Du bekommst einen 6-stelligen Code, ein Passwort brauchst du nicht. Geh dann auf lexielearn.com und melde dich mit derselben E-Mail-Adresse an. Dein Pro-Pass ist dort sofort freigeschaltet.\n\nFalls nicht, melde dich im Web ab und wieder an.\n\nDerselbe Hinweis wie in die andere Richtung: Dein Pro-Pass kommt mit, deine Lektionen nicht. Lektionen, die du in der App erstellt hast, bleiben vorerst in der App."
+        },
+        "shareWithKid": {
+          "question": "Wie teile ich das Abo mit meinem Kind",
+          "answer": "Wähle das Familien-Jahresabo. Es deckt bis zu sechs Geräte über die Familienfreigabe von Apple ab. Dein Kind und alle anderen in deiner Familiengruppe bekommen vollen Zugang auf dem eigenen Handy.\n\nRichte zuerst die Familienfreigabe in den iPhone-Einstellungen ein, falls noch nicht geschehen. Kauf danach das Familienabo in Lexie. Alle in der Familiengruppe bekommen den Zugang automatisch.\n\nBeachte, dass das Familienabo nur auf dem iPhone funktioniert, weil Google Play keine Familienfreigabe für Abos unterstützt. Du nutzt Android oder in deiner Familie gibt es iPhone und Android? Schreib mir, dann finden wir zusammen eine Lösung."
+        },
+        "freeTierRunsOut": {
+          "question": "Was passiert, wenn die Gratis-Lektionen aufgebraucht sind",
+          "answer": "Die drei Lektionen, die du schon erstellt hast, bleiben. Du kannst sie weiter wiederholen, anhören und die Karteikarten nutzen wie bisher. Neue Lektionen kannst du aber erst erstellen, wenn du auf Pro upgradest oder dir über Einladungen weitere Lektionen verdienst.\n\nLad jemanden ein, dann bekommt ihr beide zwei Gratis-Lektionen, sobald die Person dabei ist."
+        },
+        "openWhatsappSet": {
+          "question": "Wie öffne ich eine Lektion aus WhatsApp oder dem Web in der App",
+          "answer": "Im Moment geht das nicht. Lektionen wandern noch nicht zwischen Web und App, auch wenn du dich mit derselben E-Mail-Adresse anmeldest. Die Anmeldung schaltet deinen Pro-Pass in der App frei, aber deine Lektionen bleiben dort, wo du sie erstellt hast.\n\nWenn du eine Lektion in der App willst, ist der einfachste Weg, dasselbe Material zu fotografieren und Lexie die Lektion dort neu erstellen zu lassen. Wenn du eine Synchronisierung wirklich nutzen würdest, schreib mir und sag es. Das hilft mir bei der Entscheidung, was ich als Nächstes baue."
+        },
+        "multiDevice": {
+          "question": "Kann ich Lexie auf mehreren Geräten nutzen",
+          "answer": "Lektionen werden auf dem Handy gespeichert, auf dem du sie erstellt hast, und synchronisieren sich nicht automatisch zwischen Handys. Jedes Handy ist eine eigene kleine Insel.\n\nWenn du eine Lektion auf einem anderen Handy willst, teile sie vom ursprünglichen Handy aus (tippe auf Teilen → Link senden) und öffne den Link auf dem anderen.\n\nGeteilte Links kannst du auch im Browser auf dem Laptop öffnen, ganz ohne App. Einfach auf den Link tippen. Praktisch, wenn du auf einem größeren Bildschirm lernen willst.\n\nDein Pro-Pass kommt dagegen mit. Ein Web-Kauf wird auf jedem Handy freigeschaltet, sobald du dich anmeldest. Store-Käufe folgen deinem App Store- oder Google Play-Konto."
+        }
+      },
+      "message": {
+        "title": "Nachricht senden",
+        "placeholder": "Sag uns, wie Lexie besser werden kann",
+        "emailPlaceholder": "E-Mail-Adresse (optional, wenn du eine Antwort willst)",
+        "attach": "Screenshot anhängen",
+        "send": "Senden",
+        "sent": "Nachricht gesendet. Danke."
+      }
+    },
+    "manageSubscriptionScreen": {
+      "title": "Abo verwalten",
+      "statusLabel": "Status des Abos",
+      "planAnnual": "Jahresabo",
+      "planMonthly": "Monatsabo",
+      "proPassName": "Lexie Pro-Pass",
+      "renewsLabel": "Verlängert sich am {date}",
+      "openStoreSettings": "Store-Einstellungen öffnen",
+      "manageWebBilling": "Abo im Web verwalten",
+      "cancelSubscription": "Abo kündigen",
+      "survey": {
+        "title": "Eine Sache noch, bevor du gehst",
+        "subtitle": "Sag uns, warum du kündigst",
+        "reasons": {
+          "notUsing": "Ich nutze es zu wenig",
+          "tooExpensive": "Zu teuer",
+          "missing": "Mir fehlt etwas",
+          "foundBetter": "Ich habe etwas Besseres gefunden",
+          "examEnded": "Die Prüfungszeit ist vorbei",
+          "technical": "Technische Probleme oder Bugs"
+        },
+        "followupPlaceholder": "Was hätte dich zum Bleiben gebracht?",
+        "continueButton": "Weiter zur Kündigung"
+      }
+    }
+  },
+  "preview": {
+    "title": "Vorschau",
+    "imageCounter": "{current}/{total}",
+    "readyButton": "Fertig",
+    "takeMore": "Mehr Fotos aufnehmen",
+    "chooseMore": "Mehr auswählen",
+    "loading": "Wird geladen …",
+    "maxImagesReached": "Maximale Anzahl Fotos erreicht",
+    "maxImagesMessage": "In diese Lektion passen keine weiteren Fotos.",
+    "maxImagesHint": "Tipp: Kleinere Lektionen funktionieren besser"
+  },
+  "chat": {
+    "askLexie": "Frag Lexie …",
+    "addPhoto": "Foto hinzufügen",
+    "takePhoto": "Foto aufnehmen",
+    "chooseFromLibrary": "Aus der Galerie wählen",
+    "cancel": "Abbrechen"
+  },
+  "feedback": {
+    "title": "Was ist schiefgelaufen?",
+    "selectCategory": "Worum geht es in deinem Feedback?",
+    "categories": {
+      "technical": "Technisches Problem",
+      "content": "Inhaltliche Qualität",
+      "ux": "Bedienung",
+      "feature": "Funktionswünsche",
+      "incorrect": "Falsche Frage/Karte",
+      "offTopic": "Passt nicht zum Thema",
+      "multipleAnswers": "Mehrere richtige Antworten",
+      "formatting": "Rechtschreib-/Formatierungsfehler",
+      "other": "Anderes Problem"
+    },
+    "submit": "Absenden",
+    "disclaimer": "Mit diesem Bericht schickst du die ganze aktuelle Lektion an Interlinear, damit wir Lexie verbessern können.",
+    "thankYou": "Danke für dein Feedback.",
+    "permissions": {
+      "gallery": "Wir brauchen Zugriff auf deine Fotos"
+    },
+    "errors": {
+      "category": "Wähl eine Kategorie",
+      "description": "Beschreib das Problem"
+    },
+    "selectCategoryPlaceholder": "Kategorie wählen"
+  },
+  "alerts": {
+    "error": "Fehler",
+    "ok": "OK",
+    "permissionNeeded": "Berechtigung nötig",
+    "photoLibraryPermission": "Lexie braucht Zugriff auf deine Fotos.",
+    "imageLoadFailed": "Das Bild konnte nicht geladen werden. Versuch es noch mal.",
+    "processingError": "bei uns ist etwas schiefgelaufen. versuch es noch mal?",
+    "imageSendingFailed": "Die Bilder konnten nicht gesendet werden. Prüf, ob sie scharf sind, und versuch es noch mal.",
+    "imagesTooLarge": "ziemlich viel inhalt. scann lieber weniger seiten auf einmal",
+    "imageUnreadable": "dieses bild funktioniert nicht. vielleicht die qualität, vielleicht ist kein text drauf",
+    "noTextInImage": "Im Bild wurde kein Text gefunden. Scann etwas, auf dem Text steht",
+    "imageRefused": "Problem mit dem Bild",
+    "sizeError": "Zu viel Inhalt",
+    "tooManyAttempts": "Zu viele Versuche. Warte kurz und versuch es noch mal.",
+    "serverUnavailable": "Der Server ist gerade nicht erreichbar. Versuch es später noch mal.",
+    "checkConnection": "Prüf deine Internetverbindung und versuch es noch mal.",
+    "networkError": "keine internetverbindung. such dir wlan und versuch es noch mal",
+    "connectionError": "lexies gehirn ist gerade nicht erreichbar. prüf mal deine verbindung?",
+    "pdfExtractionError": "dieses pdf ist stur. probier ein anderes?",
+    "pdfImportFailed": "hmm, das pdf hat nicht funktioniert. ist es vielleicht passwortgeschützt?",
+    "invalidTextContent": "der text sieht etwas seltsam aus. kopier ihn noch mal und füg ihn neu ein?",
+    "processingTimeout": "das dauert zu lange. probier es mit weniger inhalt oder einfacherem material?",
+    "generationTimeout": "lexie hat sich beim nachdenken verhakt. probier es mit einem kürzeren text?",
+    "noTextContent": "noch nichts zum scannen. mach ein foto oder füg text ein",
+    "analyzeTextFailed": "das konnte ich nicht richtig lesen. probier ein schärferes foto?",
+    "folderCreateFailed": "Der Ordner konnte nicht erstellt werden",
+    "assignToFolderFailed": "Die Lektion konnte nicht in den Ordner verschoben werden",
+    "noImages": "Keine Bilder ausgewählt",
+    "profileError": "Profilfehler",
+    "noProfile": "Kein Profil ausgewählt",
+    "languageComingSoon": "Spracheinstellungen kommen bald.",
+    "deleteStudySet": "Lektion löschen",
+    "deleteConfirmation": "Willst du diese Lektion wirklich löschen? Das lässt sich nicht rückgängig machen.",
+    "delete": "Löschen",
+    "deleteError": "Die Lektion konnte nicht gelöscht werden",
+    "renameFailed": "Die Lektion konnte nicht umbenannt werden",
+    "deleteFailed": "Die Lektion konnte nicht gelöscht werden",
+    "takePictureError": "Das Foto konnte nicht aufgenommen werden. Versuch es noch mal.",
+    "permission": "Kamerazugriff nötig",
+    "cameraAccess": "Erlaub Lexie den Zugriff auf die Kamera, um Lektionen zu erstellen.",
+    "photoLibraryError": "Deine Fotos konnten nicht geöffnet werden. Versuch es noch mal."
+  },
+  "scanPage": {
+    "title": "Foto machen",
+    "cameraError": "Kamerafehler",
+    "checkingPermission": "Kameraberechtigung wird geprüft …",
+    "permissionRequired": "Zum Scannen braucht Lexie Zugriff auf die Kamera",
+    "cameraPermissionRequired": "Zum Scannen braucht Lexie Zugriff auf die Kamera",
+    "cameraPermissionMessage": "Erlaub den Kamerazugriff in den Einstellungen deines Geräts, um Fotos zu machen.",
+    "grantPermission": "Zugriff erlauben",
+    "goBack": "Zurück",
+    "tryAgain": "Noch mal versuchen",
+    "startingCamera": "Kamera wird gestartet …",
+    "takePhotoInstruction": "Mach ein Foto von dem, was du üben willst",
+    "requestingCameraPermission": "Kameraberechtigung wird angefragt …",
+    "tips": {
+      "title": "Hinweise",
+      "tip1Title": "Weniger ist mehr",
+      "tip1Description": "Lexie funktioniert am besten mit 1 bis 4 Fotos auf einmal oder einem PDF mit wenigen Seiten. Mach lieber mehrere kleine Lektionen als eine große.",
+      "tip2Title": "Ein Thema auf einmal",
+      "tip2Description": "Sprachen und Geschichte in derselben Lektion? Dann werden die Fragen wirr. Lad nur Fotos zu dem Thema hoch, das du gerade übst.",
+      "tip3Title": "Scharfe Fotos",
+      "tip3Description": "Unscharfes Foto = seltsame Fragen. Achte darauf, dass deine Notizen oder dein Material gut beleuchtet und scharf sind und kein anderer Text mit aufs Foto kommt.",
+      "tip4Title": "Bitte beachten",
+      "tip4Description": "Füg nur Material hinzu, das du verwenden darfst, zum Beispiel deine eigenen Notizen. Mehr dazu steht in den",
+      "tip4Link": "Nutzungsbedingungen."
+    },
+    "initializingCamera": "Kamera wird gestartet …"
   },
   "quiz": {
     "title": "Üben",
     "progressOf": "{current} von {total}",
+    "loading": "Fragen werden geladen …",
     "feedback": {
+      "checking": "Wird geprüft …",
       "incorrect": "Das war falsch. Versuch es noch einmal.",
+      "incorrectFinal": "Das war falsch. Die richtige Antwort ist {answer}.",
       "goodJob": "Gut gemacht.",
-      "checking": "Wird geprüft …"
+      "thatWentWrong": "Das war falsch.",
+      "errorEvaluating": "Deine Antwort konnte nicht geprüft werden. Versuch es noch mal."
+    },
+    "walk": {
+      "correctAnswer": "Die richtige Antwort ist {answer}."
     },
     "buttons": {
-      "skip": "Frage überspringen"
+      "ok": "OK",
+      "skip": "Frage überspringen",
+      "seeResults": "Ergebnisse anzeigen"
+    },
+    "alerts": {
+      "noQuestionsTitle": "Fehler",
+      "noQuestionsMessage": "Für diese Lektion wurden keine Fragen gefunden.",
+      "loadErrorTitle": "Fehler",
+      "loadErrorMessage": "Die Fragen konnten nicht geladen werden.",
+      "studyTextErrorTitle": "Fehler",
+      "studyTextErrorMessage": "Der Text konnte nicht geladen werden. Versuch es noch mal."
+    },
+    "errors": {
+      "fillInBlankDataMissing": "Bei dieser Frage fehlen Daten, deshalb kann sie nicht angezeigt werden.",
+      "unsupportedQuestionType": "Diese Version von Lexie kann diesen Fragetyp nicht anzeigen."
     }
+  },
+  "quizComplete": {
+    "results": {
+      "perfect": {
+        "title": "Sehr gut.",
+        "subtitle": "Du hast das Thema offensichtlich drauf."
+      },
+      "excellent": {
+        "title": "Gut gemacht.",
+        "subtitle": "Das meiste war richtig."
+      },
+      "good": {
+        "title": "Läuft gut.",
+        "subtitle": "Üb weiter."
+      },
+      "average": {
+        "title": "Ein guter Anfang.",
+        "subtitle": "Noch eine Runde üben."
+      },
+      "needsImprovement": {
+        "title": "Üben wir weiter.",
+        "subtitle": "Jeder lernt in seinem Tempo."
+      }
+    },
+    "yourProgress": "Dein Fortschritt",
+    "questionsMastered": "Fragen\nbeherrscht",
+    "stillLearning": "Noch am Lernen",
+    "skipped": "Übersprungen",
+    "mastered": "Beherrscht",
+    "keepPracticing": "{count} Konzepte weiter üben",
+    "keepPracticingMath": "{count} Aufgaben üben",
+    "startAgain": "Noch mal von vorn",
+    "backToLesson": "Zurück zur Lektion",
+    "close": "Schließen",
+    "studyTips": {
+      "perfect1": "Wenn du noch mehr rausholen willst, mach jetzt zehn Kniebeugen. Bewegung verbessert nachweislich das Lernen.",
+      "perfect2": "Geh heute früh ins Bett. Die Hälfte des Lernens passiert nachts im Schlaf.",
+      "perfect3": "Erklär das einem Freund oder jemandem aus der Familie. Erklären ist der beste Weg, um sicherzugehen, dass du es wirklich kannst.",
+      "excellent1": "Erklär laut, was du gelernt hast. So merkst du, welche Stellen noch unklar sind.",
+      "excellent2": "Komm morgen zu den schwierigeren Stellen zurück. Das Gehirn verarbeitet Dinge über Nacht.",
+      "excellent3": "Zeichne Diagramme oder Bilder zu diesen Konzepten. Visualisieren hilft beim Merken.",
+      "good1": "Lies den Stoff nächstes Mal laut. Hören hilft beim Verstehen.",
+      "good2": "Nimm dir ein Konzept nach dem anderen vor. Versuch nicht, alles auf einmal zu lernen.",
+      "good3": "Denk dir eigene Beispiele zu diesen Dingen aus. So verstehst du, wie sie im echten Leben funktionieren.",
+      "average1": "Erklär die Konzepte in eigenen Worten. Wenn du es nicht erklären kannst, hast du es noch nicht ganz verstanden.",
+      "average2": "Lern eine Sache richtig, bevor du zur nächsten gehst.",
+      "average3": "Schreib die wichtigsten Punkte mit der Hand auf Papier. Handschrift hilft beim Merken.",
+      "needsImprovement1": "Lies jedes Konzept langsam und überleg, was es wirklich bedeutet. Eile hilft beim Lernen nicht.",
+      "needsImprovement2": "Verbinde das Neue mit etwas, das du schon kennst. Das macht das Lernen leichter.",
+      "needsImprovement3": "Mach eine kurze Pause und komm später zurück. Manchmal braucht das Gehirn Zeit zum Verarbeiten."
+    }
+  },
+  "profileSettings": {
+    "title": "Profileinstellungen",
+    "loading": "Profil wird geladen …",
+    "save": "Speichern",
+    "nameLabel": "Wie soll ich dich nennen?",
+    "namePlaceholder": "Dein Name",
+    "deleteProfile": "Profil löschen",
+    "alerts": {
+      "loadError": "Profildaten konnten nicht geladen werden",
+      "noProfile": "Kein Profil geladen",
+      "saveError": "Profiländerungen konnten nicht gespeichert werden"
+    }
+  },
+  "profileImage": {
+    "title": "Profilbild wählen",
+    "continue": "Weiter",
+    "alerts": {
+      "selectImageTitle": "Wähl ein Profilbild",
+      "selectImageMessage": "Wähl ein Profilbild, um weiterzumachen"
+    }
+  },
+  "nameInput": {
+    "greeting": "Hi 👋🏻",
+    "question": "Wie soll ich dich nennen?",
+    "placeholder": "",
+    "continue": "Weiter",
+    "alerts": {
+      "nameRequiredTitle": "Name erforderlich",
+      "nameRequiredMessage": "Schreib deinen Namen, um weiterzumachen"
+    }
+  },
+  "lessonHistory": {
+    "title": "Lektionen",
+    "loading": "Lektionen werden geladen …",
+    "empty": {
+      "noLessons": "Noch nichts hier.",
+      "startFirst": "Mach ein Foto und leg los."
+    },
+    "dateFormats": {
+      "unknownDate": "Kein Datum",
+      "invalidDate": "Ungültiges Datum",
+      "invalidFormat": "Ungültiges Datumsformat",
+      "dateError": "Datumsfehler"
+    },
+    "tabs": {
+      "allSets": "Alle Lektionen",
+      "folders": "Ordner",
+      "set": "Lektion",
+      "sets": "Lektionen",
+      "noFolders": "Du hast noch keine Ordner."
+    }
+  },
+  "fontSettings": {
+    "goToSettings": "Zu den Schrifteinstellungen",
+    "title": "Schrifteinstellungen",
+    "fontSize": "Schriftgröße",
+    "fontFamily": "Schriftart",
+    "allCaps": "GROSSBUCHSTABEN",
+    "standard": "Standard",
+    "reading": "Lesemodus",
+    "dyslexiaFriendly": "Legasthenie-freundlich",
+    "highVisibility": "Gut lesbar",
+    "monospaced": "Monospace",
+    "case": "SCHREIBWEISE"
+  },
+  "flashcards": {
+    "title": "Lernen",
+    "counter": "{current} / {total}",
+    "left": "übrig"
+  },
+  "flashcardResults": {
+    "congratsTitle": "Gut geübt.",
+    "termsMastered": "Begriffe\nbeherrscht",
+    "stillLearningLabel": "Noch üben",
+    "keepReviewingButton": "{count} Begriffe weiter wiederholen",
+    "restartButton": "Von vorn anfangen",
+    "practiceRemainingButton": "Restliche {count} Karten üben"
+  },
+  "review": {
+    "loading": "Wiederholung wird geladen …",
+    "front": "Vorderseite",
+    "back": "Rückseite",
+    "tapToFlip": "Zum Umdrehen tippen",
+    "stillLearning": "Lerne ich noch",
+    "iKnowThis": "Kann ich",
+    "continue": "Weiter",
+    "sessionComplete": "Wiederholung fertig.",
+    "correctRate": "Richtig",
+    "correct": "Richtig",
+    "needsReview": "Zum Wiederholen",
+    "done": "Fertig",
+    "allCaughtUp": "Alles wiederholt.",
+    "noItemsDue": "Gerade ist nichts zum Wiederholen fällig.",
+    "goBack": "Zurück"
+  },
+  "notifications": {
+    "promptTitle": "Soll Lexie dich erinnern, wann sich Wiederholen lohnt?",
+    "promptSubtitle": "Du vergisst ~70 % davon in den nächsten 24 Stunden.",
+    "yesPlease": "Ja, bitte",
+    "noThanks": "Nein, danke",
+    "continue": "Weiter",
+    "notNow": "Nicht jetzt",
+    "settingsTitle": "Wiederholungserinnerungen",
+    "settingsEnabled": "Tägliche Erinnerung",
+    "settingsTime": "Erinnerungszeit",
+    "settingsDisabled": "Erinnerungen aus",
+    "pushTitle": "Lexie hier 👋🏻",
+    "pushBody": "Ein paar Karten warten auf eine kurze Wiederholung."
+  },
+  "conceptCards": {
+    "title": "Schlüsselkonzepte",
+    "noCards": "Keine Karten verfügbar.",
+    "hint": "Tipp",
+    "counter": "{current} / {total}"
+  },
+  "studySetSettings": {
+    "language": "Sprache der Lektion",
+    "chooseFolder": "Ordner wählen",
+    "chooseFont": "Schrift wählen",
+    "editText": "Text bearbeiten",
+    "deleteLesson": "Lektion löschen"
+  },
+  "folder": {
+    "loading": "Wird geladen …",
+    "empty": "In diesem Ordner sind noch keine Lektionen",
+    "createStudySet": "Lektion erstellen",
+    "addNotes": "Lektionen hinzufügen",
+    "moveNotes": {
+      "title": "Lektionen verschieben",
+      "empty": "Keine Lektionen zum Verschieben",
+      "saveError": "Die Lektionen konnten nicht verschoben werden"
+    },
+    "alerts": {
+      "deleteError": "Der Ordner konnte nicht gelöscht werden",
+      "saveError": "Die Änderungen am Ordner konnten nicht gespeichert werden"
+    }
+  },
+  "folders": {
+    "actions": {
+      "rename": "Umbenennen"
+    },
+    "rename": {
+      "title": "Ordner umbenennen",
+      "subtitle": "Neuen Namen eingeben"
+    },
+    "selection": {
+      "title": "Ordner wählen",
+      "subtitle": "Wählen oder neu erstellen",
+      "empty": "Du hast noch keine Ordner",
+      "createButton": "Neuen Ordner erstellen"
+    },
+    "edit": {
+      "title": "Ordner bearbeiten",
+      "nameLabel": "Ordnername",
+      "namePlaceholder": "Ordnername eingeben",
+      "validation": "Gib dem Ordner einen Namen",
+      "colorLabel": "Farbe wählen",
+      "deleteButton": "Löschen",
+      "deletingButton": "Wird gelöscht …",
+      "alerts": {
+        "deleteTitle": "Ordner löschen",
+        "deleteMessage": "Willst du diesen Ordner wirklich löschen? Das lässt sich nicht rückgängig machen.",
+        "cancel": "Abbrechen",
+        "delete": "Löschen",
+        "error": "Der Ordner konnte nicht gelöscht werden",
+        "saveError": "Die Änderungen am Ordner konnten nicht gespeichert werden"
+      }
+    },
+    "creation": {
+      "title": "Ordner erstellen",
+      "nameLabel": "Ordnername",
+      "namePlaceholder": "z. B. Mathe, Biologie",
+      "validation": "Gib dem Ordner einen Namen",
+      "colorLabel": "Farbe wählen",
+      "createButton": "Neuen Ordner erstellen"
+    }
+  },
+  "audioPremium": {
+    "title": "Willst du dir den Text anhören?",
+    "description": "Wir wollen, dass Lexie wirklich menschlich klingt, und gute Stimmen kosten Geld. Deshalb ist der Hörmodus eine Pro-Funktion.",
+    "feature1": "",
+    "feature2": "",
+    "upgradeButton": "Lexie Pro-Pass holen",
+    "maybeLater": "Vielleicht später"
+  },
+  "termsAndLanguage": {
+    "languageTitle": "Wähl deine Sprache",
+    "termsText": "Mit der Nutzung von Lexie akzeptierst du unsere",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutzerklärung",
+    "connector": "und",
+    "suffix": ".",
+    "continue": "Weiter",
+    "termsRequired": "Nutzungsbedingungen erforderlich",
+    "termsRequiredMessage": "Akzeptiere die Nutzungsbedingungen, um weiterzumachen."
+  },
+  "proPass": {
+    "title": "Lexie Pro-Pass",
+    "featureTitle": "Hol alles aus Lexie raus",
+    "featureDescription": "Gratis kommst du in Gang.\nMit Pro kommst du ans Ziel.",
+    "continue": "Jetzt abonnieren",
+    "subscribeAnnually": "Jährlich abonnieren",
+    "subscribeMonthly": "Monatlich abonnieren",
+    "loading": "Abos werden geladen …",
+    "restorePurchases": "Käufe wiederherstellen",
+    "webSignIn": "Schon im Web gekauft? Anmelden",
+    "billedMonthly": "monatlich abgerechnet",
+    "billedYearly": "jährlich abgerechnet",
+    "perMonth": "/Monat",
+    "plans": {
+      "annual": {
+        "badge": "AM BELIEBTESTEN",
+        "title": "Jahresabo",
+        "description": "Mit dem Jahresabo sparst du mehr.",
+        "period": "Jährlich abgerechnet",
+        "discount": "40 % RABATT"
+      },
+      "family": {
+        "badge": "2 BIS 6 MITGLIEDER",
+        "title": "Familien-Jahresabo",
+        "description": "Unbegrenzt Lektionen auf bis zu sechs Geräten. Nutzt die Familienfreigabe von Apple.",
+        "period": "Jährlich abgerechnet"
+      },
+      "monthly": {
+        "badge": "AM FLEXIBELSTEN",
+        "title": "Monatsabo",
+        "description": "Zahl Lexie Monat für Monat. Jederzeit kündbar.",
+        "period": "Monatlich abgerechnet"
+      }
+    },
+    "purchaseSuccess": {
+      "title": "Fertig",
+      "message": "Du kannst jetzt so viele Lektionen erstellen, wie du brauchst.",
+      "button": "Weiter"
+    },
+    "purchaseError": {
+      "title": "Kauf fehlgeschlagen",
+      "message": "Beim Kauf ist ein Fehler aufgetreten. Versuch es noch mal oder wende dich an den Support.",
+      "button": "OK"
+    },
+    "restore": {
+      "success": {
+        "title": "Käufe wiederhergestellt",
+        "message": "Deine früheren Käufe wurden wiederhergestellt.",
+        "button": "Weiter"
+      },
+      "error": {
+        "title": "Wiederherstellung fehlgeschlagen",
+        "message": "Deine Käufe konnten nicht wiederhergestellt werden. Versuch es noch mal oder wende dich an den Support.",
+        "button": "OK"
+      }
+    },
+    "subscribed": {
+      "title": "Alles bereit.",
+      "message": "Du hast Lexie Pro und kannst unbegrenzt Lektionen erstellen. Danke für deine Unterstützung.",
+      "backToApp": "Zurück zur App"
+    },
+    "affiliateCode": {
+      "label": "Hast du einen Affiliate-Code? Z. B. MILJA26",
+      "placeholder": "Code eingeben",
+      "applied": "Affiliate-Code angenommen",
+      "invalid": "Ungültiger Affiliate-Code"
+    }
+  },
+  "referral": {
+    "title": "Verdien dir gratis Lektionen",
+    "subtitle": "Lad jemanden ein und ihr bekommt beide 2 gratis Lektionen",
+    "freeStudySet": "gratis Lektion",
+    "studySets": "Lektionen",
+    "perFriend": "für jede Person",
+    "whoJoins": "die mitmacht",
+    "whoDownloads": "die Lexie lädt",
+    "friendsJoined": "Leute dabei",
+    "ofFriendsJoined": "von {total} Leuten dabei",
+    "inviteButton": "Jemanden einladen",
+    "shareCode": "Code teilen",
+    "shareMessage": "Hab eine App gefunden, die aus Fotos von deinen Notizen Quizze macht. Richtig gut.",
+    "shareMessageWithCode": "Ich liebe diese App. Nutz meinen Code {code}, dann bekommen wir beide 2 gratis Lektionen.",
+    "redeemCode": "Code einlösen",
+    "unlimited": "unbegrenzt",
+    "copiedCode": "Code kopiert."
+  },
+  "giftModal": {
+    "title": "Wünsch dir Lexie als Geschenk",
+    "subtitle": "Ein Geschenk, das dir hilft, besser für Prüfungen zu lernen.",
+    "createLink": "Link erstellen",
+    "createLinkDescription": "Du bekommst einen persönlichen Link, den du teilen kannst",
+    "shareIt": "Teil ihn weiter",
+    "shareItDescription": "Schick ihn an alle, die dein Lernen unterstützen wollen",
+    "enterCode": "Code eingeben",
+    "enterCodeDescription": "Wer Lexie kauft, bekommt einen Code für dich. Gib ihn hier ein und du kannst Lexie ab der Aktivierung ein Jahr lang unbegrenzt nutzen.",
+    "createGiftLinkButton": "Geschenklink erstellen",
+    "giftMessage": "Ich wünsche mir Lexie als Geschenk. Damit lerne ich besser für Prüfungen.\n\nVerschenk ein Jahr besseres Lernen 🎁\nlexielearn.com"
+  },
+  "rewardCode": {
+    "title": "Code eingeben",
+    "subtitle": "Lös einen Code ein und hol dir gratis Lektionen",
+    "apply": "Einlösen",
+    "success": "Hat geklappt.",
+    "error": "Code nicht eingelöst",
+    "enterAllCharacters": "Gib alle 5 Zeichen ein",
+    "somethingWentWrong": "Etwas ist schiefgelaufen. Versuch es noch mal.",
+    "successMonth": "Du hast jetzt 1 Monat unbegrenzten Zugang.",
+    "successMonths": "Du hast jetzt {months} Monate unbegrenzten Zugang.",
+    "successInvite": "Ihr habt beide {count} gratis Lektionen bekommen.",
+    "successAffiliate": "Du hast {days} Tage gratis Zugang bekommen. {name} hat den Code mit dir geteilt.",
+    "failure": {
+      "notFound": "Wir finden diesen Code nicht. Prüf die Zeichen und versuch es noch mal.",
+      "used": "Dieser Code wurde schon benutzt. Probier einen anderen.",
+      "ownCode": "Das ist dein eigener Code. Teil ihn mit jemandem, dann bekommt ihr beide 2 gratis Lektionen.",
+      "inactive": "Dieser Code ist nicht mehr gültig. Probier einen anderen.",
+      "failed": "Etwas ist schiefgelaufen. Prüf deine Verbindung und versuch es noch mal."
+    }
+  },
+  "think": {
+    "question": "Frage",
+    "questionSingular": "Frage",
+    "questionsPlural": "Fragen",
+    "answer": "Antworten",
+    "seeYourAnswer": "Deine Antwort ansehen",
+    "title": "Schreiben",
+    "openEndedQuestion": "Transferfrage",
+    "openEndedQuestions": "Transferfragen",
+    "recordOrTypeAnswer": "Sprich oder schreib deine Antwort",
+    "holdAndSpeak": "Halten und sprechen",
+    "releaseToFinish": "Loslassen zum Beenden",
+    "tryAgain": "Noch mal antworten?",
+    "reviseStudyText": "Text noch mal lesen?",
+    "yourReply": "DEINE ANTWORT",
+    "dictate": "Diktieren",
+    "stopDictation": "Stopp",
+    "viewGrade": "Bewertung ansehen",
+    "placeholderTypeOrDictate": "Antwort schreiben oder diktieren",
+    "noQuestionToDisplay": "Keine Frage zum Anzeigen."
+  },
+  "textUpload": {
+    "title": "Text",
+    "submit": "Absenden",
+    "placeholder": "Schreib oder füg deinen Text hier ein",
+    "importPDF": "PDF laden",
+    "emptyTextTitle": "Kein Text",
+    "emptyTextMessage": "Gib erst einen Text ein."
+  },
+  "occlusion": {
+    "modeToggle": {
+      "studySet": "Lektion",
+      "imageCards": "Bildkarten"
+    },
+    "create": {
+      "title": "Bildkarten",
+      "heading": "Bildkarten erstellen",
+      "subtitle": "Lad ein Diagramm hoch, zum Beispiel eine Anatomiezeichnung. Ich erkenne die Begriffe und decke sie für dich ab.",
+      "chooseFromLibrary": "Aus Fotos wählen",
+      "takePhoto": "Foto machen",
+      "detectingLabels": "Ich decke die Begriffe ab …",
+      "creatingFlashcards": "Karteikarten werden erstellt …",
+      "loading": "Wird geladen …",
+      "noTextDetected": "Ich habe im Bild keine Begriffe gefunden. Probier ein anderes Bild, auf dem der Text gut lesbar ist.",
+      "tryDifferentImage": "Anderes Bild wählen",
+      "processingFailed": "Das Bild konnte nicht verarbeitet werden",
+      "saveFailed": "Die Karte konnte nicht gespeichert werden"
+    },
+    "review": {
+      "loading": "Wird geladen …",
+      "noRegions": "Keine Begriffe",
+      "goBack": "Zurück",
+      "typeAnswer": "Deine Antwort …",
+      "correctFeedback": "Richtig",
+      "goodTry": "Guter Versuch.",
+      "correctAnswerIs": "Die richtige Antwort ist",
+      "continue": "Weiter",
+      "resultsTitle": "Übung geschafft",
+      "correctLabel": "Richtig",
+      "incorrectLabel": "Falsch",
+      "accuracy": "Trefferquote",
+      "done": "Fertig",
+      "hideOne": "Eins abdecken",
+      "hideAll": "Alle abdecken"
+    },
+    "edit": {
+      "title": "Begriffe bearbeiten",
+      "sectionTitle": "Begriffe",
+      "sectionHint": "Tipp auf einen Begriff im Bild oder in der Liste, um ihn zu bearbeiten",
+      "enterLabel": "Begriff eingeben …",
+      "cardNotFound": "Karte nicht gefunden",
+      "saveFailed": "Die Änderungen konnten nicht gespeichert werden"
+    }
+  },
+  "typedRecall": {
+    "writeWhatYouHear": "Schreib auf {language}, was du hörst",
+    "writeMeaning": "Schreib die Bedeutung",
+    "typeAnswer": "Antwort eingeben …",
+    "correctWord": "Das richtige Wort ist"
+  },
+  "translation": {
+    "tapToTranslate": "Übersetzen in",
+    "translateTo": "Übersetzen in",
+    "searchLanguage": "Sprachen suchen",
+    "commonLanguages": "Häufig",
+    "allLanguages": "Alle Sprachen"
+  },
+  "math": {
+    "guidedPlaceholder": "Schreib die Antwort auf Papier und fotografier sie …",
+    "hint": "Tipp",
+    "solve": "Lösen",
+    "problemSingular": "Aufgabe",
+    "problemsPlural": "Aufgaben",
+    "ocrFailed": "Der Rechenausdruck konnte nicht gelesen werden. Tipp ihn stattdessen ein.",
+    "assignment": "Aufgabenstellung",
+    "addPhoto": "Foto hinzufügen"
+  },
+  "ratingPrompt": {
+    "title": "Hi, hier ist Elina 👋",
+    "message": "Hat Lexie dir beim Lernen geholfen? Ich habe Lexie gebaut, weil ich wollte, dass möglichst viele einen einfachen Weg haben, mit wirksamen Lernmethoden zu üben. Wenn es dir geholfen hat, würde mir eine Bewertung viel bedeuten. Sie hilft auch anderen, Lexie zu finden.",
+    "tapToContinue": "Weiter",
+    "thanks": "Danke für dein Feedback 🫶"
+  },
+  "focusMode": {
+    "pillInactive": "lock in",
+    "pillActive": "lock in",
+    "sheetTitle": "Time to lock in.",
+    "durationLabel": "Dauer",
+    "durationSubtitle": "Wie lange willst du dich konzentrieren?",
+    "minSuffix": "min",
+    "startButton": "Start",
+    "confirmTitle": "Bist du sicher?",
+    "confirmSubtitle": "Noch {minutes} min übrig",
+    "stayFocused": "Dranbleiben",
+    "giveUp": "Aufhören",
+    "completedTitle": "Fertig.",
+    "completedSubtitle": "{minutes} min gelernt. Gut gemacht.",
+    "completedButton": "Nice",
+    "notificationBody": "Noch {minutes} min übrig, bist du sicher?"
+  },
+  "onboarding": {
+    "continue": "Weiter",
+    "skip": "Überspringen",
+    "studyLanguage": {
+      "title": "In welcher Sprache lernst du?",
+      "subtitle": "Die Sprache, in der dein Lernmaterial meistens ist.",
+      "nudgePickFirst": "Wähl eine Sprache, um weiterzumachen"
+    },
+    "learningLanguages": {
+      "title": "Welche Sprachen lernst du?",
+      "subtitle": "Wähl unten die Sprachen, die du lernst. Überspring das, wenn du gerade keine Sprache lernst, du kannst später immer welche hinzufügen.",
+      "add": "Hinzufügen +"
+    },
+    "firstSession": {
+      "title": "Was möchtest du lernen?",
+      "subtitle": "Füg das Material hinzu, aus dem du deine erste Lektion machen willst.",
+      "camera": "Foto machen oder hochladen",
+      "text": "Text einfügen oder PDF hochladen",
+      "sample": "Nichts zur Hand? Schau dir ein Beispiel an.",
+      "later": "Mach ich später"
+    }
+  },
+  "softPrompt": {
+    "languages": {
+      "title": "Lexie erkennt Sprachen jetzt besser",
+      "body": "Verrätst du uns zwei kurze Dinge? Das macht Lexie besser für dich",
+      "cta": "Jetzt einstellen",
+      "dismiss": "Schließen"
+    }
+  },
+  "picker": {
+    "title": {
+      "singleSelect": "Sprache wählen",
+      "multiSelect": "Sprachen wählen"
+    },
+    "searchPlaceholder": "Suchen",
+    "confirm": "Fertig",
+    "empty": "Keine Treffer"
+  },
+  "topicOrLanguage": {
+    "question": "Das ist auf {language}. Lernst du das Thema oder die Sprache {language}?",
+    "learningButton": "Ich lerne {language}",
+    "topicButton": "Das Thema"
   },
   "onboardingPaywall": {
     "title": "Investiere in deine Zukunft",
     "subtitle": "Du bekommst 3 Lektionen gratis zum Loslegen. Brauchst du mehr? Lad jemanden ein oder hol dir Pro.",
-    "familyContact": "Suchst du ein Familienabo? Schreib uns"
-  },
-  "common": {
-    "cancel": "Abbrechen",
-    "save": "Speichern",
-    "back": "Zurück"
-  },
-  "studySet": {
-    "claim": {
-      "stillMaking": "Lexie stellt dieses Set noch fertig.",
-      "interrupted": "Ein Teil dieses Sets wurde nicht fertig.",
-      "finish": "Set fertigstellen",
-      "finishFailed": "Das hat nicht geklappt. Versuch es gleich noch einmal."
+    "features": {
+      "flashcards": "Merk dir mehr mit *Karteikarten*",
+      "quiz": "*Teste*, was du noch nicht kannst",
+      "exams": "*Übe* offene Prüfungsfragen",
+      "listen": "*Hör* dir deine Texte überall an"
     },
-    "shareModalRightsNote": "Teile nur Materialien, an denen du die Rechte hast."
+    "annual": "Jahresabo",
+    "monthly": "Monatsabo",
+    "annualPass": "Jahres-Pass",
+    "familyAnnual": "Familien-Jahresabo",
+    "familyContact": "Suchst du ein Familienabo? Schreib uns",
+    "oneTimeAnnual": "Einmaliger Jahres-Pass",
+    "noAutoRenewal": "Keine automatische Verlängerung.",
+    "recurringBilling": "Wiederkehrende Abrechnung",
+    "monthlyEquivalent": "{price} im Monat",
+    "mostPopular": "Am beliebtesten",
+    "perMonth": "/Monat",
+    "perYear": "/Jahr",
+    "billedAnnually": "{price} jährlich abgerechnet",
+    "billedMonthly": "{price} monatlich abgerechnet",
+    "subscribeAnnually": "Jährlich abonnieren",
+    "subscribeMonthly": "Monatlich abonnieren",
+    "viewAllPlans": "Alle Optionen ansehen",
+    "maybeLater": "Vielleicht später",
+    "restore": "Käufe wiederherstellen",
+    "legalText": "Verlängert sich automatisch, wenn du nicht mindestens 24 Stunden vor Ablauf des Zeitraums kündigst. Jederzeit in den Einstellungen kündbar. Wenn du fortfährst, akzeptierst du unsere",
+    "choosePlanTitle": "Wähl die Option,\ndie zu dir passt",
+    "otherPlans": "Weitere Optionen"
+  },
+  "passes": {
+    "semester": "Semester-Pass",
+    "yearly": "Jahres-Pass",
+    "semesterDuration": "Einmalkauf, 5 Monate gültig",
+    "yearlyDuration": "Einmalkauf, 12 Monate gültig",
+    "buySemester": "Semester-Pass kaufen",
+    "buyYearly": "Jahres-Pass kaufen",
+    "bestValue": "Am günstigsten",
+    "orSubscribe": "Oder abonnieren",
+    "billedTotalYearly": "{price} pro Jahr",
+    "viewAllPlans": "Alle Optionen ansehen",
+    "choosePassTitle": "Wähl einen Pass",
+    "featureTitle": "Unbegrenzte Nutzung",
+    "featureDescription": "Lerneinheiten, Fragen, Karteikarten, Audioversionen, Übersetzungen und vieles mehr"
+  },
+  "postCreatePaywall": {
+    "title": "Hol alles aus Lexie raus",
+    "subtitle": "Das ist eine deiner 3 gratis Lektionen.\nMit dem Semester-Pass sind Lektionen unbegrenzt."
+  },
+  "proWelcome": {
+    "title": "Willkommen bei Lexie Pro",
+    "message": "Danke. Deine Unterstützung hält Lexie am Laufen und hilft, es weiter zu verbessern.",
+    "signature": "Elina und das Lexie-Team"
   },
   "sessionCard": {
     "title": "Lernen",
@@ -53,7 +1152,7 @@
     "recallThenTeachPlain": "Kurzer Check ({count} Aufgaben), dann {section}",
     "recall": "Wiederholungsrunde, {count} Aufgaben",
     "rest": "Nächste Wiederholung {date}",
-    "generating": "Lexie erstellt dieses Set noch",
+    "generating": "Lexie erstellt diese Lektion noch",
     "restTomorrow": "Nächste Wiederholung morgen",
     "restWeekday": "Nächste Wiederholung am {weekday}",
     "open": "Session öffnen"
@@ -95,5 +1194,31 @@
       "readyPractise": "bereit für den Übungstest?",
       "allDone": "das war es für heute."
     }
+  },
+  "updateWall": {
+    "title": "Lexie aktualisieren",
+    "description": "Diese Version wird nicht mehr unterstützt. Lad die neueste Version, dann geht es weiter.",
+    "button": "Aktualisieren"
+  },
+  "subjects": {
+    "biology": "Biologie",
+    "chemistry": "Chemie",
+    "physics": "Physik",
+    "mathematics": "Mathematik",
+    "geography": "Geographie",
+    "health_education": "Gesundheit",
+    "medicine": "Medizin",
+    "history": "Geschichte",
+    "social_studies": "Sozialkunde",
+    "economics": "Wirtschaft",
+    "psychology": "Psychologie",
+    "philosophy": "Philosophie und Ethik",
+    "religion": "Religion",
+    "literature": "Literatur",
+    "languages": "Sprachen",
+    "computer_science": "Informatik",
+    "law": "Jura",
+    "arts": "Kunst und Musik",
+    "other": "Sonstiges"
   }
 }
