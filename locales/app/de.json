@@ -1,25 +1,25 @@
 {
   "welcome": {
     "title": "Willkommen bei Lexie",
-    "description": "Lexie hilft dir, besser zu lernen. Mach ein Foto. Den Rest übernimmt Lexie.",
+    "description": "Lexie hilft dir dabei, besser zu lernen. Mach ein Foto, und Lexie kümmert sich um den Rest.",
     "startButton": "Los geht's",
     "loginButton": "Ich habe schon ein Konto"
   },
   "home": {
     "greeting": "Hallo 👋🏻",
     "questionPrompt": "Was möchtest du heute\nlernen?",
-    "startLesson": "Loslegen",
-    "lessons": "Lernsets",
+    "startLesson": "Los geht’s",
+    "lessons": "Lektionen",
     "toReview": "{count} zu wiederholen",
     "inviteFriends": "Freunde einladen"
   },
   "quiz": {
     "title": "Üben",
-    "progressOf": "{current}/{total}",
+    "progressOf": "{current} von {total}",
     "feedback": {
       "incorrect": "Das war falsch. Versuch es noch einmal.",
-      "goodJob": "Gut gemacht",
-      "checking": "Wird geprüft..."
+      "goodJob": "Gut gemacht.",
+      "checking": "Wird geprüft …"
     },
     "buttons": {
       "skip": "Frage überspringen"
@@ -27,7 +27,7 @@
   },
   "onboardingPaywall": {
     "title": "Investiere in deine Zukunft",
-    "subtitle": "Drei Lernsets gehen aufs Haus, damit du loslegen kannst. Mehr nötig? Lade eine Freundin ein oder hol dir Pro.",
+    "subtitle": "Du bekommst 3 Lektionen gratis zum Loslegen. Brauchst du mehr? Lad jemanden ein oder hol dir Pro.",
     "familyContact": "Suchst du ein Familienabo? Schreib uns"
   },
   "common": {

@@ -1,18 +1,18 @@
 {
   "quiz": {
     "correct": "Richtig.",
-    "notQuite": "Guter Versuch",
-    "goodTry": "Guter Versuch",
-    "stillLearning": "Ich übe noch",
-    "mastered": "Sitzt",
-    "submit": "Antworten",
+    "notQuite": "Knapp daneben.",
+    "goodTry": "Guter Versuch, aber …",
+    "stillLearning": "Hier muss ich noch üben:",
+    "mastered": "So viele sitzen:",
+    "submit": "Abgeben",
     "continue": "Weiter",
-    "tryAgain": "Noch einmal",
-    "selectAnswer": "Wähle eine Antwort, bevor du prüfst"
+    "tryAgain": "Noch mal versuchen",
+    "selectAnswer": "Wähle eine Antwort, bevor du abgibst."
   },
   "flashcards": {
     "iKnowThis": "Kann ich",
-    "stillLearning": "Ich übe",
+    "stillLearning": "Weiter üben",
     "noCards": "Keine Karteikarten vorhanden"
   },
   "common": {

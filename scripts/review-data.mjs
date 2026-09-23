@@ -74,10 +74,9 @@ for (const target of ['app', 'web']) {
   }
 }
 
-// German drafts for the store fields live alongside the rest, keyed by id.
-const storeDe = read('locales/shared/de.json').store ?? {};
+// The German store text lives on the field itself: it ships in no bundle, so
+// locales/ cannot hold it without failing the key-parity check.
 for (const f of [...store.fields].reverse()) {
-  const key = f.id.split('.')[1];
   rows.unshift({
     key: f.id,
     target: 'store',
@@ -86,7 +85,7 @@ for (const f of [...store.fields].reverse()) {
     note: f.note,
     en: f.en,
     fi: f.fi,
-    de: storeDe[key] ?? f.en,
+    de: f.de ?? f.en,
     // Apple's hard limit, not the usual 30% allowance.
     budget: f.limit,
     placeholders: [],

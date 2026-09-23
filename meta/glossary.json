@@ -21,62 +21,65 @@
     "studySet": {
       "en": "study set",
       "fi": "harjoitussetti",
-      "de": "Lernset",
-      "deStatus": "proposed"
+      "de": "Lektion",
+      "deStatus": "confirmed"
     },
     "flashcard": {
       "en": "flashcard",
       "fi": "muistikortti",
       "de": "Karteikarte",
-      "deStatus": "proposed"
+      "deStatus": "confirmed"
     },
     "quiz": {
       "en": "quiz",
       "fi": "testi",
       "de": "Quiz",
-      "deStatus": "proposed"
+      "deStatus": "confirmed",
+      "reviewerNote": "Quiz is fine, Test would've worked, too. A real exam would be called a \"Klausur\". "
     },
     "thinkQuestion": {
       "en": "think question",
       "fi": "soveltava kysymys",
-      "de": "Anwendungsfrage",
-      "deStatus": "proposed"
+      "de": "Transferfrage",
+      "deStatus": "confirmed",
+      "reviewerNote": "\"Anwendungsfrage\" is super formal. \"Transferfrage\" is common in high school and uni."
     },
     "studyGuide": {
       "en": "study guide",
       "fi": "opiskeluopas",
-      "de": "Lernleitfaden",
-      "deStatus": "proposed"
+      "de": "Lernhilfe",
+      "deStatus": "confirmed"
     },
     "studyText": {
       "en": "study text",
       "fi": "teksti",
       "de": "Text",
-      "deStatus": "proposed"
+      "deStatus": "confirmed"
     },
     "keyConcepts": {
       "en": "key concepts",
       "fi": "pääkohdat",
-      "de": "Kernpunkte",
-      "deStatus": "proposed"
+      "de": "Schlüsselkonzepte",
+      "deStatus": "confirmed"
     },
     "workspace": {
       "en": "workspace",
       "fi": "työtila",
       "de": "Arbeitsbereich",
-      "deStatus": "proposed"
+      "deStatus": "confirmed"
     },
     "folder": {
       "en": "folder",
       "fi": "kansio",
       "de": "Ordner",
-      "deStatus": "proposed"
+      "deStatus": "confirmed"
     },
     "pass": {
       "en": "pass",
       "fi": "passi",
-      "de": "Ticket",
-      "deStatus": "proposed"
+      "de": "Pass",
+      "deStatus": "confirmed",
+      "reviewerNote": "The word 'Pass' is actually quite common in German for let's say a season pass \"Saisonpass\" or yearly pass \"Jahrespass\", it's also used in the German app store for example for theme parks. \"Ticket\" is giving \"entry to the public pool for a summer\". Not wrong really, I'd say \"Pass\" and \"Ticket\" are equally as common."
     },
     "pro": {
       "en": "Lexie Pro",

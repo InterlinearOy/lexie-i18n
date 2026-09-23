@@ -20,7 +20,8 @@
       "limit": 30,
       "note": "Der Name unter dem Icon, im Store und auf dem Homescreen. Apple lehnt mehr als 30 Zeichen ab. 'Lexie' bleibt. Das Finnische übersetzt den englischen Namen nicht, es sagt etwas anderes: 'Mach ein Foto und lerne'. Dieselbe Freiheit gilt hier.",
       "en": "Lexie: Study & Exam Prep",
-      "fi": "Lexie: Ota kuva ja opiskele"
+      "fi": "Lexie: Ota kuva ja opiskele",
+      "de": "Lexie: Foto machen & lernen"
     },
     {
       "id": "store.subtitle",
@@ -28,7 +29,8 @@
       "limit": 30,
       "note": "Steht direkt unter dem Namen im Store. Sagt in einer Zeile, was die App tut. Ebenfalls hart auf 30 Zeichen begrenzt. Der finnische Untertitel ist über die API nicht abrufbar.",
       "en": "Practice tests & study guides",
-      "fi": ""
+      "fi": "",
+      "de": "Übungstests & Lernhilfen"
     }
   ]
 }

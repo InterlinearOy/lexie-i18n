@@ -29,7 +29,7 @@
   },
   "welcome": {
     "title": "Willkommen bei Lexie",
-    "description": "Lexie hilft dir, besser zu lernen. Mach ein Foto. Den Rest übernimmt Lexie.",
+    "description": "Lexie hilft dir dabei, besser zu lernen. Mach ein Foto, und Lexie kümmert sich um den Rest.",
     "subtitle": "Take a photo of what you want to learn and let Lexie take care of the rest.",
     "startButton": "Los geht's",
     "loginButton": "Ich habe schon ein Konto",
@@ -111,9 +111,9 @@
   "home": {
     "greeting": "Hallo 👋🏻",
     "questionPrompt": "Was möchtest du heute\nlernen?",
-    "startLesson": "Loslegen",
+    "startLesson": "Los geht’s",
     "toReview": "{count} zu wiederholen",
-    "lessons": "Lernsets",
+    "lessons": "Lektionen",
     "earnMoreSets": "Earn more sets",
     "inviteFriends": "Freunde einladen"
   },
@@ -537,20 +537,20 @@
   },
   "quiz": {
     "title": "Üben",
-    "progressOf": "{current}/{total}",
+    "progressOf": "{current} von {total}",
     "loading": "Loading questions...",
     "feedback": {
-      "checking": "Wird geprüft...",
+      "checking": "Wird geprüft …",
       "incorrect": "Das war falsch. Versuch es noch einmal.",
       "incorrectFinal": "That was incorrect. The correct answer is {answer}.",
-      "goodJob": "Gut gemacht",
+      "goodJob": "Gut gemacht.",
       "thatWentWrong": "That went wrong.",
       "errorEvaluating": "Couldn't check your answer. Try again.",
       "correct": "Richtig.",
-      "notQuite": "Guter Versuch",
-      "goodTry": "Guter Versuch",
-      "stillLearning": "Ich übe noch",
-      "mastered": "Sitzt"
+      "notQuite": "Knapp daneben.",
+      "goodTry": "Guter Versuch, aber …",
+      "stillLearning": "Hier muss ich noch üben:",
+      "mastered": "So viele sitzen:"
     },
     "walk": {
       "correctAnswer": "The correct answer is {answer}."
@@ -560,8 +560,8 @@
       "skip": "Frage überspringen",
       "seeResults": "See results",
       "continue": "Weiter",
-      "tryAgain": "Noch einmal",
-      "submit": "Antworten"
+      "tryAgain": "Noch mal versuchen",
+      "submit": "Abgeben"
     },
     "alerts": {
       "noQuestionsTitle": "Error",
@@ -576,7 +576,7 @@
       "unsupportedQuestionType": "This version of Lexie can't show this question type."
     },
     "validation": {
-      "selectAnswer": "Wähle eine Antwort, bevor du prüfst",
+      "selectAnswer": "Wähle eine Antwort, bevor du abgibst.",
       "fillAllBlanks": "Please fill all blanks before checking"
     },
     "studyText": {
@@ -704,7 +704,7 @@
     "counter": "{current} / {total}",
     "left": "left",
     "noCards": "Keine Karteikarten vorhanden",
-    "stillLearning": "Ich übe",
+    "stillLearning": "Weiter üben",
     "iKnowThis": "Kann ich"
   },
   "flashcardResults": {
@@ -1144,7 +1144,7 @@
   },
   "onboardingPaywall": {
     "title": "Investiere in deine Zukunft",
-    "subtitle": "Drei Lernsets gehen aufs Haus, damit du loslegen kannst. Mehr nötig? Lade eine Freundin ein oder hol dir Pro.",
+    "subtitle": "Du bekommst 3 Lektionen gratis zum Loslegen. Brauchst du mehr? Lad jemanden ein oder hol dir Pro.",
     "features": {
       "flashcards": "Remember more in less time with *flashcards*",
       "quiz": "*Quiz* to know what you don't know yet",

@@ -2,8 +2,8 @@
   "workspace": {
     "loginTitle": "Bei Lexie anmelden",
     "loginContinue": "Weiter",
-    "loginEmailPlaceholder": "Deine E-Mail",
-    "splash": "Einen Moment…"
+    "loginEmailPlaceholder": "Deine E-Mail-Adresse",
+    "splash": "Einen Moment …"
   },
   "heroCreate": {
     "pastePlaceholder": "Text hier einfügen"
