@@ -384,7 +384,7 @@
         },
         "multiDevice": {
           "question": "Voinko käyttää Lexietä useammalla laitteella",
-          "answer": "Harjoitussetit tallentuvat siihen puhelimeen, jolla ne on luotu, eivätkä ne synkronoidu puhelimien välillä automaattisesti. Jokainen puhelin on oma erillinen kokonaisuutensa.\n\nJos haluat setin toiseen puhelimeen, jaa se alkuperäisestä puhelimesta (napauta Jaa → Lähetä linkki) ja avaa linkki toisessa puhelimessa.\n\nJaettuja linkkejä voi avata myös tietokoneen selaimessa ilman sovellusta. Riittää, että napautat linkkiä. Tämä on kätevä tapa opiskella isommalta näytöltä.\n\nPro Pass sen sijaan kulkee mukana. Verkosta ostettu tilaus aukeaa millä tahansa puhelimella, kun kirjaudut sisään. Sovelluskaupasta ostettu tilaus seuraa App Store- tai Google Play -tiliäsi."
+          "answer": "Harjoitussetit tallentuvat siihen puhelimeen, jolla ne on luotu, eivätkä ne siirry puhelimesta toiseen. Jokainen puhelin on oma erillinen kokonaisuutensa.\n\nPro Pass sen sijaan kulkee mukana. Verkosta ostettu tilaus aukeaa millä tahansa puhelimella, kun kirjaudut sisään. Sovelluskaupasta ostettu tilaus seuraa App Store- tai Google Play -tiliäsi."
         }
       },
       "message": {
@@ -1275,5 +1275,9 @@
     "law": "Oikeustiede",
     "arts": "Taide ja musiikki",
     "other": "Muu"
+  },
+  "shareEnded": {
+    "title": "Tämä linkki ei enää toimi",
+    "body": "Lexien harjoitussetti on sen tekijän omaan käyttöön, joten Lexie ei enää jaa harjoitussettejä."
   }
 }

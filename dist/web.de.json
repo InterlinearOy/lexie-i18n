@@ -418,12 +418,6 @@
       "questions": "{count} Fragen",
       "keyConcepts": "Schlüsselkonzepte"
     },
-    "sharedViewer": {
-      "mobileCta": "Diese Lektion wurde mit Lexie erstellt. Jetzt mach deine eigene.",
-      "desktopCta": "Diese Lektion wurde aus Lexie mit dir geteilt. Erstell ein kostenloses Konto, dann bleibt sie in deinem Arbeitsbereich.",
-      "getLexie": "Lexie laden",
-      "saveToWorkspace": "In meinem Arbeitsbereich speichern"
-    },
     "courseView": {
       "back": "Kurse",
       "chaptersMetaOne": "{count} Abschnitt",
@@ -581,7 +575,6 @@
       "openQuestionsOne": "{count} offene Frage",
       "openQuestionsOther": "{count} offene Fragen",
       "upgrade": "Hol dir Lexie Pro",
-      "keepSharedSet": "Lektion in meinem Arbeitsbereich speichern",
       "back": "Zurück",
       "aiDisclaimer": "Lexie nutzt KI und kann sich irren",
       "createCtaTitle": "Jetzt mach deine eigene Lektion",
@@ -643,8 +636,6 @@
       "legalAnd": " und ",
       "legalPrivacy": "Datenschutzerklärung",
       "legalSuffix": ".",
-      "sharedTitle": "Lektion behalten",
-      "sharedSubtitle": "Diese Lektion wurde mit dir geteilt. Erstell ein kostenloses Konto, dann bleibt sie in deinem eigenen Arbeitsbereich.",
       "prepTitle": "In deinem Lexie-Arbeitsbereich weitermachen",
       "prepSubtitle": "Erstell ein kostenloses Konto, dann sind die ganze Wiederholungsbibliothek und deine eigenen Lektionen an einem Ort, wenn du zurückkommst.",
       "prepSaving": "Arbeitsbereich wird geöffnet …",
@@ -652,6 +643,10 @@
       "prepSavedBody": "Diese Lektion findest du in der Bibliothek deines Arbeitsbereichs. Du kannst auch hier weiterlernen.",
       "prepGoToWorkspace": "Zum Arbeitsbereich",
       "prepStayHere": "Hier weiterlernen"
+    },
+    "sharingEnded": {
+      "title": "This link no longer works",
+      "body": "A study set on Lexie is for the person who made it, so Lexie no longer shares sets."
     },
     "prepGuide": {
       "title": "Lernhilfe",

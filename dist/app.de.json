@@ -1275,5 +1275,9 @@
     "law": "Jura",
     "arts": "Kunst und Musik",
     "other": "Sonstiges"
+  },
+  "shareEnded": {
+    "title": "This link no longer works",
+    "body": "A study set on Lexie is for the person who made it, so Lexie no longer shares sets."
   }
 }
