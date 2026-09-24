@@ -374,7 +374,7 @@
         },
         "multiDevice": {
           "question": "Can I use Lexie on more than one device?",
-          "answer": "Study sets live on the phone they were made on, so they don't sync between phones automatically. Each phone is its own little island.\n\nIf you want a set on another phone, share it from the original (tap Share → Send link) and open it on the other one.\n\nYou can also open shared links in a browser on your laptop, no app needed, just tap the link. Handy if you want to study on a bigger screen.\n\nYour Pro Pass does travel, though. A web purchase unlocks on any phone once you log in, and store purchases follow your App Store or Google Play account."
+          "answer": "Study sets live on the phone they were made on, so they don't move between phones. Each phone is its own little island.\n\nYour Pro Pass does travel, though. A web purchase unlocks on any phone once you log in, and store purchases follow your App Store or Google Play account."
         }
       },
       "message": {
@@ -1220,5 +1220,9 @@
     "law": "Law",
     "arts": "Arts and music",
     "other": "Other"
+  },
+  "shareEnded": {
+    "title": "This link no longer works",
+    "body": "A study set on Lexie is for the person who made it, so Lexie no longer shares sets."
   }
 }

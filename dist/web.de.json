@@ -418,12 +418,6 @@
       "questions": "{count} questions",
       "keyConcepts": "Key Concepts"
     },
-    "sharedViewer": {
-      "mobileCta": "This set was made with Lexie. Now make your own.",
-      "desktopCta": "This set was shared with you from Lexie. Sign up free to keep it in your workspace.",
-      "getLexie": "Get Lexie",
-      "saveToWorkspace": "Save to my workspace"
-    },
     "courseView": {
       "back": "Courses",
       "chaptersMetaOne": "{count} section",
@@ -581,7 +575,6 @@
       "openQuestionsOne": "{count} open questions",
       "openQuestionsOther": "{count} open questions",
       "upgrade": "Upgrade to Lexie Pro",
-      "keepSharedSet": "Save this set to my workspace",
       "back": "Back",
       "aiDisclaimer": "Lexie is AI and can make mistakes",
       "createCtaTitle": "Now make your own set",
@@ -643,8 +636,6 @@
       "legalAnd": " and ",
       "legalPrivacy": "Privacy Policy",
       "legalSuffix": ".",
-      "sharedTitle": "Keep this set",
-      "sharedSubtitle": "This set was shared with you. Sign up free and it stays in your own workspace.",
       "prepTitle": "Continue in your Lexie workspace",
       "prepSubtitle": "Create a free account and the whole prep library plus your own sets are in one place when you come back.",
       "prepSaving": "Opening your workspace…",
@@ -652,6 +643,10 @@
       "prepSavedBody": "This set lives in your workspace library. You can also keep studying right here.",
       "prepGoToWorkspace": "Go to workspace",
       "prepStayHere": "Keep studying here"
+    },
+    "sharingEnded": {
+      "title": "This link no longer works",
+      "body": "A study set on Lexie is for the person who made it, so Lexie no longer shares sets."
     },
     "prepGuide": {
       "title": "Study guide",

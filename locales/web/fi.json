@@ -407,12 +407,6 @@
       "questions": "{count} kysymystä",
       "keyConcepts": "Pääkohdat"
     },
-    "sharedViewer": {
-      "mobileCta": "Tämä setti on tehty Lexiellä. Tee nyt omasi.",
-      "desktopCta": "Tämä setti jaettiin sinulle Lexiestä. Luo maksuton tili, niin setti säilyy työtilassasi.",
-      "getLexie": "Lataa Lexie",
-      "saveToWorkspace": "Tallenna työtilaani"
-    },
     "courseView": {
       "back": "Kurssit",
       "chaptersMetaOne": "{count} kokonaisuus",
@@ -542,7 +536,6 @@
       "openQuestionsOne": "{count} avoin kysymys",
       "openQuestionsOther": "{count} avointa kysymystä",
       "upgrade": "Hanki Lexie Pro",
-      "keepSharedSet": "Tallenna setti työtilaani",
       "back": "Takaisin",
       "aiDisclaimer": "Lexie käyttää tekoälyä ja voi erehtyä",
       "createCtaTitle": "Tee nyt oma setti",
@@ -589,8 +582,6 @@
       "legalAnd": " ja ",
       "legalPrivacy": "tietosuojakäytännön",
       "legalSuffix": ".",
-      "sharedTitle": "Pidä tämä setti",
-      "sharedSubtitle": "Sait tämän setin jaettuna. Luo maksuton tili, niin setti säilyy omassa työtilassasi.",
       "prepTitle": "Jatka Lexien työtilassa",
       "prepSubtitle": "Luo maksuton tili, niin koko kertauskirjasto ja omat settisi ovat yhdessä paikassa, kun palaat.",
       "prepSaving": "Avataan työtilaa…",
@@ -598,6 +589,10 @@
       "prepSavedBody": "Tämä setti löytyy työtilasi kirjastosta. Voit myös jatkaa harjoittelua tällä sivulla.",
       "prepGoToWorkspace": "Siirry työtilaan",
       "prepStayHere": "Jatka tällä sivulla"
+    },
+    "sharingEnded": {
+      "title": "Tämä linkki ei enää toimi",
+      "body": "Lexien harjoitussetti on sen tekijän omaan käyttöön, joten Lexie ei enää jaa harjoitussettejä."
     }
   }
 }
