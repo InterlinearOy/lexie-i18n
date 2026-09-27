@@ -90,7 +90,8 @@
     "cardCountOne": "{count} Karte",
     "cardCountMany": "{count} Karten",
     "questionCountOne": "{count} Aufgabe",
-    "questionCountMany": "{count} Aufgaben"
+    "questionCountMany": "{count} Aufgaben",
+    "lessonNumber": "Lektion {number}"
   },
   "login": {
     "title": "Anmelden",
