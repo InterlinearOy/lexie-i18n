@@ -90,7 +90,8 @@
     "cardCountOne": "{count} kortti",
     "cardCountMany": "{count} korttia",
     "questionCountOne": "{count} tehtävä",
-    "questionCountMany": "{count} tehtävää"
+    "questionCountMany": "{count} tehtävää",
+    "lessonNumber": "Oppitunti {number}"
   },
   "login": {
     "title": "Kirjaudu sisään",
