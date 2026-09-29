@@ -302,6 +302,7 @@
     "earnFreeSets": "Earn free sets",
     "upgradeToPro": "Upgrade to Lexie Pro",
     "redeemCode": "Redeem code",
+    "trash": "Trash",
     "giftLexie": "Gift Lexie",
     "tellAFriend": "Tell a friend",
     "proPass": {
@@ -412,6 +413,19 @@
         "continueButton": "Continue to cancel"
       }
     }
+  },
+  "trash": {
+    "title": "Trash",
+    "back": "Back",
+    "retentionNote": "Deleted study sets stay here for 30 days. After that, Lexie removes them for good.",
+    "deletedOn": "Deleted {date}",
+    "restore": "Restore",
+    "deleteForever": "Delete forever",
+    "cancel": "Cancel",
+    "deleteForeverTitle": "Delete forever?",
+    "deleteForeverMessage": "This removes \"{title}\" and its progress for good. You cannot undo this.",
+    "emptyTitle": "Trash is empty",
+    "emptyBody": "Study sets you delete stay here for 30 days, so you can restore them if you change your mind."
   },
   "preview": {
     "title": "Preview",
@@ -942,6 +956,7 @@
     "dictate": "Dictate",
     "stopDictation": "Stop",
     "viewGrade": "View grade",
+    "practisedTimes": "Practised {count} times",
     "placeholderTypeOrDictate": "Type or dictate your answer",
     "noQuestionToDisplay": "No question to display."
   },

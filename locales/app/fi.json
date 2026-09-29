@@ -302,6 +302,7 @@
     "earnFreeSets": "Ansaitse ilmaisia settejä",
     "upgradeToPro": "Päivitä Lexie Prohon",
     "redeemCode": "Lunasta koodi",
+    "trash": "Roskakori",
     "giftLexie": "Pyydä Lexie lahjaksi",
     "tellAFriend": "Kerro kaverille",
     "proPass": {
@@ -412,6 +413,19 @@
         "continueButton": "Jatka peruutukseen"
       }
     }
+  },
+  "trash": {
+    "title": "Roskakori",
+    "back": "Takaisin",
+    "retentionNote": "Poistetut harjoitussetit säilyvät täällä 30 päivää. Sen jälkeen Lexie poistaa ne lopullisesti.",
+    "deletedOn": "Poistettu {date}",
+    "restore": "Palauta",
+    "deleteForever": "Poista lopullisesti",
+    "cancel": "Peruuta",
+    "deleteForeverTitle": "Poistetaanko lopullisesti?",
+    "deleteForeverMessage": "\"{title}\" ja sen edistyminen poistetaan pysyvästi. Tätä ei voi kumota.",
+    "emptyTitle": "Roskakori on tyhjä",
+    "emptyBody": "Poistamasi harjoitussetit säilyvät täällä 30 päivää, joten voit palauttaa ne, jos muutat mielesi."
   },
   "preview": {
     "title": "Esikatselu",
@@ -942,6 +956,7 @@
     "dictate": "Sanele",
     "stopDictation": "Lopeta",
     "viewGrade": "Katso pisteet",
+    "practisedTimes": "Harjoiteltu {count} kertaa",
     "placeholderTypeOrDictate": "Kirjoita tai sanele vastaus",
     "noQuestionToDisplay": "Ei näytettävää kysymystä."
   },

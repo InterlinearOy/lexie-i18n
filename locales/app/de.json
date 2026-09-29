@@ -302,6 +302,7 @@
     "earnFreeSets": "Gratis-Lektionen verdienen",
     "upgradeToPro": "Auf Lexie Pro upgraden",
     "redeemCode": "Code einlösen",
+    "trash": "Papierkorb",
     "giftLexie": "Lexie schenken lassen",
     "tellAFriend": "Weitersagen",
     "proPass": {
@@ -412,6 +413,19 @@
         "continueButton": "Weiter zur Kündigung"
       }
     }
+  },
+  "trash": {
+    "title": "Papierkorb",
+    "back": "Zurück",
+    "retentionNote": "Gelöschte Lektionen bleiben 30 Tage hier. Danach löscht Lexie sie endgültig.",
+    "deletedOn": "Gelöscht am {date}",
+    "restore": "Wiederherstellen",
+    "deleteForever": "Endgültig löschen",
+    "cancel": "Abbrechen",
+    "deleteForeverTitle": "Endgültig löschen?",
+    "deleteForeverMessage": "„{title}“ und dein Fortschritt darin werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.",
+    "emptyTitle": "Der Papierkorb ist leer",
+    "emptyBody": "Lektionen, die du löschst, bleiben 30 Tage hier. So kannst du sie wiederherstellen, wenn du es dir anders überlegst."
   },
   "preview": {
     "title": "Vorschau",
@@ -942,6 +956,7 @@
     "dictate": "Diktieren",
     "stopDictation": "Stopp",
     "viewGrade": "Bewertung ansehen",
+    "practisedTimes": "{count}-mal geübt",
     "placeholderTypeOrDictate": "Antwort schreiben oder diktieren",
     "noQuestionToDisplay": "Keine Frage zum Anzeigen."
   },
