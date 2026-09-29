@@ -293,7 +293,24 @@
       "deleteConfirmTitle": "Poista tili",
       "deleteConfirmMessage": "Tämä poistaa tilisi ja siihen tallennetut tiedot pysyvästi. Toimintoa ei voi perua.",
       "deleteConfirm": "Poista",
-      "deleteError": "Tilin poistaminen epäonnistui. Yritä hetken kuluttua uudelleen."
+      "deleteError": "Tilin poistaminen epäonnistui. Yritä hetken kuluttua uudelleen.",
+      "sync": "Synkronointi",
+      "syncBody": "Harjoitussettisi ovat samat täällä ja lexielearn.comissa. Synkronoi heti napauttamalla riviä.",
+      "syncNever": "Ei vielä",
+      "syncJustNow": "Juuri nyt",
+      "syncMinutesAgo": "{count} min sitten",
+      "syncHoursAgo": "{count} t sitten",
+      "syncYesterday": "Eilen",
+      "syncDaysAgo": "{count} päivää sitten",
+      "syncWaiting": "Odottaa",
+      "syncWaitingBodyOne": "1 muutos lähtee, kun olet verkossa.",
+      "syncWaitingBodyMany": "{count} muutosta lähtee, kun olet verkossa.",
+      "syncChoose": "Valitse",
+      "syncChooseBody": "Synkronointi odottaa valintaasi.",
+      "syncTooLargeOne": "1 harjoitussetti on liian suuri synkronoitavaksi. Se jää tälle puhelimelle.",
+      "syncTooLargeMany": "{count} harjoitussettiä on liian suuria synkronoitavaksi. Ne jäävät tälle puhelimelle.",
+      "syncAccountFull": "Tililläsi on 500 harjoitussettiä, mikä on synkronoinnin yläraja. Uudet harjoitussetit jäävät tälle puhelimelle.",
+      "emptyBodySync": "Kirjaudu sisään, niin näet harjoitussettisi myös lexielearn.comissa."
     },
     "profileSettings": "Profiili",
     "manageSubscription": "Hallinnoi tilausta",
@@ -436,6 +453,16 @@
     "deleteForeverMessage": "\"{title}\" ja sen edistyminen poistetaan pysyvästi. Tätä ei voi kumota.",
     "emptyTitle": "Roskakori on tyhjä",
     "emptyBody": "Poistamasi harjoitussetit säilyvät täällä 30 päivää, joten voit palauttaa ne, jos muutat mielesi."
+  },
+  "syncChoice": {
+    "title": "Tällä puhelimella on toisen tilin harjoitussettejä",
+    "body": "Kirjauduit eri tilillä. Tämän puhelimen {count} harjoitussettiä on tähän asti synkronoitu aiempaan tiliisi.",
+    "bodyOne": "Kirjauduit eri tilillä. Tämän puhelimen harjoitussetti on tähän asti synkronoitu aiempaan tiliisi.",
+    "add": "Lisää ne tälle tilille",
+    "addCaption": "Ne näkyvät myös lexielearn.comissa.",
+    "keep": "Pidä ne vain tällä puhelimella",
+    "keepCaption": "Ne jäävät tänne eivätkä synkronoidu. Uudet harjoitussetit synkronoituvat tavalliseen tapaan.",
+    "back": "Takaisin"
   },
   "preview": {
     "title": "Esikatselu",

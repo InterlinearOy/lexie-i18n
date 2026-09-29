@@ -283,7 +283,24 @@
       "deleteConfirmTitle": "Konto löschen",
       "deleteConfirmMessage": "Das löscht dein Konto und alle darin gespeicherten Daten endgültig. Das lässt sich nicht rückgängig machen.",
       "deleteConfirm": "Löschen",
-      "deleteError": "Das Konto konnte nicht gelöscht werden. Versuch es gleich noch mal."
+      "deleteError": "Das Konto konnte nicht gelöscht werden. Versuch es gleich noch mal.",
+      "sync": "Synchronisierung",
+      "syncBody": "Deine Lektionen sind hier und auf lexielearn.com gleich. Tippe auf die Zeile, um jetzt zu synchronisieren.",
+      "syncNever": "Noch nicht",
+      "syncJustNow": "Gerade eben",
+      "syncMinutesAgo": "vor {count} Min.",
+      "syncHoursAgo": "vor {count} Std.",
+      "syncYesterday": "Gestern",
+      "syncDaysAgo": "vor {count} Tagen",
+      "syncWaiting": "Wartet",
+      "syncWaitingBodyOne": "1 Änderung wird gesendet, sobald du online bist.",
+      "syncWaitingBodyMany": "{count} Änderungen werden gesendet, sobald du online bist.",
+      "syncChoose": "Auswählen",
+      "syncChooseBody": "Die Synchronisierung wartet auf deine Auswahl.",
+      "syncTooLargeOne": "1 Lektion ist zu groß für die Synchronisierung. Sie bleibt auf diesem Handy.",
+      "syncTooLargeMany": "{count} Lektionen sind zu groß für die Synchronisierung. Sie bleiben auf diesem Handy.",
+      "syncAccountFull": "Dein Konto hat 500 Lektionen, das Maximum für die Synchronisierung. Neue Lektionen bleiben auf diesem Handy.",
+      "emptyBodySync": "Melde dich an, um deine Lektionen auch auf lexielearn.com zu sehen."
     },
     "profileSettings": "Profil",
     "manageSubscription": "Abo verwalten",
@@ -426,6 +443,16 @@
     "deleteForeverMessage": "„{title}“ und dein Fortschritt darin werden endgültig gelöscht. Das lässt sich nicht rückgängig machen.",
     "emptyTitle": "Der Papierkorb ist leer",
     "emptyBody": "Lektionen, die du löschst, bleiben 30 Tage hier. So kannst du sie wiederherstellen, wenn du es dir anders überlegst."
+  },
+  "syncChoice": {
+    "title": "Auf diesem Handy sind Lektionen von einem anderen Konto",
+    "body": "Du hast dich mit einem anderen Konto angemeldet. Die {count} Lektionen auf diesem Handy wurden bisher mit deinem vorherigen Konto synchronisiert.",
+    "bodyOne": "Du hast dich mit einem anderen Konto angemeldet. Die Lektion auf diesem Handy wurde bisher mit deinem vorherigen Konto synchronisiert.",
+    "add": "Zu diesem Konto hinzufügen",
+    "addCaption": "Sie erscheinen auch auf lexielearn.com.",
+    "keep": "Nur auf diesem Handy behalten",
+    "keepCaption": "Sie bleiben hier und werden nicht synchronisiert. Neue Lektionen werden wie gewohnt synchronisiert.",
+    "back": "Zurück"
   },
   "preview": {
     "title": "Vorschau",

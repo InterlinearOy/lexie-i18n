@@ -283,7 +283,24 @@
       "deleteConfirmTitle": "Delete account",
       "deleteConfirmMessage": "This permanently deletes your account and everything saved to it. This cannot be undone.",
       "deleteConfirm": "Delete",
-      "deleteError": "Could not delete the account. Try again in a moment."
+      "deleteError": "Could not delete the account. Try again in a moment.",
+      "sync": "Sync",
+      "syncBody": "Your sets are the same here and on lexielearn.com. Tap the row to sync now.",
+      "syncNever": "Not yet",
+      "syncJustNow": "Just now",
+      "syncMinutesAgo": "{count} min ago",
+      "syncHoursAgo": "{count} h ago",
+      "syncYesterday": "Yesterday",
+      "syncDaysAgo": "{count} days ago",
+      "syncWaiting": "Waiting",
+      "syncWaitingBodyOne": "1 change goes up when you're online.",
+      "syncWaitingBodyMany": "{count} changes go up when you're online.",
+      "syncChoose": "Choose",
+      "syncChooseBody": "Sync is waiting for your choice.",
+      "syncTooLargeOne": "1 set is too large to sync. It stays on this phone.",
+      "syncTooLargeMany": "{count} sets are too large to sync. They stay on this phone.",
+      "syncAccountFull": "Your account has 500 sets, the most that sync. New sets stay on this phone.",
+      "emptyBodySync": "Sign in to see your sets on lexielearn.com too."
     },
     "profileSettings": "Profile",
     "manageSubscription": "Manage subscription",
@@ -426,6 +443,16 @@
     "deleteForeverMessage": "This removes \"{title}\" and its progress for good. You cannot undo this.",
     "emptyTitle": "Trash is empty",
     "emptyBody": "Study sets you delete stay here for 30 days, so you can restore them if you change your mind."
+  },
+  "syncChoice": {
+    "title": "This phone has sets from another account",
+    "body": "You signed in with a different account. The {count} sets on this phone synced with your previous account until now.",
+    "bodyOne": "You signed in with a different account. The set on this phone synced with your previous account until now.",
+    "add": "Add them to this account",
+    "addCaption": "They also show on lexielearn.com.",
+    "keep": "Keep them on this phone only",
+    "keepCaption": "They stay here and don't sync. New sets sync as usual.",
+    "back": "Back"
   },
   "preview": {
     "title": "Preview",
