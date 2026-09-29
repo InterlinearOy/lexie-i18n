@@ -513,7 +513,7 @@
     "noProfile": "No profile selected",
     "languageComingSoon": "Language settings coming soon!",
     "deleteStudySet": "Delete study set",
-    "deleteConfirmation": "Are you sure you want to delete this study set? This action cannot be undone.",
+    "deleteConfirmation": "The study set moves to the trash. You can restore it there for 30 days.",
     "delete": "Delete",
     "deleteError": "Failed to delete study set",
     "renameFailed": "Failed to rename study set",
