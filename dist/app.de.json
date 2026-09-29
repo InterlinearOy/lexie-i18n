@@ -513,7 +513,7 @@
     "noProfile": "Kein Profil ausgewählt",
     "languageComingSoon": "Spracheinstellungen kommen bald.",
     "deleteStudySet": "Lektion löschen",
-    "deleteConfirmation": "Willst du diese Lektion wirklich löschen? Das lässt sich nicht rückgängig machen.",
+    "deleteConfirmation": "Die Lektion kommt in den Papierkorb. Dort kannst du sie 30 Tage lang wiederherstellen.",
     "delete": "Löschen",
     "deleteError": "Die Lektion konnte nicht gelöscht werden",
     "renameFailed": "Die Lektion konnte nicht umbenannt werden",
