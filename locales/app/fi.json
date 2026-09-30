@@ -91,7 +91,12 @@
     "cardCountMany": "{count} korttia",
     "questionCountOne": "{count} tehtävä",
     "questionCountMany": "{count} tehtävää",
-    "lessonNumber": "Oppitunti {number}"
+    "lessonNumber": "Oppitunti {number}",
+    "allCourses": "Kaikki kurssit",
+    "myCourses": "Omat kurssit",
+    "notStarted": "Ei aloitettu",
+    "myCoursesEmpty": "Et ole vielä lisännyt kursseja.",
+    "browseCourses": "Selaa kursseja"
   },
   "login": {
     "title": "Kirjaudu sisään",

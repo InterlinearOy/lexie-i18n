@@ -91,7 +91,12 @@
     "cardCountMany": "{count} cards",
     "questionCountOne": "{count} question",
     "questionCountMany": "{count} questions",
-    "lessonNumber": "Lesson {number}"
+    "lessonNumber": "Lesson {number}",
+    "allCourses": "All courses",
+    "myCourses": "My courses",
+    "notStarted": "Not started",
+    "myCoursesEmpty": "You haven't added any courses yet.",
+    "browseCourses": "Browse courses"
   },
   "login": {
     "title": "Sign in",
