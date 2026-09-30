@@ -214,7 +214,8 @@
       "finish": "Finish the set",
       "finishFailed": "That didn't work. Try again in a moment."
     },
-    "subjectHint": "Write the subject name"
+    "subjectHint": "Write the subject name",
+    "images": "Images"
   },
   "progressive": {
     "toasts": {
@@ -1034,7 +1035,9 @@
       "accuracy": "Accuracy",
       "done": "Done",
       "hideOne": "Hide one",
-      "hideAll": "Hide all"
+      "hideAll": "Hide all",
+      "nextImage": "Next: {title}",
+      "imageNumber": "Image {number}"
     },
     "edit": {
       "title": "Edit Occlusions",
