@@ -222,6 +222,7 @@
       "finishFailed": "That didn't work. Try again in a moment."
     },
     "subjectHint": "Write the subject name",
+    "images": "Images",
     "loadingAudio": "Generating the audio",
     "read": "Read",
     "listen": "Listen"
@@ -1086,7 +1087,9 @@
       "accuracy": "Accuracy",
       "done": "Done",
       "hideOne": "Hide one",
-      "hideAll": "Hide all"
+      "hideAll": "Hide all",
+      "nextImage": "Next: {title}",
+      "imageNumber": "Image {number}"
     },
     "edit": {
       "title": "Edit Occlusions",

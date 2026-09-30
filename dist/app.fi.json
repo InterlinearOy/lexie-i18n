@@ -222,6 +222,7 @@
       "finishFailed": "Viimeistely ei onnistunut. Yritä hetken kuluttua uudelleen."
     },
     "subjectHint": "Kirjoita oppiaineen nimi",
+    "images": "Kuvat",
     "loadingAudio": "Luon ääniversion",
     "read": "Lue",
     "listen": "Kuuntele"
@@ -1086,7 +1087,9 @@
       "accuracy": "Tarkkuus",
       "done": "Valmis",
       "hideOne": "Peitä yksi",
-      "hideAll": "Peitä kaikki"
+      "hideAll": "Peitä kaikki",
+      "nextImage": "Seuraava: {title}",
+      "imageNumber": "Kuva {number}"
     },
     "edit": {
       "title": "Muokkaa käsitteitä",

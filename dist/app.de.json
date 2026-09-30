@@ -222,6 +222,7 @@
       "finishFailed": "Das hat nicht geklappt. Versuch es gleich noch einmal."
     },
     "subjectHint": "Schreib den Namen des Fachs",
+    "images": "Bilder",
     "loadingAudio": "Ich erstelle die Audioversion",
     "read": "Lesen",
     "listen": "Hören"
@@ -1086,7 +1087,9 @@
       "accuracy": "Trefferquote",
       "done": "Fertig",
       "hideOne": "Eins abdecken",
-      "hideAll": "Alle abdecken"
+      "hideAll": "Alle abdecken",
+      "nextImage": "Weiter: {title}",
+      "imageNumber": "Bild {number}"
     },
     "edit": {
       "title": "Begriffe bearbeiten",
