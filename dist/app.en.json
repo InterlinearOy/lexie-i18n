@@ -461,14 +461,11 @@
     "emptyBody": "Study sets you delete stay here for 30 days, so you can restore them if you change your mind."
   },
   "syncChoice": {
-    "title": "This phone has sets from another account",
-    "body": "You signed in with a different account. The {count} sets on this phone synced with your previous account until now.",
-    "bodyOne": "You signed in with a different account. The set on this phone synced with your previous account until now.",
-    "add": "Add them to this account",
-    "addCaption": "They also show on lexielearn.com.",
-    "keep": "Keep them on this phone only",
-    "keepCaption": "They stay here and don't sync. New sets sync as usual.",
-    "back": "Back"
+    "title": "These sets belong to your other account",
+    "body": "The {count} sets on this phone are in the account you used before. They stay on this phone and do not sync with this account. Sets you make from now on sync with this account.",
+    "bodyOne": "The set on this phone is in the account you used before. It stays on this phone and does not sync with this account. Sets you make from now on sync with this account.",
+    "back": "Back",
+    "continue": "OK"
   },
   "preview": {
     "title": "Preview",
