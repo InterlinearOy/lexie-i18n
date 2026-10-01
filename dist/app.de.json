@@ -291,6 +291,7 @@
     "accountScreen": {
       "title": "Konto",
       "emptyBody": "Melde dich an, wenn du einen Pro-Pass auf lexielearn.com gekauft hast.",
+      "signedOutBody": "Signed out. Your sets stay on this phone and stop syncing.",
       "createAccount": "Anmelden oder Konto erstellen",
       "loggedIn": "Angemeldet",
       "logOut": "Abmelden",
