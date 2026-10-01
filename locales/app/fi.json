@@ -281,6 +281,7 @@
     "accountScreen": {
       "title": "Tili",
       "emptyBody": "Kirjaudu sisään, jos ostit Pro Passin osoitteessa lexielearn.com.",
+      "signedOutBody": "Olet kirjautunut ulos. Harjoitussettisi jäävät tälle puhelimelle, eivätkä ne enää synkronoidu.",
       "createAccount": "Kirjaudu tai luo tili",
       "loggedIn": "Kirjautunut sisään",
       "logOut": "Kirjaudu ulos",

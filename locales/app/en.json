@@ -281,6 +281,7 @@
     "accountScreen": {
       "title": "Account",
       "emptyBody": "Sign in to use a Pro Pass bought on lexielearn.com.",
+      "signedOutBody": "Signed out. Your sets stay on this phone and stop syncing.",
       "createAccount": "Sign in or create an account",
       "loggedIn": "Logged in",
       "logOut": "Log out",
