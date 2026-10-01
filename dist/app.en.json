@@ -1330,5 +1330,12 @@
   "shareEnded": {
     "title": "This link no longer works",
     "body": "A study set on Lexie is for the person who made it, so Lexie no longer shares sets."
+  },
+  "welcomeGuide": {
+    "rowSubtitle": "Intro",
+    "hide": "Hide",
+    "cardTitle": "Welcome!",
+    "cardSubtitle": "Here's how to get the most out of Lexie",
+    "start": "Start"
   }
 }

@@ -1275,5 +1275,12 @@
   "shareEnded": {
     "title": "Tämä linkki ei enää toimi",
     "body": "Lexien harjoitussetti on sen tekijän omaan käyttöön, joten Lexie ei enää jaa harjoitussettejä."
+  },
+  "welcomeGuide": {
+    "rowSubtitle": "Intro",
+    "hide": "Piilota",
+    "cardTitle": "Tervetuloa!",
+    "cardSubtitle": "Näin saat Lexiestä kaiken irti",
+    "start": "Aloita"
   }
 }

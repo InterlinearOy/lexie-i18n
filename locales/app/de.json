@@ -1271,5 +1271,12 @@
     "law": "Jura",
     "arts": "Kunst und Musik",
     "other": "Sonstiges"
+  },
+  "welcomeGuide": {
+    "rowSubtitle": "Intro",
+    "hide": "Ausblenden",
+    "cardTitle": "Willkommen!",
+    "cardSubtitle": "So holst du das Beste aus Lexie heraus",
+    "start": "Starten"
   }
 }
