@@ -311,8 +311,8 @@
       "syncWaiting": "Odottaa",
       "syncWaitingBodyOne": "1 muutos lähtee, kun olet verkossa.",
       "syncWaitingBodyMany": "{count} muutosta lähtee, kun olet verkossa.",
-      "syncChoose": "Valitse",
-      "syncChooseBody": "Synkronointi odottaa valintaasi.",
+      "syncChoose": "Lue",
+      "syncChooseBody": "Synkronointi odottaa, että luet ilmoituksen.",
       "syncTooLargeOne": "1 harjoitussetti on liian suuri synkronoitavaksi. Se jää tälle puhelimelle.",
       "syncTooLargeMany": "{count} harjoitussettiä on liian suuria synkronoitavaksi. Ne jäävät tälle puhelimelle.",
       "syncAccountFull": "Tililläsi on 500 harjoitussettiä, mikä on synkronoinnin yläraja. Uudet harjoitussetit jäävät tälle puhelimelle.",
@@ -461,14 +461,11 @@
     "emptyBody": "Poistamasi harjoitussetit säilyvät täällä 30 päivää, joten voit palauttaa ne, jos muutat mielesi."
   },
   "syncChoice": {
-    "title": "Tällä puhelimella on toisen tilin harjoitussettejä",
-    "body": "Kirjauduit eri tilillä. Tämän puhelimen {count} harjoitussettiä on tähän asti synkronoitu aiempaan tiliisi.",
-    "bodyOne": "Kirjauduit eri tilillä. Tämän puhelimen harjoitussetti on tähän asti synkronoitu aiempaan tiliisi.",
-    "add": "Lisää ne tälle tilille",
-    "addCaption": "Ne näkyvät myös lexielearn.comissa.",
-    "keep": "Pidä ne vain tällä puhelimella",
-    "keepCaption": "Ne jäävät tänne eivätkä synkronoidu. Uudet harjoitussetit synkronoituvat tavalliseen tapaan.",
-    "back": "Takaisin"
+    "title": "Nämä harjoitussetit kuuluvat toiselle tilillesi",
+    "body": "Tämän puhelimen {count} harjoitussettiä on tilillä, jota käytit aiemmin. Ne jäävät tähän puhelimeen eivätkä synkronoidu tälle tilille. Harjoitussetit, joita ei ole vielä synkronoitu, ja tästä eteenpäin tekemäsi harjoitussetit synkronoituvat tälle tilille.",
+    "bodyOne": "Tämän puhelimen harjoitussetti on tilillä, jota käytit aiemmin. Se jää tähän puhelimeen eikä synkronoidu tälle tilille. Harjoitussetit, joita ei ole vielä synkronoitu, ja tästä eteenpäin tekemäsi harjoitussetit synkronoituvat tälle tilille.",
+    "back": "Takaisin",
+    "continue": "Selvä"
   },
   "preview": {
     "title": "Esikatselu",
