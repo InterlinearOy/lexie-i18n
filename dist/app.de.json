@@ -311,8 +311,8 @@
       "syncWaiting": "Wartet",
       "syncWaitingBodyOne": "1 Änderung wird gesendet, sobald du online bist.",
       "syncWaitingBodyMany": "{count} Änderungen werden gesendet, sobald du online bist.",
-      "syncChoose": "Auswählen",
-      "syncChooseBody": "Die Synchronisierung wartet auf deine Auswahl.",
+      "syncChoose": "Lesen",
+      "syncChooseBody": "Die Synchronisierung wartet, bis du einen Hinweis liest.",
       "syncTooLargeOne": "1 Lektion ist zu groß für die Synchronisierung. Sie bleibt auf diesem Handy.",
       "syncTooLargeMany": "{count} Lektionen sind zu groß für die Synchronisierung. Sie bleiben auf diesem Handy.",
       "syncAccountFull": "Dein Konto hat 500 Lektionen, das Maximum für die Synchronisierung. Neue Lektionen bleiben auf diesem Handy.",
@@ -462,8 +462,8 @@
   },
   "syncChoice": {
     "title": "Diese Lektionen gehören zu deinem anderen Konto",
-    "body": "Die {count} Lektionen auf diesem Handy sind in dem Konto, das du vorher benutzt hast. Sie bleiben auf diesem Handy und werden nicht mit diesem Konto synchronisiert. Lektionen, die du ab jetzt erstellst, werden mit diesem Konto synchronisiert.",
-    "bodyOne": "Die Lektion auf diesem Handy ist in dem Konto, das du vorher benutzt hast. Sie bleibt auf diesem Handy und wird nicht mit diesem Konto synchronisiert. Lektionen, die du ab jetzt erstellst, werden mit diesem Konto synchronisiert.",
+    "body": "Die {count} Lektionen auf diesem Handy sind in dem Konto, das du vorher benutzt hast. Sie bleiben auf diesem Handy und werden nicht mit diesem Konto synchronisiert. Lektionen, die noch nicht synchronisiert sind, und Lektionen, die du ab jetzt erstellst, werden mit diesem Konto synchronisiert.",
+    "bodyOne": "Die Lektion auf diesem Handy ist in dem Konto, das du vorher benutzt hast. Sie bleibt auf diesem Handy und wird nicht mit diesem Konto synchronisiert. Lektionen, die noch nicht synchronisiert sind, und Lektionen, die du ab jetzt erstellst, werden mit diesem Konto synchronisiert.",
     "back": "Zurück",
     "continue": "OK"
   },

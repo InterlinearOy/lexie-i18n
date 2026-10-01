@@ -311,8 +311,8 @@
       "syncWaiting": "Waiting",
       "syncWaitingBodyOne": "1 change goes up when you're online.",
       "syncWaitingBodyMany": "{count} changes go up when you're online.",
-      "syncChoose": "Choose",
-      "syncChooseBody": "Sync is waiting for your choice.",
+      "syncChoose": "Read",
+      "syncChooseBody": "Sync waits until you read a note.",
       "syncTooLargeOne": "1 set is too large to sync. It stays on this phone.",
       "syncTooLargeMany": "{count} sets are too large to sync. They stay on this phone.",
       "syncAccountFull": "Your account has 500 sets, the most that sync. New sets stay on this phone.",
@@ -462,8 +462,8 @@
   },
   "syncChoice": {
     "title": "These sets belong to your other account",
-    "body": "The {count} sets on this phone are in the account you used before. They stay on this phone and do not sync with this account. Sets you make from now on sync with this account.",
-    "bodyOne": "The set on this phone is in the account you used before. It stays on this phone and does not sync with this account. Sets you make from now on sync with this account.",
+    "body": "The {count} sets on this phone are in the account you used before. They stay on this phone and do not sync with this account. Sets that have not synced yet, and sets you make from now on, sync with this account.",
+    "bodyOne": "The set on this phone is in the account you used before. It stays on this phone and does not sync with this account. Sets that have not synced yet, and sets you make from now on, sync with this account.",
     "back": "Back",
     "continue": "OK"
   },
