@@ -302,7 +302,7 @@
       "deleteConfirm": "Poista",
       "deleteError": "Tilin poistaminen epäonnistui. Yritä hetken kuluttua uudelleen.",
       "sync": "Synkronointi",
-      "syncBody": "Harjoitussettisi ovat samat täällä ja lexielearn.comissa. Synkronoi heti napauttamalla riviä.",
+      "syncBody": "Synkronoi heti napauttamalla riviä.",
       "syncNever": "Ei vielä",
       "syncJustNow": "Juuri nyt",
       "syncMinutesAgo": "{count} min sitten",
