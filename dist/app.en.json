@@ -302,7 +302,7 @@
       "deleteConfirm": "Delete",
       "deleteError": "Could not delete the account. Try again in a moment.",
       "sync": "Sync",
-      "syncBody": "Your sets are the same here and on lexielearn.com. Tap the row to sync now.",
+      "syncBody": "Tap the row to sync now.",
       "syncNever": "Not yet",
       "syncJustNow": "Just now",
       "syncMinutesAgo": "{count} min ago",

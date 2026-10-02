@@ -302,7 +302,7 @@
       "deleteConfirm": "Löschen",
       "deleteError": "Das Konto konnte nicht gelöscht werden. Versuch es gleich noch mal.",
       "sync": "Synchronisierung",
-      "syncBody": "Deine Lektionen sind hier und auf lexielearn.com gleich. Tippe auf die Zeile, um jetzt zu synchronisieren.",
+      "syncBody": "Tippe auf die Zeile, um jetzt zu synchronisieren.",
       "syncNever": "Noch nicht",
       "syncJustNow": "Gerade eben",
       "syncMinutesAgo": "vor {count} Min.",
