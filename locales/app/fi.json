@@ -1280,5 +1280,19 @@
     "cardTitle": "Tervetuloa!",
     "cardSubtitle": "Näin saat Lexiestä kaiken irti",
     "start": "Aloita"
+  },
+  "exam": {
+    "ask": "Tämä ei kestä kauan. Sillä aikaa kun teen sen valmiiksi: luetko kokeeseen?",
+    "yes": "Luen",
+    "no": "En",
+    "when": "Milloin koe on? Suunnittelen kertauksesi sen mukaan.",
+    "pickDate": "Valitse päivä",
+    "nudge": "Valitse kokeen päivä jatkaaksesi",
+    "continue": "Jatka",
+    "gotDays": "Selvä. Kokeeseen on {days} päivää.",
+    "gotToday": "Selvä. Koe on tänään.",
+    "gotTomorrow": "Selvä. Koe on huomenna.",
+    "prevMonth": "Edellinen kuukausi",
+    "nextMonth": "Seuraava kuukausi"
   }
 }

@@ -1280,5 +1280,19 @@
     "cardTitle": "Welcome!",
     "cardSubtitle": "Here's how to get the most out of Lexie",
     "start": "Start"
+  },
+  "exam": {
+    "ask": "This won't take long. While I get it ready, are you revising for an exam?",
+    "yes": "Yes",
+    "no": "No",
+    "when": "When's the exam? I'll plan your revision around it.",
+    "pickDate": "Pick a date",
+    "nudge": "Pick the exam date to continue",
+    "continue": "Continue",
+    "gotDays": "Got it. {days} days to go.",
+    "gotToday": "Got it. The exam is today.",
+    "gotTomorrow": "Got it. The exam is tomorrow.",
+    "prevMonth": "Previous month",
+    "nextMonth": "Next month"
   }
 }
