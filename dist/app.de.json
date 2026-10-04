@@ -1335,5 +1335,19 @@
     "cardTitle": "Willkommen!",
     "cardSubtitle": "So holst du das Beste aus Lexie heraus",
     "start": "Starten"
+  },
+  "exam": {
+    "ask": "Das dauert nicht lange. Während ich es vorbereite: Lernst du für eine Prüfung?",
+    "yes": "Ja",
+    "no": "Nein",
+    "when": "Wann ist die Prüfung? Ich plane deine Wiederholung danach.",
+    "pickDate": "Datum wählen",
+    "nudge": "Wähl das Prüfungsdatum, um weiterzumachen",
+    "continue": "Weiter",
+    "gotDays": "Alles klar. Noch {days} Tage.",
+    "gotToday": "Alles klar. Die Prüfung ist heute.",
+    "gotTomorrow": "Alles klar. Die Prüfung ist morgen.",
+    "prevMonth": "Vorheriger Monat",
+    "nextMonth": "Nächster Monat"
   }
 }
