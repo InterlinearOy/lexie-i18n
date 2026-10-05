@@ -1348,6 +1348,9 @@
     "gotToday": "Selvä. Koe on tänään.",
     "gotTomorrow": "Selvä. Koe on huomenna.",
     "prevMonth": "Edellinen kuukausi",
-    "nextMonth": "Seuraava kuukausi"
+    "nextMonth": "Seuraava kuukausi",
+    "countdownToday": "Koe tänään",
+    "countdownTomorrow": "Koe huomenna",
+    "countdownDays": "{days} päivää kokeeseen"
   }
 }

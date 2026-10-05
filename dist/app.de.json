@@ -1348,6 +1348,9 @@
     "gotToday": "Alles klar. Die Prüfung ist heute.",
     "gotTomorrow": "Alles klar. Die Prüfung ist morgen.",
     "prevMonth": "Vorheriger Monat",
-    "nextMonth": "Nächster Monat"
+    "nextMonth": "Nächster Monat",
+    "countdownToday": "Prüfung heute",
+    "countdownTomorrow": "Prüfung morgen",
+    "countdownDays": "{days} Tage bis zur Prüfung"
   }
 }

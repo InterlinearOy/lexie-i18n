@@ -1293,6 +1293,9 @@
     "gotToday": "Got it. The exam is today.",
     "gotTomorrow": "Got it. The exam is tomorrow.",
     "prevMonth": "Previous month",
-    "nextMonth": "Next month"
+    "nextMonth": "Next month",
+    "countdownToday": "Exam today",
+    "countdownTomorrow": "Exam tomorrow",
+    "countdownDays": "{days} days until exam"
   }
 }
