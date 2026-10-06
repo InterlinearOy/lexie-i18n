@@ -155,6 +155,7 @@
       "rename": "Nimeä uudelleen",
       "delete": "Poista harjoitussetti",
       "changeSubject": "Vaihda oppiaine",
+      "examDate": "Kokeen päivä",
       "reorder": "Järjestä"
     },
     "rename": {
@@ -1351,6 +1352,8 @@
     "nextMonth": "Seuraava kuukausi",
     "countdownToday": "Koe tänään",
     "countdownTomorrow": "Koe huomenna",
-    "countdownDays": "{days} päivää kokeeseen"
+    "countdownDays": "{days} päivää kokeeseen",
+    "remove": "Poista päivä",
+    "save": "Tallenna"
   }
 }

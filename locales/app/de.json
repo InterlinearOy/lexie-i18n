@@ -148,6 +148,7 @@
       "rename": "Umbenennen",
       "delete": "Lektion löschen",
       "changeSubject": "Fach ändern",
+      "examDate": "Prüfungsdatum",
       "reorder": "Sortieren"
     },
     "rename": {
@@ -1291,6 +1292,8 @@
     "nextMonth": "Nächster Monat",
     "countdownToday": "Prüfung heute",
     "countdownTomorrow": "Prüfung morgen",
-    "countdownDays": "{days} Tage bis zur Prüfung"
+    "countdownDays": "{days} Tage bis zur Prüfung",
+    "remove": "Datum entfernen",
+    "save": "Speichern"
   }
 }
