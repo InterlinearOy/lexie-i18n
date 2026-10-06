@@ -148,6 +148,7 @@
       "rename": "Rename",
       "delete": "Delete study set",
       "changeSubject": "Change subject",
+      "examDate": "Exam date",
       "reorder": "Reorder"
     },
     "rename": {
@@ -1296,6 +1297,8 @@
     "nextMonth": "Next month",
     "countdownToday": "Exam today",
     "countdownTomorrow": "Exam tomorrow",
-    "countdownDays": "{days} days until exam"
+    "countdownDays": "{days} days until exam",
+    "remove": "Remove date",
+    "save": "Save"
   }
 }
