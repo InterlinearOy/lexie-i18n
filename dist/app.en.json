@@ -224,6 +224,7 @@
     },
     "subjectHint": "Write the subject name",
     "images": "Images",
+    "aiDisclaimer": "Lexie is AI and can make mistakes",
     "loadingAudio": "Generating the audio",
     "read": "Read",
     "listen": "Listen"

@@ -224,6 +224,7 @@
     },
     "subjectHint": "Schreib den Namen des Fachs",
     "images": "Bilder",
+    "aiDisclaimer": "Lexie nutzt KI und kann sich irren",
     "loadingAudio": "Ich erstelle die Audioversion",
     "read": "Lesen",
     "listen": "Hören"

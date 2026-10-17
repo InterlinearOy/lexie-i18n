@@ -224,6 +224,7 @@
     },
     "subjectHint": "Kirjoita oppiaineen nimi",
     "images": "Kuvat",
+    "aiDisclaimer": "Lexie käyttää tekoälyä ja voi erehtyä",
     "loadingAudio": "Luon ääniversion",
     "read": "Lue",
     "listen": "Kuuntele"

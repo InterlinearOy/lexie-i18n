@@ -216,7 +216,8 @@
       "finishFailed": "Das hat nicht geklappt. Versuch es gleich noch einmal."
     },
     "subjectHint": "Schreib den Namen des Fachs",
-    "images": "Bilder"
+    "images": "Bilder",
+    "aiDisclaimer": "Lexie nutzt KI und kann sich irren"
   },
   "progressive": {
     "toasts": {
