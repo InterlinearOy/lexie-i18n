@@ -216,7 +216,8 @@
       "finishFailed": "Viimeistely ei onnistunut. Yritä hetken kuluttua uudelleen."
     },
     "subjectHint": "Kirjoita oppiaineen nimi",
-    "images": "Kuvat"
+    "images": "Kuvat",
+    "aiDisclaimer": "Lexie käyttää tekoälyä ja voi erehtyä"
   },
   "progressive": {
     "toasts": {

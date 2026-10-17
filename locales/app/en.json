@@ -216,7 +216,8 @@
       "finishFailed": "That didn't work. Try again in a moment."
     },
     "subjectHint": "Write the subject name",
-    "images": "Images"
+    "images": "Images",
+    "aiDisclaimer": "Lexie is AI and can make mistakes"
   },
   "progressive": {
     "toasts": {
