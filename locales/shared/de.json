@@ -10,7 +10,8 @@
     "submit": "Abgeben",
     "selectAnswer": "Wähle eine Antwort, bevor du abgibst.",
     "fillAllBlanks": "Füll alle Lücken aus, bevor du prüfst",
-    "studyTextTitle": "Text"
+    "studyTextTitle": "Text",
+    "cantListen": "Ich kann gerade nicht zuhören"
   },
   "flashcards": {
     "noCards": "Keine Karteikarten vorhanden",

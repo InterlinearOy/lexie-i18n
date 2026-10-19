@@ -607,9 +607,11 @@
       "ok": "OK",
       "skip": "Skip question",
       "seeResults": "See results",
+      "cantSpeak": "I can't speak right now",
       "continue": "Continue",
       "tryAgain": "Try again",
-      "submit": "Submit"
+      "submit": "Submit",
+      "cantListen": "I can't listen right now"
     },
     "alerts": {
       "noQuestionsTitle": "Error",
@@ -1105,6 +1107,7 @@
     "writeMeaning": "Write the meaning",
     "typeAnswer": "Type your answer...",
     "correctWord": "The correct word is",
+    "writeMeaningIn": "Write the meaning in {language}",
     "writeIn": "Write in {language}"
   },
   "translation": {

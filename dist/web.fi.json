@@ -497,6 +497,8 @@
         "russian": "venäjäksi",
         "estonian": "viroksi"
       },
+      "meaningPrompt": "Kirjoita merkitys",
+      "cantListen": "En voi kuunnella nyt",
       "writePrompt": "Kirjoita {language}"
     },
     "flashcards": {

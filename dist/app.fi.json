@@ -607,9 +607,11 @@
       "ok": "OK",
       "skip": "Ohita kysymys",
       "seeResults": "Näytä tulokset",
+      "cantSpeak": "En voi puhua nyt",
       "continue": "Jatka",
       "tryAgain": "Yritä uudelleen",
-      "submit": "Vastaa"
+      "submit": "Vastaa",
+      "cantListen": "En voi kuunnella nyt"
     },
     "alerts": {
       "noQuestionsTitle": "Virhe",
@@ -1105,6 +1107,7 @@
     "writeMeaning": "Kirjoita merkitys",
     "typeAnswer": "Kirjoita vastaus...",
     "correctWord": "Oikea vastaus on",
+    "writeMeaningIn": "Kirjoita merkitys {language}",
     "writeIn": "Kirjoita {language}"
   },
   "translation": {

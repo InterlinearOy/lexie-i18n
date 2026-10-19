@@ -504,6 +504,8 @@
         "russian": "Russisch",
         "estonian": "Estnisch"
       },
+      "meaningPrompt": "Schreib die Bedeutung",
+      "cantListen": "Ich kann gerade nicht zuhören",
       "writePrompt": "Schreib auf {language}"
     },
     "flashcards": {
