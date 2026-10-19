@@ -591,7 +591,8 @@
     "buttons": {
       "ok": "OK",
       "skip": "Ohita kysymys",
-      "seeResults": "Näytä tulokset"
+      "seeResults": "Näytä tulokset",
+      "cantSpeak": "En voi puhua nyt"
     },
     "alerts": {
       "noQuestionsTitle": "Virhe",
@@ -1052,7 +1053,8 @@
     "writeWhatYouHear": "Kirjoita kuulemasi {language}",
     "writeMeaning": "Kirjoita merkitys",
     "typeAnswer": "Kirjoita vastaus...",
-    "correctWord": "Oikea vastaus on"
+    "correctWord": "Oikea vastaus on",
+    "writeMeaningIn": "Kirjoita merkitys {language}"
   },
   "translation": {
     "tapToTranslate": "Käännä kielelle",

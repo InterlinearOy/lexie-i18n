@@ -607,9 +607,11 @@
       "ok": "OK",
       "skip": "Frage überspringen",
       "seeResults": "Ergebnisse anzeigen",
+      "cantSpeak": "Ich kann gerade nicht sprechen",
       "continue": "Weiter",
       "tryAgain": "Noch mal versuchen",
-      "submit": "Abgeben"
+      "submit": "Abgeben",
+      "cantListen": "Ich kann gerade nicht zuhören"
     },
     "alerts": {
       "noQuestionsTitle": "Fehler",
@@ -1105,6 +1107,7 @@
     "writeMeaning": "Schreib die Bedeutung",
     "typeAnswer": "Antwort eingeben …",
     "correctWord": "Das richtige Wort ist",
+    "writeMeaningIn": "Schreib die Bedeutung auf {language}",
     "writeIn": "Schreib auf {language}"
   },
   "translation": {

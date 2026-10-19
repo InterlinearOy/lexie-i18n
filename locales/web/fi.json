@@ -491,7 +491,8 @@
         "italian": "italiaksi",
         "russian": "venäjäksi",
         "estonian": "viroksi"
-      }
+      },
+      "meaningPrompt": "Kirjoita merkitys"
     },
     "flashcards": {
       "termsMastered": "termeistä hallussa",

@@ -590,7 +590,8 @@
     "buttons": {
       "ok": "OK",
       "skip": "Frage überspringen",
-      "seeResults": "Ergebnisse anzeigen"
+      "seeResults": "Ergebnisse anzeigen",
+      "cantSpeak": "Ich kann gerade nicht sprechen"
     },
     "alerts": {
       "noQuestionsTitle": "Fehler",
@@ -1051,7 +1052,8 @@
     "writeWhatYouHear": "Schreib auf {language}, was du hörst",
     "writeMeaning": "Schreib die Bedeutung",
     "typeAnswer": "Antwort eingeben …",
-    "correctWord": "Das richtige Wort ist"
+    "correctWord": "Das richtige Wort ist",
+    "writeMeaningIn": "Schreib die Bedeutung auf {language}"
   },
   "translation": {
     "tapToTranslate": "Übersetzen in",

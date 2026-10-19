@@ -17,6 +17,7 @@
   "quiz.continue":           { "app": "quiz.buttons.continue",            "web": "study.quiz.continueLabel" },
   "quiz.tryAgain":           { "app": "quiz.buttons.tryAgain",            "web": "study.quiz.tryAgain" },
   "quiz.submit":             { "app": "quiz.buttons.submit",              "web": "study.quiz.check" },
+  "quiz.cantListen":         { "app": "quiz.buttons.cantListen",          "web": "study.typedRecall.cantListen" },
   "quiz.selectAnswer":       { "app": "quiz.validation.selectAnswer",     "web": "study.quiz.selectAnswer" },
   "quiz.fillAllBlanks":      { "app": "quiz.validation.fillAllBlanks",    "web": "study.quiz.fillBlanks" },
   "quiz.studyTextTitle":     { "app": "quiz.studyText.title",             "web": ["study.quiz.studyText", "study.shell.studyText"] },

@@ -10,7 +10,8 @@
     "submit": "Vastaa",
     "selectAnswer": "Valitse vastaus ennen tarkistusta",
     "fillAllBlanks": "Täytä kaikki aukot ennen tarkistusta",
-    "studyTextTitle": "Teksti"
+    "studyTextTitle": "Teksti",
+    "cantListen": "En voi kuunnella nyt"
   },
   "flashcards": {
     "noCards": "Ei muistikortteja saatavilla",

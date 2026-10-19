@@ -464,7 +464,8 @@
         "italian": "Italienisch",
         "russian": "Russisch",
         "estonian": "Estnisch"
-      }
+      },
+      "meaningPrompt": "Schreib die Bedeutung"
     },
     "flashcards": {
       "termsMastered": "Begriffe gelernt",

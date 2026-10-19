@@ -10,7 +10,8 @@
     "submit": "Submit",
     "selectAnswer": "Please select an answer before checking",
     "fillAllBlanks": "Please fill all blanks before checking",
-    "studyTextTitle": "Study text"
+    "studyTextTitle": "Study text",
+    "cantListen": "I can't listen right now"
   },
   "flashcards": {
     "noCards": "No flashcards available",

@@ -498,7 +498,8 @@
         "italian": "Italian",
         "russian": "Russian",
         "estonian": "Estonian"
-      }
+      },
+      "meaningPrompt": "Write the meaning"
     },
     "flashcards": {
       "termsMastered": "terms mastered",

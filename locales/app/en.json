@@ -591,7 +591,8 @@
     "buttons": {
       "ok": "OK",
       "skip": "Skip question",
-      "seeResults": "See results"
+      "seeResults": "See results",
+      "cantSpeak": "I can't speak right now"
     },
     "alerts": {
       "noQuestionsTitle": "Error",
@@ -1052,7 +1053,8 @@
     "writeWhatYouHear": "Write what you hear in {language}",
     "writeMeaning": "Write the meaning",
     "typeAnswer": "Type your answer...",
-    "correctWord": "The correct word is"
+    "correctWord": "The correct word is",
+    "writeMeaningIn": "Write the meaning in {language}"
   },
   "translation": {
     "tapToTranslate": "Translate to",
