@@ -121,7 +121,167 @@
     "toReview": "{count} zu wiederholen",
     "lessons": "Lektionen",
     "earnMoreSets": "Mehr Lektionen verdienen",
-    "inviteFriends": "Freunde einladen"
+    "inviteFriends": "Freunde einladen",
+    "composer": {
+      "fromGallery": "Picture from your phone",
+      "pdf": "PDF file",
+      "send": "Send",
+      "prompt": "Show or tell me what you want to learn",
+      "takePhoto": "Take a photo",
+      "attach": "Add a PDF or picture",
+      "topicIdeas": [
+        {
+          "subject": "biology",
+          "kind": "topic",
+          "text": "Photosynthesis"
+        },
+        {
+          "subject": "biology",
+          "kind": "question",
+          "text": "How does a cell divide?"
+        },
+        {
+          "subject": "biology",
+          "kind": "goal",
+          "text": "Genetics for my biology test"
+        },
+        {
+          "subject": "history",
+          "kind": "topic",
+          "text": "The Cold War"
+        },
+        {
+          "subject": "history",
+          "kind": "question",
+          "text": "What caused World War 1?"
+        },
+        {
+          "subject": "history",
+          "kind": "goal",
+          "text": "The French Revolution for my history test"
+        },
+        {
+          "subject": "mathematics",
+          "kind": "topic",
+          "text": "Probability"
+        },
+        {
+          "subject": "mathematics",
+          "kind": "question",
+          "text": "How do I solve a quadratic equation?"
+        },
+        {
+          "subject": "mathematics",
+          "kind": "goal",
+          "text": "Derivatives for my maths test"
+        },
+        {
+          "subject": "chemistry",
+          "kind": "topic",
+          "text": "Acids and bases"
+        },
+        {
+          "subject": "chemistry",
+          "kind": "question",
+          "text": "What does molar mass mean?"
+        },
+        {
+          "subject": "chemistry",
+          "kind": "goal",
+          "text": "Organic chemistry for my chemistry test"
+        },
+        {
+          "subject": "physics",
+          "kind": "topic",
+          "text": "Newton's laws"
+        },
+        {
+          "subject": "physics",
+          "kind": "question",
+          "text": "Why is the sky blue?"
+        },
+        {
+          "subject": "physics",
+          "kind": "goal",
+          "text": "Electricity for my physics test"
+        },
+        {
+          "subject": "psychology",
+          "kind": "topic",
+          "text": "Memory and learning"
+        },
+        {
+          "subject": "psychology",
+          "kind": "question",
+          "text": "How does sleep affect learning?"
+        },
+        {
+          "subject": "psychology",
+          "kind": "goal",
+          "text": "Developmental psychology for my psychology test"
+        },
+        {
+          "subject": "social_studies",
+          "kind": "topic",
+          "text": "Democracy"
+        },
+        {
+          "subject": "social_studies",
+          "kind": "question",
+          "text": "How does inflation affect me?"
+        },
+        {
+          "subject": "social_studies",
+          "kind": "goal",
+          "text": "The rule of law for my civics test"
+        },
+        {
+          "subject": "literature",
+          "kind": "topic",
+          "text": "Figures of speech"
+        },
+        {
+          "subject": "literature",
+          "kind": "question",
+          "text": "How do I write a good text analysis?"
+        },
+        {
+          "subject": "literature",
+          "kind": "goal",
+          "text": "Romanticism for my literature test"
+        },
+        {
+          "subject": "geography",
+          "kind": "topic",
+          "text": "Climate change"
+        },
+        {
+          "subject": "geography",
+          "kind": "question",
+          "text": "Why do earthquakes happen?"
+        },
+        {
+          "subject": "geography",
+          "kind": "goal",
+          "text": "Population growth for my geography test"
+        },
+        {
+          "subject": "health_education",
+          "kind": "topic",
+          "text": "Stress and recovery"
+        },
+        {
+          "subject": "health_education",
+          "kind": "question",
+          "text": "How does exercise affect the brain?"
+        },
+        {
+          "subject": "health_education",
+          "kind": "goal",
+          "text": "Nutrition for my health test"
+        }
+      ]
+    }
   },
   "spacedRepAnnouncement": {
     "headerLabel": "Neu → Spaced Repetition",

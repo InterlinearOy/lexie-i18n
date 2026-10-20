@@ -144,8 +144,8 @@
     "homeTitlePost": " tänään?",
     "homeVariants": [],
     "homeRecents": "Viimeisimmät",
-    "createPrompt": "Pudota kuvakaappaus tai pdf tai liitä tekstiä, niin Lexie luo uuden harjoitussetin",
-    "createUpload": "Lisää tiedostoja tai kuvia",
+    "createPrompt": "Näytä tai kerro, mitä haluat oppia",
+    "createUpload": "Lisää PDF tai kuva",
     "createPaste": "Liitä teksti",
     "setsTitle": "Omat setit",
     "setsEmpty": "Tyhjää toistaiseksi. Tekemäsi harjoitussetit näkyvät täällä.",
@@ -173,7 +173,160 @@
     "folderEmptyCreate": "Luo setti",
     "coursesTitle": "Kurssit",
     "coursesIntro": "Täältä löydät Lexien valmiit kurssit ja oppimateriaalit",
-    "backToCourses": "Takaisin kursseihin"
+    "backToCourses": "Takaisin kursseihin",
+    "createTakePhoto": "Ota kuva",
+    "topicIdeas": [
+      {
+        "subject": "biology",
+        "kind": "topic",
+        "text": "Fotosynteesi"
+      },
+      {
+        "subject": "biology",
+        "kind": "question",
+        "text": "Miten solu jakautuu?"
+      },
+      {
+        "subject": "biology",
+        "kind": "goal",
+        "text": "Perinnöllisyys biologian kokeeseen"
+      },
+      {
+        "subject": "history",
+        "kind": "topic",
+        "text": "Kylmä sota"
+      },
+      {
+        "subject": "history",
+        "kind": "question",
+        "text": "Miksi ensimmäinen maailmansota alkoi?"
+      },
+      {
+        "subject": "history",
+        "kind": "goal",
+        "text": "Ranskan vallankumous historian kokeeseen"
+      },
+      {
+        "subject": "mathematics",
+        "kind": "topic",
+        "text": "Todennäköisyys"
+      },
+      {
+        "subject": "mathematics",
+        "kind": "question",
+        "text": "Miten ratkaisen toisen asteen yhtälön?"
+      },
+      {
+        "subject": "mathematics",
+        "kind": "goal",
+        "text": "Derivaatta kurssikokeeseen"
+      },
+      {
+        "subject": "chemistry",
+        "kind": "topic",
+        "text": "Hapot ja emäkset"
+      },
+      {
+        "subject": "chemistry",
+        "kind": "question",
+        "text": "Mitä moolimassa tarkoittaa?"
+      },
+      {
+        "subject": "chemistry",
+        "kind": "goal",
+        "text": "Orgaaninen kemia kemian kokeeseen"
+      },
+      {
+        "subject": "physics",
+        "kind": "topic",
+        "text": "Newtonin lait"
+      },
+      {
+        "subject": "physics",
+        "kind": "question",
+        "text": "Miksi taivas on sininen?"
+      },
+      {
+        "subject": "physics",
+        "kind": "goal",
+        "text": "Sähkö fysiikan kokeeseen"
+      },
+      {
+        "subject": "psychology",
+        "kind": "topic",
+        "text": "Muisti ja oppiminen"
+      },
+      {
+        "subject": "psychology",
+        "kind": "question",
+        "text": "Miten uni vaikuttaa oppimiseen?"
+      },
+      {
+        "subject": "psychology",
+        "kind": "goal",
+        "text": "Kehityspsykologia psykologian kokeeseen"
+      },
+      {
+        "subject": "social_studies",
+        "kind": "topic",
+        "text": "Demokratia"
+      },
+      {
+        "subject": "social_studies",
+        "kind": "question",
+        "text": "Miten inflaatio vaikuttaa minuun?"
+      },
+      {
+        "subject": "social_studies",
+        "kind": "goal",
+        "text": "Oikeusvaltio yhteiskuntaopin kokeeseen"
+      },
+      {
+        "subject": "literature",
+        "kind": "topic",
+        "text": "Kielikuvat"
+      },
+      {
+        "subject": "literature",
+        "kind": "question",
+        "text": "Miten kirjoitan hyvän tekstianalyysin?"
+      },
+      {
+        "subject": "literature",
+        "kind": "goal",
+        "text": "Romantiikka äidinkielen kokeeseen"
+      },
+      {
+        "subject": "geography",
+        "kind": "topic",
+        "text": "Ilmastonmuutos"
+      },
+      {
+        "subject": "geography",
+        "kind": "question",
+        "text": "Miksi maanjäristyksiä syntyy?"
+      },
+      {
+        "subject": "geography",
+        "kind": "goal",
+        "text": "Väestönkasvu maantiedon kokeeseen"
+      },
+      {
+        "subject": "health_education",
+        "kind": "topic",
+        "text": "Stressi ja palautuminen"
+      },
+      {
+        "subject": "health_education",
+        "kind": "question",
+        "text": "Miten liikunta vaikuttaa aivoihin?"
+      },
+      {
+        "subject": "health_education",
+        "kind": "goal",
+        "text": "Ravitsemus terveystiedon kokeeseen"
+      }
+    ]
   },
   "paywall": {
     "proof": "Opiskelijoiden rakastama, ympäri maailmaa",

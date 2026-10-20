@@ -120,7 +120,12 @@
     "toReview": "{count} kerrattavaa",
     "lessons": "Setit",
     "earnMoreSets": "Earn more sets",
-    "inviteFriends": "Kutsu kavereita"
+    "inviteFriends": "Kutsu kavereita",
+    "composer": {
+      "fromGallery": "Kuva puhelimesta",
+      "pdf": "PDF-tiedosto",
+      "send": "Lähetä"
+    }
   },
   "spacedRepAnnouncement": {
     "headerLabel": "Uutta → Aikavälikertaus",
