@@ -75,37 +75,37 @@
       {
         "subject": "biology",
         "kind": "topic",
-        "text": "Photosynthesis"
+        "text": "The stages of photosynthesis"
       },
       {
         "subject": "biology",
         "kind": "question",
-        "text": "How does a cell divide?"
+        "text": "How is mitosis different from meiosis?"
       },
       {
         "subject": "biology",
         "kind": "goal",
-        "text": "Genetics for my biology test"
+        "text": "Inheritance for my biology test"
       },
       {
         "subject": "history",
         "kind": "topic",
-        "text": "The Cold War"
+        "text": "Cold War crises"
       },
       {
         "subject": "history",
         "kind": "question",
-        "text": "What caused World War 1?"
+        "text": "Why did World War I start?"
       },
       {
         "subject": "history",
         "kind": "goal",
-        "text": "The French Revolution for my history test"
+        "text": "The 1918 Civil War for my history test"
       },
       {
         "subject": "mathematics",
         "kind": "topic",
-        "text": "Probability"
+        "text": "Conditional probability"
       },
       {
         "subject": "mathematics",
@@ -120,37 +120,37 @@
       {
         "subject": "chemistry",
         "kind": "topic",
-        "text": "Acids and bases"
+        "text": "Acids, bases and pH"
       },
       {
         "subject": "chemistry",
         "kind": "question",
-        "text": "What does molar mass mean?"
+        "text": "How do I calculate amount of substance?"
       },
       {
         "subject": "chemistry",
         "kind": "goal",
-        "text": "Organic chemistry for my chemistry test"
+        "text": "Organic compounds for my chemistry test"
       },
       {
         "subject": "physics",
         "kind": "topic",
-        "text": "Newton's laws"
+        "text": "Newton's three laws"
       },
       {
         "subject": "physics",
         "kind": "question",
-        "text": "Why is the sky blue?"
+        "text": "How do I calculate acceleration?"
       },
       {
         "subject": "physics",
         "kind": "goal",
-        "text": "Electricity for my physics test"
+        "text": "Electric circuits for my physics test"
       },
       {
         "subject": "psychology",
         "kind": "topic",
-        "text": "Memory and learning"
+        "text": "Working memory and long-term memory"
       },
       {
         "subject": "psychology",
@@ -160,32 +160,32 @@
       {
         "subject": "psychology",
         "kind": "goal",
-        "text": "Developmental psychology for my psychology test"
+        "text": "Developmental psychology for my test"
       },
       {
         "subject": "social_studies",
         "kind": "topic",
-        "text": "Democracy"
+        "text": "Separation of powers"
       },
       {
         "subject": "social_studies",
         "kind": "question",
-        "text": "How does inflation affect me?"
+        "text": "Why do rates rise with inflation?"
       },
       {
         "subject": "social_studies",
         "kind": "goal",
-        "text": "The rule of law for my civics test"
+        "text": "Parliament for my social studies test"
       },
       {
         "subject": "literature",
         "kind": "topic",
-        "text": "Figures of speech"
+        "text": "Metaphor, simile and metonymy"
       },
       {
         "subject": "literature",
         "kind": "question",
-        "text": "How do I write a good text analysis?"
+        "text": "How do I analyse a story's narrator?"
       },
       {
         "subject": "literature",
@@ -195,7 +195,7 @@
       {
         "subject": "geography",
         "kind": "topic",
-        "text": "Climate change"
+        "text": "Plate tectonics"
       },
       {
         "subject": "geography",
@@ -205,7 +205,7 @@
       {
         "subject": "geography",
         "kind": "goal",
-        "text": "Population growth for my geography test"
+        "text": "Population pyramids for my geography test"
       },
       {
         "subject": "health_education",

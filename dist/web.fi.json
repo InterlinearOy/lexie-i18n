@@ -179,22 +179,22 @@
       {
         "subject": "biology",
         "kind": "topic",
-        "text": "Fotosynteesi"
+        "text": "Fotosynteesin vaiheet"
       },
       {
         "subject": "biology",
         "kind": "question",
-        "text": "Miten solu jakautuu?"
+        "text": "Mikä ero on mitoosilla ja meioosilla?"
       },
       {
         "subject": "biology",
         "kind": "goal",
-        "text": "Perinnöllisyys biologian kokeeseen"
+        "text": "Periytyminen biologian kokeeseen"
       },
       {
         "subject": "history",
         "kind": "topic",
-        "text": "Kylmä sota"
+        "text": "Kylmän sodan kriisit"
       },
       {
         "subject": "history",
@@ -204,17 +204,17 @@
       {
         "subject": "history",
         "kind": "goal",
-        "text": "Ranskan vallankumous historian kokeeseen"
+        "text": "Sisällissota 1918 historian kokeeseen"
       },
       {
         "subject": "mathematics",
         "kind": "topic",
-        "text": "Todennäköisyys"
+        "text": "Ehdollinen todennäköisyys"
       },
       {
         "subject": "mathematics",
         "kind": "question",
-        "text": "Miten ratkaisen toisen asteen yhtälön?"
+        "text": "Miten toisen asteen yhtälö ratkaistaan?"
       },
       {
         "subject": "mathematics",
@@ -224,37 +224,37 @@
       {
         "subject": "chemistry",
         "kind": "topic",
-        "text": "Hapot ja emäkset"
+        "text": "Hapot, emäkset ja pH"
       },
       {
         "subject": "chemistry",
         "kind": "question",
-        "text": "Mitä moolimassa tarkoittaa?"
+        "text": "Miten lasken ainemäärän?"
       },
       {
         "subject": "chemistry",
         "kind": "goal",
-        "text": "Orgaaninen kemia kemian kokeeseen"
+        "text": "Orgaaniset yhdisteet kemian kokeeseen"
       },
       {
         "subject": "physics",
         "kind": "topic",
-        "text": "Newtonin lait"
+        "text": "Newtonin kolme lakia"
       },
       {
         "subject": "physics",
         "kind": "question",
-        "text": "Miksi taivas on sininen?"
+        "text": "Miten lasken kiihtyvyyden?"
       },
       {
         "subject": "physics",
         "kind": "goal",
-        "text": "Sähkö fysiikan kokeeseen"
+        "text": "Sähköpiirit fysiikan kokeeseen"
       },
       {
         "subject": "psychology",
         "kind": "topic",
-        "text": "Muisti ja oppiminen"
+        "text": "Työmuisti ja säiliömuisti"
       },
       {
         "subject": "psychology",
@@ -269,27 +269,27 @@
       {
         "subject": "social_studies",
         "kind": "topic",
-        "text": "Demokratia"
+        "text": "Vallanjako Suomessa"
       },
       {
         "subject": "social_studies",
         "kind": "question",
-        "text": "Miten inflaatio vaikuttaa minuun?"
+        "text": "Miksi korot nousevat inflaatiossa?"
       },
       {
         "subject": "social_studies",
         "kind": "goal",
-        "text": "Oikeusvaltio yhteiskuntaopin kokeeseen"
+        "text": "Eduskunta yhteiskuntaopin kokeeseen"
       },
       {
         "subject": "literature",
         "kind": "topic",
-        "text": "Kielikuvat"
+        "text": "Metafora, vertaus ja metonymia"
       },
       {
         "subject": "literature",
         "kind": "question",
-        "text": "Miten kirjoitan hyvän tekstianalyysin?"
+        "text": "Miten analysoin novellin kertojaa?"
       },
       {
         "subject": "literature",
@@ -299,7 +299,7 @@
       {
         "subject": "geography",
         "kind": "topic",
-        "text": "Ilmastonmuutos"
+        "text": "Laattatektoniikka"
       },
       {
         "subject": "geography",
@@ -309,7 +309,7 @@
       {
         "subject": "geography",
         "kind": "goal",
-        "text": "Väestönkasvu maantiedon kokeeseen"
+        "text": "Väestöpyramidit maantiedon kokeeseen"
       },
       {
         "subject": "health_education",
