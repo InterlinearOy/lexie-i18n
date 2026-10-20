@@ -120,7 +120,12 @@
     "toReview": "{count} to review",
     "lessons": "Lessons",
     "earnMoreSets": "Earn more sets",
-    "inviteFriends": "Invite friends"
+    "inviteFriends": "Invite friends",
+    "composer": {
+      "fromGallery": "Picture from your phone",
+      "pdf": "PDF file",
+      "send": "Send"
+    }
   },
   "spacedRepAnnouncement": {
     "headerLabel": "New → Spaced repetition",

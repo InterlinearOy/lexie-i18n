@@ -66,5 +66,162 @@
   },
   "common": {
     "close": "Sulje"
+  },
+  "create": {
+    "prompt": "Näytä tai kerro, mitä haluat oppia",
+    "takePhoto": "Ota kuva",
+    "attach": "Lisää PDF tai kuva",
+    "topicIdeas": [
+      {
+        "subject": "biology",
+        "kind": "topic",
+        "text": "Fotosynteesin vaiheet"
+      },
+      {
+        "subject": "biology",
+        "kind": "question",
+        "text": "Mikä ero on mitoosilla ja meioosilla?"
+      },
+      {
+        "subject": "biology",
+        "kind": "topic",
+        "text": "Periytyminen ja geenit"
+      },
+      {
+        "subject": "history",
+        "kind": "topic",
+        "text": "Kylmän sodan kriisit"
+      },
+      {
+        "subject": "history",
+        "kind": "question",
+        "text": "Miksi ensimmäinen maailmansota alkoi?"
+      },
+      {
+        "subject": "history",
+        "kind": "topic",
+        "text": "Suomen sisällissota 1918"
+      },
+      {
+        "subject": "mathematics",
+        "kind": "topic",
+        "text": "Ehdollinen todennäköisyys"
+      },
+      {
+        "subject": "mathematics",
+        "kind": "question",
+        "text": "Miten toisen asteen yhtälö ratkaistaan?"
+      },
+      {
+        "subject": "mathematics",
+        "kind": "topic",
+        "text": "Derivaatta ja ääriarvot"
+      },
+      {
+        "subject": "chemistry",
+        "kind": "topic",
+        "text": "Hapot, emäkset ja pH"
+      },
+      {
+        "subject": "chemistry",
+        "kind": "question",
+        "text": "Miten lasken ainemäärän?"
+      },
+      {
+        "subject": "chemistry",
+        "kind": "topic",
+        "text": "Orgaaniset yhdisteet"
+      },
+      {
+        "subject": "physics",
+        "kind": "topic",
+        "text": "Newtonin kolme lakia"
+      },
+      {
+        "subject": "physics",
+        "kind": "question",
+        "text": "Miten lasken kiihtyvyyden?"
+      },
+      {
+        "subject": "physics",
+        "kind": "topic",
+        "text": "Sähköpiirit ja Ohmin laki"
+      },
+      {
+        "subject": "psychology",
+        "kind": "topic",
+        "text": "Työmuisti ja säiliömuisti"
+      },
+      {
+        "subject": "psychology",
+        "kind": "question",
+        "text": "Miten uni vaikuttaa oppimiseen?"
+      },
+      {
+        "subject": "psychology",
+        "kind": "topic",
+        "text": "Piaget'n kehitysvaiheet"
+      },
+      {
+        "subject": "social_studies",
+        "kind": "topic",
+        "text": "Vallanjako Suomessa"
+      },
+      {
+        "subject": "social_studies",
+        "kind": "question",
+        "text": "Miksi korot nousevat inflaatiossa?"
+      },
+      {
+        "subject": "social_studies",
+        "kind": "topic",
+        "text": "Eduskunnan tehtävät"
+      },
+      {
+        "subject": "literature",
+        "kind": "topic",
+        "text": "Metafora, vertaus ja metonymia"
+      },
+      {
+        "subject": "literature",
+        "kind": "question",
+        "text": "Miten analysoin novellin kertojaa?"
+      },
+      {
+        "subject": "literature",
+        "kind": "topic",
+        "text": "Romantiikan piirteet"
+      },
+      {
+        "subject": "geography",
+        "kind": "topic",
+        "text": "Laattatektoniikka"
+      },
+      {
+        "subject": "geography",
+        "kind": "question",
+        "text": "Miksi maanjäristyksiä syntyy?"
+      },
+      {
+        "subject": "geography",
+        "kind": "topic",
+        "text": "Väestöpyramidit"
+      },
+      {
+        "subject": "health_education",
+        "kind": "topic",
+        "text": "Stressi ja palautuminen"
+      },
+      {
+        "subject": "health_education",
+        "kind": "question",
+        "text": "Miten liikunta vaikuttaa aivoihin?"
+      },
+      {
+        "subject": "health_education",
+        "kind": "topic",
+        "text": "Ravintoaineet ja ravitsemus"
+      }
+    ]
   }
 }
