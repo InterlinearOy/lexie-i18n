@@ -370,6 +370,11 @@
   "progressive": {
     "toasts": {
       "checkingContent": "Checking out what you sent..",
+      "openerTopic": "Making you a study set on {{topic}}.",
+      "openerText": "Reading your text.",
+      "openerPhoto": "Looking at your photo.",
+      "openerPhotos": "Looking at your photos.",
+      "openerPdf": "Reading your PDF.",
       "creatingFlashcards": "I'll spin you some nice recall triggers",
       "creatingMathProblems": "Creating practice problems",
       "nextStepQuiz": "Next up: quiz.",
