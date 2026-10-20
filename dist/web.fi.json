@@ -188,8 +188,8 @@
       },
       {
         "subject": "biology",
-        "kind": "goal",
-        "text": "Periytyminen biologian kokeeseen"
+        "kind": "topic",
+        "text": "Periytyminen ja geenit"
       },
       {
         "subject": "history",
@@ -203,8 +203,8 @@
       },
       {
         "subject": "history",
-        "kind": "goal",
-        "text": "Sisällissota 1918 historian kokeeseen"
+        "kind": "topic",
+        "text": "Suomen sisällissota 1918"
       },
       {
         "subject": "mathematics",
@@ -218,8 +218,8 @@
       },
       {
         "subject": "mathematics",
-        "kind": "goal",
-        "text": "Derivaatta kurssikokeeseen"
+        "kind": "topic",
+        "text": "Derivaatta ja ääriarvot"
       },
       {
         "subject": "chemistry",
@@ -233,8 +233,8 @@
       },
       {
         "subject": "chemistry",
-        "kind": "goal",
-        "text": "Orgaaniset yhdisteet kemian kokeeseen"
+        "kind": "topic",
+        "text": "Orgaaniset yhdisteet"
       },
       {
         "subject": "physics",
@@ -248,8 +248,8 @@
       },
       {
         "subject": "physics",
-        "kind": "goal",
-        "text": "Sähköpiirit fysiikan kokeeseen"
+        "kind": "topic",
+        "text": "Sähköpiirit ja Ohmin laki"
       },
       {
         "subject": "psychology",
@@ -263,8 +263,8 @@
       },
       {
         "subject": "psychology",
-        "kind": "goal",
-        "text": "Kehityspsykologia psykologian kokeeseen"
+        "kind": "topic",
+        "text": "Piaget'n kehitysvaiheet"
       },
       {
         "subject": "social_studies",
@@ -278,8 +278,8 @@
       },
       {
         "subject": "social_studies",
-        "kind": "goal",
-        "text": "Eduskunta yhteiskuntaopin kokeeseen"
+        "kind": "topic",
+        "text": "Eduskunnan tehtävät"
       },
       {
         "subject": "literature",
@@ -293,8 +293,8 @@
       },
       {
         "subject": "literature",
-        "kind": "goal",
-        "text": "Romantiikka äidinkielen kokeeseen"
+        "kind": "topic",
+        "text": "Romantiikan piirteet"
       },
       {
         "subject": "geography",
@@ -308,8 +308,8 @@
       },
       {
         "subject": "geography",
-        "kind": "goal",
-        "text": "Väestöpyramidit maantiedon kokeeseen"
+        "kind": "topic",
+        "text": "Väestöpyramidit"
       },
       {
         "subject": "health_education",
@@ -323,8 +323,8 @@
       },
       {
         "subject": "health_education",
-        "kind": "goal",
-        "text": "Ravitsemus terveystiedon kokeeseen"
+        "kind": "topic",
+        "text": "Ravintoaineet ja ravitsemus"
       }
     ]
   },

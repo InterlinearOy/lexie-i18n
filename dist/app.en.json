@@ -142,8 +142,8 @@
         },
         {
           "subject": "biology",
-          "kind": "goal",
-          "text": "Inheritance for my biology test"
+          "kind": "topic",
+          "text": "Genes and inheritance"
         },
         {
           "subject": "history",
@@ -157,8 +157,8 @@
         },
         {
           "subject": "history",
-          "kind": "goal",
-          "text": "The 1918 Civil War for my history test"
+          "kind": "topic",
+          "text": "The Finnish Civil War of 1918"
         },
         {
           "subject": "mathematics",
@@ -172,8 +172,8 @@
         },
         {
           "subject": "mathematics",
-          "kind": "goal",
-          "text": "Derivatives for my maths test"
+          "kind": "topic",
+          "text": "Derivatives and turning points"
         },
         {
           "subject": "chemistry",
@@ -187,8 +187,8 @@
         },
         {
           "subject": "chemistry",
-          "kind": "goal",
-          "text": "Organic compounds for my chemistry test"
+          "kind": "topic",
+          "text": "Organic compounds"
         },
         {
           "subject": "physics",
@@ -202,8 +202,8 @@
         },
         {
           "subject": "physics",
-          "kind": "goal",
-          "text": "Electric circuits for my physics test"
+          "kind": "topic",
+          "text": "Circuits and Ohm's law"
         },
         {
           "subject": "psychology",
@@ -217,8 +217,8 @@
         },
         {
           "subject": "psychology",
-          "kind": "goal",
-          "text": "Developmental psychology for my test"
+          "kind": "topic",
+          "text": "Piaget's stages of development"
         },
         {
           "subject": "social_studies",
@@ -232,8 +232,8 @@
         },
         {
           "subject": "social_studies",
-          "kind": "goal",
-          "text": "Parliament for my social studies test"
+          "kind": "topic",
+          "text": "What parliament does"
         },
         {
           "subject": "literature",
@@ -247,8 +247,8 @@
         },
         {
           "subject": "literature",
-          "kind": "goal",
-          "text": "Romanticism for my literature test"
+          "kind": "topic",
+          "text": "Features of Romanticism"
         },
         {
           "subject": "geography",
@@ -262,8 +262,8 @@
         },
         {
           "subject": "geography",
-          "kind": "goal",
-          "text": "Population pyramids for my geography test"
+          "kind": "topic",
+          "text": "Population pyramids"
         },
         {
           "subject": "health_education",
@@ -277,8 +277,8 @@
         },
         {
           "subject": "health_education",
-          "kind": "goal",
-          "text": "Nutrition for my health test"
+          "kind": "topic",
+          "text": "Nutrients and nutrition"
         }
       ]
     }
