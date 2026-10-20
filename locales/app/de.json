@@ -200,7 +200,7 @@
   "progressive": {
     "toasts": {
       "checkingContent": "Ich schau mir an, was du geschickt hast …",
-      "openerTopic": "Ich mache dir ein Lernset zum Thema {{topic}}.",
+      "openerTopic": "Ich mache dir ein Lernset zum Thema {topic}.",
       "openerText": "Ich lese deinen Text.",
       "openerPhoto": "Ich schaue mir dein Foto an.",
       "openerPhotos": "Ich schaue mir deine Fotos an.",

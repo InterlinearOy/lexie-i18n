@@ -370,7 +370,7 @@
   "progressive": {
     "toasts": {
       "checkingContent": "Checking out what you sent..",
-      "openerTopic": "Making you a study set on {{topic}}.",
+      "openerTopic": "Making you a study set on {topic}.",
       "openerText": "Reading your text.",
       "openerPhoto": "Looking at your photo.",
       "openerPhotos": "Looking at your photos.",

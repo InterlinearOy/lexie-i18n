@@ -370,7 +370,7 @@
   "progressive": {
     "toasts": {
       "checkingContent": "Katson läpi mitä lähetit..",
-      "openerTopic": "Teen sinulle harjoitussetin aiheesta {{topic}}.",
+      "openerTopic": "Teen sinulle harjoitussetin aiheesta {topic}.",
       "openerText": "Luen tekstisi.",
       "openerPhoto": "Katson kuvaasi.",
       "openerPhotos": "Katson kuviasi.",
