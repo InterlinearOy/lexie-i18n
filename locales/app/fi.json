@@ -30,7 +30,6 @@
     "title": "Tervetuloa Lexieen",
     "description": "Lexie auttaa sinua oppimaan paremmin. Ota kuva ja Lexie hoitaa loput.",
     "subtitle": "Ota kuva siitä mitä haluat oppia ja Lexie hoitaa loput.",
-    "startButton": "Aloita",
     "loginButton": "Minulla on jo tili",
     "features": {
       "flashcards": "Selaa *muistikortteja*",
@@ -42,28 +41,7 @@
       "occlusion": "*Peittokuvat*"
     },
     "proBadge": "PRO",
-    "carousel": {
-      "slide1": "Yksi kuva,\nviisi tapaa harjoitella",
-      "slide2": "Ota kuva mistä\ntahansa aiheesta",
-      "slide3": "Muistikorttien avulla toistat\nja vahvistat oppimaasi",
-      "slide4": "Tehtävien avulla voit kerrata\nja testata osaamistasi",
-      "slide5": "Harjoittele avoimia vastauksia\nennen koetta",
-      "slide6": "Kuuntelemalla voit kerrata\nmissä ja milloin vain",
-      "slide7": "Opiskeluajastin\nauttaa keskittymään",
-      "slide8": "Peitä kuvan osat ja\ntestaa mitä muistat",
-      "subjects": {
-        "math": "Matematiikka",
-        "history": "Historia",
-        "biology": "Biologia",
-        "physics": "Fysiikka",
-        "chemistry": "Kemia",
-        "french": "Ranska",
-        "japanese": "Japani",
-        "economics": "Taloustiede",
-        "geography": "Maantieto",
-        "spanish": "Espanja"
-      }
-    }
+    "lexieIntro": "Hei, olen Lexie. Olen täällä, ettei sinun tarvitse opiskella yksin. Ensin muutama nopea kysymys."
   },
   "prep": {
     "yoSection": "Yo-kertaus",
@@ -443,7 +421,9 @@
         "followupPlaceholder": "Mikä olisi saanut sinut jäämään?",
         "continueButton": "Jatka peruutukseen"
       }
-    }
+    },
+    "studyLevel": "Taso",
+    "studyLevelNotSet": "Ei valittu"
   },
   "trash": {
     "title": "Roskakori",
@@ -687,7 +667,7 @@
   "nameInput": {
     "greeting": "Hei 👋🏻",
     "question": "Millä nimellä voin kutsua sinua?",
-    "placeholder": "",
+    "placeholder": "Nimesi",
     "continue": "Jatka",
     "alerts": {
       "nameRequiredTitle": "Nimi vaaditaan",
@@ -1127,22 +1107,27 @@
     "continue": "Jatka",
     "skip": "Ohita",
     "studyLanguage": {
-      "title": "Millä kielellä opiskelet?",
-      "subtitle": "Kieli, jolla opiskelumateriaalisi ovat pääosin.",
-      "nudgePickFirst": "Valitse kieli jatkaaksesi"
+      "nudgePickFirst": "Valitse kieli jatkaaksesi",
+      "question": "Millä kielellä opiskelumateriaalisi ovat enimmäkseen?"
     },
     "learningLanguages": {
-      "title": "Mitä kieliä opiskelet?",
-      "subtitle": "Valitse opiskelemasi kielet alta. Ohita, jos et opiskele mitään kieliä tällä hetkellä, voit aina lisätä niitä myöhemmin.",
-      "add": "Lisää +"
+      "add": "Lisää +",
+      "question": "Opiskeletko kieliä? Valitse ne tästä tai ohita. Voit aina lisätä niitä myöhemmin."
     },
     "firstSession": {
-      "title": "Mitä haluaisit opiskella?",
-      "subtitle": "Lisää materiaali, josta haluaisit tehdä ensimmäisen harjoitussetin.",
-      "camera": "Ota tai lataa kuva",
-      "text": "Liitä tekstiä tai lataa PDF",
-      "sample": "Ei materiaalia? Katso esimerkki.",
-      "later": "Teen tämän myöhemmin"
+      "camera": "Lataa tai ota kuva",
+      "later": "Teen tämän myöhemmin",
+      "question": "Hienoa. Tehdään nyt ensimmäinen harjoitussettisi. Näytä tai kerro, mitä sinun pitää oppia.",
+      "tell": "Kerro, mitä sinun pitää oppia",
+      "courses": "Katso valmiit kurssit"
+    },
+    "tell": {
+      "question": "Selvä, kerro aihe, joka sinun pitää oppia tänään. Minä hoidan loput.",
+      "placeholder": "Mitä sinun pitää oppia?"
+    },
+    "level": {
+      "question": "Millä tasolla opiskelet? Niin osaan selittää juuri sopivasti.",
+      "questionWithTopic": "{topic}, selvä. Millä tasolla opiskelet? Niin osaan selittää juuri sopivasti."
     }
   },
   "softPrompt": {
@@ -1330,5 +1315,23 @@
     "countdownDays": "{days} päivää kokeeseen",
     "remove": "Poista päivä",
     "save": "Tallenna"
+  },
+  "studyLevel": {
+    "early_secondary": {
+      "title": "Alakoulun yläluokat",
+      "subtitle": "10–13-vuotiaat"
+    },
+    "secondary": {
+      "title": "Yläkoulu",
+      "subtitle": "14–16-vuotiaat"
+    },
+    "upper_secondary": {
+      "title": "Lukio ja ylioppilaskoe",
+      "subtitle": "17–19-vuotiaat"
+    },
+    "adult": {
+      "title": "Aikuiset",
+      "subtitle": "Korkeakoulu ja työelämä"
+    }
   }
 }

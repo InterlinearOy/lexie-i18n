@@ -30,7 +30,6 @@
     "title": "Welcome to Lexie",
     "description": "Lexie helps you study better. Take a picture. Lexie takes care of the rest.",
     "subtitle": "Take a photo of what you want to learn and let Lexie take care of the rest.",
-    "startButton": "Get started",
     "loginButton": "I already have an account",
     "features": {
       "flashcards": "Flip through *flashcards*",
@@ -42,28 +41,7 @@
       "occlusion": "*Image occlusion*"
     },
     "proBadge": "PRO",
-    "carousel": {
-      "slide1": "Turn any material into a\nstudy session",
-      "slide2": "Snap a photo of\nany topic",
-      "slide3": "Remember more in less\ntime with flashcards",
-      "slide4": "Quiz to know what\nyou don't know yet",
-      "slide5": "Practise the exam\nbefore the exam",
-      "slide6": "Listen to your study\ntexts anywhere",
-      "slide7": "Block distractions\nand get more done",
-      "slide8": "Hide parts of any image\nand test your memory",
-      "subjects": {
-        "math": "Math",
-        "history": "History",
-        "biology": "Biology",
-        "physics": "Physics",
-        "chemistry": "Chemistry",
-        "french": "French",
-        "japanese": "Japanese",
-        "economics": "Economics",
-        "geography": "Geography",
-        "spanish": "Spanish"
-      }
-    }
+    "lexieIntro": "Hi, I'm Lexie. I'm here so you don't have to study alone. Just a few quick questions first."
   },
   "prep": {
     "yoSection": "Matriculation exams",
@@ -443,7 +421,9 @@
         "followupPlaceholder": "What would have kept you?",
         "continueButton": "Continue to cancel"
       }
-    }
+    },
+    "studyLevel": "Level",
+    "studyLevelNotSet": "Not set"
   },
   "trash": {
     "title": "Trash",
@@ -686,8 +666,8 @@
   },
   "nameInput": {
     "greeting": "Hi 👋🏻",
-    "question": "How can I call you?",
-    "placeholder": "",
+    "question": "What should I call you?",
+    "placeholder": "Your name",
     "continue": "Continue",
     "alerts": {
       "nameRequiredTitle": "Name required",
@@ -1127,22 +1107,27 @@
     "continue": "Continue",
     "skip": "Skip",
     "studyLanguage": {
-      "title": "What language do you study in?",
-      "subtitle": "The language your study materials are mostly in.",
-      "nudgePickFirst": "Pick a language to continue"
+      "nudgePickFirst": "Pick a language to continue",
+      "question": "Which language are your study materials mostly in?"
     },
     "learningLanguages": {
-      "title": "Any languages you're learning?",
-      "subtitle": "The ones you're trying to actually speak. Skip if none, you can always add more later.",
-      "add": "Add +"
+      "add": "Add +",
+      "question": "Learning any languages? Pick them here, or skip. You can always add more later."
     },
     "firstSession": {
-      "title": "What would you like to study?",
-      "subtitle": "Add the material you want to turn into your first practice set.",
-      "camera": "Take or upload a photo",
-      "text": "Paste text or upload PDF",
-      "sample": "Nothing at hand? Try a sample",
-      "later": "I'll do this later"
+      "camera": "Upload or take a photo",
+      "later": "I'll do this later",
+      "question": "Nice. Now let's make your first study set. Show me or tell me what you need to learn.",
+      "tell": "Tell what you need to learn",
+      "courses": "See ready made courses"
+    },
+    "tell": {
+      "question": "OK, tell me a topic you need to learn today. I'll take it from there.",
+      "placeholder": "What do you need to learn?"
+    },
+    "level": {
+      "question": "What level are you studying at? I'll pitch it just right.",
+      "questionWithTopic": "{topic}, got it. What level are you studying at? I'll pitch it just right."
     }
   },
   "softPrompt": {
@@ -1330,5 +1315,23 @@
     "countdownDays": "{days} days until exam",
     "remove": "Remove date",
     "save": "Save"
+  },
+  "studyLevel": {
+    "early_secondary": {
+      "title": "Early secondary school",
+      "subtitle": "Ages 10 to 13"
+    },
+    "secondary": {
+      "title": "Secondary school",
+      "subtitle": "Ages 14 to 16"
+    },
+    "upper_secondary": {
+      "title": "Upper secondary, final exams",
+      "subtitle": "Ages 17 to 19"
+    },
+    "adult": {
+      "title": "Adult learners",
+      "subtitle": "University"
+    }
   }
 }

@@ -30,7 +30,6 @@
     "title": "Willkommen bei Lexie",
     "description": "Lexie hilft dir dabei, besser zu lernen. Mach ein Foto, und Lexie kümmert sich um den Rest.",
     "subtitle": "Mach ein Foto von dem, was du lernen willst, und Lexie kümmert sich um den Rest.",
-    "startButton": "Los geht's",
     "loginButton": "Ich habe schon ein Konto",
     "features": {
       "flashcards": "Geh *Karteikarten* durch",
@@ -42,28 +41,7 @@
       "occlusion": "*Bildkarten*"
     },
     "proBadge": "PRO",
-    "carousel": {
-      "slide1": "Ein Foto,\nfünf Arten zu üben",
-      "slide2": "Mach ein Foto von\nirgendeinem Thema",
-      "slide3": "Mit Karteikarten wiederholst du\nund festigst, was du gelernt hast",
-      "slide4": "Mit Aufgaben wiederholst du\nund testest dein Wissen",
-      "slide5": "Üb offene Antworten\nvor der Prüfung",
-      "slide6": "Durch Zuhören wiederholst du\nwo und wann du willst",
-      "slide7": "Der Lerntimer\nhilft dir beim Konzentrieren",
-      "slide8": "Deck Teile eines Bildes ab\nund teste, was du noch weißt",
-      "subjects": {
-        "math": "Mathe",
-        "history": "Geschichte",
-        "biology": "Biologie",
-        "physics": "Physik",
-        "chemistry": "Chemie",
-        "french": "Französisch",
-        "japanese": "Japanisch",
-        "economics": "Wirtschaft",
-        "geography": "Geografie",
-        "spanish": "Spanisch"
-      }
-    }
+    "lexieIntro": "Hi, ich bin Lexie. Ich bin da, damit du nicht allein lernen musst. Erst ein paar kurze Fragen."
   },
   "prep": {
     "yoSection": "Finnisches Abitur",
@@ -437,7 +415,9 @@
         "followupPlaceholder": "Was hätte dich zum Bleiben gebracht?",
         "continueButton": "Weiter zur Kündigung"
       }
-    }
+    },
+    "studyLevel": "Niveau",
+    "studyLevelNotSet": "Nicht gewählt"
   },
   "trash": {
     "title": "Papierkorb",
@@ -681,7 +661,7 @@
   "nameInput": {
     "greeting": "Hi 👋🏻",
     "question": "Wie soll ich dich nennen?",
-    "placeholder": "",
+    "placeholder": "Dein Name",
     "continue": "Weiter",
     "alerts": {
       "nameRequiredTitle": "Name erforderlich",
@@ -1099,22 +1079,27 @@
     "continue": "Weiter",
     "skip": "Überspringen",
     "studyLanguage": {
-      "title": "In welcher Sprache lernst du?",
-      "subtitle": "Die Sprache, in der dein Lernmaterial meistens ist.",
-      "nudgePickFirst": "Wähl eine Sprache, um weiterzumachen"
+      "nudgePickFirst": "Wähl eine Sprache, um weiterzumachen",
+      "question": "In welcher Sprache ist dein Lernmaterial meistens?"
     },
     "learningLanguages": {
-      "title": "Welche Sprachen lernst du?",
-      "subtitle": "Wähl unten die Sprachen, die du lernst. Überspring das, wenn du gerade keine Sprache lernst, du kannst später immer welche hinzufügen.",
-      "add": "Hinzufügen +"
+      "add": "Hinzufügen +",
+      "question": "Lernst du Sprachen? Wähl sie hier aus oder überspring das. Du kannst später immer weitere hinzufügen."
     },
     "firstSession": {
-      "title": "Was möchtest du lernen?",
-      "subtitle": "Füg das Material hinzu, aus dem du deine erste Lektion machen willst.",
-      "camera": "Foto machen oder hochladen",
-      "text": "Text einfügen oder PDF hochladen",
-      "sample": "Nichts zur Hand? Schau dir ein Beispiel an.",
-      "later": "Mach ich später"
+      "camera": "Foto hochladen oder machen",
+      "later": "Mach ich später",
+      "question": "Schön. Jetzt machen wir deine erste Lektion. Zeig oder sag mir, was du lernen musst.",
+      "tell": "Sag, was du lernen musst",
+      "courses": "Fertige Kurse ansehen"
+    },
+    "tell": {
+      "question": "OK, nenn mir ein Thema, das du heute lernen musst. Den Rest mache ich.",
+      "placeholder": "Was musst du lernen?"
+    },
+    "level": {
+      "question": "Auf welchem Niveau lernst du? Dann erkläre ich es genau passend.",
+      "questionWithTopic": "{topic}, alles klar. Auf welchem Niveau lernst du? Dann erkläre ich es genau passend."
     }
   },
   "softPrompt": {
@@ -1298,5 +1283,23 @@
     "countdownDays": "{days} Tage bis zur Prüfung",
     "remove": "Datum entfernen",
     "save": "Speichern"
+  },
+  "studyLevel": {
+    "early_secondary": {
+      "title": "Unterstufe",
+      "subtitle": "10 bis 13 Jahre"
+    },
+    "secondary": {
+      "title": "Mittelstufe",
+      "subtitle": "14 bis 16 Jahre"
+    },
+    "upper_secondary": {
+      "title": "Oberstufe, Abschlussprüfung",
+      "subtitle": "17 bis 19 Jahre"
+    },
+    "adult": {
+      "title": "Erwachsene",
+      "subtitle": "Studium und Beruf"
+    }
   }
 }
