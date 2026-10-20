@@ -1236,6 +1236,8 @@
     "flow": {
       "foundConcepts": "löysin nämä käsitteet, jotka sinun kannattaa kerrata",
       "letsStart": "aloitetaan aiheesta {section}, kun olet valmis",
+      "outlineIntro": "Tässä on se, mitä käymme läpi.",
+      "startLesson": "Aloita oppitunti",
       "readyFirstQuestion": "valmiina ensimmäiseen kysymykseen?",
       "nextConcept": "seuraavaksi: {section}",
       "done": "siinä oli läpikäynti. kysymykset tulevat seuraavaksi.",

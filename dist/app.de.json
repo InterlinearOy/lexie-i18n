@@ -1447,6 +1447,8 @@
     "flow": {
       "foundConcepts": "diese Konzepte solltest du wiederholen",
       "letsStart": "wir starten mit {section}, sobald du bereit bist",
+      "outlineIntro": "Also, das nehmen wir durch.",
+      "startLesson": "Lektion starten",
       "readyFirstQuestion": "bereit für die erste Frage?",
       "nextConcept": "als Nächstes: {section}",
       "done": "das war der Überblick. Die Fragen kommen als Nächstes.",
