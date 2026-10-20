@@ -205,6 +205,11 @@
   "progressive": {
     "toasts": {
       "checkingContent": "Checking out what you sent..",
+      "openerTopic": "Making you a study set on {topic}.",
+      "openerText": "Reading your text.",
+      "openerPhoto": "Looking at your photo.",
+      "openerPhotos": "Looking at your photos.",
+      "openerPdf": "Reading your PDF.",
       "creatingFlashcards": "I'll spin you some nice recall triggers",
       "creatingMathProblems": "Creating practice problems",
       "nextStepQuiz": "Next up: quiz.",
@@ -1231,6 +1236,8 @@
     "flow": {
       "foundConcepts": "found these main concepts you need to revise",
       "letsStart": "let's start with {section} whenever you are ready",
+      "outlineIntro": "Right, here's what we'll cover.",
+      "startLesson": "Start the lesson",
       "readyFirstQuestion": "ready for the first question?",
       "nextConcept": "next up: {section}",
       "done": "that was the walkthrough. the questions are coming next.",

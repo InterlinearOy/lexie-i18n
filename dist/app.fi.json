@@ -370,6 +370,11 @@
   "progressive": {
     "toasts": {
       "checkingContent": "Katson läpi mitä lähetit..",
+      "openerTopic": "Teen sinulle harjoitussetin aiheesta {topic}.",
+      "openerText": "Luen tekstisi.",
+      "openerPhoto": "Katson kuvaasi.",
+      "openerPhotos": "Katson kuviasi.",
+      "openerPdf": "Luen PDF-tiedostosi.",
       "creatingFlashcards": "Teen nyt muistikortteja",
       "creatingMathProblems": "Luon harjoitustehtäviä",
       "nextStepQuiz": "Valmis. Teen seuraavaksi harjoituksia..",
@@ -1442,6 +1447,8 @@
     "flow": {
       "foundConcepts": "löysin nämä käsitteet, jotka sinun kannattaa kerrata",
       "letsStart": "aloitetaan aiheesta {section}, kun olet valmis",
+      "outlineIntro": "Tässä on se, mitä käymme läpi.",
+      "startLesson": "Aloita oppitunti",
       "readyFirstQuestion": "valmiina ensimmäiseen kysymykseen?",
       "nextConcept": "seuraavaksi: {section}",
       "done": "siinä oli läpikäynti. kysymykset tulevat seuraavaksi.",
