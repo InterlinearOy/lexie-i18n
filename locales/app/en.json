@@ -26,6 +26,13 @@
     "questionWillBeSkipped": "This question will be skipped.",
     "done": "Done"
   },
+  "intro": {
+    "slide1": "Turn any topic into a study session",
+    "slide2": "Spend more time on challenging material.",
+    "slide3": "Walk into your exam ready",
+    "start": "Start studying today",
+    "login": "Log in"
+  },
   "welcome": {
     "title": "Welcome to Lexie",
     "description": "Lexie helps you study better. Take a picture. Lexie takes care of the rest.",

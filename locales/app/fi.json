@@ -26,6 +26,13 @@
     "questionWillBeSkipped": "Tämä kysymys ohitetaan.",
     "done": "Valmis"
   },
+  "intro": {
+    "slide1": "Lexie auttaa sinua harjoittelemaan",
+    "slide2": "Kertaa mitä et vielä osaa.",
+    "slide3": "Mene kokeeseen valmiina",
+    "start": "Aloita opiskelu tänään",
+    "login": "Kirjaudu sisään"
+  },
   "welcome": {
     "title": "Tervetuloa Lexieen",
     "description": "Lexie auttaa sinua oppimaan paremmin. Ota kuva ja Lexie hoitaa loput.",
