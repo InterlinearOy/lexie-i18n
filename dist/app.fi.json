@@ -105,6 +105,7 @@
       "pdf": "PDF-tiedosto",
       "send": "Lähetä",
       "prompt": "Näytä tai kerro, mitä haluat oppia",
+      "tipExample": "esim. {text}",
       "takePhoto": "Ota kuva",
       "attach": "Lisää PDF tai kuva",
       "topicIdeas": [

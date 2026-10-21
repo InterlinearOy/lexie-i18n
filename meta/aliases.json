@@ -70,6 +70,7 @@
   "common.close":            { "app": "common.close",                     "web": "study.modes.close" },
 
   "create.prompt":           { "app": "home.composer.prompt",             "web": "workspace.createPrompt" },
+  "create.tipExample":      { "app": "home.composer.tipExample",         "web": "workspace.createTipExample" },
   "create.takePhoto":        { "app": "home.composer.takePhoto",          "web": "workspace.createTakePhoto" },
   "create.attach":           { "app": "home.composer.attach",             "web": "workspace.createUpload" },
   "create.topicIdeas":       { "app": "home.composer.topicIdeas",         "web": "workspace.topicIdeas" }
