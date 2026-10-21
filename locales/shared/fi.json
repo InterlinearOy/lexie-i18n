@@ -75,27 +75,22 @@
       {
         "subject": "biology",
         "kind": "topic",
-        "text": "Fotosynteesin vaiheet"
-      },
-      {
-        "subject": "biology",
-        "kind": "question",
-        "text": "Mikä ero on mitoosilla ja meioosilla?"
+        "text": "Solun rakenne ja soluelimet"
       },
       {
         "subject": "biology",
         "kind": "topic",
-        "text": "Periytyminen ja geenit"
+        "text": "Mendelin lait ja perinnöllisyys"
+      },
+      {
+        "subject": "biology",
+        "kind": "topic",
+        "text": "Fotosynteesi ja soluhengitys"
       },
       {
         "subject": "history",
         "kind": "topic",
-        "text": "Kylmän sodan kriisit"
-      },
-      {
-        "subject": "history",
-        "kind": "question",
-        "text": "Miksi ensimmäinen maailmansota alkoi?"
+        "text": "Kylmän sodan synty ja kriisit"
       },
       {
         "subject": "history",
@@ -103,19 +98,24 @@
         "text": "Suomen sisällissota 1918"
       },
       {
-        "subject": "mathematics",
+        "subject": "history",
         "kind": "topic",
-        "text": "Ehdollinen todennäköisyys"
-      },
-      {
-        "subject": "mathematics",
-        "kind": "question",
-        "text": "Miten toisen asteen yhtälö ratkaistaan?"
+        "text": "Ensimmäisen maailmansodan syyt ja seuraukset"
       },
       {
         "subject": "mathematics",
         "kind": "topic",
-        "text": "Derivaatta ja ääriarvot"
+        "text": "Derivaatta ja funktion kulku"
+      },
+      {
+        "subject": "mathematics",
+        "kind": "topic",
+        "text": "Todennäköisyys ja kombinatoriikka"
+      },
+      {
+        "subject": "mathematics",
+        "kind": "topic",
+        "text": "Toisen asteen yhtälö ja epäyhtälö"
       },
       {
         "subject": "chemistry",
@@ -124,28 +124,33 @@
       },
       {
         "subject": "chemistry",
-        "kind": "question",
-        "text": "Miten lasken ainemäärän?"
+        "kind": "topic",
+        "text": "Ainemäärä ja konsentraatio"
       },
       {
         "subject": "chemistry",
         "kind": "topic",
-        "text": "Orgaaniset yhdisteet"
+        "text": "Orgaanisten yhdisteiden rakenne"
       },
       {
         "subject": "physics",
         "kind": "topic",
-        "text": "Newtonin kolme lakia"
-      },
-      {
-        "subject": "physics",
-        "kind": "question",
-        "text": "Miten lasken kiihtyvyyden?"
+        "text": "Newtonin lait ja liikeyhtälö"
       },
       {
         "subject": "physics",
         "kind": "topic",
-        "text": "Sähköpiirit ja Ohmin laki"
+        "text": "Sähkövirta, jännite ja Ohmin laki"
+      },
+      {
+        "subject": "physics",
+        "kind": "topic",
+        "text": "Energia ja energian säilyminen"
+      },
+      {
+        "subject": "psychology",
+        "kind": "topic",
+        "text": "Kiintymyssuhde ja varhainen vuorovaikutus"
       },
       {
         "subject": "psychology",
@@ -154,58 +159,53 @@
       },
       {
         "subject": "psychology",
-        "kind": "question",
-        "text": "Miten uni vaikuttaa oppimiseen?"
-      },
-      {
-        "subject": "psychology",
         "kind": "topic",
-        "text": "Piaget'n kehitysvaiheet"
+        "text": "Uni, vireys ja oppiminen"
       },
       {
         "subject": "social_studies",
         "kind": "topic",
-        "text": "Vallanjako Suomessa"
-      },
-      {
-        "subject": "social_studies",
-        "kind": "question",
-        "text": "Miksi korot nousevat inflaatiossa?"
+        "text": "Vallanjako ja eduskunnan tehtävät"
       },
       {
         "subject": "social_studies",
         "kind": "topic",
-        "text": "Eduskunnan tehtävät"
+        "text": "Inflaatio ja rahapolitiikka"
+      },
+      {
+        "subject": "social_studies",
+        "kind": "topic",
+        "text": "Hyvinvointivaltio ja verotus"
       },
       {
         "subject": "literature",
         "kind": "topic",
-        "text": "Metafora, vertaus ja metonymia"
-      },
-      {
-        "subject": "literature",
-        "kind": "question",
-        "text": "Miten analysoin novellin kertojaa?"
+        "text": "Kielikuvat: metafora, vertaus ja metonymia"
       },
       {
         "subject": "literature",
         "kind": "topic",
-        "text": "Romantiikan piirteet"
+        "text": "Novellin kertoja ja näkökulma"
+      },
+      {
+        "subject": "literature",
+        "kind": "topic",
+        "text": "Romantiikka ja realismi"
       },
       {
         "subject": "geography",
         "kind": "topic",
-        "text": "Laattatektoniikka"
-      },
-      {
-        "subject": "geography",
-        "kind": "question",
-        "text": "Miksi maanjäristyksiä syntyy?"
+        "text": "Laattatektoniikka ja maanjäristykset"
       },
       {
         "subject": "geography",
         "kind": "topic",
-        "text": "Väestöpyramidit"
+        "text": "Väestönkasvu ja väestöpyramidit"
+      },
+      {
+        "subject": "geography",
+        "kind": "topic",
+        "text": "Ilmastonmuutos ja sen vaikutukset"
       },
       {
         "subject": "health_education",
@@ -214,13 +214,13 @@
       },
       {
         "subject": "health_education",
-        "kind": "question",
-        "text": "Miten liikunta vaikuttaa aivoihin?"
+        "kind": "topic",
+        "text": "Ravintoaineet ja ruokavalio"
       },
       {
         "subject": "health_education",
         "kind": "topic",
-        "text": "Ravintoaineet ja ravitsemus"
+        "text": "Liikunnan vaikutus terveyteen"
       }
     ]
   }
