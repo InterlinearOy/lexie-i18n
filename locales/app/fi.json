@@ -100,8 +100,8 @@
     "earnMoreSets": "Earn more sets",
     "inviteFriends": "Kutsu kavereita",
     "composer": {
-      "fromGallery": "Kuva puhelimesta",
-      "pdf": "PDF-tiedosto",
+      "fromGallery": "Kuvat",
+      "pdf": "Tiedostot",
       "send": "Lähetä"
     }
   },
