@@ -27,6 +27,13 @@
     "done": "Valmis",
     "close": "Sulje"
   },
+  "intro": {
+    "slide1": "Muuta mikä tahansa sivu opiskeluhetkeksi",
+    "slide2": "Harjoittele, kunnes oikeasti osaat",
+    "slide3": "Mene kokeeseen valmiina",
+    "start": "Aloita opiskelu tänään",
+    "login": "Kirjaudu sisään"
+  },
   "welcome": {
     "title": "Tervetuloa Lexieen",
     "description": "Lexie auttaa sinua oppimaan paremmin. Ota kuva ja Lexie hoitaa loput.",
