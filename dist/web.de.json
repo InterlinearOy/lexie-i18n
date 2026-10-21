@@ -186,27 +186,22 @@
       {
         "subject": "biology",
         "kind": "topic",
-        "text": "The stages of photosynthesis"
-      },
-      {
-        "subject": "biology",
-        "kind": "question",
-        "text": "How is mitosis different from meiosis?"
+        "text": "Cell structure and organelles"
       },
       {
         "subject": "biology",
         "kind": "topic",
-        "text": "Genes and inheritance"
+        "text": "Mendel's laws and inheritance"
+      },
+      {
+        "subject": "biology",
+        "kind": "topic",
+        "text": "Photosynthesis and cellular respiration"
       },
       {
         "subject": "history",
         "kind": "topic",
-        "text": "Cold War crises"
-      },
-      {
-        "subject": "history",
-        "kind": "question",
-        "text": "Why did World War I start?"
+        "text": "The Cold War: origins and crises"
       },
       {
         "subject": "history",
@@ -214,19 +209,24 @@
         "text": "The Finnish Civil War of 1918"
       },
       {
-        "subject": "mathematics",
+        "subject": "history",
         "kind": "topic",
-        "text": "Conditional probability"
-      },
-      {
-        "subject": "mathematics",
-        "kind": "question",
-        "text": "How do I solve a quadratic equation?"
+        "text": "World War I: causes and consequences"
       },
       {
         "subject": "mathematics",
         "kind": "topic",
-        "text": "Derivatives and turning points"
+        "text": "Derivatives and the behaviour of functions"
+      },
+      {
+        "subject": "mathematics",
+        "kind": "topic",
+        "text": "Probability and combinatorics"
+      },
+      {
+        "subject": "mathematics",
+        "kind": "topic",
+        "text": "Quadratic equations and inequalities"
       },
       {
         "subject": "chemistry",
@@ -235,28 +235,33 @@
       },
       {
         "subject": "chemistry",
-        "kind": "question",
-        "text": "How do I calculate amount of substance?"
+        "kind": "topic",
+        "text": "Amount of substance and concentration"
       },
       {
         "subject": "chemistry",
         "kind": "topic",
-        "text": "Organic compounds"
+        "text": "The structure of organic compounds"
       },
       {
         "subject": "physics",
         "kind": "topic",
-        "text": "Newton's three laws"
-      },
-      {
-        "subject": "physics",
-        "kind": "question",
-        "text": "How do I calculate acceleration?"
+        "text": "Newton's laws and the equation of motion"
       },
       {
         "subject": "physics",
         "kind": "topic",
-        "text": "Circuits and Ohm's law"
+        "text": "Current, voltage and Ohm's law"
+      },
+      {
+        "subject": "physics",
+        "kind": "topic",
+        "text": "Energy and conservation of energy"
+      },
+      {
+        "subject": "psychology",
+        "kind": "topic",
+        "text": "Attachment and early interaction"
       },
       {
         "subject": "psychology",
@@ -265,58 +270,53 @@
       },
       {
         "subject": "psychology",
-        "kind": "question",
-        "text": "How does sleep affect learning?"
-      },
-      {
-        "subject": "psychology",
         "kind": "topic",
-        "text": "Piaget's stages of development"
+        "text": "Sleep, alertness and learning"
       },
       {
         "subject": "social_studies",
         "kind": "topic",
-        "text": "Separation of powers"
-      },
-      {
-        "subject": "social_studies",
-        "kind": "question",
-        "text": "Why do rates rise with inflation?"
+        "text": "Separation of powers and parliament"
       },
       {
         "subject": "social_studies",
         "kind": "topic",
-        "text": "What parliament does"
+        "text": "Inflation and monetary policy"
+      },
+      {
+        "subject": "social_studies",
+        "kind": "topic",
+        "text": "The welfare state and taxation"
       },
       {
         "subject": "literature",
         "kind": "topic",
-        "text": "Metaphor, simile and metonymy"
-      },
-      {
-        "subject": "literature",
-        "kind": "question",
-        "text": "How do I analyse a story's narrator?"
+        "text": "Figures of speech: metaphor, simile, metonymy"
       },
       {
         "subject": "literature",
         "kind": "topic",
-        "text": "Features of Romanticism"
+        "text": "Narrator and point of view in short stories"
+      },
+      {
+        "subject": "literature",
+        "kind": "topic",
+        "text": "Romanticism and realism"
       },
       {
         "subject": "geography",
         "kind": "topic",
-        "text": "Plate tectonics"
-      },
-      {
-        "subject": "geography",
-        "kind": "question",
-        "text": "Why do earthquakes happen?"
+        "text": "Plate tectonics and earthquakes"
       },
       {
         "subject": "geography",
         "kind": "topic",
-        "text": "Population pyramids"
+        "text": "Population growth and population pyramids"
+      },
+      {
+        "subject": "geography",
+        "kind": "topic",
+        "text": "Climate change and its effects"
       },
       {
         "subject": "health_education",
@@ -325,13 +325,13 @@
       },
       {
         "subject": "health_education",
-        "kind": "question",
-        "text": "How does exercise affect the brain?"
+        "kind": "topic",
+        "text": "Nutrients and diet"
       },
       {
         "subject": "health_education",
         "kind": "topic",
-        "text": "Nutrients and nutrition"
+        "text": "How exercise affects health"
       }
     ]
   },
