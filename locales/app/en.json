@@ -100,8 +100,8 @@
     "earnMoreSets": "Earn more sets",
     "inviteFriends": "Invite friends",
     "composer": {
-      "fromGallery": "Picture from your phone",
-      "pdf": "PDF file",
+      "fromGallery": "Photos",
+      "pdf": "Files",
       "send": "Send"
     }
   },
