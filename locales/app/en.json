@@ -1326,15 +1326,15 @@
   "studyLevel": {
     "early_secondary": {
       "title": "Early secondary school",
-      "subtitle": "Ages 10 to 13"
+      "subtitle": "Ages 10 to 12"
     },
     "secondary": {
       "title": "Secondary school",
-      "subtitle": "Ages 14 to 16"
+      "subtitle": "Ages 13 to 15"
     },
     "upper_secondary": {
       "title": "Upper secondary, final exams",
-      "subtitle": "Ages 17 to 19"
+      "subtitle": "Ages 16 to 19"
     },
     "adult": {
       "title": "Adult learners",

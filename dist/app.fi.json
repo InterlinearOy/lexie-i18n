@@ -1537,15 +1537,15 @@
   "studyLevel": {
     "early_secondary": {
       "title": "Alakoulun yläluokat",
-      "subtitle": "10–13-vuotiaat"
+      "subtitle": "10–12-vuotiaat"
     },
     "secondary": {
       "title": "Yläkoulu",
-      "subtitle": "14–16-vuotiaat"
+      "subtitle": "13–15-vuotiaat"
     },
     "upper_secondary": {
       "title": "Lukio ja ylioppilaskoe",
-      "subtitle": "17–19-vuotiaat"
+      "subtitle": "16–19-vuotiaat"
     },
     "adult": {
       "title": "Aikuiset",
