@@ -1236,7 +1236,7 @@
     "flow": {
       "foundConcepts": "found these main concepts you need to revise",
       "letsStart": "let's start with {section} whenever you are ready",
-      "outlineIntro": "Right, here's what we'll cover.",
+      "outlineIntro": "We'll go through these topics.",
       "startLesson": "Start the lesson",
       "readyFirstQuestion": "ready for the first question?",
       "nextConcept": "next up: {section}",
