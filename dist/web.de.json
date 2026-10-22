@@ -374,7 +374,7 @@
     "prepFeature3": "*Hunderte Übungen* in jedem Vorbereitungskurs",
     "prepFeature4": "*Hör* dir die Texte im Bus oder beim Spaziergang an",
     "prepStaticAnnualPrice": "59,99 €",
-    "prepStaticMonthlyPrice": "9,99 €",
+    "prepStaticMonthlyPrice": "12,99 €",
     "prepAnnualPriceSub": "Nur {price} pro Monat",
     "prepMonthlyPriceSub": "Monatliche Abrechnung",
     "prepSubscribeAnnual": "Für ein Jahr abonnieren",
@@ -422,7 +422,7 @@
     "monthly": {
       "title": "Monatsabo",
       "description": "Zahl monatlich. Jederzeit kündbar.",
-      "price": "9,99 €/Monat",
+      "price": "12,99 €/Monat",
       "billing": "Monatlich abgerechnet"
     },
     "family": {
