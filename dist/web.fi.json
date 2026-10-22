@@ -367,7 +367,7 @@
     "prepFeature3": "Jokaisessa kertauskokonaisuudessa *satoja tehtäviä*",
     "prepFeature4": "*Kuuntele* kertaustekstit bussissa tai lenkillä",
     "prepStaticAnnualPrice": "59,99€",
-    "prepStaticMonthlyPrice": "9,99€",
+    "prepStaticMonthlyPrice": "12,99€",
     "prepAnnualPriceSub": "Vain {price} kuukaudessa",
     "prepMonthlyPriceSub": "Laskutetaan kuukausittain",
     "prepSubscribeAnnual": "Tilaa vuodeksi",
@@ -415,7 +415,7 @@
     "monthly": {
       "title": "Kuukausitilaus",
       "description": "Maksa kuukausittain. Peruuta milloin tahansa.",
-      "price": "€9,99/kk",
+      "price": "€12,99/kk",
       "billing": "Laskutetaan kuukausittain"
     },
     "family": {

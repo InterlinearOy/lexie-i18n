@@ -221,7 +221,7 @@
     "prepFeature3": "*Hundreds of exercises* in every prep course",
     "prepFeature4": "*Listen* to the prep texts on the bus or on a walk",
     "prepStaticAnnualPrice": "€59.99",
-    "prepStaticMonthlyPrice": "€9.99",
+    "prepStaticMonthlyPrice": "€12.99",
     "prepAnnualPriceSub": "Only {price} per month",
     "prepMonthlyPriceSub": "Billed monthly",
     "prepSubscribeAnnual": "Subscribe for a year",
@@ -269,7 +269,7 @@
     "monthly": {
       "title": "Monthly Plan",
       "description": "Pay monthly for Lexie Pro Pass. Cancel anytime.",
-      "price": "$9.99/mth",
+      "price": "$11.99/mth",
       "billing": "Billed monthly"
     },
     "family": {
