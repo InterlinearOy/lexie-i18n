@@ -1280,6 +1280,7 @@
     "addPhoto": "Foto hinzufügen",
     "worksheet": {
       "firstLine": "Show your working",
+      "answerPlaceholder": "Take a photo of your answer or type",
       "check": "Check",
       "stuck": "I am stuck",
       "moreHelp": "Another hint",

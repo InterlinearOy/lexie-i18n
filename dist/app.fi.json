@@ -1280,6 +1280,7 @@
     "addPhoto": "Lisää kuva",
     "worksheet": {
       "firstLine": "Kirjoita ratkaisusi tähän",
+      "answerPlaceholder": "Ota kuva vastauksestasi tai kirjoita",
       "check": "Tarkista",
       "stuck": "Olen jumissa",
       "moreHelp": "Uusi vihje",
