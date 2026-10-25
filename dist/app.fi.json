@@ -469,6 +469,7 @@
       "syncTooLargeOne": "1 harjoitussetti on liian suuri synkronoitavaksi. Se jää tälle puhelimelle.",
       "syncTooLargeMany": "{count} harjoitussettiä on liian suuria synkronoitavaksi. Ne jäävät tälle puhelimelle.",
       "syncAccountFull": "Tililläsi on 500 harjoitussettiä, mikä on synkronoinnin yläraja. Uudet harjoitussetit jäävät tälle puhelimelle.",
+      "syncFailedBody": "Synkronointi ei onnistunut. Yritä uudelleen napauttamalla riviä.",
       "emptyBodySync": "Kirjaudu sisään, niin näet harjoitussettisi myös lexielearn.comissa."
     },
     "profileSettings": "Profiili",

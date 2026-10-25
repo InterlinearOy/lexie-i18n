@@ -469,6 +469,7 @@
       "syncTooLargeOne": "1 Lektion ist zu groß für die Synchronisierung. Sie bleibt auf diesem Handy.",
       "syncTooLargeMany": "{count} Lektionen sind zu groß für die Synchronisierung. Sie bleiben auf diesem Handy.",
       "syncAccountFull": "Dein Konto hat 500 Lektionen, das Maximum für die Synchronisierung. Neue Lektionen bleiben auf diesem Handy.",
+      "syncFailedBody": "Die Synchronisierung hat nicht geklappt. Tippe auf die Zeile, um es noch einmal zu versuchen.",
       "emptyBodySync": "Melde dich an, um deine Lektionen auch auf lexielearn.com zu sehen."
     },
     "profileSettings": "Profil",
