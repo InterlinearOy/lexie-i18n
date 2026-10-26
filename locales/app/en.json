@@ -304,6 +304,7 @@
       "syncTooLargeOne": "1 set is too large to sync. It stays on this phone.",
       "syncTooLargeMany": "{count} sets are too large to sync. They stay on this phone.",
       "syncAccountFull": "Your account has 500 sets, the most that sync. New sets stay on this phone.",
+      "syncFailedBody": "Sync did not go through. Tap the row to try again.",
       "emptyBodySync": "Sign in to see your sets on lexielearn.com too."
     },
     "profileSettings": "Profile",
