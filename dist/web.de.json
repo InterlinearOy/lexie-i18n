@@ -1,15 +1,15 @@
 {
-  "metaDescription": "Fotografiere dein Lernmaterial und bekomme sofort Übungsaufgaben und Karteikarten. Bereite dich in deinem Tempo auf Prüfungen vor. Kostenlos zum Ausprobieren.",
+  "metaDescription": "Mach ein Foto von deinen Notizen. Du bekommst sofort Karteikarten, Quizze und Übungstests. Gratis testen.",
   "insightsNav": "Artikel",
-  "betterWayToLearn": "Keine Überraschungen am Prüfungstag",
-  "heroDescription": "Wenn Prüfungen dich stressen, liegt es nicht an dir.<br/>Die richtige Art zu üben hilft 👇",
+  "betterWayToLearn": "Prüfungen ohne Überraschungen",
+  "heroDescription": "Wenn Prüfungen dich stressen, liegt es nicht an dir.<br/>Die richtige Art zu lernen hilft 👇",
   "downloadForIos": "Für iOS laden",
   "downloadForAndroid": "Für Android laden",
-  "getStarted": "Ausprobieren",
+  "getStarted": "Gratis ausprobieren",
   "downloadApp": "App laden",
   "giftLexie": "Verschenken",
   "tryWhatsApp": "Schreib Lexie",
-  "locale": "en",
+  "locale": "de",
   "unlimited": {
     "cta": "Unbegrenzt freischalten",
     "modalTitle": "Investier in dein Lernen",
@@ -20,15 +20,15 @@
     "modalPlanMonthly": "4,90 € /Monat",
     "modalEmailLabel": "Deine E-Mail-Adresse",
     "modalEmailPlaceholder": "Deine E-Mail-Adresse",
-    "modalContinue": "Weiter zur Kasse",
+    "modalContinue": "Weiter zum Bezahlen",
     "modalLoading": "Weiterleitung …",
-    "modalHowItWorks": "Wir schicken dir einen Zugangscode per E-Mail. Öffne die Lexie-App und füg ihn ein, um unbegrenzt freizuschalten.",
+    "modalHowItWorks": "Wir schicken dir einen Zugangscode per E-Mail. Öffne Lexie und füge ihn ein, um unbegrenzt freizuschalten.",
     "modalFootnote": "Sichere Zahlung über Stripe",
     "modalError": "Etwas ist schiefgelaufen. Versuch es noch mal.",
     "modalClose": "Schließen",
     "successTitle": "Code ist unterwegs",
     "successSubtitle": "Dein Zugangscode ist auf dem Weg in dein Postfach.",
-    "successHowToUse": "Hol dir die Lexie-App und füg deinen Code ein, um unbegrenzt freizuschalten.",
+    "successHowToUse": "Hol dir die Lexie-App & füg deinen Code ein, um unbegrenzt freizuschalten.",
     "successGetApp": "App laden",
     "successBackHome": "Zurück zur Startseite"
   },
@@ -39,15 +39,15 @@
     "pastePlaceholder": "Text hier einfügen",
     "pdfTooLarge": "Das PDF ist zu groß. Nimm eine Datei unter 10 MB.",
     "pdfTruncated": "Das PDF war zu lang, nur der Anfang wurde gelesen. Du kannst den Text vor dem Absenden bearbeiten.",
-    "pdfFailed": "Der Text aus dem PDF konnte nicht gelesen werden.",
-    "addContent": "Füg erst etwas Inhalt hinzu.",
+    "pdfFailed": "Text aus dem PDF konnte nicht gelesen werden.",
+    "addContent": "Füge erst Inhalte hinzu.",
     "genericError": "Etwas ist schiefgelaufen. Versuch es noch mal.",
     "extractingPdf": "Text wird gelesen …",
     "checking": "Schaue mir an, was du geschickt hast …",
-    "limitTitle": "Du hast alle 5 kostenlosen Lektionen genutzt",
+    "limitTitle": "Du hast alle 5 Gratis-Lektionen genutzt",
     "limitText": "Lade die Lexie-App, wenn du unbegrenzt viele Lektionen willst.",
-    "tip": "tipp: ein Abschnitt funktioniert besser als ein ganzes Kapitel",
-    "largePdfTitle": "Ganz schön viel",
+    "tip": "Tipp: ein Abschnitt funktioniert besser als ein ganzes Kapitel",
+    "largePdfTitle": "Das ist ganz schön viel",
     "largePdfText": "Lexie braucht dafür eine Weile. Kleinere Lektionen funktionieren besser, aber du kannst weitermachen, wenn du willst.",
     "largePdfContinue": "Weitermachen",
     "largePdfCancel": "Abschnitt wählen"
@@ -55,7 +55,7 @@
   "workspace": {
     "navLabel": "Arbeitsbereich",
     "loginTitle": "Bei Lexie anmelden",
-    "loginProof": "Beliebt bei Lernenden auf der ganzen Welt",
+    "loginProof": "Von Lernenden auf der ganzen Welt geliebt",
     "loginEmailPlaceholder": "Deine E-Mail-Adresse",
     "loginEmailMissing": "Gib deine E-Mail-Adresse ein.",
     "loginSendFailed": "Der Code konnte nicht gesendet werden. Versuch es gleich noch mal.",
@@ -63,17 +63,17 @@
     "loginSending": "Wird gesendet …",
     "loginCodeSent": "Wir haben einen Anmeldecode an {email} geschickt. Der Code ist nur kurz gültig.",
     "loginCodePlaceholder": "6-stelliger Code",
-    "loginCodeMissing": "Gib den 6-stelligen Code ein, den wir dir per E-Mail geschickt haben.",
-    "loginCodeInvalid": "Der Code hat nicht funktioniert. Prüf ihn und versuch es noch mal.",
+    "loginCodeMissing": "Gib den 6-stelligen Code aus der E-Mail ein.",
+    "loginCodeInvalid": "Code hat nicht geklappt. Prüf ihn und versuch es noch mal.",
     "loginVerify": "Anmelden",
     "loginVerifying": "Anmeldung läuft …",
     "loginResend": "Code erneut senden",
     "loginChangeEmail": "E-Mail-Adresse ändern",
-    "loginLegalPre": "Wenn du weitermachst, akzeptierst du Lexies ",
+    "loginLegalPre": "Wenn du weitermachst, akzeptierst du Lexies",
     "loginTerms": "Nutzungsbedingungen",
-    "loginLegalAnd": " und ",
+    "loginLegalAnd": "und",
     "loginPrivacy": "Datenschutzerklärung",
-    "loginLegalAge": " und bestätigst, dass du mindestens 13 Jahre alt bist.",
+    "loginLegalAge": "und bestätigst, dass du mindestens 13 Jahre alt bist.",
     "splash": "Einen Moment …",
     "navHome": "Start",
     "navSets": "Meine Lektionen",
@@ -83,35 +83,35 @@
     "manageSubscription": "Abo verwalten",
     "redeemAction": "Code einlösen",
     "redeemTitle": "Code eingeben",
-    "redeemSubtitle": "Löse einen Code ein und hol dir kostenlose Lektionen",
+    "redeemSubtitle": "Löse einen Code ein und hol dir Gratis-Lektionen",
     "redeemSubmit": "Einlösen",
     "redeemMissing": "Gib alle 5 Zeichen ein",
     "redeemInvalid": "Code nicht gefunden. Prüf ihn und versuch es noch mal.",
     "redeemInactive": "Dieser Code ist nicht mehr gültig.",
     "redeemExhausted": "Dieser Code wurde schon benutzt.",
     "redeemAlreadyRedeemed": "Du hast diesen Code schon eingelöst.",
-    "redeemFailed": "Das Einlösen hat nicht geklappt. Versuch es gleich noch mal.",
+    "redeemFailed": "Einlösen hat nicht geklappt. Versuch es gleich noch mal.",
     "redeemSuccessTitle": "Eingelöst",
     "redeemSuccessText": "Du hast Lexie Pro bis {date}.",
     "redeemDone": "Fertig",
     "redeemModalClose": "Schließen",
     "language": "Sprache",
     "upgrade": "Hol dir Lexie Pro",
-    "upgradeBody": "Hol alles aus Lexie raus, mit unbegrenzt vielen Lektionen",
+    "upgradeBody": "Hol mit unbegrenzt vielen Lektionen alles aus Lexie raus",
     "downloadApp": "App laden",
     "getAppTitle": "Lexie-App laden",
     "getAppScan": "Scanne den Code mit der Handykamera, um Lexie zu laden",
     "getAppOr": "Oder öffne",
     "referralSidebar": "Gratismonat",
-    "referralTitle": "Teile Lexie und verdiene Gratismonate",
+    "referralTitle": "Teilen & Rewards verdienen",
     "referralSubtitle": "Kennst du jemanden, der auch Hilfe beim Lernen für Prüfungen brauchen könnte? Teile Lexie mit der Person und ihr bekommt beide einen Monat gratis.",
     "referralTabRefer": "Einladen",
-    "referralTabPast": "Bisherige Einladungen",
+    "referralTabPast": "Frühere Einladungen",
     "referralCodeLabel": "Einladungscode",
     "referralHowLabel": "So funktioniert es:",
     "referralHow1": "Scanne den QR-Code oder teile den Link",
     "referralHow2": "Die eingeladene Person erstellt ein Konto und bekommt Lexie einen Monat gratis",
-    "referralHow3": "Du bekommst einen Monat, sobald die Person anfängt zu lernen",
+    "referralHow3": "Du bekommst 1 Monat, sobald die Person anfängt zu lernen",
     "referralLinkLabel": "Dein Einladungslink",
     "referralPastEmpty": "Noch keine Einladungen. Teile deinen Link, um loszulegen.",
     "referralPastJoined": "Beigetreten",
@@ -121,14 +121,14 @@
     "referralCopied": "Kopiert",
     "referralShare": "Teilen",
     "referralStats": "{joined} beigetreten · {earned}/{cap} Monate verdient",
-    "referralFooter": "Verdiente Monate kommen ans Ende deines Zugangs.",
+    "referralFooter": "Die erworbenen Monate werden deiner Nutzungsdauer hinzugefügt.",
     "referralFooterSubscriber": "Die Monate werden genutzt, wenn dein Abo endet.",
     "referralCapReached": "Du hast alle sechs Gratismonate verdient.",
-    "referralToast": "Ein Gratismonat für dich. Die eingeladene Person hat angefangen zu lernen.",
-    "referralFailed": "Etwas ist schiefgelaufen. Versuch es noch mal.",
+    "referralToast": "Gratismonat verdient! Dank dir hat jemand mit dem Lernen angefangen.",
+    "referralFailed": "Das hat nicht geklappt. Versuch’s nochmal.",
     "referralShareMessage": "Ein Geschenk für dich: ein Monat Lexie gratis. Unbegrenzt viele Lektionen und die komplette Prüfungsvorbereitung.",
     "referralLandingTitle": "Jemand hat dir einen Monat Lexie geschenkt",
-    "referralLandingBody": "Erstell ein kostenloses Konto und du bekommst einen Monat lang alles: unbegrenzt viele Lektionen und die komplette Prüfungsvorbereitung.",
+    "referralLandingBody": "Erstell ein gratis Konto und du bekommst einen Monat lang alles: unbegrenzt viele Lektionen und die komplette Prüfungsvorbereitung.",
     "referralLandingCta": "Gratismonat einlösen",
     "referralSharePageTitle": "Schick die Einladung an jemanden",
     "referralSharePageCta": "Mit jemandem teilen",
@@ -139,26 +139,19 @@
     "referralAppStep1": "Hol dir Lexie im App Store oder bei Google Play.",
     "referralAppStep2": "Melde dich in der App mit {email} an, dann gilt dein Gratismonat auch dort.",
     "referralNotNew": "Einladungen sind für neue Nutzer, aber du bist ja schon dabei.",
-    "homeTitlePre": "Was willst du heute ",
+    "homeTitlePre": "Was willst du heute",
     "homeTitleEm": "üben",
     "homeTitlePost": "?",
-    "homeVariants": [
-      "Coffee and study time?",
-      "Time to lock in",
-      "What do you want to study today?",
-      "Ready to learn something new?",
-      "Let's get studying",
-      "Look who's back!"
-    ],
+    "homeVariants": [],
     "homeRecents": "Zuletzt geöffnet",
-    "createPrompt": "Zieh einen Screenshot oder ein PDF rein oder füg Text ein, und Lexie macht daraus eine neue Lektion",
-    "createUpload": "Dateien oder Fotos hinzufügen",
+    "createPrompt": "Zeig oder sag mir, was du lernen willst",
+    "createUpload": "PDF oder Bild hinzufügen",
     "createPaste": "Text einfügen",
     "setsTitle": "Meine Lektionen",
     "setsEmpty": "Noch nichts hier. Deine Lektionen erscheinen hier.",
-    "setsError": "Deine Lektionen konnten nicht geladen werden. Versuch es noch mal.",
-    "limitTitle": "Deine kostenlosen Lektionen sind aufgebraucht",
-    "limitText": "Deine drei kostenlosen Lektionen sind aufgebraucht. Hol dir Lexie Pro, um weiter Lektionen zu erstellen.",
+    "setsError": "Lektionen laden hat nicht geklappt. Versuch’s nochmal.",
+    "limitTitle": "Gratis Lektionen sind aufgebraucht",
+    "limitText": "Deine drei Gratis-Lektionen sind aufgebraucht. Mit Lexie Pro erstellst du weiter neue.",
     "setsCreate": "Neue Lektion erstellen",
     "setsTabAll": "Alle Lektionen",
     "setsTabFolders": "Ordner",
@@ -176,171 +169,171 @@
     "folderMove": "In Ordner verschieben",
     "folderActionFailed": "Etwas ist schiefgelaufen. Versuch es noch mal.",
     "folderModalClose": "Schließen",
-    "folderEmpty": "In diesem Ordner sind noch keine Lektionen",
+    "folderEmpty": "Keine Lektionen in diesem Ordner",
     "folderEmptyCreate": "Lektion erstellen",
     "coursesTitle": "Kurse",
     "coursesIntro": "Hier findest du Lexies fertige Kurse und Lernmaterialien",
     "backToCourses": "Zurück zu den Kursen",
-    "createTakePhoto": "Take a photo",
+    "createTakePhoto": "Foto machen",
     "topicIdeas": [
       {
         "subject": "biology",
         "kind": "topic",
-        "text": "Cell structure and organelles"
+        "text": "Zellaufbau und Zellorganellen"
       },
       {
         "subject": "biology",
         "kind": "topic",
-        "text": "Mendel's laws and inheritance"
+        "text": "Mendelsche Regeln und Vererbung"
       },
       {
         "subject": "biology",
         "kind": "topic",
-        "text": "Photosynthesis and cellular respiration"
+        "text": "Fotosynthese und Zellatmung"
       },
       {
         "subject": "history",
         "kind": "topic",
-        "text": "The Cold War: origins and crises"
+        "text": "Der Kalte Krieg: Entstehung und Krisen"
       },
       {
         "subject": "history",
         "kind": "topic",
-        "text": "The Finnish Civil War of 1918"
+        "text": "Die Weimarer Republik"
       },
       {
         "subject": "history",
         "kind": "topic",
-        "text": "World War I: causes and consequences"
+        "text": "Der Erste Weltkrieg: Ursachen und Folgen"
       },
       {
         "subject": "mathematics",
         "kind": "topic",
-        "text": "Derivatives and the behaviour of functions"
+        "text": "Ableitungen und Kurvendiskussion"
       },
       {
         "subject": "mathematics",
         "kind": "topic",
-        "text": "Probability and combinatorics"
+        "text": "Wahrscheinlichkeit und Kombinatorik"
       },
       {
         "subject": "mathematics",
         "kind": "topic",
-        "text": "Quadratic equations and inequalities"
+        "text": "Quadratische Gleichungen und Ungleichungen"
       },
       {
         "subject": "chemistry",
         "kind": "topic",
-        "text": "Acids, bases and pH"
+        "text": "Säuren, Basen und pH-Wert"
       },
       {
         "subject": "chemistry",
         "kind": "topic",
-        "text": "Amount of substance and concentration"
+        "text": "Stoffmenge und Konzentration"
       },
       {
         "subject": "chemistry",
         "kind": "topic",
-        "text": "The structure of organic compounds"
+        "text": "Aufbau organischer Verbindungen"
       },
       {
         "subject": "physics",
         "kind": "topic",
-        "text": "Newton's laws and the equation of motion"
+        "text": "Newtonsche Gesetze und Bewegungsgleichung"
       },
       {
         "subject": "physics",
         "kind": "topic",
-        "text": "Current, voltage and Ohm's law"
+        "text": "Stromstärke, Spannung und ohmsches Gesetz"
       },
       {
         "subject": "physics",
         "kind": "topic",
-        "text": "Energy and conservation of energy"
+        "text": "Energie und Energieerhaltung"
       },
       {
         "subject": "psychology",
         "kind": "topic",
-        "text": "Attachment and early interaction"
+        "text": "Bindung und frühe Interaktion"
       },
       {
         "subject": "psychology",
         "kind": "topic",
-        "text": "Working memory and long-term memory"
+        "text": "Arbeitsgedächtnis und Langzeitgedächtnis"
       },
       {
         "subject": "psychology",
         "kind": "topic",
-        "text": "Sleep, alertness and learning"
+        "text": "Schlaf, Wachheit und Lernen"
       },
       {
         "subject": "social_studies",
         "kind": "topic",
-        "text": "Separation of powers and parliament"
+        "text": "Gewaltenteilung und Bundestag"
       },
       {
         "subject": "social_studies",
         "kind": "topic",
-        "text": "Inflation and monetary policy"
+        "text": "Inflation und Geldpolitik"
       },
       {
         "subject": "social_studies",
         "kind": "topic",
-        "text": "The welfare state and taxation"
+        "text": "Sozialstaat und Steuern"
       },
       {
         "subject": "literature",
         "kind": "topic",
-        "text": "Figures of speech: metaphor, simile, metonymy"
+        "text": "Stilmittel: Metapher, Vergleich, Metonymie"
       },
       {
         "subject": "literature",
         "kind": "topic",
-        "text": "Narrator and point of view in short stories"
+        "text": "Erzähler und Erzählperspektive in Kurzgeschichten"
       },
       {
         "subject": "literature",
         "kind": "topic",
-        "text": "Romanticism and realism"
+        "text": "Romantik und Realismus"
       },
       {
         "subject": "geography",
         "kind": "topic",
-        "text": "Plate tectonics and earthquakes"
+        "text": "Plattentektonik und Erdbeben"
       },
       {
         "subject": "geography",
         "kind": "topic",
-        "text": "Population growth and population pyramids"
+        "text": "Bevölkerungswachstum und Bevölkerungspyramiden"
       },
       {
         "subject": "geography",
         "kind": "topic",
-        "text": "Climate change and its effects"
+        "text": "Klimawandel und seine Folgen"
       },
       {
         "subject": "health_education",
         "kind": "topic",
-        "text": "Stress and recovery"
+        "text": "Stress und Erholung"
       },
       {
         "subject": "health_education",
         "kind": "topic",
-        "text": "Nutrients and diet"
+        "text": "Nährstoffe und Ernährung"
       },
       {
         "subject": "health_education",
         "kind": "topic",
-        "text": "How exercise affects health"
+        "text": "Wie Bewegung die Gesundheit beeinflusst"
       }
     ]
   },
   "paywall": {
-    "proof": "Studierende auf der ganzen Welt lieben Lexie",
+    "proof": "Lernende auf der ganzen Welt lieben Lexie",
     "title": "Hol dir Lexie Pro",
     "titleActive": "Willkommen bei Lexie Pro",
     "subtitle": "Besteh deine Prüfungen mit Lexie.",
-    "subtitleActive": "Danke für deine Unterstützung. Sie hält Lexie am Laufen und bezahlt die Arbeit, die Lexie besser macht.",
+    "subtitleActive": "Danke für deine Unterstützung. Es hält Lexie am Laufen und bezahlt die Arbeit, die Lexie besser macht.",
     "loading": "Einen Moment …",
     "signinHint": "Melde dich mit deiner E-Mail-Adresse an, damit der Kauf zu deinem Konto gehört. Alles wird direkt nach der Zahlung im Browser freigeschaltet, und dasselbe Abo funktioniert auch in der App.",
     "ageNote": "Mit dem Erstellen eines Kontos bestätigst du, dass du mindestens 13 Jahre alt bist.",
@@ -350,7 +343,7 @@
     "planAnnual": "Jahres-Pass",
     "planMonthly": "Monatlich",
     "planAnnualSub": "Am günstigsten",
-    "planMonthlySub": "Verlängert sich monatlich",
+    "planMonthlySub": "Monatliche Verlängerung",
     "perYear": "/Jahr",
     "perMonth": "/Monat",
     "subscribe": "Abonnieren",
@@ -364,7 +357,7 @@
     "genericError": "Etwas ist schiefgelaufen. Versuch es noch mal.",
     "footnote": "Sichere Zahlung über RevenueCat",
     "close": "Schließen",
-    "prepTitle": "Die ganze Prüfungsvorbereitung freischalten",
+    "prepTitle": "Volle Prüfungsvorbereitung",
     "prepSubtitle": "Besteh deine Abschlussprüfungen mit Lexie. Diese Lektion und *139* weitere mit dem Lexie Pro-Pass.",
     "prepBadge": "PRO-PASS",
     "prepToggleAnnual": "Jährlich",
@@ -381,7 +374,7 @@
     "prepSubscribeMonthly": "Monatlich abonnieren",
     "prepSigninHint": "Melde dich mit deiner E-Mail-Adresse an, damit der Kauf zu deinem Konto gehört. Dasselbe Abo funktioniert auch in der App.",
     "prepSignedInAs": "Du bist angemeldet als {email}.",
-    "prepLegal": "Wenn du fortfährst, akzeptierst du die {terms} und die {privacy} von Lexie.",
+    "prepLegal": "Wenn du fortfährst, akzeptierst du die Lexie {terms} und die {privacy}.",
     "prepLegalTerms": "Nutzungsbedingungen",
     "prepLegalPrivacy": "Datenschutzerklärung",
     "prepLegacyPrice": "59 €",
@@ -403,7 +396,7 @@
   "textLexieDescription": "Schick Lexie dein Lernmaterial als Fotos. Lexie macht daraus Quizze und Karteikarten, erinnert dich ans Lernen und fragt dich ab, wenn du willst. In WhatsApp. Ohne App.",
   "textLexieButton": "Ausprobieren",
   "noAds": {
-    "title": "Keine Werbung. Kein Tracking.",
+    "title": "Keine Werbung. Kein Tracking. Kein Witz.",
     "description1": "Deine Fotos und Lernmaterialien bleiben auf deinem Gerät.",
     "description2": "Lexie zeigt keine Werbung, verkauft deine Daten nicht und trackt nicht, was du lernst. Du kannst dich aufs Lernen konzentrieren, ohne dir Gedanken zu machen, wer zuschaut."
   },
@@ -433,13 +426,13 @@
     }
   },
   "storyTitle": "Die Geschichte hinter Lexie",
-  "storyP1": "Ich bin Elina. Ich habe Lexie gebaut, weil ich gesehen habe, wie viele falsch für Prüfungen lernen. Markieren, immer wieder lesen. Das funktioniert nicht, hat es nie.",
+  "storyP1": "Ich bin Elina und habe Lexie gebaut, weil ich zugesehen habe, wie Lernende Zeit mit Markieren und Wiederlesen verschwenden. Das bringt nichts, hat es nie.",
   "storyP2": "Die meisten Lern-Apps machen es schlimmer, weil sie alles in Spiele und Streaks verwandeln. Du jagst Punkten hinterher statt Wissen.",
-  "storyP3": "Ich habe alles weggelassen, was nicht nötig ist. Fotografiere, was du lernen musst. Lexie stellt Fragen, die wirklich prüfen, ob du es verstanden hast. Keine Abzeichen, keine Streaks, keine Ablenkung.",
-  "storyP4": "Lernen belohnt sich von selbst, sobald man es kann. Lexie ist für alle, die denken wollen, nicht für die, die man zum Denken überlisten muss.",
-  "videoTestimonialsTitle": "Glaub nicht nur uns",
-  "videoTestimonialsSubtitle": "Grüße von unseren Nutzern",
-  "testimonialsTitle": "Schließ dich Tausenden an, die vor Prüfungen keinen Stress mehr haben.",
+  "storyP3": "Ich habe alles aufs Nötigste reduziert. Mach ein Foto von dem, was du lernen musst. Lexie erstellt Fragen, die wirklich dein Verständnis prüfen. Keine Abzeichen, keine Streaks, keine Ablenkung.",
+  "storyP4": "Lernen fühlt sich von selbst gut an, sobald du den Dreh raus hast. Lexie ist für Lernende, die denken wollen. Nicht für die, die man dazu austricksen muss.",
+  "videoTestimonialsTitle": "Was andere über uns sagen",
+  "videoTestimonialsSubtitle": "Übrigens alle echt",
+  "testimonialsTitle": "Werde Teil von Tausenden ohne Prüfungsstress.",
   "testimonialsRating": "4,8",
   "testimonials": [
     {
@@ -471,10 +464,10 @@
   "getTheApp": "Lexie laden",
   "headerLogin": "Anmelden",
   "faq": "Das wird öfter gefragt",
-  "whyDifferent": "Warum nicht einfach ChatGPT nehmen?",
-  "whyDifferentAnswer": "ChatGPT kann vieles. Lexie kann eine Sache richtig gut.\\n\\nBei ChatGPT musst du immer noch wissen, was du verlangst, wie du es einrichtest und welchen Modus du nimmst. Ein starkes Werkzeug, wenn du schon weißt, was du tust.\\n\\nLexie funktioniert einfach. Fotografiere deine Notizen und fang an zu üben. Kein Einrichten, keine Prompts, kein Herausfinden, wie es geht. Gebaut zum Lernen, für nichts anderes.\\n\\nIn Lexie stecken tausende Stunden Lernforschung. Die Fragen sind nicht zufällig. Sie sind so gebaut, dass du dir den Stoff wirklich merkst. Die Reihenfolge zählt. Der Schwierigkeitsgrad zählt. Und wie Lexie reagiert, wenn du etwas falsch hast, zählt auch.\\n\\nChatGPT erzeugt Inhalte. Lexie ist Übung.",
+  "whyDifferent": "Warum Lexie und nicht ChatGPT?",
+  "whyDifferentAnswer": "ChatGPT kann vieles. Lexie kann eine Sache richtig gut.\\n\\nBei ChatGPT musst du immer noch wissen, was du verlangst, wie du es einrichtest und welchen Modus du nimmst. Ein starkes Werkzeug, wenn du schon weißt, was du tust.\\n\\nLexie funktioniert einfach. Fotografiere deine Notizen und fang an zu üben. Kein Einrichten, keine Prompts, kein Herausfinden, wie es geht. Gebaut zum Lernen, für nichts anderes.\\n\\nIn Lexie stecken tausende Stunden Lernforschung. Die Fragen sind nicht zufällig. Sie sind so gebaut, dass du dir den Stoff wirklich merkst. Die Reihenfolge zählt. Der Schwierigkeitsgrad zählt. Und wie Lexie reagiert, wenn du etwas falsch hast, zählt auch.\\n\\nChatGPT erzeugt Inhalte. Lexie ist zum Üben.",
   "howLexieWorks": "Wie funktioniert Lexie?",
-  "howLexieWorksAnswer": "Lexie erkennt, was im Bild unterrichtet wird. Wenn du ein Foto machst, liest unsere Technik den Text, analysiert den Aufbau des Inhalts und erkennt, um welche Art von Lernmaterial es sich handelt.\\n\\nDas System zerlegt den Inhalt in Schlüsselkonzepte und ihre Zusammenhänge. Aus Vokabeln holt es Begriffe und Definitionen. In Geschichte erkennt es Ereignisse und Daten. In Naturwissenschaften unterscheidet es Konzepte und Erklärungen.\\n\\nDaraus entstehen verschiedene Übungsformate:\\n\\n• Fragen, die das Verständnis auf verschiedenen Ebenen prüfen\\n• Karteikarten zum schnellen Wiederholen\\n• Audiodateien zum Anhören\\n• Zusammenfassungen mit den wichtigsten Punkten\\n\\nDas Ganze dauert nur Sekunden. Du musst nichts selbst schreiben oder formatieren.",
+  "howLexieWorksAnswer": "Lexie erkennt den Lernstoff aus dem Bild. Wenn du ein Foto machst, liest unsere Technik den Text, analysiert den Aufbau des Inhalts und erkennt, um welche Art von Lernmaterial es sich handelt.\\n\\nDas System zerlegt den Inhalt in Schlüsselkonzepte und ihre Zusammenhänge. Aus Vokabeln holt es Begriffe und Definitionen. In Geschichte erkennt es Ereignisse und Daten. In Naturwissenschaften unterscheidet es Konzepte und Erklärungen.\\n\\nDaraus entstehen verschiedene Übungsformate:\\n\\n• Fragen, die das Verständnis auf verschiedenen Ebenen prüfen\\n• Karteikarten zum schnellen Wiederholen\\n• Audiodateien zum Anhören\\n• Zusammenfassungen mit den wichtigsten Punkten\\n\\nDas Ganze dauert nur Sekunden. Du musst nichts selbst schreiben oder formatieren.",
   "whatCanLearn": "Woraus kann ich eine Lektion machen?",
   "whatCanLearnAnswer": "Aus allem mit Text. Handschriftliche Notizen, Buchseiten, Folien aus dem Unterricht, Screenshots, PDFs. Wenn du es lesen kannst, macht Lexie Übungen daraus.\\n\\nBiologieprüfung? Ja. Geschichtsnotizen? Ja. Das eine Ding, das du aus irgendeinem Grund auswendig lernen musst? Auch ja. Achte nur darauf, dass du das Material verwenden darfst.\\n\\n(Höhere Mathematik ist die Ausnahme. Gleichungen und Formeln sind schwer richtig hinzubekommen, deshalb sind wir da vorsichtig.)",
   "howToUse": "Welche Lernmethoden nutzt Lexie?",
@@ -490,7 +483,7 @@
   "termsOfService": "Nutzungsbedingungen",
   "privacyPolicy": "Datenschutzerklärung",
   "honorCode": {
-    "title": "Verantwortungsvolles Lernen",
+    "title": "Ehrenkodex",
     "lastUpdated": "Zuletzt aktualisiert: 1. April 2025"
   },
   "termsPage": {
@@ -498,14 +491,14 @@
     "lastUpdated": "Zuletzt aktualisiert: 12. Oktober 2025"
   },
   "privacyPage": {
-    "title": "Datenschutzerklärung von Lexie",
+    "title": "Lexie Datenschutzerklärung",
     "lastUpdated": "Zuletzt aktualisiert: 26. Dezember 2025"
   },
   "creatorProgram": {
-    "heroTitle": "Geld verdienen 💸 beim Lernen",
+    "heroTitle": "Lernen & 💸 Geld verdienen",
     "heroSubtext": "Du bekommst Lexie gratis. Du zeigst, wie du damit lernst. Du verdienst mit jedem Video, das du machst.",
     "heroCta": "Jetzt bewerben",
-    "howItWorksTitle": "So läuft es",
+    "howItWorksTitle": "So funktioniert es",
     "howItWorksSubtext": "",
     "step1Label": "SCHRITT 1",
     "step1Title": "Filmen",
@@ -513,17 +506,17 @@
     "step1Ingress": "",
     "step1IngressLink": "",
     "step2Label": "SCHRITT 2",
-    "step2Title": "Posten",
+    "step2Title": "Veröffentlichen",
     "step2Description": "Poste von deinem eigenen Account oder leg einen neuen an, je nachdem, was für dich besser passt. Poste ein- bis dreimal pro Woche.",
     "step2Ingress": "",
     "step2IngressAnd": "",
     "step3Label": "SCHRITT 3",
     "step3Title": "Verdienen",
-    "step3Description": "Du bekommst eine feste ",
+    "step3Description": "Du bekommst eine feste",
     "step3PayLink": "Vergütung",
-    "step3DescriptionAfter": " 💸 pro Video plus Boni, je nachdem, wie gut das Video läuft.",
+    "step3DescriptionAfter": "💸 pro Video plus Bonus, je nachdem, wie gut das Video läuft.",
     "faqTitle": "Fragen",
-    "faqSubtext": "Antworten auf häufige Fragen. Nichts Passendes dabei? Schreib uns an ",
+    "faqSubtext": "Antworten auf häufige Fragen. Nichts Passendes dabei? Schreib uns an",
     "faqEmail": "elina@lexielearn.com",
     "faqEmailSuffix": "",
     "faq1Question": "Brauche ich viele Follower?",
@@ -536,7 +529,7 @@
     "faq3AnswerAfter": "",
     "faq4Question": "Muss ich einem Skript folgen?",
     "faq4Answer": "Nein. Wir schicken nie Skripte, Gesprächspunkte oder „Kernbotschaften, die du erwähnen sollst“. Du filmst dein eigenes Lernen, in deinen Worten, in deinem Stil.",
-    "faq4Answer2": "Wir bitten nur um drei Dinge: Du bist wirklich in der Schule oder im Studium, du nutzt Lexie wirklich, und du kennzeichnest die Videos als bezahlte Partnerschaft (so will es das Gesetz, und wir machen das ordentlich).",
+    "faq4Answer2": "Mehr verlangen wir nicht: Du lernst und nutzt Lexie wirklich und du kennzeichnest die Videos als bezahlte Partnerschaft (das schreibt das Gesetz vor, und wir machen es ordentlich).",
     "finalCtaTitle": "Bereit loszulegen?",
     "finalCtaSubtext": "Füll ein kurzes Formular aus. Wenn du ausgewählt wirst, bekommst du eine Einladung. Du bekommst eine Anleitung zum Start und Unterstützung bei deinen Videos 🍀",
     "finalCtaCta": "Jetzt bewerben"
@@ -547,7 +540,7 @@
       "yourScore": "Dein Ergebnis",
       "correct": "Richtig",
       "incorrect": "Falsch",
-      "correctAnswerPrefix": "Richtige Antwort: ",
+      "correctAnswerPrefix": "Richtige Antwort:",
       "yourStep": "Dein Schritt",
       "workingPlaceholder": "Zeig deinen Rechenweg …",
       "noThinkQuestions": "Keine Transferfragen verfügbar",
@@ -555,7 +548,7 @@
       "blankPlaceholder": "...",
       "calculate": "Berechnen",
       "answerPlaceholder": "Antwort eingeben …",
-      "loadingAudio": "Ich erstelle die Audioversion",
+      "loadingAudio": "Audioversion wird erstellt",
       "close": "Schließen"
     },
     "blankFeedback": {
@@ -578,11 +571,11 @@
       "setsMetaOne": "{count} Lektion",
       "setsMetaOther": "{count} Lektionen",
       "exercisesMeta": "{count} Aufgaben",
-      "importCta": "Zu meinen Kursen hinzufügen",
+      "importCta": "Kurs importieren",
       "previewCta": "Kursvorschau",
-      "importFailed": "Hinzufügen fehlgeschlagen. Versuch es noch mal.",
-      "chaptersCountOne": "{count} Thema",
-      "chaptersCountOther": "{count} Themen",
+      "importFailed": "Import fehlgeschlagen. Nochmal versuchen?",
+      "chaptersCountOne": "{count} Kapitel",
+      "chaptersCountOther": "{count} Kapitel",
       "lessonSetsOne": "{count} Lektion",
       "lessonSetsOther": "{count} Lektionen",
       "lessonExercisesOne": "{count} Aufgabe",
@@ -605,8 +598,8 @@
     },
     "prepFolderCard": {
       "empty": "Kommt bald",
-      "one": "Wiederholungslektion",
-      "many": "Wiederholungslektionen"
+      "one": "Wiederholung",
+      "many": "Wiederholungen"
     },
     "prepGate": {
       "activating": "Dein Kauf wird aktiviert …",
@@ -622,8 +615,8 @@
       "keyPoints": "Kernpunkte",
       "flipcards": "{count} Karteikarten",
       "questions": "{count} Aufgaben",
-      "aiDisclaimer": "Lexie nutzt KI und kann sich irren",
-      "thinkDeco": "In der Zelle folgt die Struktur der Funktion: Kein Zellorganell stellt ein sekretorisches Protein allein her, sondern Ribosom, endoplasmatisches Retikulum und Golgi-Apparat bilden eine Kette ..."
+      "aiDisclaimer": "Lexie nutzt KI und kann Fehler machen",
+      "thinkDeco": "Die Thylakoidmembran enthält vier wichtige Proteinkomplexe, die an den Lichtreaktionen beteiligt sind: Photosystem II, den Cytochrom-b6f-Komplex, Photosystem I und die ATP-Synthase."
     },
     "prepThink": {
       "close": "Schließen",
@@ -671,7 +664,7 @@
       "stillLearning": "Weiter üben",
       "iKnowThis": "Kann ich",
       "mastered": "Kannst du schon",
-      "yourProgress": "Fortschritt",
+      "yourProgress": "Dein Fortschritt",
       "practiceWithQuestions": "Teste, was du kannst"
     },
     "thinkExam": {
@@ -682,7 +675,7 @@
       "lexieFeedback": "LEXIES FEEDBACK",
       "placeholderType": "Antwort eingeben",
       "editor": {
-        "draft": "Entwurf - nicht abgegeben",
+        "draft": "Entwurf – nicht abgegeben",
         "submitted": "Abgegeben",
         "characters": "Zeichen",
         "bold": "Fett",
@@ -698,8 +691,8 @@
       "revise": "Überarbeiten",
       "submitAsIs": "So abgeben",
       "viewFeedback": "Feedback ansehen",
-      "viewAnswerKey": "Musterlösung ansehen",
-      "answerKey": "MUSTERLÖSUNG",
+      "viewAnswerKey": "Musterantwort ansehen",
+      "answerKey": "MUSTERANTWORT",
       "keyConcepts": "SCHLÜSSELKONZEPTE",
       "nextQuestion": "Nächste Frage",
       "backToLesson": "Zurück zur Lektion",
@@ -708,8 +701,8 @@
       "readingYourAnswer": "Ich lese deine Antwort …",
       "gradingYourAnswer": "Ich bewerte deine Antwort …",
       "placeholderRevise": "Antwort überarbeiten",
-      "failedToGetFeedback": "Das Feedback konnte nicht geladen werden.",
-      "failedToGrade": "Die Antwort konnte nicht bewertet werden.",
+      "failedToGetFeedback": "Feedback konnte nicht geladen werden.",
+      "failedToGrade": "Konnte nicht bewertet werden.",
       "questionLabel": "FRAGE {number}"
     },
     "shell": {
@@ -722,7 +715,7 @@
       "translation": "Übersetzung",
       "generateReading": "Leseübung erstellen",
       "openReading": "Leseübung öffnen",
-      "generateReadingSub": "Eine neue Lektion aus diesen Wörtern",
+      "generateReadingSub": "Eine neue Lektion aus diesen Wörtern erstellen",
       "generatingHint": "Einen Moment, das dauert kurz …",
       "thinkDeco": "In der Zelle folgt die Struktur der Funktion: Kein Zellorganell stellt ein sekretorisches Protein allein her, sondern Ribosom, endoplasmatisches Retikulum und Golgi-Apparat bilden eine Kette ...",
       "flipcards": "{count} Karteikarten",
@@ -732,11 +725,11 @@
       "upgrade": "Hol dir Lexie Pro",
       "back": "Zurück",
       "aiDisclaimer": "Lexie nutzt KI und kann sich irren",
-      "createCtaTitle": "Jetzt mach deine eigene Lektion",
+      "createCtaTitle": "Deine eigene Lektion machen",
       "createCtaBody": "Erstell ein kostenloses Konto, dann macht Lexie dir so eine aus deinen eigenen Unterlagen.",
       "studyText": "Text",
       "read": "Lesen",
-      "listen": "Hören",
+      "listen": "Anhören",
       "guide": "Lernhilfe"
     },
     "quiz": {
@@ -755,14 +748,14 @@
       "matchPairs": "Ordne die Paare zu",
       "typeAnswer": "Gib deine Antwort ein",
       "typeAnswerPlaceholder": "Deine Antwort …",
-      "couldNotCheck": "Die Antwort konnte nicht geprüft werden",
+      "couldNotCheck": "Antwort konnte nicht geprüft werden",
       "noQuestions": "Keine Fragen verfügbar",
       "noStudyText": "Kein Text verfügbar",
       "saveSet": "Lektion speichern",
       "saveSetResults": "Lektion und Ergebnis speichern",
-      "saveSetHint": "Ein kostenloses Konto behält diese Lektion für das nächste Mal in deinem Arbeitsbereich",
+      "saveSetHint": "Ein Gratis-Konto speichert diese Lektion in deinem Arbeitsbereich für später.",
       "createAccount": "Kostenloses Konto erstellen",
-      "prepAccountHint": "In deinem Arbeitsbereich warten die ganze Wiederholungsbibliothek und deine eigenen Lektionen, wenn du zurückkommst",
+      "prepAccountHint": "In deinem Arbeitsbereich warten die Wiederholungsbibliothek & deine eigenen Lektionen, wenn du zurückkommst",
       "continueInWorkspace": "Im Arbeitsbereich weitermachen",
       "correct": "Richtig.",
       "notQuite": "Knapp daneben.",
@@ -773,17 +766,17 @@
       "tryAgain": "Noch mal versuchen",
       "check": "Abgeben",
       "selectAnswer": "Wähle eine Antwort, bevor du abgibst.",
-      "fillBlanks": "Füll alle Lücken aus, bevor du prüfst",
+      "fillBlanks": "Fülle alle Lücken vor dem Überprüfen aus",
       "studyText": "Text"
     },
     "saveSetModal": {
       "title": "Diese Lektion speichern",
-      "subtitle": "Erstell ein kostenloses Konto, dann wartet die Lektion beim nächsten Mal in deinem Arbeitsbereich.",
-      "saving": "Lektion wird gespeichert …",
+      "subtitle": "Registrier dich gratis und sie ist in deinem Arbeitsbereich, wenn du wiederkommst.",
+      "saving": "Lektion speichert …",
       "savedTitle": "Gespeichert",
       "savedBody": "Die Lektion ist jetzt in deinem Arbeitsbereich. Du kannst hier weiterlernen.",
       "continueStudying": "Weiterlernen",
-      "limitBody": "Deine kostenlosen Plätze für Lektionen sind voll. Diese Lektion bleibt auf dieser Seite für dich verfügbar.",
+      "limitBody": "Deine Gratis-Plätze sind voll. Diese Lektion bleibt auf dieser Seite verfügbar.",
       "errorBody": "Speichern fehlgeschlagen. Versuch es gleich noch mal.",
       "close": "Schließen",
       "legalPrefix": "Wenn du weitermachst, akzeptierst du Lexies ",
@@ -791,8 +784,8 @@
       "legalAnd": " und ",
       "legalPrivacy": "Datenschutzerklärung",
       "legalSuffix": ".",
-      "prepTitle": "In deinem Lexie-Arbeitsbereich weitermachen",
-      "prepSubtitle": "Erstell ein kostenloses Konto, dann sind die ganze Wiederholungsbibliothek und deine eigenen Lektionen an einem Ort, wenn du zurückkommst.",
+      "prepTitle": "Im Lexie-Arbeitsbereich weitermachen",
+      "prepSubtitle": "Erstell ein Gratis-Konto, dann sind die ganze Wiederholungsbibliothek und deine eigenen Lektionen an einem Ort, wenn du zurückkommst.",
       "prepSaving": "Arbeitsbereich wird geöffnet …",
       "prepSavedTitle": "Konto ist bereit",
       "prepSavedBody": "Diese Lektion findest du in der Bibliothek deines Arbeitsbereichs. Du kannst auch hier weiterlernen.",
@@ -800,15 +793,15 @@
       "prepStayHere": "Hier weiterlernen"
     },
     "sharingEnded": {
-      "title": "This link no longer works",
-      "body": "A study set on Lexie is for the person who made it, so Lexie no longer shares sets."
+      "title": "Dieser Link funktioniert nicht mehr",
+      "body": "Eine Lektion auf Lexie gehört der Person, die sie erstellt hat. Deshalb teilt Lexie keine Lektionen mehr."
     },
     "prepGuide": {
       "title": "Lernhilfe",
       "goal": "Ziel",
       "bigIdea": "Der Kerngedanke",
       "usuallyTested": "Was meistens abgefragt wird",
-      "howAsked": "Wie es meistens gefragt wird",
+      "howAsked": "Wie es meistens abgefragt wird",
       "loseMarks": "Wo meistens Punkte verloren gehen"
     }
   }
