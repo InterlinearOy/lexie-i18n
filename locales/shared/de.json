@@ -9,7 +9,7 @@
     "tryAgain": "Noch mal versuchen",
     "submit": "Abgeben",
     "selectAnswer": "Wähle eine Antwort, bevor du abgibst.",
-    "fillAllBlanks": "Füll alle Lücken aus, bevor du prüfst",
+    "fillAllBlanks": "Fülle alle Lücken vor dem Überprüfen aus",
     "studyTextTitle": "Text",
     "cantListen": "Ich kann gerade nicht zuhören"
   },
@@ -18,7 +18,7 @@
     "stillLearning": "Weiter üben",
     "iKnowThis": "Kann ich",
     "mastered": "Kannst du schon",
-    "yourProgress": "Fortschritt",
+    "yourProgress": "Dein Fortschritt",
     "practiceCta": "Teste, was du kannst"
   },
   "think": {
@@ -29,8 +29,8 @@
     "revise": "Überarbeiten",
     "submitAsIs": "So abgeben",
     "viewFeedback": "Feedback ansehen",
-    "viewAnswerKey": "Musterlösung ansehen",
-    "answerKey": "MUSTERLÖSUNG",
+    "viewAnswerKey": "Musterantwort ansehen",
+    "answerKey": "MUSTERANTWORT",
     "keyConcepts": "SCHLÜSSELKONZEPTE",
     "nextQuestion": "Nächste Frage",
     "backToLesson": "Zurück zur Lektion",
@@ -39,8 +39,8 @@
     "readingYourAnswer": "Ich lese deine Antwort …",
     "gradingYourAnswer": "Ich bewerte deine Antwort …",
     "placeholderRevise": "Antwort überarbeiten",
-    "failedToGetFeedback": "Das Feedback konnte nicht geladen werden.",
-    "failedToGrade": "Die Antwort konnte nicht bewertet werden.",
+    "failedToGetFeedback": "Feedback konnte nicht geladen werden.",
+    "failedToGrade": "Konnte nicht bewertet werden.",
     "answered": "Beantwortet",
     "questionLabel": "FRAGE {number}"
   },
@@ -52,19 +52,176 @@
     "writeIn": "Schreib auf {language}"
   },
   "studySet": {
-    "loadingAudio": "Ich erstelle die Audioversion",
+    "loadingAudio": "Audioversion wird erstellt",
     "read": "Lesen",
-    "listen": "Hören"
+    "listen": "Anhören"
   },
   "guide": {
     "title": "Lernhilfe",
     "goal": "Ziel",
     "bigIdea": "Der Kerngedanke",
     "usuallyTested": "Was meistens abgefragt wird",
-    "howAsked": "Wie es meistens gefragt wird",
+    "howAsked": "Wie es meistens abgefragt wird",
     "loseMarks": "Wo meistens Punkte verloren gehen"
   },
   "common": {
     "close": "Schließen"
+  },
+  "create": {
+    "prompt": "Zeig oder sag mir, was du lernen willst",
+    "takePhoto": "Foto machen",
+    "attach": "PDF oder Bild hinzufügen",
+    "topicIdeas": [
+      {
+        "subject": "biology",
+        "kind": "topic",
+        "text": "Zellaufbau und Zellorganellen"
+      },
+      {
+        "subject": "biology",
+        "kind": "topic",
+        "text": "Mendelsche Regeln und Vererbung"
+      },
+      {
+        "subject": "biology",
+        "kind": "topic",
+        "text": "Fotosynthese und Zellatmung"
+      },
+      {
+        "subject": "history",
+        "kind": "topic",
+        "text": "Der Kalte Krieg: Entstehung und Krisen"
+      },
+      {
+        "subject": "history",
+        "kind": "topic",
+        "text": "Die Weimarer Republik"
+      },
+      {
+        "subject": "history",
+        "kind": "topic",
+        "text": "Der Erste Weltkrieg: Ursachen und Folgen"
+      },
+      {
+        "subject": "mathematics",
+        "kind": "topic",
+        "text": "Ableitungen und Kurvendiskussion"
+      },
+      {
+        "subject": "mathematics",
+        "kind": "topic",
+        "text": "Wahrscheinlichkeit und Kombinatorik"
+      },
+      {
+        "subject": "mathematics",
+        "kind": "topic",
+        "text": "Quadratische Gleichungen und Ungleichungen"
+      },
+      {
+        "subject": "chemistry",
+        "kind": "topic",
+        "text": "Säuren, Basen und pH-Wert"
+      },
+      {
+        "subject": "chemistry",
+        "kind": "topic",
+        "text": "Stoffmenge und Konzentration"
+      },
+      {
+        "subject": "chemistry",
+        "kind": "topic",
+        "text": "Aufbau organischer Verbindungen"
+      },
+      {
+        "subject": "physics",
+        "kind": "topic",
+        "text": "Newtonsche Gesetze und Bewegungsgleichung"
+      },
+      {
+        "subject": "physics",
+        "kind": "topic",
+        "text": "Stromstärke, Spannung und ohmsches Gesetz"
+      },
+      {
+        "subject": "physics",
+        "kind": "topic",
+        "text": "Energie und Energieerhaltung"
+      },
+      {
+        "subject": "psychology",
+        "kind": "topic",
+        "text": "Bindung und frühe Interaktion"
+      },
+      {
+        "subject": "psychology",
+        "kind": "topic",
+        "text": "Arbeitsgedächtnis und Langzeitgedächtnis"
+      },
+      {
+        "subject": "psychology",
+        "kind": "topic",
+        "text": "Schlaf, Wachheit und Lernen"
+      },
+      {
+        "subject": "social_studies",
+        "kind": "topic",
+        "text": "Gewaltenteilung und Bundestag"
+      },
+      {
+        "subject": "social_studies",
+        "kind": "topic",
+        "text": "Inflation und Geldpolitik"
+      },
+      {
+        "subject": "social_studies",
+        "kind": "topic",
+        "text": "Sozialstaat und Steuern"
+      },
+      {
+        "subject": "literature",
+        "kind": "topic",
+        "text": "Stilmittel: Metapher, Vergleich, Metonymie"
+      },
+      {
+        "subject": "literature",
+        "kind": "topic",
+        "text": "Erzähler und Erzählperspektive in Kurzgeschichten"
+      },
+      {
+        "subject": "literature",
+        "kind": "topic",
+        "text": "Romantik und Realismus"
+      },
+      {
+        "subject": "geography",
+        "kind": "topic",
+        "text": "Plattentektonik und Erdbeben"
+      },
+      {
+        "subject": "geography",
+        "kind": "topic",
+        "text": "Bevölkerungswachstum und Bevölkerungspyramiden"
+      },
+      {
+        "subject": "geography",
+        "kind": "topic",
+        "text": "Klimawandel und seine Folgen"
+      },
+      {
+        "subject": "health_education",
+        "kind": "topic",
+        "text": "Stress und Erholung"
+      },
+      {
+        "subject": "health_education",
+        "kind": "topic",
+        "text": "Nährstoffe und Ernährung"
+      },
+      {
+        "subject": "health_education",
+        "kind": "topic",
+        "text": "Wie Bewegung die Gesundheit beeinflusst"
+      }
+    ]
   }
 }

@@ -94,20 +94,22 @@
     "imageOcclusion": {
       "en": "image occlusion",
       "fi": "peittokortit",
-      "de": "Bildkarten",
-      "deStatus": "proposed"
+      "de": "Abdeckkarten",
+      "deStatus": "confirmed",
+      "reviewerNote": "literally: covered cards"
     },
     "prepSet": {
       "en": "prep set",
       "fi": "kertaussetti",
-      "de": "Wiederholungslektion",
-      "deStatus": "proposed"
+      "de": "Wiederholung",
+      "deStatus": "confirmed",
+      "reviewerNote": "literally: repetition"
     },
     "subscription": {
       "en": "subscription",
       "fi": "tilaus",
       "de": "Abo",
-      "deStatus": "proposed"
+      "deStatus": "confirmed"
     }
   },
   "voice": {

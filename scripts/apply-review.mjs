@@ -91,6 +91,18 @@ const kept = [];      // approved, draft stands
 const skipped = [];   // never opened
 const refused = [];   // placeholder lost
 const notes = [];
+const gone = [];      // key deleted from the catalog since the brief
+const stale = [];     // English rewritten since the brief
+
+// The catalog keeps moving while she reviews. Pass two took a month, and in
+// that time 34 of its keys were deleted and 16 English texts rewritten.
+// Writing her German there would bring deleted keys back, and put German for
+// the old English over newer German. Those rows are listed, not written.
+const enFiles = {
+  shared: read('locales/shared/en.json'),
+  app: read('locales/app/en.json'),
+  web: read('locales/web/en.json'),
+};
 
 const decide = (key, draft) => {
   const s = saved[key];
@@ -116,6 +128,16 @@ for (const t of brief.terms) {
 }
 
 for (const r of brief.rows) {
+  if (r.target === 'store') {
+    const f = store.fields.find((x) => x.id === r.key);
+    if (!f) { gone.push(r.key); continue; }
+    if (typeof f.en === 'string' && f.en !== r.en) { stale.push({ key: r.key, then: r.en, now: f.en }); continue; }
+  } else {
+    const shared = sharedKeyFor[r.target]?.get(r.key);
+    const enNow = get(enFiles[shared ? 'shared' : r.target], shared ?? r.key);
+    if (enNow === undefined) { gone.push(r.key); continue; }
+    if (enNow !== r.en) { stale.push({ key: r.key, then: r.en, now: enNow }); continue; }
+  }
   const final = decide(r.key, r.de);
   if (final === null) continue;
   if (holes(final) !== holes(r.en)) {
@@ -141,13 +163,18 @@ for (const r of brief.rows) {
 
 /* ---------------- report ---------------- */
 console.log(`${brief.terms.length} terms and ${brief.rows.length} strings in the brief.`);
-console.log(`  ${changed.length} reworded, ${kept.length} approved as drafted, ${skipped.length} not opened, ${refused.length} refused.\n`);
+console.log(`  ${changed.length} reworded, ${kept.length} approved as drafted, ${skipped.length} not opened, ${refused.length} refused, ${gone.length} gone, ${stale.length} stale.\n`);
 for (const c of changed) console.log(`${c.key}\n    ${c.from}\n  > ${c.to}`);
 if (notes.length) {
   console.log('\nHer notes:');
   for (const n of notes) console.log(`  ${n.key}: ${n.note}`);
 }
 if (skipped.length) console.log(`\nNot opened: ${skipped.join(', ')}`);
+if (gone.length) console.log(`\nNot written, key deleted from the catalog since the brief (${gone.length}): ${gone.join(', ')}`);
+if (stale.length) {
+  console.log(`\nNot written, English rewritten since the brief (${stale.length}). These need new German:`);
+  for (const s of stale) console.log(`  ${s.key}\n     then: ${s.then}\n     now:  ${s.now}`);
+}
 if (refused.length) {
   console.log('\nREFUSED, placeholder mismatch. Fix by hand:');
   for (const r of refused) console.log(`  ${r.key} expects {${r.expected}}: ${r.final}`);
