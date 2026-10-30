@@ -266,7 +266,17 @@
           "text": "Liikunnan vaikutus terveyteen"
         }
       ]
-    }
+    },
+    "today": "Tänään",
+    "todayIngress": "Nämä asiat ovat unohtumassa",
+    "greetingLine": {
+      "returns": "{name} palasi!",
+      "welcome": "Tervetuloa, {name}",
+      "lockIn": "Nyt keskitytään, {name}",
+      "midnight": "Keskiyön sessio?",
+      "welcomeNoName": "Tervetuloa"
+    },
+    "ingress": "Miten haluat aloittaa?"
   },
   "spacedRepAnnouncement": {
     "headerLabel": "Uutta → Aikavälikertaus",
@@ -951,7 +961,11 @@
     "done": "Valmis",
     "allCaughtUp": "Kaikki kerratttu!",
     "noItemsDue": "Ei kerrattavia kohteita juuri nyt.",
-    "goBack": "Takaisin"
+    "goBack": "Takaisin",
+    "doneCount": "Kerrattu {done}/{total}",
+    "next": "Seuraavaksi",
+    "startReview": "Aloita kertaus",
+    "toHome": "Etusivulle"
   },
   "notifications": {
     "promptTitle": "Haluatko, että Lexie muistuttaa milloin kannattaa kerrata?",
