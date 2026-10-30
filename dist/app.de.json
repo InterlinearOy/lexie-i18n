@@ -266,7 +266,17 @@
           "text": "How exercise affects health"
         }
       ]
-    }
+    },
+    "today": "Today",
+    "todayIngress": "You're about to forget these",
+    "greetingLine": {
+      "returns": "{name} returns!",
+      "welcome": "Welcome, {name}",
+      "lockIn": "Let's lock in, {name}",
+      "midnight": "Midnight session?",
+      "welcomeNoName": "Welcome"
+    },
+    "ingress": "How would you like to get started"
   },
   "spacedRepAnnouncement": {
     "headerLabel": "Neu → Spaced Repetition",
@@ -936,7 +946,11 @@
     "done": "Fertig",
     "allCaughtUp": "Alles wiederholt.",
     "noItemsDue": "Gerade ist nichts zum Wiederholen fällig.",
-    "goBack": "Zurück"
+    "goBack": "Zurück",
+    "doneCount": "Reviewed {done}/{total}",
+    "next": "Next up",
+    "startReview": "Start review",
+    "toHome": "Back to home"
   },
   "notifications": {
     "promptTitle": "Soll Lexie dich erinnern, wann sich Wiederholen lohnt?",

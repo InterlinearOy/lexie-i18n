@@ -266,7 +266,17 @@
           "text": "How exercise affects health"
         }
       ]
-    }
+    },
+    "today": "Today",
+    "todayIngress": "You're about to forget these",
+    "greetingLine": {
+      "returns": "{name} returns!",
+      "welcome": "Welcome, {name}",
+      "lockIn": "Let's lock in, {name}",
+      "midnight": "Midnight session?",
+      "welcomeNoName": "Welcome"
+    },
+    "ingress": "How would you like to get started"
   },
   "spacedRepAnnouncement": {
     "headerLabel": "New → Spaced repetition",
@@ -936,7 +946,11 @@
     "done": "Done",
     "allCaughtUp": "All caught up!",
     "noItemsDue": "No items are due for review right now.",
-    "goBack": "Go Back"
+    "goBack": "Go Back",
+    "doneCount": "Reviewed {done}/{total}",
+    "next": "Next up",
+    "startReview": "Start review",
+    "toHome": "Back to home"
   },
   "notifications": {
     "promptTitle": "Want Lexie to ping you at the right time to lock it in?",
