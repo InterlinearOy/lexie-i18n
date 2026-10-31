@@ -46,6 +46,8 @@
   "prep": {
     "yoSection": "Finnisches Abitur",
     "yoSectionIntro": "Bereite dich auf das finnische Abitur vor.",
+    "ylakouluSection": "Mittelstufe",
+    "ylakouluSectionIntro": "Wiederhole Biologie und Mathe der Mittelstufe.",
     "examsSectionIntro": "Vorbereitung für die finnische Sprachprüfung und den Einbürgerungstest.",
     "contentLanguage": {
       "fi": "Auf Finnisch"
@@ -1266,7 +1268,8 @@
       "niceWork": "Gut gemacht.",
       "readyPractise": "Bereit für den Übungstest?",
       "allDone": "Das war es für heute."
-    }
+    },
+    "pictureFailed": "Das Bild wurde nicht geladen. Versuch es noch einmal."
   },
   "updateWall": {
     "title": "Lexie aktualisieren",
