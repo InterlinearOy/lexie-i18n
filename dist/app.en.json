@@ -54,6 +54,8 @@
   "prep": {
     "yoSection": "Matriculation exams",
     "yoSectionIntro": "Get ready for the Finnish matriculation exams.",
+    "ylakouluSection": "Lower secondary school",
+    "ylakouluSectionIntro": "Revise lower secondary biology and maths.",
     "examsSectionIntro": "Get ready for the Finnish language and citizenship tests.",
     "contentLanguage": {
       "fi": "In Finnish"
@@ -1498,7 +1500,8 @@
       "niceWork": "nice work.",
       "readyPractise": "ready for a practise test now?",
       "allDone": "that's it for today."
-    }
+    },
+    "pictureFailed": "The picture did not load. Try again."
   },
   "updateWall": {
     "title": "Update Lexie",
