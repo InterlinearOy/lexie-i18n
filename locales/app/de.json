@@ -107,7 +107,17 @@
       "fromGallery": "Fotos",
       "pdf": "Dateien",
       "send": "Senden"
-    }
+    },
+    "today": "Heute",
+    "todayIngress": "Das vergisst du gerade",
+    "greetingLine": {
+      "returns": "{name} ist zurück!",
+      "welcome": "Willkommen, {name}",
+      "lockIn": "Auf geht's, {name}",
+      "midnight": "Lernen um Mitternacht?",
+      "welcomeNoName": "Willkommen"
+    },
+    "ingress": "Womit möchtest du anfangen?"
   },
   "spacedRepAnnouncement": {
     "headerLabel": "Neu → Verteiltes Wiederholen",
@@ -746,7 +756,11 @@
     "done": "Fertig",
     "allCaughtUp": "Alles wiederholt.",
     "noItemsDue": "Gerade ist nichts zum Wiederholen fällig.",
-    "goBack": "Zurück"
+    "goBack": "Zurück",
+    "doneCount": "{done}/{total} wiederholt",
+    "next": "Als Nächstes",
+    "startReview": "Wiederholung starten",
+    "toHome": "Zurück zur Startseite"
   },
   "notifications": {
     "promptTitle": "Soll Lexie dich erinnern, wann sich Wiederholen lohnt?",
