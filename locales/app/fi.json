@@ -56,6 +56,8 @@
     "ylakouluSection": "Yläkoulu",
     "ylakouluSectionIntro": "Kertaa yläkoulun biologiaa ja matematiikkaa.",
     "examsSectionIntro": "Valmistaudu kielitutkintoon ja kansalaisuuskokeeseen.",
+    "apSection": "AP",
+    "apSectionIntro": "Valmistaudu yhdysvaltalaisiin AP-kokeisiin.",
     "contentLanguage": {
       "fi": "Suomeksi"
     },

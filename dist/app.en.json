@@ -57,6 +57,8 @@
     "ylakouluSection": "Lower secondary school",
     "ylakouluSectionIntro": "Revise lower secondary biology and maths.",
     "examsSectionIntro": "Get ready for the Finnish language and citizenship tests.",
+    "apSection": "AP",
+    "apSectionIntro": "Get ready for the AP exams.",
     "contentLanguage": {
       "fi": "In Finnish"
     },
