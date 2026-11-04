@@ -53,7 +53,11 @@
   "prep": {
     "yoSection": "Yo-kertaus",
     "yoSectionIntro": "Valmistaudu ylioppilaskokeisiin.",
+    "ylakouluSection": "Yläkoulu",
+    "ylakouluSectionIntro": "Kertaa yläkoulun biologiaa ja matematiikkaa.",
     "examsSectionIntro": "Valmistaudu kielitutkintoon ja kansalaisuuskokeeseen.",
+    "apSection": "AP",
+    "apSectionIntro": "Valmistaudu yhdysvaltalaisiin AP-kokeisiin.",
     "contentLanguage": {
       "fi": "Suomeksi"
     },
@@ -1287,7 +1291,8 @@
       "niceWork": "hyvin tehty.",
       "readyPractise": "oletko valmis harjoituskokeeseen?",
       "allDone": "siinä kaikki tälle päivälle."
-    }
+    },
+    "pictureFailed": "Kuva ei latautunut. Yritä uudelleen."
   },
   "updateWall": {
     "title": "Päivitä Lexie",
