@@ -1196,6 +1196,7 @@
     "practisedTimes": "{count}-mal geübt",
     "placeholderTypeOrDictate": "Antwort schreiben oder diktieren",
     "noQuestionToDisplay": "Keine Frage zum Anzeigen.",
+    "sampleNote": "Ich glaube, Muskelzellen haben mehr Mitochondrien als Hautzellen, weil sie bei jeder Bewegung viel Energie brauchen. In den Mitochondrien entsteht durch die Zellatmung ATP, und das nutzen die Muskeln für ihre Arbeit.",
     "point": "Punkt",
     "points": "Punkte",
     "yourPoints": "Deine Punkte",
@@ -1453,7 +1454,7 @@
   "sessionCard": {
     "title": "Lernen",
     "start": "Session starten",
-    "firstSession": "Wir starten mit {section}",
+    "firstSession": "Als Erstes: {section}",
     "teach": "Als Nächstes: {section}",
     "recallThenTeach": "Kurzer Check für {topic}, dann {section}",
     "recallThenTeachPlain": "Kurzer Check ({count} Aufgaben), dann {section}",
@@ -1472,7 +1473,7 @@
     },
     "flow": {
       "foundConcepts": "Diese Konzepte solltest du wiederholen",
-      "letsStart": "Wir starten mit {section}, sobald du bereit bist",
+      "letsStart": "Als Erstes: {section}, sobald du bereit bist",
       "outlineIntro": "Also, das nehmen wir durch.",
       "startLesson": "Lektion starten",
       "readyFirstQuestion": "Bereit für die erste Frage?",

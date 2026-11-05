@@ -1008,7 +1008,8 @@
     "viewGrade": "Katso pisteet",
     "practisedTimes": "Harjoiteltu {count} kertaa",
     "placeholderTypeOrDictate": "Kirjoita tai sanele vastaus",
-    "noQuestionToDisplay": "Ei näytettävää kysymystä."
+    "noQuestionToDisplay": "Ei näytettävää kysymystä.",
+    "sampleNote": "Luulen, että Suomen metsät muuttuisivat enemmän Keski-Euroopan metsien kaltaisiksi. Tammi voisi kasvaa paremmin Etelä-Suomessa. Ehkä m..."
   },
   "textUpload": {
     "title": "Teksti",
