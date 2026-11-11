@@ -32,7 +32,11 @@
     "slide2": "Verbring mehr Zeit mit dem, was dir schwerfällt.",
     "slide3": "Geh gut vorbereitet in deine Prüfung",
     "start": "Heute mit dem Lernen starten",
-    "login": "Anmelden"
+    "login": "Anmelden",
+    "getStarted": "Los geht’s",
+    "startLine": "Lexie bleibt auf diesem Gerät",
+    "account": "Anmelden oder Konto erstellen",
+    "accountLine": "Lexie begleitet dich überall"
   },
   "welcome": {
     "title": "Willkommen bei Lexie",
@@ -456,7 +460,7 @@
     "accountRow": "Konto",
     "accountScreen": {
       "title": "Konto",
-      "emptyBody": "Melde dich an und nutze deinen Pro Pass von lexielearn.com.",
+      "emptyBody": "Melde dich an, dann hast du deine Lektionen auch auf einem anderen Handy und auf lexielearn.com.",
       "signedOutBody": "Abgemeldet. Deine Lektionen bleiben auf diesem Handy und werden nicht mehr synchronisiert.",
       "createAccount": "Anmelden oder Konto erstellen",
       "loggedIn": "Angemeldet",
@@ -478,6 +482,10 @@
       "syncWaiting": "Wartet",
       "syncWaitingBodyOne": "1 Änderung wird gesendet, sobald du online bist.",
       "syncWaitingBodyMany": "{count} Änderungen werden gesendet, sobald du online bist.",
+      "syncRetryBodyOne": "Die Synchronisierung wurde unterbrochen. 1 Änderung wartet, und Lexie versucht es gleich noch einmal.",
+      "syncRetryBodyMany": "Die Synchronisierung wurde unterbrochen. {count} Änderungen warten, und Lexie versucht es gleich noch einmal.",
+      "syncSendingBody": "Deine Sets werden gesendet: {done} von {total}.",
+      "syncGettingBody": "Deine Sets werden geladen: bisher {count}.",
       "syncChoose": "Lesen",
       "syncChooseBody": "Die Synchronisierung wartet, bis du einen Hinweis liest.",
       "syncTooLargeOne": "1 Lektion ist zu groß für die Synchronisierung. Sie bleibt auf diesem Handy.",
@@ -557,11 +565,11 @@
         },
         "webPurchaseLogin": {
           "question": "Ich habe Pro auf der Website gekauft, wie bekomme ich es in die App",
-          "answer": "Melde dich mit derselben E-Mail-Adresse an, mit der du gekauft hast. In der App: Einstellungen → Konto, oder tippe auf den Anmelde-Link auf der Pro-Seite. Du bekommst einen 6-stelligen Code per E-Mail, ein Passwort brauchst du nicht. Nach der Anmeldung ist dein Pro-Pass automatisch freigeschaltet.\n\nBeachte, dass Käufe wiederherstellen nur Käufe im App Store und bei Google Play findet. Ein Web-Kauf wird durch die Anmeldung freigeschaltet.\n\nEin ehrlicher Hinweis: Die Anmeldung bringt deinen Pro-Pass mit, nicht deine Lektionen. Lektionen, die du im Web erstellt hast, bleiben vorerst im Web."
+          "answer": "Melde dich mit derselben E-Mail-Adresse an, mit der du gekauft hast. In der App: Einstellungen → Konto, oder tippe auf den Anmelde-Link auf der Pro-Seite. Du bekommst einen 6-stelligen Code per E-Mail, ein Passwort brauchst du nicht. Nach der Anmeldung ist dein Pro-Pass automatisch freigeschaltet.\n\nBeachte, dass Käufe wiederherstellen nur Käufe im App Store und bei Google Play findet. Ein Web-Kauf wird durch die Anmeldung freigeschaltet.\n\nDeine Lektionen kommen auch mit. Lektionen aus der App erscheinen im Web, und Lektionen aus dem Web erscheinen in der App."
         },
         "appPurchaseWeb": {
           "question": "Ich habe Pro in der App gekauft, wie nutze ich es im Web",
-          "answer": "Melde dich in App und Web mit derselben E-Mail an. In der App: Einstellungen → Konto, dort mit deiner E-Mail anmelden. Du bekommst einen 6-stelligen Code, ein Passwort brauchst du nicht. Danach gehst du auf lexielearn.com und meldest dich mit derselben E-Mail an. Dein Pro-Pass ist dort sofort freigeschaltet.\n\nFalls nicht, melde dich im Web ab und wieder an.\n\nGleiches gilt umgekehrt: Dein Pro-Pass reist mit, deine Lektionen nicht. Lektionen aus der App bleiben vorerst in der App."
+          "answer": "Melde dich in App und Web mit derselben E-Mail an. In der App: Einstellungen → Konto, dort mit deiner E-Mail anmelden. Du bekommst einen 6-stelligen Code, ein Passwort brauchst du nicht. Danach gehst du auf lexielearn.com und meldest dich mit derselben E-Mail an. Dein Pro-Pass ist dort sofort freigeschaltet.\n\nFalls nicht, melde dich im Web ab und wieder an.\n\nDeine Lektionen kommen auch mit. Lektionen aus der App erscheinen im Web, und Lektionen aus dem Web erscheinen in der App."
         },
         "shareWithKid": {
           "question": "Das Abo mit deinem Kind teilen",
@@ -572,12 +580,12 @@
           "answer": "Die 3 Lektionen, die du erstellt hast, bleiben dir. Du kannst sie weiter wiederholen, anhören, mit Karteikarten üben, alles wie bisher. Nur neue erstellen geht erst, wenn du dir Pro holst oder über Einladungen mehr Lektionen verdienst.\n\nLad jemanden ein: Ihr bekommt beide 2 Gratis-Lektionen, sobald die Person dabei ist."
         },
         "openWhatsappSet": {
-          "question": "Wie öffne ich eine Lektion aus WhatsApp oder dem Web in der App",
-          "answer": "Im Moment geht das nicht. Lektionen wandern noch nicht zwischen Web und App, auch wenn du dich mit derselben E-Mail-Adresse anmeldest. Die Anmeldung schaltet deinen Pro-Pass in der App frei, aber deine Lektionen bleiben dort, wo du sie erstellt hast.\n\nWenn du eine Lektion in der App willst, ist der einfachste Weg, dasselbe Material zu fotografieren und Lexie die Lektion dort neu erstellen zu lassen. Wenn du eine Synchronisierung wirklich nutzen würdest, schreib mir und sag Bescheid. Das hilft mir bei der Entscheidung, was ich als Nächstes baue."
+          "question": "Wie öffne ich eine Lektion von lexielearn.com in der App",
+          "answer": "Melde dich in App und Web mit derselben E-Mail an. In der App: Einstellungen → Konto. Lektionen, die du auf lexielearn.com erstellt hast, erscheinen dann in der App, und Lektionen aus der App erscheinen im Web. Deine Ordner und dein Fortschritt kommen auch mit."
         },
         "multiDevice": {
           "question": "Kann ich Lexie auf mehreren Geräten nutzen",
-          "answer": "Lektionen werden auf dem Handy gespeichert, auf dem du sie erstellt hast, und wandern nicht zwischen Handys. Jedes Handy ist eine eigene kleine Insel.\n\nDein Pro-Pass kommt dagegen mit. Ein Web-Kauf wird auf jedem Handy freigeschaltet, sobald du dich anmeldest. Store-Käufe folgen deinem App Store- oder Google Play-Konto."
+          "answer": "Ja. Melde dich auf jedem Gerät mit derselben E-Mail an: Einstellungen → Konto. Deine Lektionen, Ordner und dein Fortschritt wandern zwischen Handys und lexielearn.com.\n\nDein Pro-Pass kommt auch mit. Ein Web-Kauf wird auf jedem Handy freigeschaltet, sobald du dich anmeldest. Store-Käufe folgen deinem App Store- oder Google Play-Konto."
         }
       },
       "message": {
