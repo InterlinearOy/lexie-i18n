@@ -32,7 +32,11 @@
     "slide2": "Spend more time on challenging material.",
     "slide3": "Walk into your exam ready",
     "start": "Start studying today",
-    "login": "Log in"
+    "login": "Log in",
+    "getStarted": "Get started",
+    "startLine": "Lexie stays on this tablet or phone",
+    "account": "Log in or create an account",
+    "accountLine": "Lexie follows you wherever you go"
   },
   "welcome": {
     "title": "Welcome to Lexie",
@@ -456,7 +460,7 @@
     "accountRow": "Account",
     "accountScreen": {
       "title": "Account",
-      "emptyBody": "Sign in to use a Pro Pass bought on lexielearn.com.",
+      "emptyBody": "Sign in to have your sets on another phone and on lexielearn.com too.",
       "signedOutBody": "Signed out. Your sets stay on this phone and stop syncing.",
       "createAccount": "Sign in or create an account",
       "loggedIn": "Logged in",
@@ -478,6 +482,8 @@
       "syncWaiting": "Waiting",
       "syncWaitingBodyOne": "1 change goes up when you're online.",
       "syncWaitingBodyMany": "{count} changes go up when you're online.",
+      "syncRetryBodyOne": "Sync stopped part way. 1 change is waiting, and Lexie tries again soon.",
+      "syncRetryBodyMany": "Sync stopped part way. {count} changes are waiting, and Lexie tries again soon.",
       "syncChoose": "Read",
       "syncChooseBody": "Sync waits until you read a note.",
       "syncTooLargeOne": "1 set is too large to sync. It stays on this phone.",
@@ -557,11 +563,11 @@
         },
         "webPurchaseLogin": {
           "question": "I bought Pro on the website, how do I get it in the app?",
-          "answer": "Log in with the same email you used when you bought it. In the app: Settings → Account, or tap the log in link on the paywall. You'll get a 6-digit code by email, no password needed. Once you're in, your Pro Pass unlocks automatically.\n\nNote that Restore purchases only finds App Store and Google Play purchases. For a web purchase, logging in is the way.\n\nOne honest caveat: logging in brings your Pro Pass, not your study sets. Sets you made on the web stay on the web for now."
+          "answer": "Log in with the same email you used when you bought it. In the app: Settings → Account, or tap the log in link on the paywall. You'll get a 6-digit code by email, no password needed. Once you're in, your Pro Pass unlocks automatically.\n\nNote that Restore purchases only finds App Store and Google Play purchases. For a web purchase, logging in is the way.\n\nYour study sets come along too. Sets you made in the app show up on the web, and sets you made on the web show up in the app."
         },
         "appPurchaseWeb": {
           "question": "I bought Pro in the app, how do I use it on the web?",
-          "answer": "Log in with the same email in both places. In the app: Settings → Account, log in with your email. You'll get a 6-digit code, no password needed. Then go to lexielearn.com and log in with the same email. Your Pro Pass unlocks there right away.\n\nIf it doesn't, log out on the web and log in again.\n\nSame caveat as the other way round: your Pro Pass travels, your study sets don't. Sets you made in the app stay in the app for now."
+          "answer": "Log in with the same email in both places. In the app: Settings → Account, log in with your email. You'll get a 6-digit code, no password needed. Then go to lexielearn.com and log in with the same email. Your Pro Pass unlocks there right away.\n\nIf it doesn't, log out on the web and log in again.\n\nYour study sets come along too. Sets you made in the app show up on the web, and sets you made on the web show up in the app."
         },
         "shareWithKid": {
           "question": "How do I share with my kid?",
@@ -577,7 +583,7 @@
         },
         "multiDevice": {
           "question": "Can I use Lexie on more than one device?",
-          "answer": "Study sets live on the phone they were made on, so they don't move between phones. Each phone is its own little island.\n\nYour Pro Pass does travel, though. A web purchase unlocks on any phone once you log in, and store purchases follow your App Store or Google Play account."
+          "answer": "Yes. Log in with the same email on each device: Settings → Account. Your study sets, folders and progress move between phones and lexielearn.com.\n\nYour Pro Pass travels too. A web purchase unlocks on any phone once you log in, and store purchases follow your App Store or Google Play account."
         }
       },
       "message": {

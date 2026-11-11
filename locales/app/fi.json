@@ -31,7 +31,11 @@
     "slide2": "Kertaa mitä et vielä osaa.",
     "slide3": "Mene kokeeseen valmiina",
     "start": "Aloita opiskelu tänään",
-    "login": "Kirjaudu sisään"
+    "login": "Kirjaudu sisään",
+    "getStarted": "Aloita",
+    "startLine": "Lexie pysyy tällä laitteella",
+    "account": "Kirjaudu tai luo tili",
+    "accountLine": "Lexie kulkee mukanasi"
   },
   "welcome": {
     "title": "Tervetuloa Lexieen",
@@ -291,7 +295,7 @@
     "accountRow": "Tili",
     "accountScreen": {
       "title": "Tili",
-      "emptyBody": "Kirjaudu sisään, jos ostit Pro Passin osoitteessa lexielearn.com.",
+      "emptyBody": "Kirjaudu sisään, niin harjoitussettisi ovat käytössäsi myös toisella puhelimella ja osoitteessa lexielearn.com.",
       "signedOutBody": "Olet kirjautunut ulos. Harjoitussettisi jäävät tälle puhelimelle, eivätkä ne enää synkronoidu.",
       "createAccount": "Kirjaudu tai luo tili",
       "loggedIn": "Kirjautunut sisään",
@@ -313,6 +317,8 @@
       "syncWaiting": "Odottaa",
       "syncWaitingBodyOne": "1 muutos lähtee, kun olet verkossa.",
       "syncWaitingBodyMany": "{count} muutosta lähtee, kun olet verkossa.",
+      "syncRetryBodyOne": "Synkronointi keskeytyi. 1 muutos odottaa, ja Lexie yrittää pian uudelleen.",
+      "syncRetryBodyMany": "Synkronointi keskeytyi. {count} muutosta odottaa, ja Lexie yrittää pian uudelleen.",
       "syncChoose": "Lue",
       "syncChooseBody": "Synkronointi odottaa, että luet ilmoituksen.",
       "syncTooLargeOne": "1 harjoitussetti on liian suuri synkronoitavaksi. Se jää tälle puhelimelle.",
@@ -392,11 +398,11 @@
         },
         "webPurchaseLogin": {
           "question": "Ostin Pron verkkosivulta, miten saan sen sovellukseen",
-          "answer": "Kirjaudu sisään samalla sähköpostilla, jolla teit ostoksen. Sovelluksessa: Asetukset → Tili, tai napauta kirjautumislinkkiä tilaussivulla. Saat sähköpostiisi 6-numeroisen koodin, salasanaa ei tarvita. Kirjautumisen jälkeen Pro Pass aukeaa automaattisesti.\n\nHuomaa, että Palauta ostot löytää vain App Storen ja Google Playn ostokset. Verkosta ostettu tilaus aukeaa kirjautumalla.\n\nYksi rehellinen huomio: kirjautuminen tuo mukanaan Pro Passin, ei harjoitussettejä. Verkossa tekemäsi setit pysyvät toistaiseksi verkossa."
+          "answer": "Kirjaudu sisään samalla sähköpostilla, jolla teit ostoksen. Sovelluksessa: Asetukset → Tili, tai napauta kirjautumislinkkiä tilaussivulla. Saat sähköpostiisi 6-numeroisen koodin, salasanaa ei tarvita. Kirjautumisen jälkeen Pro Pass aukeaa automaattisesti.\n\nHuomaa, että Palauta ostot löytää vain App Storen ja Google Playn ostokset. Verkosta ostettu tilaus aukeaa kirjautumalla.\n\nHarjoitussettisi siirtyvät samalla. Sovelluksessa tekemäsi setit näkyvät verkossa, ja verkossa tekemäsi setit näkyvät sovelluksessa."
         },
         "appPurchaseWeb": {
           "question": "Ostin Pron sovelluksessa, miten käytän sitä verkossa",
-          "answer": "Kirjaudu sisään samalla sähköpostilla molemmissa. Sovelluksessa: Asetukset → Tili, kirjaudu sähköpostillasi. Saat 6-numeroisen koodin, salasanaa ei tarvita. Mene sitten osoitteeseen lexielearn.com ja kirjaudu samalla sähköpostilla. Pro Pass aukeaa siellä heti.\n\nJos se ei aukea, kirjaudu verkossa ulos ja uudelleen sisään.\n\nSama huomio kuin toiseen suuntaan: Pro Pass kulkee mukana, harjoitussetit eivät. Sovelluksessa tekemäsi setit pysyvät toistaiseksi sovelluksessa."
+          "answer": "Kirjaudu sisään samalla sähköpostilla molemmissa. Sovelluksessa: Asetukset → Tili, kirjaudu sähköpostillasi. Saat 6-numeroisen koodin, salasanaa ei tarvita. Mene sitten osoitteeseen lexielearn.com ja kirjaudu samalla sähköpostilla. Pro Pass aukeaa siellä heti.\n\nJos se ei aukea, kirjaudu verkossa ulos ja uudelleen sisään.\n\nHarjoitussettisi siirtyvät samalla. Sovelluksessa tekemäsi setit näkyvät verkossa, ja verkossa tekemäsi setit näkyvät sovelluksessa."
         },
         "shareWithKid": {
           "question": "Miten jaan tilauksen lapseni kanssa",
@@ -412,7 +418,7 @@
         },
         "multiDevice": {
           "question": "Voinko käyttää Lexietä useammalla laitteella",
-          "answer": "Harjoitussetit tallentuvat siihen puhelimeen, jolla ne on luotu, eivätkä ne siirry puhelimesta toiseen. Jokainen puhelin on oma erillinen kokonaisuutensa.\n\nPro Pass sen sijaan kulkee mukana. Verkosta ostettu tilaus aukeaa millä tahansa puhelimella, kun kirjaudut sisään. Sovelluskaupasta ostettu tilaus seuraa App Store- tai Google Play -tiliäsi."
+          "answer": "Kyllä. Kirjaudu sisään samalla sähköpostilla jokaisella laitteella: Asetukset → Tili. Harjoitussettisi, kansiosi ja edistymisesi siirtyvät puhelimesta toiseen ja osoitteeseen lexielearn.com.\n\nPro Pass kulkee myös mukana. Verkosta ostettu tilaus aukeaa millä tahansa puhelimella, kun kirjaudut sisään. Sovelluskaupasta ostettu tilaus seuraa App Store- tai Google Play -tiliäsi."
         }
       },
       "message": {
