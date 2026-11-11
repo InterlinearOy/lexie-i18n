@@ -578,8 +578,8 @@
           "answer": "Kolme jo tekemääsi harjoitussettiä säilyvät. Voit jatkaa niiden kertaamista, kuuntelua ja muistikorttien käyttöä normaalisti. Uusia settejä et kuitenkaan voi luoda ennen kuin päivität tilauksen tai ansaitset lisää settejä kutsujen kautta.\n\nKutsu kaveri mukaan, niin molemmat saatte kaksi ilmaista settiä, kun hän liittyy."
         },
         "openWhatsappSet": {
-          "question": "Miten avaan WhatsAppissa tai verkossa luodun harjoitussetin sovelluksessa",
-          "answer": "Tällä hetkellä se ei ole mahdollista. Harjoitussetit eivät vielä siirry verkon ja sovelluksen välillä, vaikka kirjautuisit samalla sähköpostilla. Kirjautuminen avaa Pro Passin sovelluksessa, mutta setit pysyvät siellä, missä ne on tehty.\n\nJos haluat setin sovellukseen, helpoin tapa on ottaa kuva samasta materiaalista ja antaa Lexien luoda setti uudelleen. Jos synkronointi olisi sinulle hyödyllinen ominaisuus, lähetä viesti ja kerro siitä. Se auttaa minua päättämään, mitä rakennan seuraavaksi."
+          "question": "Miten avaan osoitteessa lexielearn.com tekemäni harjoitussetin sovelluksessa",
+          "answer": "Kirjaudu sisään samalla sähköpostilla molemmissa. Sovelluksessa: Asetukset → Tili. Silloin verkossa tekemäsi setit näkyvät sovelluksessa, ja sovelluksessa tekemäsi setit näkyvät verkossa. Myös kansiosi ja edistymisesi siirtyvät mukana."
         },
         "multiDevice": {
           "question": "Voinko käyttää Lexietä useammalla laitteella",

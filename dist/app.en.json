@@ -578,8 +578,8 @@
           "answer": "The 3 study sets you made stay. You can keep reviewing them, listening, doing flashcards, all of it. You just can't make new ones until you either upgrade or earn more sets through referrals.\n\nInvite a friend, you both get 2 free sets when they join."
         },
         "openWhatsappSet": {
-          "question": "How do I open a study set created in WhatsApp/website in the app?",
-          "answer": "Right now you can't. Study sets don't move between the web and the app yet, even if you log in with the same email. Logging in unlocks your Pro Pass in the app, but your content stays where you made it.\n\nIf you want a set in the app, easiest thing is to take a photo of the same material and let Lexie generate it there. If syncing is something you'd actually use, message me and let me know. It helps me decide what to build next."
+          "question": "How do I open a study set I made on lexielearn.com in the app?",
+          "answer": "Log in with the same email in both places. In the app: Settings → Account. Sets you made on lexielearn.com then show up in the app, and sets you made in the app show up on the web. Your folders and progress come along too."
         },
         "multiDevice": {
           "question": "Can I use Lexie on more than one device?",
