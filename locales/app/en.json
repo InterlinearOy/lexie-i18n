@@ -319,6 +319,8 @@
       "syncWaitingBodyMany": "{count} changes go up when you're online.",
       "syncRetryBodyOne": "Sync stopped part way. 1 change is waiting, and Lexie tries again soon.",
       "syncRetryBodyMany": "Sync stopped part way. {count} changes are waiting, and Lexie tries again soon.",
+      "syncSendingBody": "Sending your sets: {done} of {total}.",
+      "syncGettingBody": "Getting your sets: {count} so far.",
       "syncChoose": "Read",
       "syncChooseBody": "Sync waits until you read a note.",
       "syncTooLargeOne": "1 set is too large to sync. It stays on this phone.",

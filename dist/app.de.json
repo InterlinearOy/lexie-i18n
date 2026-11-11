@@ -484,6 +484,8 @@
       "syncWaitingBodyMany": "{count} Änderungen werden gesendet, sobald du online bist.",
       "syncRetryBodyOne": "Die Synchronisierung wurde unterbrochen. 1 Änderung wartet, und Lexie versucht es gleich noch einmal.",
       "syncRetryBodyMany": "Die Synchronisierung wurde unterbrochen. {count} Änderungen warten, und Lexie versucht es gleich noch einmal.",
+      "syncSendingBody": "Deine Sets werden gesendet: {done} von {total}.",
+      "syncGettingBody": "Deine Sets werden geladen: bisher {count}.",
       "syncChoose": "Lesen",
       "syncChooseBody": "Die Synchronisierung wartet, bis du einen Hinweis liest.",
       "syncTooLargeOne": "1 Lektion ist zu groß für die Synchronisierung. Sie bleibt auf diesem Handy.",

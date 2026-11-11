@@ -319,6 +319,8 @@
       "syncWaitingBodyMany": "{count} muutosta lähtee, kun olet verkossa.",
       "syncRetryBodyOne": "Synkronointi keskeytyi. 1 muutos odottaa, ja Lexie yrittää pian uudelleen.",
       "syncRetryBodyMany": "Synkronointi keskeytyi. {count} muutosta odottaa, ja Lexie yrittää pian uudelleen.",
+      "syncSendingBody": "Lähetetään settejä: {done} / {total}.",
+      "syncGettingBody": "Haetaan settejä: {count} tähän mennessä.",
       "syncChoose": "Lue",
       "syncChooseBody": "Synkronointi odottaa, että luet ilmoituksen.",
       "syncTooLargeOne": "1 harjoitussetti on liian suuri synkronoitavaksi. Se jää tälle puhelimelle.",
