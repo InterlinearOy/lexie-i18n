@@ -583,7 +583,9 @@
       "message": {
         "title": "Send a message",
         "placeholder": "Tell how to make Lexie better",
-        "emailPlaceholder": "Email (optional, if you want a reply)",
+        "emailPlaceholder": "Your email, so we can reply",
+        "emailMissing": "Enter your email address so we can reply.",
+        "emailInvalid": "Check the email address.",
         "attach": "Attach a screenshot",
         "send": "Send",
         "sent": "Message sent. Thank you!"
