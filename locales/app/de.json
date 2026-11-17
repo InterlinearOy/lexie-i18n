@@ -774,7 +774,11 @@
     "settingsTime": "Erinnerungszeit",
     "settingsDisabled": "Erinnerungen aus",
     "pushTitle": "Lexie hier 👋🏻",
-    "pushBody": "Ein paar Karten warten auf eine kurze Wiederholung."
+    "pushBody": "Ein paar Karten warten auf eine kurze Wiederholung.",
+    "examBeforeTitle": "Deine Prüfung ist morgen",
+    "examBeforeBody": "Wiederhole heute 10 Minuten, dann weißt du morgen mehr.",
+    "examAfterTitle": "Was ist deine nächste Prüfung?",
+    "examAfterBody": "Ich hoffe, sie lief gut. Wenn du deine nächste Prüfung kennst, mach ein Lernset dafür."
   },
   "conceptCards": {
     "title": "Schlüsselkonzepte",
@@ -1338,7 +1342,9 @@
     "countdownTomorrow": "Prüfung morgen",
     "countdownDays": "{days} Tage bis zur Prüfung",
     "remove": "Datum entfernen",
-    "save": "Speichern"
+    "save": "Speichern",
+    "remindBefore": "Ich erinnere dich am Abend davor.",
+    "remindAfter": "Ich melde mich danach bei dir."
   },
   "studyLevel": {
     "early_secondary": {

@@ -983,7 +983,11 @@
     "settingsTime": "Muistutusaika",
     "settingsDisabled": "Muistutukset pois",
     "pushTitle": "Lexie täällä 👋🏻",
-    "pushBody": "Sulla on asioita, jotka odottaa kertausta."
+    "pushBody": "Sulla on asioita, jotka odottaa kertausta.",
+    "examBeforeTitle": "Kokeesi on huomenna",
+    "examBeforeBody": "Kertaa 10 minuuttia tänään, niin muistat paremmin huomenna.",
+    "examAfterTitle": "Mikä on seuraava kokeesi?",
+    "examAfterBody": "Toivottavasti koe meni hyvin. Kun tiedät seuraavan kokeesi, tee sille setti."
   },
   "conceptCards": {
     "title": "Tärkeimmät käsitteet",
@@ -1560,7 +1564,9 @@
     "countdownTomorrow": "Koe huomenna",
     "countdownDays": "{days} päivää kokeeseen",
     "remove": "Poista päivä",
-    "save": "Tallenna"
+    "save": "Tallenna",
+    "remindBefore": "Muistutan sinua edellisenä iltana.",
+    "remindAfter": "Kysyn kokeen jälkeen, miten meni."
   },
   "studyLevel": {
     "early_secondary": {

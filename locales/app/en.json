@@ -781,7 +781,11 @@
     "settingsTime": "Reminder time",
     "settingsDisabled": "Reminders off",
     "pushTitle": "Lexie here 👋🏻",
-    "pushBody": "Got some cards waiting for a quick review"
+    "pushBody": "Got some cards waiting for a quick review",
+    "examBeforeTitle": "Your exam is tomorrow",
+    "examBeforeBody": "Review for 10 minutes today, and you will remember more tomorrow.",
+    "examAfterTitle": "What is your next exam?",
+    "examAfterBody": "I hope it went well. When you know your next exam, make a set for it."
   },
   "conceptCards": {
     "title": "Key Concepts",
@@ -1349,7 +1353,9 @@
     "countdownTomorrow": "Exam tomorrow",
     "countdownDays": "{days} days until exam",
     "remove": "Remove date",
-    "save": "Save"
+    "save": "Save",
+    "remindBefore": "I'll remind you the evening before.",
+    "remindAfter": "I'll check in after it."
   },
   "studyLevel": {
     "early_secondary": {
