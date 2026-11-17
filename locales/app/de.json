@@ -1374,5 +1374,31 @@
   "shareEnded": {
     "title": "Dieser Link funktioniert nicht mehr",
     "body": "Eine Lektion auf Lexie gehört der Person, die sie erstellt hat. Deshalb teilt Lexie keine Lektionen mehr."
+  },
+  "shortAnswer": {
+    "placeholder": "Schreib deine Antwort in ein oder zwei Sätzen",
+    "writeAnswer": "Schreib zuerst deine Antwort",
+    "task": "Aufgabe",
+    "feedback": "Feedback",
+    "edit": "Antwort bearbeiten",
+    "modelAnswer": "Musterantwort",
+    "nudgeLead": "Überarbeite deine Antwort und schick sie noch einmal. Dann wird sie bewertet.",
+    "earnedAll": "Gute Antwort. Für all das hast du einen Punkt bekommen:",
+    "earned": "Dafür hast du einen Punkt bekommen:",
+    "none": "Diese Antwort hat noch keine Punkte bekommen.",
+    "fix": "Noch zu verbessern:",
+    "missing": "Das fehlt noch:",
+    "nudgeEarned": "Dafür gibt es schon einen Punkt:",
+    "nudgeNone": "Darauf kannst du aufbauen.",
+    "nudgeFix": "Schau dir das noch einmal an:",
+    "nudgeMissing": "Denk noch an:",
+    "good": "Gut",
+    "error": "Fehler",
+    "unclear": "Unklar",
+    "extra": "Richtig, aber hier ohne Punkte",
+    "pointsShort": "{n} P.",
+    "lexieNudgeStart": "Ein guter Anfang. Im Feedback steht, was noch fehlt: Bearbeite deine Antwort.",
+    "lexieNudge": "Im Feedback steht, was der Antwort noch fehlt: Bearbeite sie.",
+    "modelAnswerLine": "Eine Musterantwort: {answer}"
   }
 }

@@ -1585,5 +1585,31 @@
       "title": "Adult learners",
       "subtitle": "University"
     }
+  },
+  "shortAnswer": {
+    "placeholder": "Write your answer in a sentence or two",
+    "writeAnswer": "Write your answer first",
+    "task": "Task",
+    "feedback": "Feedback",
+    "edit": "Edit your answer",
+    "modelAnswer": "Model answer",
+    "nudgeLead": "Revise your answer and send it again. Then it is graded.",
+    "earnedAll": "Good answer. You earned a point for all of these:",
+    "earned": "You earned a point for these:",
+    "none": "This answer has not earned points yet.",
+    "fix": "Still to fix:",
+    "missing": "Still missing:",
+    "nudgeEarned": "These already earn a point:",
+    "nudgeNone": "A place to build from.",
+    "nudgeFix": "Look again at these:",
+    "nudgeMissing": "Think about:",
+    "good": "Good",
+    "error": "Error",
+    "unclear": "Unclear",
+    "extra": "Correct, no points here",
+    "pointsShort": "{n} p",
+    "lexieNudgeStart": "A good start. The feedback shows what is still missing: edit your answer.",
+    "lexieNudge": "The feedback shows what the answer is still missing: edit it.",
+    "modelAnswerLine": "A model answer: {answer}"
   }
 }
