@@ -796,7 +796,11 @@
     "settingsTime": "Muistutusaika",
     "settingsDisabled": "Muistutukset pois",
     "pushTitle": "Lexie täällä 👋🏻",
-    "pushBody": "Sulla on asioita, jotka odottaa kertausta."
+    "pushBody": "Sulla on asioita, jotka odottaa kertausta.",
+    "examBeforeTitle": "Kokeesi on huomenna",
+    "examBeforeBody": "Kertaa 10 minuuttia tänään, niin muistat paremmin huomenna.",
+    "examAfterTitle": "Mikä on seuraava kokeesi?",
+    "examAfterBody": "Toivottavasti koe meni hyvin. Kun tiedät seuraavan kokeesi, tee sille setti."
   },
   "conceptCards": {
     "title": "Tärkeimmät käsitteet",
@@ -1349,7 +1353,9 @@
     "countdownTomorrow": "Koe huomenna",
     "countdownDays": "{days} päivää kokeeseen",
     "remove": "Poista päivä",
-    "save": "Tallenna"
+    "save": "Tallenna",
+    "remindBefore": "Muistutan sinua edellisenä iltana.",
+    "remindAfter": "Kysyn kokeen jälkeen, miten meni."
   },
   "studyLevel": {
     "early_secondary": {
@@ -1368,5 +1374,31 @@
       "title": "Aikuiset",
       "subtitle": "Korkeakoulu ja työelämä"
     }
+  },
+  "shortAnswer": {
+    "placeholder": "Kirjoita vastauksesi lauseella tai kahdella",
+    "writeAnswer": "Kirjoita ensin vastauksesi",
+    "task": "Tehtävä",
+    "feedback": "Palaute",
+    "edit": "Muokkaa vastausta",
+    "modelAnswer": "Mallivastaus",
+    "nudgeLead": "Korjaa vastaustasi ja lähetä se uudelleen. Sitten se pisteytetään.",
+    "earnedAll": "Hyvä vastaus. Näistä kaikista ansaitsit pisteen:",
+    "earned": "Näistä ansaitsit pisteen:",
+    "none": "Tästä vastauksesta ei vielä tullut pisteitä.",
+    "fix": "Näissä oli vielä korjattavaa:",
+    "missing": "Nämä puuttuivat vielä:",
+    "nudgeEarned": "Näistä saat jo pisteen:",
+    "nudgeNone": "Tästä on hyvä jatkaa.",
+    "nudgeFix": "Katso vielä näitä kohtia:",
+    "nudgeMissing": "Mieti vielä:",
+    "good": "Hyvä",
+    "error": "Virhe",
+    "unclear": "Epäselvä",
+    "extra": "Oikein, ei pisteitä tässä",
+    "pointsShort": "{n} p",
+    "lexieNudgeStart": "Hyvä alku. Katso palautteesta, mitä vielä puuttuu, ja muokkaa vastaustasi.",
+    "lexieNudge": "Katso palautteesta, mitä vastauksesta vielä puuttuu, ja muokkaa sitä.",
+    "modelAnswerLine": "Mallivastaus: {answer}"
   }
 }
