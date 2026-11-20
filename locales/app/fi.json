@@ -418,7 +418,9 @@
       "message": {
         "title": "Lähetä viesti",
         "placeholder": "Kerro, miten voimme parantaa Lexietä",
-        "emailPlaceholder": "Sähköposti (valinnainen, jos haluat vastauksen)",
+        "emailPlaceholder": "Sähköpostisi, jotta voimme vastata",
+        "emailMissing": "Anna sähköpostiosoitteesi, jotta voimme vastata.",
+        "emailInvalid": "Tarkista sähköpostiosoite.",
         "attach": "Liitä kuvakaappaus",
         "send": "Lähetä",
         "sent": "Viesti lähetetty. Kiitos!"
