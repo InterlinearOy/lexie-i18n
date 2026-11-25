@@ -1000,6 +1000,8 @@
     "chooseFolder": "Valitse kansio",
     "chooseFont": "Valitse fontti",
     "editText": "Muokkaa tekstiä",
+    "editWords": "Muokkaa sanoja",
+    "editWordsEmpty": "Sana ei voi olla tyhjä. Kirjoita sana tai pidä vanha.",
     "deleteLesson": "Poista harjoitus"
   },
   "folders": {

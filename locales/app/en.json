@@ -798,6 +798,8 @@
     "chooseFolder": "Choose folder",
     "chooseFont": "Choose font",
     "editText": "Edit study text",
+    "editWords": "Edit words",
+    "editWordsEmpty": "A word cannot be empty. Write the word, or keep the old one.",
     "deleteLesson": "Delete lesson"
   },
   "folder": {

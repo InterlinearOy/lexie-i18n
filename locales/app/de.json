@@ -791,6 +791,8 @@
     "chooseFolder": "Ordner wählen",
     "chooseFont": "Schrift wählen",
     "editText": "Text bearbeiten",
+    "editWords": "Wörter bearbeiten",
+    "editWordsEmpty": "Ein Wort darf nicht leer sein. Schreib das Wort oder behalte das alte.",
     "deleteLesson": "Lektion löschen"
   },
   "folder": {
