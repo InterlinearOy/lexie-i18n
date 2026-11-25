@@ -1279,6 +1279,7 @@
       "hideOne": "Hide one",
       "hideAll": "Hide all",
       "nextImage": "Next: {title}",
+      "practiseMissed": "Practise the ones I missed ({count})",
       "imageNumber": "Image {number}"
     },
     "edit": {

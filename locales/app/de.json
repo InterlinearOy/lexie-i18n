@@ -1060,6 +1060,7 @@
       "hideOne": "Eins abdecken",
       "hideAll": "Alle abdecken",
       "nextImage": "Weiter: {title}",
+      "practiseMissed": "Nur die verpassten üben ({count})",
       "imageNumber": "Bild {number}"
     },
     "edit": {
