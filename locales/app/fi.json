@@ -1071,6 +1071,7 @@
       "hideOne": "Peitä yksi",
       "hideAll": "Peitä kaikki",
       "nextImage": "Seuraava: {title}",
+      "practiseMissed": "Kertaa väärin menneet ({count})",
       "imageNumber": "Kuva {number}"
     },
     "edit": {
